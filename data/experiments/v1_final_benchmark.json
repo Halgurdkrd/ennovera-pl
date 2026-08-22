@@ -1,0 +1,100 @@
+{
+ "test1_elo_vs_v1": {
+  "Elo-only": {
+   "2024-25": {
+    "acc": 196,
+    "logloss": 1.0475,
+    "brier": 0.6196,
+    "draws": 5
+   },
+   "2025-26": {
+    "acc": 188,
+    "logloss": 1.0784,
+    "brier": 0.647,
+    "draws": 2
+   }
+  },
+  "V1 ensemble": {
+   "2024-25": {
+    "acc": 191,
+    "logloss": 1.0551,
+    "brier": 0.631,
+    "draws": 4
+   },
+   "2025-26": {
+    "acc": 185,
+    "logloss": 1.084,
+    "brier": 0.6538,
+    "draws": 4
+   }
+  }
+ },
+ "elo_beats_v1_both_seasons": true,
+ "test2_bet365": {
+  "pre_match": true,
+  "closing_available": true,
+  "mean_overround": 1.0552,
+  "missing_odds": 0,
+  "aligned_sample": 380,
+  "acc": 186,
+  "logloss": 1.0185,
+  "brier": 0.6115,
+  "draws": 0
+ },
+ "calibration": {
+  "v1": [
+   {
+    "bin": "40-50",
+    "n": 84,
+    "actual_acc": 0.429
+   },
+   {
+    "bin": "50-60",
+    "n": 96,
+    "actual_acc": 0.469
+   },
+   {
+    "bin": "60-70",
+    "n": 82,
+    "actual_acc": 0.512
+   },
+   {
+    "bin": "70-80",
+    "n": 58,
+    "actual_acc": 0.517
+   },
+   {
+    "bin": "80-100",
+    "n": 36,
+    "actual_acc": 0.611
+   }
+  ],
+  "bet365": [
+   {
+    "bin": "40-50",
+    "n": 126,
+    "actual_acc": 0.421
+   },
+   {
+    "bin": "50-60",
+    "n": 107,
+    "actual_acc": 0.439
+   },
+   {
+    "bin": "60-70",
+    "n": 65,
+    "actual_acc": 0.646
+   },
+   {
+    "bin": "70-80",
+    "n": 21,
+    "actual_acc": 0.762
+   },
+   {
+    "bin": "80-100",
+    "n": 4,
+    "actual_acc": 1.0
+   }
+  ]
+ }
+}
