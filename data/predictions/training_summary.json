@@ -1,0 +1,23 @@
+{
+ "split": {"train_2016_24": 3040, "val_2024_25": 380, "holdout_2025_26": 380,
+           "val_HDA": [155, 93, 132], "holdout_HDA": [162, 104, 114]},
+ "model_a_specialist": {"features": 42, "train_seasons": "2021-24", "train_acc": 0.665, "val_acc": 0.516,
+   "top_feats": ["elo_diff:0.073","pos_diff:0.037","home_elo:0.036","home_athome_ga:0.031","away_form10_gf:0.028"]},
+ "model_b_generalist": {"features": 16, "train_seasons": "2016-24", "train_acc": 0.579, "val_acc": 0.532,
+   "top_feats": ["elo_diff:0.183","home_elo:0.078","away_elo:0.070","home_athome_ppg:0.057","h2h_draws:0.056"]},
+ "validation_2024_25": {
+   "Model A solo":            {"acc": "196/380", "logloss": 1.0173, "brier": 0.6082},
+   "Model B solo":            {"acc": "202/380", "logloss": 1.0094, "brier": 0.6019},
+   "Ensemble 50/50":          {"acc": "203/380", "logloss": 1.0098, "brier": 0.6027},
+   "Ensemble + promoted":     {"acc": "203/380", "logloss": 1.0098, "brier": 0.6027},
+   "Ensemble + FPL boost":    {"acc": "203/380", "logloss": 1.0130, "brier": 0.6051},
+   "Ensemble + both":         {"acc": "203/380", "logloss": 1.0130, "brier": 0.6051}},
+ "draw_blindness": {"draw_recall": "0/93", "note": "model predicts ZERO draws on validation"},
+ "confusion_true_x_pred": {"home": [132,0,23], "draw": [62,0,31], "away": [61,0,71]},
+ "calibration_ge60pct": {"n": 123, "actual_correct_pct": 62},
+ "temperature_sweep": {"0.8": 1.0270, "1.0": 1.0098, "1.25": 1.0064, "1.5": 1.0098, "2.0": 1.0206},
+ "blend_sweep_logloss": {"40/60": 1.0091, "50/50": 1.0098, "60/40": 1.0107, "70/30": 1.0119},
+ "holdout_2025_26": {"config": "Ensemble+both, blend 40/60", "acc": "184/380", "acc_pct": 48.4,
+   "logloss": 1.0414, "val_acc_pct": 53.4, "gap_pp": 5.0, "verdict": "5pp drop — mild overfit / harder season"},
+ "final_models": ["pl_model_a_final.pkl (2021-26)", "pl_model_b_final.pkl (2016-26)"]
+}

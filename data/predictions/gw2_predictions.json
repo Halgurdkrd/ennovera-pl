@@ -1,0 +1,90 @@
+{
+ "gameweek": 2,
+ "model": "PL Ensemble A/B + promoted corr + FPL boost",
+ "blend": [
+  0.4,
+  0.6
+ ],
+ "predictions": [
+  {
+   "home": "Crystal Palace",
+   "away": "Manchester City",
+   "home_pct": 25.0,
+   "draw_pct": 21.4,
+   "away_pct": 53.6,
+   "pick": "away"
+  },
+  {
+   "home": "Liverpool",
+   "away": "Nottingham Forest",
+   "home_pct": 68.9,
+   "draw_pct": 20.1,
+   "away_pct": 11.1,
+   "pick": "home"
+  },
+  {
+   "home": "Bournemouth",
+   "away": "Everton",
+   "home_pct": 64.0,
+   "draw_pct": 15.7,
+   "away_pct": 20.3,
+   "pick": "home"
+  },
+  {
+   "home": "Coventry City",
+   "away": "Hull City",
+   "home_pct": 29.2,
+   "draw_pct": 20.5,
+   "away_pct": 50.3,
+   "pick": "away"
+  },
+  {
+   "home": "Tottenham",
+   "away": "Newcastle United",
+   "home_pct": 36.3,
+   "draw_pct": 20.4,
+   "away_pct": 43.3,
+   "pick": "away"
+  },
+  {
+   "home": "Chelsea",
+   "away": "Brighton and Hove Albion",
+   "home_pct": 50.1,
+   "draw_pct": 19.0,
+   "away_pct": 30.8,
+   "pick": "home"
+  },
+  {
+   "home": "Leeds United",
+   "away": "Brentford",
+   "home_pct": 39.7,
+   "draw_pct": 19.2,
+   "away_pct": 41.1,
+   "pick": "away"
+  },
+  {
+   "home": "Sunderland",
+   "away": "Fulham",
+   "home_pct": 43.6,
+   "draw_pct": 23.7,
+   "away_pct": 32.7,
+   "pick": "home"
+  },
+  {
+   "home": "Manchester United",
+   "away": "Ipswich Town",
+   "home_pct": 80.6,
+   "draw_pct": 11.8,
+   "away_pct": 7.6,
+   "pick": "home"
+  },
+  {
+   "home": "Aston Villa",
+   "away": "Arsenal",
+   "home_pct": 33.9,
+   "draw_pct": 22.3,
+   "away_pct": 43.9,
+   "pick": "away"
+  }
+ ]
+}
