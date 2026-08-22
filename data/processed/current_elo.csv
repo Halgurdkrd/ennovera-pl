@@ -1,0 +1,21 @@
+team,derived_elo,fpl_strength_home,fpl_strength_away,note
+Arsenal,1784.8,4,5,derived
+Manchester City,1765.2,4,5,derived
+Liverpool,1675.4,4,4,derived
+Manchester United,1662.1,4,4,derived
+Aston Villa,1652.9,3,4,derived
+Bournemouth,1625.9,3,3,derived
+Chelsea,1596.0,4,4,derived
+Brighton and Hove Albion,1595.3,2,3,derived
+Brentford,1585.4,3,3,derived
+Newcastle United,1580.3,2,3,derived
+Fulham,1563.6,2,3,derived
+Nottingham Forest,1558.8,3,3,derived
+Everton,1554.6,3,3,derived
+Crystal Palace,1550.7,3,3,derived
+Leeds United,1527.4,2,3,derived
+Sunderland,1510.6,2,3,derived (STALE — last PL season years ago; Elo frozen at relegation)
+Tottenham,1499.0,3,3,derived
+Hull City,1418.3,2,2,derived (STALE — last PL season years ago; Elo frozen at relegation)
+Ipswich Town,1407.9,2,2,derived
+Coventry City,1300.0,2,2,"promoted, no PL history -> baseline 1300 (use FPL strength proxy)"

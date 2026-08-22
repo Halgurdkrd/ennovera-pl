@@ -6,3 +6,4 @@ __pycache__/
 data/raw/fpl_history/20*/gws/
 data/raw/fpl_history/20*/players/
 data/raw/fpl_history/.git/
+data/raw/fpl_full/
