@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+# full FPL-history clone is large — keep it out (metadata samples are tracked)
+data/raw/fpl_history/20*/gws/
+data/raw/fpl_history/20*/players/
+data/raw/fpl_history/.git/
