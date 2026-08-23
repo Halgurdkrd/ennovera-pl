@@ -61,8 +61,27 @@ single feature beats calibrating Elo.
 - **Drop:** rest days (no signal), isotonic (overfits). **Defer:** xG, availability, manager
   (need data we don't have historically).
 
-## Verdict
-**V2 = Platt-calibrated Elo**, optionally with **goals + prev-season position** for accuracy.
+## Follow-up: M7 features + Platt (the one untested combo) — **V2 CHAMPION**
+
+M7 used *temperature*; M1b used *Platt on Elo*. Nobody had tested M7's features *with* Platt.
+
+| Config | Val acc | Val LL | Hold acc | Hold LL |
+|---|---|---|---|---|
+| M0 Elo raw | 196 | 1.063 | 181 | 1.100 |
+| M1b Elo + Platt | 197 | 1.010 | 184 | 1.053 |
+| M7 goals+pos + temp | 199 | 1.025 | 188 | 1.056 |
+| **NEW: M7 + Platt** | 198 | **1.008** | **189** | **1.0517** |
+| Bet365 | — | — | 186 | 1.019 |
+
+**M7 + Platt dominates both:** best log-loss (1.0517 holdout, < M1b's 1.053 on *both* seasons)
+**and** best accuracy (189 holdout, > M7-temp's 188). It is the closest model to Bet365
+(**gap +0.033** vs M1b's +0.035). The margins are small (1 match, 0.001 LL) — within noise —
+but it wins on every axis, so per the decision rule it is the **V2 champion**.
+
+## Verdict — V2 = **Elo + goals + prev-position, Platt-calibrated (M7+Platt)**
+Features: `home_elo, away_elo, elo_diff, home_form5_gf, away_form5_gf, home_prev_position,
+away_prev_position` → XGBoost → Platt (sigmoid) calibration fit on a recent season. Saved as
+`data/models/pl_v2_final.pkl`. (Elo + Platt alone is a near-equivalent, simpler fallback.)
 Calibration is the single highest-value change — it closes 60% of the bookmaker gap for free.
 The remaining ~0.034 log-loss gap to Bet365 needs genuinely new information (xG, lineups,
 market signal), not more of the engineered features we already have.

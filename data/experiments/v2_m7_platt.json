@@ -1,0 +1,10 @@
+{
+ "M7_platt": {
+  "val_acc": 198,
+  "val_ll": 1.008,
+  "hold_acc": 189,
+  "hold_ll": 1.0517
+ },
+ "champion": true,
+ "v2_final": "M7+Platt (Elo+goals+prevpos, Platt-calibrated)"
+}
