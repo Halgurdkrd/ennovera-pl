@@ -1,0 +1,71 @@
+{
+ "results": {
+  "M0 Elo (3)": [
+   195,
+   1.0629,
+   181,
+   1.1001
+  ],
+  "M1a Elo+temp(T=1.2)": [
+   195,
+   1.0387,
+   181,
+   1.0708
+  ],
+  "M1b Elo+Platt": [
+   197,
+   1.0098,
+   184,
+   1.0528
+  ],
+  "M1c Elo+Isotonic": [
+   198,
+   1.2116,
+   188,
+   1.4952
+  ],
+  "M2 Elo+goals": [
+   195,
+   1.0568,
+   181,
+   1.0781
+  ],
+  "M4 Elo+rest": [
+   193,
+   1.0499,
+   182,
+   1.1077
+  ],
+  "M5 Elo+prevpos": [
+   192,
+   1.0436,
+   185,
+   1.0903
+  ],
+  "M3 Elo+availability": [
+   "SKIP",
+   "no historical injury data",
+   "",
+   ""
+  ],
+  "M6 Elo+manager": [
+   "SKIP",
+   "no manager-change data",
+   "",
+   ""
+  ],
+  "M7 combo(goals+prevpos)+temp": [
+   199,
+   1.0252,
+   188,
+   1.0558
+  ]
+ },
+ "M0": {
+  "val_ll": 1.0629,
+  "hold_ll": 1.1001
+ },
+ "best": "M1b Elo+Platt",
+ "bet365_hold_ll": 1.0185,
+ "best_T": 1.2
+}
