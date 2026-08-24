@@ -1,0 +1,162 @@
+{
+ "Arsenal": {
+  "strength_overall_home": 4,
+  "strength_overall_away": 5,
+  "strength_attack_home": 0,
+  "strength_attack_away": 0,
+  "strength_defence_home": 0,
+  "strength_defence_away": 0
+ },
+ "Aston Villa": {
+  "strength_overall_home": 3,
+  "strength_overall_away": 4,
+  "strength_attack_home": 0,
+  "strength_attack_away": 0,
+  "strength_defence_home": 0,
+  "strength_defence_away": 0
+ },
+ "Bournemouth": {
+  "strength_overall_home": 3,
+  "strength_overall_away": 3,
+  "strength_attack_home": 0,
+  "strength_attack_away": 0,
+  "strength_defence_home": 0,
+  "strength_defence_away": 0
+ },
+ "Brentford": {
+  "strength_overall_home": 3,
+  "strength_overall_away": 3,
+  "strength_attack_home": 0,
+  "strength_attack_away": 0,
+  "strength_defence_home": 0,
+  "strength_defence_away": 0
+ },
+ "Brighton and Hove Albion": {
+  "strength_overall_home": 2,
+  "strength_overall_away": 3,
+  "strength_attack_home": 0,
+  "strength_attack_away": 0,
+  "strength_defence_home": 0,
+  "strength_defence_away": 0
+ },
+ "Chelsea": {
+  "strength_overall_home": 4,
+  "strength_overall_away": 4,
+  "strength_attack_home": 0,
+  "strength_attack_away": 0,
+  "strength_defence_home": 0,
+  "strength_defence_away": 0
+ },
+ "Coventry City": {
+  "strength_overall_home": 2,
+  "strength_overall_away": 2,
+  "strength_attack_home": 0,
+  "strength_attack_away": 0,
+  "strength_defence_home": 0,
+  "strength_defence_away": 0
+ },
+ "Crystal Palace": {
+  "strength_overall_home": 3,
+  "strength_overall_away": 3,
+  "strength_attack_home": 0,
+  "strength_attack_away": 0,
+  "strength_defence_home": 0,
+  "strength_defence_away": 0
+ },
+ "Everton": {
+  "strength_overall_home": 3,
+  "strength_overall_away": 3,
+  "strength_attack_home": 0,
+  "strength_attack_away": 0,
+  "strength_defence_home": 0,
+  "strength_defence_away": 0
+ },
+ "Fulham": {
+  "strength_overall_home": 2,
+  "strength_overall_away": 3,
+  "strength_attack_home": 0,
+  "strength_attack_away": 0,
+  "strength_defence_home": 0,
+  "strength_defence_away": 0
+ },
+ "Hull City": {
+  "strength_overall_home": 2,
+  "strength_overall_away": 2,
+  "strength_attack_home": 0,
+  "strength_attack_away": 0,
+  "strength_defence_home": 0,
+  "strength_defence_away": 0
+ },
+ "Ipswich Town": {
+  "strength_overall_home": 2,
+  "strength_overall_away": 2,
+  "strength_attack_home": 0,
+  "strength_attack_away": 0,
+  "strength_defence_home": 0,
+  "strength_defence_away": 0
+ },
+ "Leeds United": {
+  "strength_overall_home": 2,
+  "strength_overall_away": 3,
+  "strength_attack_home": 0,
+  "strength_attack_away": 0,
+  "strength_defence_home": 0,
+  "strength_defence_away": 0
+ },
+ "Liverpool": {
+  "strength_overall_home": 4,
+  "strength_overall_away": 4,
+  "strength_attack_home": 0,
+  "strength_attack_away": 0,
+  "strength_defence_home": 0,
+  "strength_defence_away": 0
+ },
+ "Manchester City": {
+  "strength_overall_home": 4,
+  "strength_overall_away": 5,
+  "strength_attack_home": 0,
+  "strength_attack_away": 0,
+  "strength_defence_home": 0,
+  "strength_defence_away": 0
+ },
+ "Manchester United": {
+  "strength_overall_home": 4,
+  "strength_overall_away": 4,
+  "strength_attack_home": 0,
+  "strength_attack_away": 0,
+  "strength_defence_home": 0,
+  "strength_defence_away": 0
+ },
+ "Newcastle United": {
+  "strength_overall_home": 2,
+  "strength_overall_away": 3,
+  "strength_attack_home": 0,
+  "strength_attack_away": 0,
+  "strength_defence_home": 0,
+  "strength_defence_away": 0
+ },
+ "Nottingham Forest": {
+  "strength_overall_home": 3,
+  "strength_overall_away": 3,
+  "strength_attack_home": 0,
+  "strength_attack_away": 0,
+  "strength_defence_home": 0,
+  "strength_defence_away": 0
+ },
+ "Tottenham": {
+  "strength_overall_home": 3,
+  "strength_overall_away": 3,
+  "strength_attack_home": 0,
+  "strength_attack_away": 0,
+  "strength_defence_home": 0,
+  "strength_defence_away": 0
+ },
+ "Sunderland": {
+  "strength_overall_home": 2,
+  "strength_overall_away": 3,
+  "strength_attack_home": 0,
+  "strength_attack_away": 0,
+  "strength_defence_home": 0,
+  "strength_defence_away": 0
+ }
+}

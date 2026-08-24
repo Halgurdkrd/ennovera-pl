@@ -1,0 +1,102 @@
+{
+ "Arsenal": {
+  "attack_elo": 1701.7,
+  "defence_elo": 1721.3,
+  "promoted": false
+ },
+ "Aston Villa": {
+  "attack_elo": 1567.2,
+  "defence_elo": 1580.9,
+  "promoted": false
+ },
+ "Bournemouth": {
+  "attack_elo": 1562.2,
+  "defence_elo": 1617.9,
+  "promoted": false
+ },
+ "Brentford": {
+  "attack_elo": 1519.4,
+  "defence_elo": 1578.6,
+  "promoted": false
+ },
+ "Brighton and Hove Albion": {
+  "attack_elo": 1557.6,
+  "defence_elo": 1572.5,
+  "promoted": false
+ },
+ "Chelsea": {
+  "attack_elo": 1555.8,
+  "defence_elo": 1568.0,
+  "promoted": false
+ },
+ "Coventry City": {
+  "attack_elo": 1450.0,
+  "defence_elo": 1450.0,
+  "promoted": true
+ },
+ "Crystal Palace": {
+  "attack_elo": 1513.7,
+  "defence_elo": 1583.7,
+  "promoted": false
+ },
+ "Everton": {
+  "attack_elo": 1534.7,
+  "defence_elo": 1556.5,
+  "promoted": false
+ },
+ "Fulham": {
+  "attack_elo": 1523.4,
+  "defence_elo": 1545.5,
+  "promoted": false
+ },
+ "Hull City": {
+  "attack_elo": 1407.9,
+  "defence_elo": 1431.0,
+  "promoted": false
+ },
+ "Ipswich Town": {
+  "attack_elo": 1433.7,
+  "defence_elo": 1431.9,
+  "promoted": false
+ },
+ "Leeds United": {
+  "attack_elo": 1493.7,
+  "defence_elo": 1541.1,
+  "promoted": false
+ },
+ "Liverpool": {
+  "attack_elo": 1628.0,
+  "defence_elo": 1637.6,
+  "promoted": false
+ },
+ "Manchester City": {
+  "attack_elo": 1682.5,
+  "defence_elo": 1689.3,
+  "promoted": false
+ },
+ "Manchester United": {
+  "attack_elo": 1590.5,
+  "defence_elo": 1600.7,
+  "promoted": false
+ },
+ "Newcastle United": {
+  "attack_elo": 1548.1,
+  "defence_elo": 1569.3,
+  "promoted": false
+ },
+ "Nottingham Forest": {
+  "attack_elo": 1530.3,
+  "defence_elo": 1559.4,
+  "promoted": false
+ },
+ "Sunderland": {
+  "attack_elo": 1470.2,
+  "defence_elo": 1515.1,
+  "promoted": false
+ },
+ "Tottenham": {
+  "attack_elo": 1531.3,
+  "defence_elo": 1522.5,
+  "promoted": false
+ }
+}
