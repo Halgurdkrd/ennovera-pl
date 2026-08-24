@@ -126,10 +126,20 @@ def main():
         sb.table('matches').update({'home_win_probability': round(hw, 4), 'draw_probability': round(d, 4),
                                     'away_win_probability': round(aw, 4)}).eq('match_id', r['match_id']).execute()
     save_state(elo, form)
-    # STEP 7
+    # STEP 8: league-table simulation — only when new results changed the table
+    sim_info = 'skipped (no new results)'
+    if new_results:
+        try:
+            from pl_simulation import run_simulation
+            n_sim = int(os.getenv('PL_SIM_N', '10000'))
+            table = run_simulation(sb=sb, n=n_sim, insert=True)
+            sim_info = f'{len(table)} teams (n={n_sim})'
+        except Exception as exc:
+            sim_info = f'failed: {exc}'
+    # STEP 7: summary
     print(f"New results: {len(new_results)} | user predictions scored: {scored} | "
           f"Elo teams updated: {len(set(t for r in new_results for t in r[:2]))} | "
-          f"predictions refreshed: {len(remaining)}")
+          f"predictions refreshed: {len(remaining)} | simulation: {sim_info}")
 
 
 if __name__ == '__main__':
