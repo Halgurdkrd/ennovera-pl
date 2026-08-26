@@ -1,0 +1,4 @@
+system_candidate,pl_accuracy_pct,pl_correct_count,pl_log_loss,fpl_val_24_25_pts,fpl_holdout_25_26_pts,fpl_capt_top1_pct,ndcg_25,top5_mae
+Ennovera FPL-02 Decision Architecture,50.26,191 / 380,1.03098,2070,2052,23.7,0.814,3.78
+Ennovera FPL-01 Mean xP Baseline,50.26,191 / 380,1.03098,2023,1961,15.8,0.748,4.85
+Price / Pedigree Baseline,47.63,181 / 380,1.05834,2068,1997,26.3,0.798,3.92

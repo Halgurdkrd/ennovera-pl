@@ -1,0 +1,7 @@
+model,val_acc,val_ll,hold_correct,hold_acc,hold_ll,hold_brier,sp60_acc,sp60_cov,sp60_cnt
+D7: T7 + European Team Strength,52.37,0.99657,188,49.47,1.02713,0.6169,64.04,23.4,89
+D0: T7 Tactical Benchmark (Baseline),52.37,0.99455,188,49.47,1.02835,0.6179,60.0,25.0,95
+D8: T7 + Foreign Player Empirical Prior,51.84,0.99769,187,49.21,1.02844,0.6177,63.22,22.9,87
+D9: T7 + Squad-Derived Observable Strength,52.63,0.99377,187,49.21,1.02973,0.6191,58.16,25.8,98
+D10: Linear Combined (T7 + Euro + Squad),52.11,0.99435,184,48.42,1.03218,0.6208,60.4,26.6,101
+D11: Non-linear ML Combined DATA-04 Expert,50.79,1.01474,176,46.32,1.04339,0.6264,59.06,33.4,127

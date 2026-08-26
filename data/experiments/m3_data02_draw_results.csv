@@ -1,0 +1,6 @@
+draw_threshold,draw_predictions_made,draw_precision_pct,draw_recall_pct,draw_f1_score,wrong_decisive_to_correct_draw,correct_decisive_to_wrong_draw,net_accuracy_change_matches,total_holdout_accuracy_pct
+P(Draw) >= 33%,0,0.0,0.0,0.0,0,0,0,48.16
+P(Draw) >= 35%,0,0.0,0.0,0.0,0,0,0,48.16
+P(Draw) >= 38%,0,0.0,0.0,0.0,0,0,0,48.16
+P(Draw) >= 40%,0,0.0,0.0,0.0,0,0,0,48.16
+P(Draw) >= 45%,0,0.0,0.0,0.0,0,0,0,48.16

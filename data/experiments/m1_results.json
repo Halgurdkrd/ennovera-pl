@@ -1,0 +1,419 @@
+{
+  "metadata": {
+    "experiment": "M1_PLAYER_RATING_DYNAMIC_TEAM_STRENGTH",
+    "python_version": "3.13.5",
+    "os": "Windows-10-10.0.19045-SP0",
+    "packages": {
+      "numpy": "2.3.1",
+      "pandas": "2.3.1",
+      "scikit_learn": "1.7.1",
+      "scipy": "1.16.0"
+    },
+    "random_seed": 2026,
+    "timestamp": "2026-08-25T11:42:06Z",
+    "pre_match_leakage_assertion": "PASSED (source_gw < target_gw; pre-kickoff player logs strictly enforced)",
+    "sample_counts": {
+      "total_fixtures": 3800,
+      "dev_fixtures_2022_24": 760,
+      "val_fixtures_2024_25": 380,
+      "research_test_2025_26": 380,
+      "prospective_gw1_2026_27": 10,
+      "expanded_player_transfers": 2163
+    }
+  },
+  "tournament_summary": [
+    {
+      "model": "Candidate F2 (Baseline)",
+      "dev_acc": 55.0,
+      "dev_ll": 0.96665,
+      "val_acc": 51.32,
+      "val_ll": 1.00326,
+      "hold_acc": 48.42,
+      "hold_ll": 1.02999,
+      "hold_brier": 0.61917,
+      "hold_ece": 0.0203,
+      "hold_draw_rec": 0.0,
+      "sp55_acc": 59.63,
+      "sp55_cov": 28.7,
+      "sp60_acc": 67.27,
+      "sp60_cov": 14.5,
+      "sp60_cnt": 55,
+      "sp65_acc": 83.33,
+      "sp65_cov": 3.2,
+      "pooled_acc": 52.43,
+      "pooled_ll": 0.99163
+    },
+    {
+      "model": "M1-A: Player Only (Zero Identity)",
+      "dev_acc": 56.84,
+      "dev_ll": 0.94878,
+      "val_acc": 52.37,
+      "val_ll": 0.99448,
+      "hold_acc": 48.16,
+      "hold_ll": 1.03783,
+      "hold_brier": 0.62473,
+      "hold_ece": 0.0738,
+      "hold_draw_rec": 0.0,
+      "sp55_acc": 57.47,
+      "sp55_cov": 45.8,
+      "sp60_acc": 59.35,
+      "sp60_cov": 32.4,
+      "sp60_cnt": 123,
+      "sp65_acc": 61.18,
+      "sp65_cov": 22.4,
+      "pooled_acc": 53.55,
+      "pooled_ll": 0.98247
+    },
+    {
+      "model": "M1-B: Player + Learned Prior",
+      "dev_acc": 56.84,
+      "dev_ll": 0.94878,
+      "val_acc": 52.37,
+      "val_ll": 0.99448,
+      "hold_acc": 48.16,
+      "hold_ll": 1.03783,
+      "hold_brier": 0.62473,
+      "hold_ece": 0.0738,
+      "hold_draw_rec": 0.0,
+      "sp55_acc": 57.47,
+      "sp55_cov": 45.8,
+      "sp60_acc": 59.35,
+      "sp60_cov": 32.4,
+      "sp60_cnt": 123,
+      "sp65_acc": 61.18,
+      "sp65_cov": 22.4,
+      "pooled_acc": 53.55,
+      "pooled_ll": 0.98247
+    },
+    {
+      "model": "M1-C: F2 + Player Expert Blend",
+      "dev_acc": 56.84,
+      "dev_ll": 0.94878,
+      "val_acc": 52.37,
+      "val_ll": 0.99448,
+      "hold_acc": 48.16,
+      "hold_ll": 1.03783,
+      "hold_brier": 0.62473,
+      "hold_ece": 0.0738,
+      "hold_draw_rec": 0.0,
+      "sp55_acc": 57.47,
+      "sp55_cov": 45.8,
+      "sp60_acc": 59.35,
+      "sp60_cov": 32.4,
+      "sp60_cnt": 123,
+      "sp65_acc": 61.18,
+      "sp65_cov": 22.4,
+      "pooled_acc": 53.55,
+      "pooled_ll": 0.98247
+    },
+    {
+      "model": "M1-D: Adaptive Player/History Blend",
+      "dev_acc": 54.87,
+      "dev_ll": 0.96325,
+      "val_acc": 51.05,
+      "val_ll": 0.99918,
+      "hold_acc": 48.16,
+      "hold_ll": 1.0294,
+      "hold_brier": 0.61884,
+      "hold_ece": 0.0301,
+      "hold_draw_rec": 0.0,
+      "sp55_acc": 59.13,
+      "sp55_cov": 30.3,
+      "sp60_acc": 64.62,
+      "sp60_cov": 17.1,
+      "sp60_cnt": 65,
+      "sp65_acc": 66.67,
+      "sp65_cov": 4.7,
+      "pooled_acc": 52.24,
+      "pooled_ll": 0.98877
+    }
+  ],
+  "ablation_summary": [
+    {
+      "component_removed": "None (Full M1 Player Model)",
+      "holdout_log_loss": 1.03783,
+      "delta_log_loss": 0.0,
+      "importance": "Baseline"
+    },
+    {
+      "component_removed": "diff_xi_att",
+      "holdout_log_loss": 1.0377,
+      "delta_log_loss": -0.00013,
+      "importance": "NEGLIGIBLE"
+    },
+    {
+      "component_removed": "diff_xi_cre",
+      "holdout_log_loss": 1.03775,
+      "delta_log_loss": -8e-05,
+      "importance": "NEGLIGIBLE"
+    },
+    {
+      "component_removed": "diff_xi_def",
+      "holdout_log_loss": 1.03782,
+      "delta_log_loss": -1e-05,
+      "importance": "NEGLIGIBLE"
+    },
+    {
+      "component_removed": "diff_xi_gk",
+      "holdout_log_loss": 1.03783,
+      "delta_log_loss": -0.0,
+      "importance": "NEGLIGIBLE"
+    },
+    {
+      "component_removed": "diff_xi_xgi",
+      "holdout_log_loss": 1.03721,
+      "delta_log_loss": -0.00062,
+      "importance": "NEGLIGIBLE"
+    },
+    {
+      "component_removed": "diff_depth",
+      "holdout_log_loss": 1.03779,
+      "delta_log_loss": -4e-05,
+      "importance": "NEGLIGIBLE"
+    },
+    {
+      "component_removed": "diff_cont",
+      "holdout_log_loss": 1.03837,
+      "delta_log_loss": 0.00053,
+      "importance": "NEGLIGIBLE"
+    },
+    {
+      "component_removed": "diff_unc",
+      "holdout_log_loss": 1.03788,
+      "delta_log_loss": 5e-05,
+      "importance": "NEGLIGIBLE"
+    },
+    {
+      "component_removed": "inter_att_cre",
+      "holdout_log_loss": 1.03757,
+      "delta_log_loss": -0.00027,
+      "importance": "NEGLIGIBLE"
+    },
+    {
+      "component_removed": "inter_opp_att_def",
+      "holdout_log_loss": 1.03778,
+      "delta_log_loss": -5e-05,
+      "importance": "NEGLIGIBLE"
+    },
+    {
+      "component_removed": "inter_cont_att",
+      "holdout_log_loss": 1.03795,
+      "delta_log_loss": 0.00011,
+      "importance": "NEGLIGIBLE"
+    }
+  ],
+  "subgroup_analysis": [
+    {
+      "subgroup": "Promoted Teams",
+      "match_count": 121,
+      "f2_accuracy": 76.86,
+      "m1_d_accuracy": 76.86,
+      "f2_log_loss": 0.72748,
+      "m1_d_log_loss": 0.70383,
+      "delta_log_loss": -0.02365,
+      "m1_advantage": "M1-D BETTER"
+    },
+    {
+      "subgroup": "Non-Promoted Teams",
+      "match_count": 1399,
+      "f2_accuracy": 50.32,
+      "m1_d_accuracy": 50.11,
+      "f2_log_loss": 1.01448,
+      "m1_d_log_loss": 1.01341,
+      "delta_log_loss": -0.00107,
+      "m1_advantage": "M1-D BETTER"
+    },
+    {
+      "subgroup": "High Squad Turnover (Cont < 0.75)",
+      "match_count": 53,
+      "f2_accuracy": 79.25,
+      "m1_d_accuracy": 79.25,
+      "f2_log_loss": 0.65619,
+      "m1_d_log_loss": 0.62522,
+      "delta_log_loss": -0.03097,
+      "m1_advantage": "M1-D BETTER"
+    },
+    {
+      "subgroup": "Stable Squads (Cont >= 0.85)",
+      "match_count": 8,
+      "f2_accuracy": 50.0,
+      "m1_d_accuracy": 50.0,
+      "f2_log_loss": 1.02804,
+      "m1_d_log_loss": 1.02794,
+      "delta_log_loss": -0.0001,
+      "m1_advantage": "M1-D BETTER"
+    },
+    {
+      "subgroup": "Mid Season (GW 6-28)",
+      "match_count": 1520,
+      "f2_accuracy": 52.43,
+      "m1_d_accuracy": 52.24,
+      "f2_log_loss": 0.99163,
+      "m1_d_log_loss": 0.98877,
+      "delta_log_loss": -0.00287,
+      "m1_advantage": "M1-D BETTER"
+    },
+    {
+      "subgroup": "Large Elo Gap (|Elo Diff| > 250)",
+      "match_count": 184,
+      "f2_accuracy": 72.83,
+      "m1_d_accuracy": 72.83,
+      "f2_log_loss": 0.78364,
+      "m1_d_log_loss": 0.76709,
+      "delta_log_loss": -0.01655,
+      "m1_advantage": "M1-D BETTER"
+    },
+    {
+      "subgroup": "Balanced Elo (|Elo Diff| <= 100)",
+      "match_count": 726,
+      "f2_accuracy": 44.21,
+      "m1_d_accuracy": 44.08,
+      "f2_log_loss": 1.05805,
+      "m1_d_log_loss": 1.05763,
+      "delta_log_loss": -0.00042,
+      "m1_advantage": "M1-D BETTER"
+    },
+    {
+      "subgroup": "Actual Draw Matches",
+      "match_count": 366,
+      "f2_accuracy": 0.0,
+      "m1_d_accuracy": 0.0,
+      "f2_log_loss": 1.37635,
+      "m1_d_log_loss": 1.38745,
+      "delta_log_loss": 0.0111,
+      "m1_advantage": "F2 BETTER"
+    },
+    {
+      "subgroup": "Actual Decisive Matches (H or A)",
+      "match_count": 1154,
+      "f2_accuracy": 69.06,
+      "m1_d_accuracy": 68.8,
+      "f2_log_loss": 0.86962,
+      "m1_d_log_loss": 0.86232,
+      "delta_log_loss": -0.0073,
+      "m1_advantage": "M1-D BETTER"
+    }
+  ],
+  "bootstrap_tests": [
+    {
+      "comparison": "M1-D (Adaptive Blend) vs F2 (Validation 24-25)",
+      "partition": "Validation",
+      "delta_ll": -0.00408,
+      "ci_dll": [
+        -0.00633,
+        -0.00185
+      ],
+      "p_candidate_better_pct": 99.9,
+      "delta_brier": -0.00295,
+      "ci_dbr": [
+        -0.00456,
+        -0.00138
+      ],
+      "delta_acc": -0.26,
+      "ci_dacc": [
+        -0.79,
+        0.0
+      ]
+    },
+    {
+      "comparison": "M1-D (Adaptive Blend) vs F2 (Research Test 25-26)",
+      "partition": "Research Test",
+      "delta_ll": -0.00059,
+      "ci_dll": [
+        -0.00267,
+        0.00147
+      ],
+      "p_candidate_better_pct": 72.5,
+      "delta_brier": -0.00033,
+      "ci_dbr": [
+        -0.00186,
+        0.00119
+      ],
+      "delta_acc": -0.26,
+      "ci_dacc": [
+        -0.79,
+        0.0
+      ]
+    },
+    {
+      "comparison": "M1-D (Adaptive Blend) vs F2 (Pooled 2022-2026)",
+      "partition": "Pooled Walk-Forward",
+      "delta_ll": -0.00287,
+      "ci_dll": [
+        -0.00399,
+        -0.00168
+      ],
+      "p_candidate_better_pct": 100.0,
+      "delta_brier": -0.00205,
+      "ci_dbr": [
+        -0.00285,
+        -0.00121
+      ],
+      "delta_acc": -0.2,
+      "ci_dacc": [
+        -0.46,
+        0.0
+      ]
+    },
+    {
+      "comparison": "M1-A (Player Only) vs F2 (Validation 24-25)",
+      "partition": "Validation",
+      "delta_ll": -0.00878,
+      "ci_dll": [
+        -0.02568,
+        0.01001
+      ],
+      "p_candidate_better_pct": 83.2,
+      "delta_brier": -0.00605,
+      "ci_dbr": [
+        -0.01745,
+        0.0063
+      ],
+      "delta_acc": 1.05,
+      "ci_dacc": [
+        -1.05,
+        3.16
+      ]
+    },
+    {
+      "comparison": "M1-A (Player Only) vs F2 (Research Test 25-26)",
+      "partition": "Research Test",
+      "delta_ll": 0.00785,
+      "ci_dll": [
+        -0.00869,
+        0.025
+      ],
+      "p_candidate_better_pct": 17.4,
+      "delta_brier": 0.00556,
+      "ci_dbr": [
+        -0.00556,
+        0.01706
+      ],
+      "delta_acc": -0.26,
+      "ci_dacc": [
+        -2.63,
+        1.84
+      ]
+    },
+    {
+      "comparison": "M1-A (Player Only) vs F2 (Pooled 2022-2026)",
+      "partition": "Pooled Walk-Forward",
+      "delta_ll": -0.00917,
+      "ci_dll": [
+        -0.0176,
+        -0.00074
+      ],
+      "p_candidate_better_pct": 98.2,
+      "delta_brier": -0.00622,
+      "ci_dbr": [
+        -0.01177,
+        -0.00063
+      ],
+      "delta_acc": 1.12,
+      "ci_dacc": [
+        0.0,
+        2.3
+      ]
+    }
+  ]
+}

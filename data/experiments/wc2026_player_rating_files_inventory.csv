@@ -1,0 +1,5 @@
+file_path,format,num_players,year_version,source,countries_leagues,fields
+data/raw/fc26/EAFC26-Men.csv,CSV (6.58 MB),16228,EA SPORTS FC 26 (2025-26 Season Data),EA SPORTS FC 26 Men Database,Global (Men's professional clubs & national pools),"ID, Rank, Name, OVR, PAC, SHO, PAS, DRI, DEF, PHY, Finishing, Short Passing, etc. (59 columns)"
+data/processed/fc26_ratings.csv,CSV (666 KB),16228,EA SPORTS FC 26 (Slim Extracted Subset),Extracted from EAFC26-Men.csv for production VPS deployment,Global,"Name, OVR, Position, Nation, DEF, PAS, SHO, GK Reflexes (8 columns)"
+data/processed/players_combined.csv,CSV (753 KB),5633,FBref 2024-25 & 2025-26 Match Logs,FBref Scouting & Match Logs,Top 5 European Leagues & Selected Domestic,"player, nation, pos, squad, comp, mp, starts, min, gls, ast, xg, npxg, xag, season"
+data/processed/complete_spr_ratings.csv,CSV (2.66 KB),48 national teams (Squad aggregated),WC2026 Tournament Ratings,Constructed by scripts/build_squad_potential_rating.py & fix_squad_features.py,48 World Cup 2026 Qualified / Candidate Nations,"team_name, attack_rating, midfielder_rating, defensive_rating, new_spr, new_spr_normalized"

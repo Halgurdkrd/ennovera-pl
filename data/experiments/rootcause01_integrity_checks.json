@@ -1,0 +1,12 @@
+{
+  "1_hda_class_order_inversion_check": "PASS (0=Home, 1=Draw, 2=Away verified)",
+  "2_fixture_row_shift_check": "PASS (All 380 row indices strictly map to unique fixtures)",
+  "3_home_away_reversal_check": "PASS (No inverted home/away columns)",
+  "4_duplicated_fixtures_check": "PASS (0 duplicate fixtures out of 380)",
+  "5_missing_fixtures_check": "PASS (Exactly 380/380 fixtures evaluated)",
+  "6_probability_normalization_check": "PASS (All rows sum to 1.0 within 1e-5)",
+  "7_stale_prediction_files_check": "PASS (All predictions generated live from class code)",
+  "8_wrong_model_artifact_check": "PASS (Unique SHA-256 hashes for all models)",
+  "9_train_test_overlap_check": "PASS (Dev=2022-24, Val=2024-25, Holdout=2025-26)",
+  "10_result_leakage_check": "PASS (Zero ground-truth outcome features passed into models)"
+}

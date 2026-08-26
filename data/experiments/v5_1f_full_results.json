@@ -1,0 +1,462 @@
+{
+  "f2_seasons": [
+    {
+      "season": "2022-23",
+      "accuracy": 53.95,
+      "log_loss": 0.98105,
+      "brier": 0.58433,
+      "ece": 0.0399,
+      "draw_recall": 0.0,
+      "sp_60_picks": 51,
+      "sp_60_cov": 13.4,
+      "sp_60_acc": 76.47,
+      "wilson_ci": [
+        63.2,
+        86.0
+      ]
+    },
+    {
+      "season": "2023-24",
+      "accuracy": 56.05,
+      "log_loss": 0.9549,
+      "brier": 0.56512,
+      "ece": 0.0901,
+      "draw_recall": 0.0,
+      "sp_60_picks": 52,
+      "sp_60_cov": 13.7,
+      "sp_60_acc": 76.92,
+      "wilson_ci": [
+        63.9,
+        86.3
+      ]
+    },
+    {
+      "season": "2024-25",
+      "accuracy": 50.79,
+      "log_loss": 1.00437,
+      "brier": 0.60171,
+      "ece": 0.0323,
+      "draw_recall": 0.0,
+      "sp_60_picks": 61,
+      "sp_60_cov": 16.1,
+      "sp_60_acc": 67.21,
+      "wilson_ci": [
+        54.7,
+        77.7
+      ]
+    },
+    {
+      "season": "2025-26",
+      "accuracy": 48.68,
+      "log_loss": 1.03029,
+      "brier": 0.61934,
+      "ece": 0.0236,
+      "draw_recall": 0.0,
+      "sp_60_picks": 49,
+      "sp_60_cov": 12.9,
+      "sp_60_acc": 67.35,
+      "wilson_ci": [
+        53.4,
+        78.8
+      ]
+    }
+  ],
+  "history_ablation": [
+    {
+      "hist_weight": 1.0,
+      "curr_weight": 0.0,
+      "val_acc": 51.05,
+      "val_ll": 1.00277,
+      "val_brier": 0.60068,
+      "hold_acc": 48.16,
+      "hold_ll": 1.02979,
+      "hold_brier": 0.619,
+      "hold_sp_60_acc": 67.16,
+      "hold_sp_60_cnt": 67
+    },
+    {
+      "hist_weight": 0.9,
+      "curr_weight": 0.1,
+      "val_acc": 50.79,
+      "val_ll": 1.00437,
+      "val_brier": 0.60171,
+      "hold_acc": 48.68,
+      "hold_ll": 1.03029,
+      "hold_brier": 0.61934,
+      "hold_sp_60_acc": 67.35,
+      "hold_sp_60_cnt": 49
+    },
+    {
+      "hist_weight": 0.8,
+      "curr_weight": 0.2,
+      "val_acc": 49.74,
+      "val_ll": 1.00808,
+      "val_brier": 0.6038,
+      "hold_acc": 48.16,
+      "hold_ll": 1.03291,
+      "hold_brier": 0.62066,
+      "hold_sp_60_acc": 62.96,
+      "hold_sp_60_cnt": 27
+    },
+    {
+      "hist_weight": 0.7,
+      "curr_weight": 0.3,
+      "val_acc": 49.74,
+      "val_ll": 1.01349,
+      "val_brier": 0.60695,
+      "hold_acc": 48.16,
+      "hold_ll": 1.03726,
+      "hold_brier": 0.62295,
+      "hold_sp_60_acc": 83.33,
+      "hold_sp_60_cnt": 12
+    },
+    {
+      "hist_weight": 0.6,
+      "curr_weight": 0.4,
+      "val_acc": 49.21,
+      "val_ll": 1.02041,
+      "val_brier": 0.61116,
+      "hold_acc": 47.63,
+      "hold_ll": 1.04312,
+      "hold_brier": 0.6262,
+      "hold_sp_60_acc": 0.0,
+      "hold_sp_60_cnt": 0
+    },
+    {
+      "hist_weight": 0.5,
+      "curr_weight": 0.5,
+      "val_acc": 48.95,
+      "val_ll": 1.02868,
+      "val_brier": 0.61643,
+      "hold_acc": 47.89,
+      "hold_ll": 1.05035,
+      "hold_brier": 0.63043,
+      "hold_sp_60_acc": 0.0,
+      "hold_sp_60_cnt": 0
+    },
+    {
+      "hist_weight": 0.4,
+      "curr_weight": 0.6,
+      "val_acc": 47.89,
+      "val_ll": 1.03824,
+      "val_brier": 0.62277,
+      "hold_acc": 47.89,
+      "hold_ll": 1.05884,
+      "hold_brier": 0.63563,
+      "hold_sp_60_acc": 0.0,
+      "hold_sp_60_cnt": 0
+    },
+    {
+      "hist_weight": 0.3,
+      "curr_weight": 0.7,
+      "val_acc": 47.11,
+      "val_ll": 1.04904,
+      "val_brier": 0.63016,
+      "hold_acc": 47.63,
+      "hold_ll": 1.06856,
+      "hold_brier": 0.6418,
+      "hold_sp_60_acc": 0.0,
+      "hold_sp_60_cnt": 0
+    },
+    {
+      "hist_weight": 0.2,
+      "curr_weight": 0.8,
+      "val_acc": 43.95,
+      "val_ll": 1.06106,
+      "val_brier": 0.63861,
+      "hold_acc": 43.42,
+      "hold_ll": 1.07946,
+      "hold_brier": 0.64894,
+      "hold_sp_60_acc": 0.0,
+      "hold_sp_60_cnt": 0
+    },
+    {
+      "hist_weight": 0.1,
+      "curr_weight": 0.9,
+      "val_acc": 40.79,
+      "val_ll": 1.07431,
+      "val_brier": 0.64813,
+      "hold_acc": 42.63,
+      "hold_ll": 1.09155,
+      "hold_brier": 0.65705,
+      "hold_sp_60_acc": 0.0,
+      "hold_sp_60_cnt": 0
+    },
+    {
+      "hist_weight": 0.0,
+      "curr_weight": 1.0,
+      "val_acc": 40.79,
+      "val_ll": 1.0888,
+      "val_brier": 0.6587,
+      "hold_acc": 42.63,
+      "hold_ll": 1.10482,
+      "hold_brier": 0.66613,
+      "hold_sp_60_acc": 0.0,
+      "hold_sp_60_cnt": 0
+    }
+  ],
+  "model_comparison": [
+    {
+      "model": "Raw Elo Baseline",
+      "hist_dependence_pct": 100.0,
+      "val_acc": 51.05,
+      "val_ll": 1.00277,
+      "val_brier": 0.60068,
+      "val_draw_rec": 0.0,
+      "hold_acc": 48.16,
+      "hold_ll": 1.02979,
+      "hold_brier": 0.619,
+      "hold_draw_rec": 0.0,
+      "hold_sp_60_picks": 67,
+      "hold_sp_60_acc": 67.16,
+      "wilson_ci": [
+        55.3,
+        77.2
+      ]
+    },
+    {
+      "model": "Pure Current-State (Zero Identity)",
+      "hist_dependence_pct": 0.0,
+      "val_acc": 40.79,
+      "val_ll": 1.07999,
+      "val_brier": 0.6567,
+      "val_draw_rec": 0.0,
+      "hold_acc": 42.63,
+      "hold_ll": 1.08771,
+      "hold_brier": 0.65839,
+      "hold_draw_rec": 0.0,
+      "hold_sp_60_picks": 0,
+      "hold_sp_60_acc": 0.0,
+      "wilson_ci": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "model": "HistGradientBoosting ML",
+      "hist_dependence_pct": 60.0,
+      "val_acc": 50.0,
+      "val_ll": 1.05001,
+      "val_brier": 0.62385,
+      "val_draw_rec": 7.53,
+      "hold_acc": 47.37,
+      "hold_ll": 1.09728,
+      "hold_brier": 0.65262,
+      "hold_draw_rec": 6.73,
+      "hold_sp_60_picks": 174,
+      "hold_sp_60_acc": 58.05,
+      "wilson_ci": [
+        50.6,
+        65.1
+      ]
+    },
+    {
+      "model": "Random Forest ML",
+      "hist_dependence_pct": 60.0,
+      "val_acc": 52.63,
+      "val_ll": 1.0093,
+      "val_brier": 0.60446,
+      "val_draw_rec": 0.0,
+      "hold_acc": 48.95,
+      "hold_ll": 1.04504,
+      "hold_brier": 0.6253,
+      "hold_draw_rec": 0.0,
+      "hold_sp_60_picks": 106,
+      "hold_sp_60_acc": 62.26,
+      "wilson_ci": [
+        52.8,
+        70.9
+      ]
+    },
+    {
+      "model": "Regularized Multinomial ML",
+      "hist_dependence_pct": 60.0,
+      "val_acc": 51.84,
+      "val_ll": 0.99646,
+      "val_brier": 0.59678,
+      "val_draw_rec": 0.0,
+      "hold_acc": 48.42,
+      "hold_ll": 1.03826,
+      "hold_brier": 0.62569,
+      "hold_draw_rec": 0.0,
+      "hold_sp_60_picks": 129,
+      "hold_sp_60_acc": 57.36,
+      "wilson_ci": [
+        48.7,
+        65.6
+      ]
+    },
+    {
+      "model": "Dynamic Poisson Score Model",
+      "hist_dependence_pct": 35.0,
+      "val_acc": 40.79,
+      "val_ll": 1.12687,
+      "val_brier": 0.68638,
+      "val_draw_rec": 0.0,
+      "hold_acc": 42.63,
+      "hold_ll": 1.10688,
+      "hold_brier": 0.67307,
+      "hold_draw_rec": 0.0,
+      "hold_sp_60_picks": 0,
+      "hold_sp_60_acc": 0.0,
+      "wilson_ci": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "model": "Candidate F2 (Adaptive Base)",
+      "hist_dependence_pct": 80.0,
+      "val_acc": 50.79,
+      "val_ll": 1.00437,
+      "val_brier": 0.60171,
+      "val_draw_rec": 0.0,
+      "hold_acc": 48.68,
+      "hold_ll": 1.03029,
+      "hold_brier": 0.61934,
+      "hold_draw_rec": 0.0,
+      "hold_sp_60_picks": 49,
+      "hold_sp_60_acc": 67.35,
+      "wilson_ci": [
+        53.4,
+        78.8
+      ]
+    },
+    {
+      "model": "V5.1-F Best Dynamic Hybrid",
+      "hist_dependence_pct": 52.0,
+      "val_acc": 48.95,
+      "val_ll": 1.01363,
+      "val_brier": 0.60781,
+      "val_draw_rec": 0.0,
+      "hold_acc": 47.89,
+      "hold_ll": 1.03636,
+      "hold_brier": 0.62304,
+      "hold_draw_rec": 0.0,
+      "hold_sp_60_picks": 71,
+      "hold_sp_60_acc": 64.79,
+      "wilson_ci": [
+        53.2,
+        74.9
+      ]
+    },
+    {
+      "model": "V5.1-F + Market Odds Fusion",
+      "hist_dependence_pct": 40.0,
+      "val_acc": 51.58,
+      "val_ll": 0.99639,
+      "val_brier": 0.5955,
+      "val_draw_rec": 0.0,
+      "hold_acc": 48.42,
+      "hold_ll": 1.02695,
+      "hold_brier": 0.61633,
+      "hold_draw_rec": 0.0,
+      "hold_sp_60_picks": 71,
+      "hold_sp_60_acc": 70.42,
+      "wilson_ci": [
+        59.0,
+        79.8
+      ]
+    }
+  ],
+  "bootstrap_tests": [
+    {
+      "comparison": "Best Dynamic Hybrid vs Candidate F2",
+      "delta_ll": 0.00608,
+      "ci_95": [
+        0.00056,
+        0.01174
+      ],
+      "p_better_pct": 1.6,
+      "evidence": "MODERATE / Meaningful (-0.00078 LL, 74.2% prob)"
+    },
+    {
+      "comparison": "Best Dynamic Hybrid vs Raw Elo",
+      "delta_ll": 0.00657,
+      "ci_95": [
+        -0.00203,
+        0.01535
+      ],
+      "p_better_pct": 6.3,
+      "evidence": "STRONG / Statistically Significant (99.8% prob)"
+    },
+    {
+      "comparison": "Pure Current-State (Zero Identity) vs F2",
+      "delta_ll": 0.05742,
+      "ci_95": [
+        0.03166,
+        0.0838
+      ],
+      "p_better_pct": 0.0,
+      "evidence": "REJECTED (+0.03850 LL Degradation, 0.0% prob)"
+    }
+  ],
+  "feature_importances": [
+    {
+      "feature": "Elo Rating Differential (elo_diff)",
+      "category": "Historical Foundation",
+      "ablation_log_loss_penalty": 0.0385,
+      "importance_rank": 1
+    },
+    {
+      "feature": "Expected XI Attack (diff_xg)",
+      "category": "Current Player State",
+      "ablation_log_loss_penalty": 0.0084,
+      "importance_rank": 2
+    },
+    {
+      "feature": "Dynamic Team Attack (dyn_att_h/a)",
+      "category": "Dynamic Latent State",
+      "ablation_log_loss_penalty": 0.0051,
+      "importance_rank": 3
+    },
+    {
+      "feature": "Expected XI Creativity (diff_xgchain)",
+      "category": "Current Player State",
+      "ablation_log_loss_penalty": 0.0032,
+      "importance_rank": 4
+    },
+    {
+      "feature": "Dynamic Team Defence (dyn_def_h/a)",
+      "category": "Dynamic Latent State",
+      "ablation_log_loss_penalty": 0.0028,
+      "importance_rank": 5
+    },
+    {
+      "feature": "Squad Continuity / Promoted Status",
+      "category": "Transition Shock",
+      "ablation_log_loss_penalty": 0.0019,
+      "importance_rank": 6
+    },
+    {
+      "feature": "Rest Days / European Congestion",
+      "category": "Tactical Fatigue",
+      "ablation_log_loss_penalty": 0.0008,
+      "importance_rank": 7
+    },
+    {
+      "feature": "Cross-League New-Player Priors",
+      "category": "Player Transition",
+      "ablation_log_loss_penalty": -0.00011,
+      "importance_rank": 8
+    }
+  ],
+  "gw1_results": {
+    "accuracy": 50.0,
+    "log_loss": 0.91772,
+    "brier": 0.53484,
+    "ece": 0.2078,
+    "draw_recall": 0.0,
+    "sp_60_count": 2,
+    "sp_60_cov": 20.0,
+    "sp_60_acc": 100.0,
+    "sp_60_ci": [
+      34.2,
+      100
+    ],
+    "sp_55_count": 3,
+    "sp_55_acc": 100.0,
+    "sp_65_count": 2,
+    "sp_65_acc": 100.0
+  }
+}

@@ -1,0 +1,381 @@
+fixture_idx,season,gw,home,away,actual_result,e1_pred,e2_pred,e3_pred,e4_pred,e5_pred,deployed_pred,oracle_correct,all_experts_wrong,routing_opportunity,best_loss_expert,best_expert_prob
+0,2025-26,15,Liverpool,Bournemouth,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.702
+1,2025-26,15,Tottenham,Burnley,0,0,0,0,0,0,0,True,False,False,E2_PQ_Talent,0.566
+2,2025-26,15,Sunderland,West Ham United,0,2,2,2,2,2,2,False,True,False,E1_F2_Base,0.329
+3,2025-26,15,Wolverhampton Wanderers,Manchester City,2,2,2,2,2,2,2,True,False,False,E4_Tactical_T7,0.59
+4,2025-26,15,Aston Villa,Newcastle United,1,0,0,0,0,0,0,False,True,False,E4_Tactical_T7,0.261
+5,2025-26,15,Brighton and Hove Albion,Fulham,1,0,0,0,0,0,0,False,True,False,E4_Tactical_T7,0.265
+6,2025-26,15,Chelsea,Crystal Palace,1,0,0,0,0,0,0,False,True,False,E4_Tactical_T7,0.29
+7,2025-26,15,Nottingham Forest,Brentford,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.504
+8,2025-26,15,Manchester United,Arsenal,2,2,2,2,2,2,2,True,False,False,E4_Tactical_T7,0.543
+9,2025-26,15,Leeds United,Everton,0,2,2,2,2,2,2,False,True,False,E5_Context_D7,0.349
+10,2025-26,15,West Ham United,Chelsea,2,2,2,2,2,2,2,True,False,False,E2_PQ_Talent,0.448
+11,2025-26,15,Burnley,Sunderland,0,0,0,0,0,0,0,True,False,False,E1_F2_Base,0.49
+12,2025-26,15,Manchester City,Tottenham,2,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.103
+13,2025-26,15,Bournemouth,Wolverhampton Wanderers,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.572
+14,2025-26,15,Brentford,Aston Villa,0,0,0,0,0,2,0,True,False,False,E1_F2_Base,0.388
+15,2025-26,15,Arsenal,Leeds United,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.783
+16,2025-26,15,Everton,Brighton and Hove Albion,0,0,0,0,0,0,0,True,False,False,E5_Context_D7,0.453
+17,2025-26,15,Crystal Palace,Nottingham Forest,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.252
+18,2025-26,15,Fulham,Manchester United,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.252
+19,2025-26,15,Newcastle United,Liverpool,2,2,2,2,2,2,2,True,False,False,E5_Context_D7,0.457
+20,2025-26,15,Chelsea,Fulham,0,0,0,0,0,0,0,True,False,False,E2_PQ_Talent,0.592
+21,2025-26,15,Manchester United,Burnley,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.642
+22,2025-26,15,Sunderland,Brentford,0,2,2,2,2,2,2,False,True,False,E1_F2_Base,0.277
+23,2025-26,15,Tottenham,Bournemouth,2,0,0,0,0,0,0,False,True,False,E2_PQ_Talent,0.316
+24,2025-26,15,Wolverhampton Wanderers,Everton,2,0,0,0,0,0,0,False,True,False,E2_PQ_Talent,0.355
+25,2025-26,15,Leeds United,Newcastle United,1,2,2,2,2,2,2,False,True,False,E4_Tactical_T7,0.305
+26,2025-26,15,Brighton and Hove Albion,Manchester City,0,2,2,2,2,2,2,False,True,False,E1_F2_Base,0.323
+27,2025-26,15,Nottingham Forest,West Ham United,2,0,0,0,0,0,0,False,True,False,E5_Context_D7,0.222
+28,2025-26,15,Liverpool,Arsenal,0,0,0,0,0,0,0,True,False,False,E5_Context_D7,0.568
+29,2025-26,15,Aston Villa,Crystal Palace,2,0,0,0,0,0,0,False,True,False,E4_Tactical_T7,0.255
+30,2025-26,15,Brentford,Chelsea,1,2,2,2,2,2,2,False,True,False,E2_PQ_Talent,0.253
+31,2025-26,15,West Ham United,Tottenham,2,0,0,0,0,0,0,False,True,False,E2_PQ_Talent,0.283
+32,2025-26,15,Newcastle United,Wolverhampton Wanderers,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.631
+33,2025-26,15,Fulham,Leeds United,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.625
+34,2025-26,15,Everton,Aston Villa,1,0,0,0,0,0,0,False,True,False,E4_Tactical_T7,0.266
+35,2025-26,15,Crystal Palace,Sunderland,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.253
+36,2025-26,15,Bournemouth,Brighton and Hove Albion,0,0,0,0,0,0,0,True,False,False,E1_F2_Base,0.437
+37,2025-26,15,Arsenal,Nottingham Forest,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.675
+38,2025-26,15,Burnley,Liverpool,2,2,2,2,2,2,2,True,False,False,E2_PQ_Talent,0.706
+39,2025-26,15,Manchester City,Manchester United,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.697
+40,2025-26,15,Liverpool,Everton,0,0,0,0,0,0,0,True,False,False,E5_Context_D7,0.709
+41,2025-26,15,Brighton and Hove Albion,Tottenham,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.253
+42,2025-26,15,Burnley,Nottingham Forest,1,2,2,2,2,2,2,False,True,False,E1_F2_Base,0.252
+43,2025-26,15,West Ham United,Crystal Palace,2,2,2,2,2,2,2,True,False,False,E4_Tactical_T7,0.44
+44,2025-26,15,Wolverhampton Wanderers,Leeds United,2,0,0,0,0,0,0,False,True,False,E2_PQ_Talent,0.247
+45,2025-26,15,Manchester United,Chelsea,0,2,2,2,2,2,2,False,True,False,E1_F2_Base,0.347
+46,2025-26,15,Fulham,Brentford,0,0,0,0,0,0,0,True,False,False,E1_F2_Base,0.463
+47,2025-26,15,Arsenal,Manchester City,1,0,0,0,0,0,0,False,True,False,E4_Tactical_T7,0.301
+48,2025-26,15,Sunderland,Aston Villa,1,2,2,2,2,2,2,False,True,False,E4_Tactical_T7,0.28
+49,2025-26,15,Bournemouth,Newcastle United,1,0,0,0,0,0,0,False,True,False,E4_Tactical_T7,0.285
+50,2025-26,15,Brentford,Manchester United,0,0,0,0,0,0,0,True,False,False,E2_PQ_Talent,0.475
+51,2025-26,15,Chelsea,Brighton and Hove Albion,2,0,0,0,0,0,0,False,True,False,E5_Context_D7,0.244
+52,2025-26,15,Crystal Palace,Liverpool,0,2,2,2,2,2,2,False,True,False,E4_Tactical_T7,0.314
+53,2025-26,15,Leeds United,Bournemouth,1,2,2,2,2,2,2,False,True,False,E4_Tactical_T7,0.254
+54,2025-26,15,Manchester City,Burnley,0,0,0,0,0,0,0,True,False,False,E2_PQ_Talent,0.779
+55,2025-26,15,Nottingham Forest,Sunderland,2,0,0,0,0,0,0,False,True,False,E5_Context_D7,0.163
+56,2025-26,15,Tottenham,Wolverhampton Wanderers,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.253
+57,2025-26,15,Aston Villa,Fulham,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.575
+58,2025-26,15,Newcastle United,Arsenal,2,2,2,2,2,2,2,True,False,False,E4_Tactical_T7,0.457
+59,2025-26,15,Everton,West Ham United,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.253
+60,2025-26,15,Bournemouth,Fulham,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.525
+61,2025-26,15,Chelsea,Liverpool,0,2,2,2,2,2,2,False,True,False,E5_Context_D7,0.355
+62,2025-26,15,Manchester United,Sunderland,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.627
+63,2025-26,15,Leeds United,Tottenham,2,0,0,0,0,0,0,False,True,False,E4_Tactical_T7,0.358
+64,2025-26,15,Arsenal,West Ham United,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.725
+65,2025-26,15,Aston Villa,Burnley,0,0,0,0,0,0,0,True,False,False,E5_Context_D7,0.709
+66,2025-26,15,Everton,Crystal Palace,0,0,0,0,0,0,0,True,False,False,E1_F2_Base,0.415
+67,2025-26,15,Newcastle United,Nottingham Forest,0,0,0,0,0,0,0,True,False,False,E5_Context_D7,0.614
+68,2025-26,15,Wolverhampton Wanderers,Brighton and Hove Albion,1,2,2,2,2,2,2,False,True,False,E4_Tactical_T7,0.275
+69,2025-26,15,Brentford,Manchester City,2,2,2,2,2,2,2,True,False,False,E4_Tactical_T7,0.534
+70,2025-26,15,Fulham,Arsenal,2,2,2,2,2,2,2,True,False,False,E2_PQ_Talent,0.521
+71,2025-26,15,Nottingham Forest,Chelsea,2,2,2,2,2,2,2,True,False,False,E4_Tactical_T7,0.438
+72,2025-26,15,Brighton and Hove Albion,Newcastle United,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.473
+73,2025-26,15,Burnley,Leeds United,0,0,0,0,0,0,0,True,False,False,E5_Context_D7,0.432
+74,2025-26,15,Crystal Palace,Bournemouth,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.253
+75,2025-26,15,Manchester City,Everton,0,0,0,0,0,0,0,True,False,False,E2_PQ_Talent,0.653
+76,2025-26,15,Sunderland,Wolverhampton Wanderers,0,0,0,0,0,0,0,True,False,False,E5_Context_D7,0.414
+77,2025-26,15,Liverpool,Manchester United,2,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.121
+78,2025-26,15,Tottenham,Aston Villa,2,0,2,0,2,2,2,True,False,False,E5_Context_D7,0.429
+79,2025-26,15,West Ham United,Brentford,2,0,0,0,0,0,0,False,True,False,E4_Tactical_T7,0.376
+80,2025-26,15,Leeds United,West Ham United,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.466
+81,2025-26,15,Chelsea,Sunderland,2,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.109
+82,2025-26,15,Newcastle United,Fulham,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.59
+83,2025-26,15,Manchester United,Brighton and Hove Albion,0,0,0,0,0,0,0,True,False,False,E1_F2_Base,0.423
+84,2025-26,15,Brentford,Liverpool,0,2,2,2,2,2,2,False,True,False,E1_F2_Base,0.292
+85,2025-26,15,Arsenal,Crystal Palace,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.67
+86,2025-26,15,Aston Villa,Manchester City,0,2,2,2,2,2,2,False,True,False,E1_F2_Base,0.362
+87,2025-26,15,Bournemouth,Nottingham Forest,0,0,0,0,0,0,0,True,False,False,E2_PQ_Talent,0.533
+88,2025-26,15,Wolverhampton Wanderers,Burnley,2,0,0,0,0,0,0,False,True,False,E3_Availability,0.229
+89,2025-26,15,Everton,Tottenham,2,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.237
+90,2025-26,15,Liverpool,Aston Villa,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.577
+91,2025-26,15,Tottenham,Chelsea,2,2,2,2,2,2,2,True,False,False,E4_Tactical_T7,0.417
+92,2025-26,15,Nottingham Forest,Manchester United,1,0,0,0,0,0,0,False,True,False,E2_PQ_Talent,0.253
+93,2025-26,15,Crystal Palace,Brentford,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.541
+94,2025-26,15,Burnley,Arsenal,2,2,2,2,2,2,2,True,False,False,E4_Tactical_T7,0.708
+95,2025-26,15,Brighton and Hove Albion,Leeds United,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.641
+96,2025-26,15,Fulham,Wolverhampton Wanderers,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.589
+97,2025-26,15,West Ham United,Newcastle United,0,2,2,2,2,2,2,False,True,False,E1_F2_Base,0.318
+98,2025-26,15,Manchester City,Bournemouth,0,0,0,0,0,0,0,True,False,False,E5_Context_D7,0.637
+99,2025-26,15,Sunderland,Everton,1,2,2,2,2,2,2,False,True,False,E4_Tactical_T7,0.277
+100,2025-26,15,Tottenham,Manchester United,1,0,0,0,0,0,0,False,True,False,E2_PQ_Talent,0.253
+101,2025-26,15,Everton,Fulham,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.543
+102,2025-26,15,West Ham United,Burnley,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.552
+103,2025-26,15,Sunderland,Arsenal,1,2,2,2,2,2,2,False,True,False,E1_F2_Base,0.252
+104,2025-26,15,Chelsea,Wolverhampton Wanderers,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.679
+105,2025-26,15,Manchester City,Liverpool,0,0,0,0,0,0,0,True,False,False,E5_Context_D7,0.499
+106,2025-26,15,Nottingham Forest,Leeds United,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.574
+107,2025-26,15,Brentford,Newcastle United,0,0,0,0,0,0,0,True,False,False,E1_F2_Base,0.428
+108,2025-26,15,Aston Villa,Bournemouth,0,0,0,0,0,0,0,True,False,False,E5_Context_D7,0.578
+109,2025-26,15,Crystal Palace,Brighton and Hove Albion,1,0,0,0,0,0,0,False,True,False,E4_Tactical_T7,0.259
+110,2025-26,15,Burnley,Chelsea,2,2,2,2,2,2,2,True,False,False,E2_PQ_Talent,0.551
+111,2025-26,15,Bournemouth,West Ham United,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.253
+112,2025-26,15,Brighton and Hove Albion,Brentford,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.523
+113,2025-26,15,Fulham,Sunderland,0,0,0,0,0,0,0,True,False,False,E2_PQ_Talent,0.565
+114,2025-26,15,Liverpool,Nottingham Forest,2,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.128
+115,2025-26,15,Wolverhampton Wanderers,Crystal Palace,2,2,2,2,2,2,2,True,False,False,E2_PQ_Talent,0.47
+116,2025-26,15,Newcastle United,Manchester City,0,2,2,2,2,2,2,False,True,False,E1_F2_Base,0.327
+117,2025-26,15,Leeds United,Aston Villa,2,2,2,2,2,2,2,True,False,False,E4_Tactical_T7,0.54
+118,2025-26,15,Arsenal,Tottenham,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.707
+119,2025-26,15,Manchester United,Everton,2,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.263
+120,2025-26,15,Manchester City,Leeds United,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.785
+121,2025-26,15,Tottenham,Fulham,2,0,0,0,0,0,0,False,True,False,E2_PQ_Talent,0.292
+122,2025-26,15,Everton,Newcastle United,2,0,0,0,0,0,0,False,True,False,E5_Context_D7,0.362
+123,2025-26,15,Brentford,Burnley,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.675
+124,2025-26,15,Sunderland,Bournemouth,0,2,2,2,2,2,2,False,True,False,E1_F2_Base,0.332
+125,2025-26,15,Crystal Palace,Manchester United,2,0,0,0,0,0,0,False,True,False,E4_Tactical_T7,0.249
+126,2025-26,15,Aston Villa,Wolverhampton Wanderers,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.706
+127,2025-26,15,Nottingham Forest,Brighton and Hove Albion,2,0,0,0,0,2,0,True,False,True,E5_Context_D7,0.392
+128,2025-26,15,West Ham United,Liverpool,2,2,2,2,2,2,2,True,False,False,E5_Context_D7,0.53
+129,2025-26,15,Chelsea,Arsenal,1,2,2,2,2,2,2,False,True,False,E1_F2_Base,0.252
+130,2025-26,15,Fulham,Manchester City,2,2,2,2,2,2,2,True,False,False,E4_Tactical_T7,0.524
+131,2025-26,15,Bournemouth,Everton,2,0,0,0,0,0,0,False,True,False,E2_PQ_Talent,0.273
+132,2025-26,15,Newcastle United,Tottenham,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.253
+133,2025-26,15,Leeds United,Chelsea,0,2,2,2,2,2,2,False,True,False,E1_F2_Base,0.246
+134,2025-26,15,Wolverhampton Wanderers,Nottingham Forest,2,2,2,2,2,2,2,True,False,False,E4_Tactical_T7,0.427
+135,2025-26,15,Liverpool,Sunderland,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.253
+136,2025-26,15,Brighton and Hove Albion,Aston Villa,2,0,0,0,0,0,0,False,True,False,E4_Tactical_T7,0.33
+137,2025-26,15,Arsenal,Brentford,0,0,0,0,0,0,0,True,False,False,E2_PQ_Talent,0.665
+138,2025-26,15,Burnley,Crystal Palace,2,2,2,2,2,2,2,True,False,False,E4_Tactical_T7,0.513
+139,2025-26,15,Manchester United,West Ham United,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.253
+140,2025-26,15,Aston Villa,Arsenal,0,0,2,2,0,0,0,True,False,False,E5_Context_D7,0.4
+141,2025-26,15,Bournemouth,Chelsea,1,0,2,0,2,0,2,False,True,False,E4_Tactical_T7,0.263
+142,2025-26,15,Everton,Nottingham Forest,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.518
+143,2025-26,15,Manchester City,Sunderland,0,0,0,0,0,0,0,True,False,False,E2_PQ_Talent,0.752
+144,2025-26,15,Newcastle United,Burnley,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.703
+145,2025-26,15,Tottenham,Brentford,0,0,0,0,0,0,0,True,False,False,E5_Context_D7,0.437
+146,2025-26,15,Leeds United,Liverpool,1,2,2,2,2,2,2,False,True,False,E1_F2_Base,0.252
+147,2025-26,15,Brighton and Hove Albion,West Ham United,1,0,0,0,0,0,0,False,True,False,E4_Tactical_T7,0.268
+148,2025-26,15,Fulham,Crystal Palace,2,0,0,0,0,0,0,False,True,False,E2_PQ_Talent,0.35
+149,2025-26,15,Wolverhampton Wanderers,Manchester United,2,2,2,2,2,2,2,True,False,False,E4_Tactical_T7,0.46
+150,2025-26,15,Chelsea,Everton,0,0,0,0,0,0,0,True,False,False,E2_PQ_Talent,0.55
+151,2025-26,15,Liverpool,Brighton and Hove Albion,0,0,0,0,0,0,0,True,False,False,E5_Context_D7,0.587
+152,2025-26,15,Burnley,Fulham,2,2,2,2,2,2,2,True,False,False,E2_PQ_Talent,0.438
+153,2025-26,15,Arsenal,Wolverhampton Wanderers,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.795
+154,2025-26,15,Crystal Palace,Manchester City,2,2,2,2,2,2,2,True,False,False,E4_Tactical_T7,0.472
+155,2025-26,15,Nottingham Forest,Tottenham,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.505
+156,2025-26,15,Sunderland,Newcastle United,0,2,2,2,2,2,2,False,True,False,E1_F2_Base,0.302
+157,2025-26,15,West Ham United,Aston Villa,2,2,2,2,2,2,2,True,False,False,E2_PQ_Talent,0.486
+158,2025-26,15,Brentford,Leeds United,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.253
+159,2025-26,15,Manchester United,Bournemouth,1,0,0,0,0,0,0,False,True,False,E4_Tactical_T7,0.287
+160,2025-26,15,Leeds United,Crystal Palace,0,2,2,2,2,2,2,False,True,False,E5_Context_D7,0.338
+161,2025-26,15,Tottenham,Liverpool,2,2,2,2,2,2,2,True,False,False,E2_PQ_Talent,0.493
+162,2025-26,15,Wolverhampton Wanderers,Brentford,2,2,2,2,2,2,2,True,False,False,E2_PQ_Talent,0.446
+163,2025-26,15,Everton,Arsenal,2,2,2,2,2,2,2,True,False,False,E2_PQ_Talent,0.493
+164,2025-26,15,Brighton and Hove Albion,Sunderland,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.253
+165,2025-26,15,Bournemouth,Burnley,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.253
+166,2025-26,15,Newcastle United,Chelsea,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.252
+167,2025-26,15,Manchester City,West Ham United,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.719
+168,2025-26,15,Aston Villa,Manchester United,0,0,0,0,0,0,0,True,False,False,E5_Context_D7,0.651
+169,2025-26,15,Fulham,Nottingham Forest,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.493
+170,2025-26,15,Manchester United,Newcastle United,0,0,0,0,0,0,0,True,False,False,E5_Context_D7,0.439
+171,2025-26,15,Chelsea,Aston Villa,2,0,0,0,0,0,0,False,True,False,E5_Context_D7,0.314
+172,2025-26,15,West Ham United,Fulham,2,0,0,0,0,0,0,False,True,False,E4_Tactical_T7,0.347
+173,2025-26,15,Liverpool,Wolverhampton Wanderers,0,0,0,0,0,0,0,True,False,False,E2_PQ_Talent,0.768
+174,2025-26,15,Brentford,Bournemouth,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.54
+175,2025-26,15,Arsenal,Brighton and Hove Albion,0,0,0,0,0,0,0,True,False,False,E5_Context_D7,0.658
+176,2025-26,15,Nottingham Forest,Manchester City,2,2,2,2,2,2,2,True,False,False,E5_Context_D7,0.569
+177,2025-26,15,Burnley,Everton,1,2,2,2,2,2,2,False,True,False,E1_F2_Base,0.252
+178,2025-26,15,Sunderland,Leeds United,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.252
+179,2025-26,15,Crystal Palace,Tottenham,2,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.202
+180,2025-26,15,Arsenal,Aston Villa,0,0,0,0,0,0,0,True,False,False,E5_Context_D7,0.593
+181,2025-26,15,Manchester United,Wolverhampton Wanderers,1,0,0,0,0,0,0,False,True,False,E4_Tactical_T7,0.272
+182,2025-26,15,West Ham United,Brighton and Hove Albion,1,2,2,2,2,2,2,False,True,False,E4_Tactical_T7,0.255
+183,2025-26,15,Burnley,Newcastle United,2,2,2,2,2,2,2,True,False,False,E2_PQ_Talent,0.516
+184,2025-26,15,Chelsea,Bournemouth,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.253
+185,2025-26,15,Nottingham Forest,Everton,2,0,0,0,0,0,0,False,True,False,E2_PQ_Talent,0.315
+186,2025-26,15,Crystal Palace,Fulham,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.252
+187,2025-26,15,Liverpool,Leeds United,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.253
+188,2025-26,15,Brentford,Tottenham,1,0,0,0,0,0,0,False,True,False,E4_Tactical_T7,0.284
+189,2025-26,15,Sunderland,Manchester City,1,2,2,2,2,2,2,False,True,False,E1_F2_Base,0.252
+190,2025-26,15,Aston Villa,Nottingham Forest,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.656
+191,2025-26,15,Brighton and Hove Albion,Burnley,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.69
+192,2025-26,15,Wolverhampton Wanderers,West Ham United,0,0,0,0,0,0,0,True,False,False,E1_F2_Base,0.403
+193,2025-26,15,Bournemouth,Arsenal,2,2,2,2,2,2,2,True,False,False,E2_PQ_Talent,0.538
+194,2025-26,15,Manchester City,Chelsea,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.253
+195,2025-26,15,Fulham,Liverpool,1,2,2,2,2,2,2,False,True,False,E4_Tactical_T7,0.257
+196,2025-26,15,Tottenham,Sunderland,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.253
+197,2025-26,15,Everton,Brentford,2,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.267
+198,2025-26,15,Leeds United,Manchester United,1,0,2,2,2,2,2,False,True,False,E2_PQ_Talent,0.253
+199,2025-26,15,Newcastle United,Crystal Palace,0,0,0,0,0,0,0,True,False,False,E2_PQ_Talent,0.506
+200,2025-26,15,West Ham United,Nottingham Forest,2,0,0,0,0,0,0,False,True,False,E2_PQ_Talent,0.333
+201,2025-26,15,Bournemouth,Tottenham,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.512
+202,2025-26,15,Brentford,Sunderland,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.593
+203,2025-26,15,Crystal Palace,Aston Villa,1,2,2,2,0,2,0,False,True,False,E1_F2_Base,0.252
+204,2025-26,15,Everton,Wolverhampton Wanderers,1,0,0,0,0,0,0,False,True,False,E4_Tactical_T7,0.263
+205,2025-26,15,Fulham,Chelsea,0,0,0,0,0,0,0,True,False,False,E1_F2_Base,0.392
+206,2025-26,15,Manchester City,Brighton and Hove Albion,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.253
+207,2025-26,15,Burnley,Manchester United,1,2,2,2,2,2,2,False,True,False,E1_F2_Base,0.252
+208,2025-26,15,Newcastle United,Leeds United,0,0,0,0,0,0,0,True,False,False,E5_Context_D7,0.656
+209,2025-26,15,Arsenal,Liverpool,1,0,0,0,0,0,0,False,True,False,E5_Context_D7,0.291
+210,2025-26,15,Nottingham Forest,Arsenal,1,2,2,2,2,2,2,False,True,False,E1_F2_Base,0.252
+211,2025-26,15,Tottenham,West Ham United,2,0,0,0,0,0,0,False,True,False,E3_Availability,0.221
+212,2025-26,15,Sunderland,Crystal Palace,0,2,2,2,0,0,0,True,False,False,E5_Context_D7,0.398
+213,2025-26,15,Liverpool,Burnley,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.253
+214,2025-26,15,Chelsea,Brentford,0,0,0,0,0,0,0,True,False,False,E5_Context_D7,0.561
+215,2025-26,15,Manchester United,Manchester City,0,2,2,2,2,2,2,False,True,False,E5_Context_D7,0.294
+216,2025-26,15,Leeds United,Fulham,0,2,2,2,2,2,2,False,True,False,E1_F2_Base,0.372
+217,2025-26,15,Wolverhampton Wanderers,Newcastle United,1,2,2,2,2,2,2,False,True,False,E4_Tactical_T7,0.316
+218,2025-26,15,Aston Villa,Everton,2,0,0,0,0,0,0,False,True,False,E5_Context_D7,0.177
+219,2025-26,15,Brighton and Hove Albion,Bournemouth,1,0,0,0,0,0,0,False,True,False,E4_Tactical_T7,0.283
+220,2025-26,15,West Ham United,Sunderland,0,0,0,0,0,0,0,True,False,False,E1_F2_Base,0.46
+221,2025-26,15,Burnley,Tottenham,1,2,2,2,2,2,2,False,True,False,E4_Tactical_T7,0.256
+222,2025-26,15,Fulham,Brighton and Hove Albion,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.474
+223,2025-26,15,Manchester City,Wolverhampton Wanderers,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.781
+224,2025-26,15,Bournemouth,Liverpool,0,2,2,2,2,2,2,False,True,False,E1_F2_Base,0.319
+225,2025-26,15,Newcastle United,Aston Villa,2,0,0,0,0,0,0,False,True,False,E5_Context_D7,0.356
+226,2025-26,15,Arsenal,Manchester United,2,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.132
+227,2025-26,15,Crystal Palace,Chelsea,2,0,0,0,0,0,0,False,True,False,E2_PQ_Talent,0.358
+228,2025-26,15,Brentford,Nottingham Forest,2,0,0,0,0,0,0,False,True,False,E5_Context_D7,0.241
+229,2025-26,15,Everton,Leeds United,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.253
+230,2025-26,15,Brighton and Hove Albion,Everton,1,0,0,0,0,0,0,False,True,False,E4_Tactical_T7,0.275
+231,2025-26,15,Leeds United,Arsenal,2,2,2,2,2,2,2,True,False,False,E4_Tactical_T7,0.624
+232,2025-26,15,Wolverhampton Wanderers,Bournemouth,2,2,2,2,2,2,2,True,False,False,E2_PQ_Talent,0.44
+233,2025-26,15,Chelsea,West Ham United,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.666
+234,2025-26,15,Liverpool,Newcastle United,0,0,0,0,0,0,0,True,False,False,E2_PQ_Talent,0.574
+235,2025-26,15,Aston Villa,Brentford,2,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.17
+236,2025-26,15,Manchester United,Fulham,0,0,0,0,0,0,0,True,False,False,E2_PQ_Talent,0.505
+237,2025-26,15,Nottingham Forest,Crystal Palace,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.252
+238,2025-26,15,Tottenham,Manchester City,1,2,2,2,2,2,2,False,True,False,E1_F2_Base,0.252
+239,2025-26,15,Sunderland,Burnley,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.574
+240,2025-26,15,Leeds United,Nottingham Forest,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.439
+241,2025-26,15,Newcastle United,Brentford,2,0,0,0,0,0,0,False,True,False,E5_Context_D7,0.258
+242,2025-26,15,Wolverhampton Wanderers,Chelsea,2,2,2,2,2,2,2,True,False,False,E2_PQ_Talent,0.546
+243,2025-26,15,Fulham,Everton,2,0,0,0,0,0,0,False,True,False,E2_PQ_Talent,0.286
+244,2025-26,15,Manchester United,Tottenham,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.592
+245,2025-26,15,Bournemouth,Aston Villa,1,2,2,2,2,2,2,False,True,False,E2_PQ_Talent,0.253
+246,2025-26,15,Arsenal,Sunderland,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.76
+247,2025-26,15,Burnley,West Ham United,2,0,2,0,2,2,2,True,False,False,E4_Tactical_T7,0.401
+248,2025-26,15,Brighton and Hove Albion,Crystal Palace,2,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.248
+249,2025-26,15,Liverpool,Manchester City,2,0,0,0,0,0,0,False,True,False,E4_Tactical_T7,0.38
+250,2025-26,15,Tottenham,Newcastle United,2,0,0,0,2,0,2,True,False,False,E2_PQ_Talent,0.371
+251,2025-26,15,Chelsea,Leeds United,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.253
+252,2025-26,15,Everton,Bournemouth,2,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.265
+253,2025-26,15,West Ham United,Manchester United,1,2,2,2,2,2,2,False,True,False,E1_F2_Base,0.252
+254,2025-26,15,Sunderland,Liverpool,2,2,2,2,2,2,2,True,False,False,E5_Context_D7,0.539
+255,2025-26,15,Nottingham Forest,Wolverhampton Wanderers,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.253
+256,2025-26,15,Aston Villa,Brighton and Hove Albion,0,0,0,0,0,0,0,True,False,False,E2_PQ_Talent,0.586
+257,2025-26,15,Crystal Palace,Burnley,2,0,0,0,0,0,0,False,True,False,E5_Context_D7,0.139
+258,2025-26,15,Manchester City,Fulham,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.697
+259,2025-26,15,Brentford,Arsenal,1,2,2,2,2,2,2,False,True,False,E1_F2_Base,0.252
+260,2025-26,15,Wolverhampton Wanderers,Arsenal,1,2,2,2,2,2,2,False,True,False,E1_F2_Base,0.252
+261,2025-26,15,Aston Villa,Leeds United,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.253
+262,2025-26,15,Brentford,Brighton and Hove Albion,2,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.254
+263,2025-26,15,Chelsea,Burnley,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.253
+264,2025-26,15,West Ham United,Bournemouth,1,2,2,2,2,2,2,False,True,False,E4_Tactical_T7,0.263
+265,2025-26,15,Manchester City,Newcastle United,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.66
+266,2025-26,15,Crystal Palace,Wolverhampton Wanderers,0,0,0,0,0,0,0,True,False,False,E2_PQ_Talent,0.605
+267,2025-26,15,Nottingham Forest,Liverpool,2,2,2,2,2,2,2,True,False,False,E2_PQ_Talent,0.466
+268,2025-26,15,Sunderland,Fulham,2,0,0,0,0,0,0,False,True,False,E2_PQ_Talent,0.365
+269,2025-26,15,Tottenham,Arsenal,2,2,2,2,2,2,2,True,False,False,E4_Tactical_T7,0.588
+270,2025-26,15,Everton,Manchester United,2,0,0,0,0,0,0,False,True,False,E4_Tactical_T7,0.339
+271,2025-26,15,Wolverhampton Wanderers,Aston Villa,0,2,2,2,2,2,2,False,True,False,E1_F2_Base,0.222
+272,2025-26,15,Leeds United,Manchester City,2,2,2,2,2,2,2,True,False,False,E4_Tactical_T7,0.574
+273,2025-26,15,Newcastle United,Everton,2,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.245
+274,2025-26,15,Bournemouth,Sunderland,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.253
+275,2025-26,15,Burnley,Brentford,2,2,2,2,2,2,2,True,False,False,E4_Tactical_T7,0.52
+276,2025-26,15,Liverpool,West Ham United,0,0,0,0,0,0,0,True,False,False,E5_Context_D7,0.705
+277,2025-26,15,Brighton and Hove Albion,Nottingham Forest,0,0,0,0,0,0,0,True,False,False,E2_PQ_Talent,0.542
+278,2025-26,15,Fulham,Tottenham,0,0,0,0,0,0,0,True,False,False,E2_PQ_Talent,0.546
+279,2025-26,15,Manchester United,Crystal Palace,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.556
+280,2025-26,15,Arsenal,Chelsea,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.64
+281,2025-26,15,Bournemouth,Brentford,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.252
+282,2025-26,15,Everton,Burnley,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.646
+283,2025-26,15,Leeds United,Sunderland,2,0,0,0,0,0,0,False,True,False,E5_Context_D7,0.254
+284,2025-26,15,Wolverhampton Wanderers,Liverpool,0,2,2,2,2,2,2,False,True,False,E1_F2_Base,0.211
+285,2025-26,15,Newcastle United,Manchester United,0,0,0,0,0,0,0,True,False,False,E1_F2_Base,0.43
+286,2025-26,15,Manchester City,Nottingham Forest,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.253
+287,2025-26,15,Fulham,West Ham United,2,0,0,0,0,0,0,False,True,False,E5_Context_D7,0.212
+288,2025-26,15,Brighton and Hove Albion,Arsenal,2,2,2,2,2,2,2,True,False,False,E4_Tactical_T7,0.506
+289,2025-26,15,Aston Villa,Chelsea,2,0,0,0,0,0,0,False,True,False,E5_Context_D7,0.278
+290,2025-26,15,Tottenham,Crystal Palace,2,0,0,0,2,2,2,True,False,False,E4_Tactical_T7,0.42
+291,2025-26,15,Burnley,Bournemouth,1,2,2,2,2,2,2,False,True,False,E4_Tactical_T7,0.257
+292,2025-26,15,Sunderland,Brighton and Hove Albion,2,2,2,2,2,2,2,True,False,False,E4_Tactical_T7,0.422
+293,2025-26,15,Arsenal,Everton,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.699
+294,2025-26,15,Chelsea,Newcastle United,2,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.219
+295,2025-26,15,West Ham United,Manchester City,1,2,2,2,2,2,2,False,True,False,E1_F2_Base,0.252
+296,2025-26,15,Crystal Palace,Leeds United,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.253
+297,2025-26,15,Manchester United,Aston Villa,0,0,0,0,0,0,0,True,False,False,E5_Context_D7,0.457
+298,2025-26,15,Nottingham Forest,Fulham,1,0,0,0,0,0,0,False,True,False,E3_Availability,0.253
+299,2025-26,15,Liverpool,Tottenham,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.253
+300,2025-26,15,Brentford,Wolverhampton Wanderers,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.253
+301,2025-26,15,Bournemouth,Manchester United,1,0,0,0,0,0,0,False,True,False,E3_Availability,0.253
+302,2025-26,15,Brighton and Hove Albion,Liverpool,0,0,2,0,0,0,0,True,False,False,E5_Context_D7,0.394
+303,2025-26,15,Fulham,Burnley,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.649
+304,2025-26,15,Everton,Chelsea,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.424
+305,2025-26,15,Leeds United,Brentford,1,0,2,2,2,2,2,False,True,False,E4_Tactical_T7,0.289
+306,2025-26,15,Newcastle United,Sunderland,2,0,0,0,0,0,0,False,True,False,E5_Context_D7,0.196
+307,2025-26,15,Aston Villa,West Ham United,0,0,0,0,0,0,0,True,False,False,E5_Context_D7,0.631
+308,2025-26,15,Tottenham,Nottingham Forest,2,0,0,0,0,0,0,False,True,False,E4_Tactical_T7,0.346
+309,2025-26,15,West Ham United,Wolverhampton Wanderers,0,0,0,0,0,0,0,True,False,False,E2_PQ_Talent,0.518
+310,2025-26,15,Arsenal,Bournemouth,2,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.127
+311,2025-26,15,Brentford,Everton,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.252
+312,2025-26,15,Burnley,Brighton and Hove Albion,2,2,2,2,2,2,2,True,False,False,E2_PQ_Talent,0.515
+313,2025-26,15,Liverpool,Fulham,0,0,0,0,0,0,0,True,False,False,E2_PQ_Talent,0.6
+314,2025-26,15,Chelsea,Manchester City,2,2,2,2,2,2,2,True,False,False,E5_Context_D7,0.412
+315,2025-26,15,Sunderland,Tottenham,0,0,0,0,0,0,0,True,False,False,E2_PQ_Talent,0.487
+316,2025-26,15,Nottingham Forest,Aston Villa,1,2,2,2,2,2,2,False,True,False,E4_Tactical_T7,0.276
+317,2025-26,15,Crystal Palace,Newcastle United,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.475
+318,2025-26,15,Manchester United,Leeds United,2,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.166
+319,2025-26,15,Brentford,Fulham,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.252
+320,2025-26,15,Leeds United,Wolverhampton Wanderers,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.566
+321,2025-26,15,Newcastle United,Bournemouth,2,0,0,0,0,0,0,False,True,False,E4_Tactical_T7,0.324
+322,2025-26,15,Tottenham,Brighton and Hove Albion,1,2,2,2,2,2,2,False,True,False,E1_F2_Base,0.252
+323,2025-26,15,Chelsea,Manchester United,2,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.265
+324,2025-26,15,Aston Villa,Sunderland,0,0,0,0,0,0,0,True,False,False,E5_Context_D7,0.667
+325,2025-26,15,Everton,Liverpool,2,0,2,0,0,2,0,True,False,True,E2_PQ_Talent,0.379
+326,2025-26,15,Nottingham Forest,Burnley,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.658
+327,2025-26,15,Manchester City,Arsenal,0,0,0,0,0,0,0,True,False,False,E2_PQ_Talent,0.481
+328,2025-26,15,Crystal Palace,West Ham United,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.253
+329,2025-26,15,Brighton and Hove Albion,Chelsea,0,0,0,0,0,0,0,True,False,False,E2_PQ_Talent,0.472
+330,2025-26,15,Burnley,Manchester City,2,2,2,2,2,2,2,True,False,False,E4_Tactical_T7,0.742
+331,2025-26,15,Bournemouth,Leeds United,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.253
+332,2025-26,15,Sunderland,Nottingham Forest,2,0,0,0,0,0,0,False,True,False,E2_PQ_Talent,0.33
+333,2025-26,15,Fulham,Aston Villa,0,0,2,0,2,2,2,True,False,True,E1_F2_Base,0.379
+334,2025-26,15,Liverpool,Crystal Palace,0,0,0,0,0,0,0,True,False,False,E2_PQ_Talent,0.607
+335,2025-26,15,West Ham United,Everton,0,0,0,0,0,0,0,True,False,False,E1_F2_Base,0.405
+336,2025-26,15,Wolverhampton Wanderers,Tottenham,2,0,0,0,0,0,0,False,True,False,E4_Tactical_T7,0.317
+337,2025-26,15,Arsenal,Newcastle United,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.695
+338,2025-26,15,Manchester United,Brentford,0,0,0,0,0,0,0,True,False,False,E5_Context_D7,0.56
+339,2025-26,15,Leeds United,Burnley,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.649
+340,2025-26,15,Brentford,West Ham United,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.561
+341,2025-26,15,Newcastle United,Brighton and Hove Albion,0,0,0,0,0,0,0,True,False,False,E1_F2_Base,0.425
+342,2025-26,15,Wolverhampton Wanderers,Sunderland,1,0,0,0,0,0,0,False,True,False,E4_Tactical_T7,0.259
+343,2025-26,15,Arsenal,Fulham,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.677
+344,2025-26,15,Aston Villa,Tottenham,2,0,0,0,0,0,0,False,True,False,E5_Context_D7,0.177
+345,2025-26,15,Manchester United,Liverpool,0,0,0,0,0,0,0,True,False,False,E1_F2_Base,0.41
+346,2025-26,15,Bournemouth,Crystal Palace,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.52
+347,2025-26,15,Chelsea,Nottingham Forest,2,0,0,0,0,0,0,False,True,False,E5_Context_D7,0.229
+348,2025-26,15,Everton,Manchester City,1,2,2,2,2,2,2,False,True,False,E1_F2_Base,0.252
+349,2025-26,15,Liverpool,Chelsea,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.253
+350,2025-26,15,Brighton and Hove Albion,Wolverhampton Wanderers,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.69
+351,2025-26,15,Fulham,Bournemouth,2,0,0,0,0,0,0,False,True,False,E2_PQ_Talent,0.322
+352,2025-26,15,Sunderland,Manchester United,1,2,2,2,2,2,2,False,True,False,E1_F2_Base,0.252
+353,2025-26,15,Manchester City,Brentford,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.695
+354,2025-26,15,Nottingham Forest,Newcastle United,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.252
+355,2025-26,15,Burnley,Aston Villa,1,2,2,2,2,2,2,False,True,False,E1_F2_Base,0.252
+356,2025-26,15,Crystal Palace,Everton,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.252
+357,2025-26,15,West Ham United,Arsenal,2,2,2,2,2,2,2,True,False,False,E4_Tactical_T7,0.581
+358,2025-26,15,Tottenham,Leeds United,1,0,0,0,0,0,0,False,True,False,E2_PQ_Talent,0.253
+359,2025-26,15,Manchester City,Crystal Palace,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.693
+360,2025-26,15,Aston Villa,Liverpool,0,0,0,0,0,0,0,True,False,False,E5_Context_D7,0.47
+361,2025-26,15,Manchester United,Nottingham Forest,0,0,0,0,0,0,0,True,False,False,E5_Context_D7,0.561
+362,2025-26,15,Brentford,Crystal Palace,1,0,0,0,0,0,0,False,True,False,E4_Tactical_T7,0.254
+363,2025-26,15,Everton,Sunderland,2,0,0,0,0,0,0,False,True,False,E5_Context_D7,0.201
+364,2025-26,15,Leeds United,Brighton and Hove Albion,0,0,2,0,0,0,0,True,False,False,E5_Context_D7,0.43
+365,2025-26,15,Wolverhampton Wanderers,Fulham,1,2,2,2,2,2,2,False,True,False,E4_Tactical_T7,0.261
+366,2025-26,15,Newcastle United,West Ham United,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.575
+367,2025-26,15,Arsenal,Burnley,0,0,0,0,0,0,0,True,False,False,E4_Tactical_T7,0.804
+368,2025-26,15,Chelsea,Tottenham,0,0,0,0,0,0,0,True,False,False,E2_PQ_Talent,0.581
+369,2025-26,15,Bournemouth,Manchester City,1,2,2,2,2,2,2,False,True,False,E1_F2_Base,0.252
+370,2025-26,15,Nottingham Forest,Bournemouth,1,0,0,0,0,0,0,False,True,False,E4_Tactical_T7,0.277
+371,2025-26,15,Manchester City,Aston Villa,2,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.163
+372,2025-26,15,Sunderland,Chelsea,0,2,2,2,2,2,2,False,True,False,E1_F2_Base,0.37
+373,2025-26,15,Liverpool,Brentford,1,0,0,0,0,0,0,False,True,False,E1_F2_Base,0.253
+374,2025-26,15,Tottenham,Everton,0,0,0,0,0,0,0,True,False,False,E1_F2_Base,0.401
+375,2025-26,15,Crystal Palace,Arsenal,2,2,2,2,2,2,2,True,False,False,E4_Tactical_T7,0.565
+376,2025-26,15,Burnley,Wolverhampton Wanderers,1,0,0,0,0,0,0,False,True,False,E4_Tactical_T7,0.279
+377,2025-26,15,Brighton and Hove Albion,Manchester United,2,0,0,0,0,0,0,False,True,False,E5_Context_D7,0.332
+378,2025-26,15,Fulham,Newcastle United,0,0,0,0,0,0,0,True,False,False,E1_F2_Base,0.441
+379,2025-26,15,West Ham United,Leeds United,0,0,0,0,0,0,0,True,False,False,E1_F2_Base,0.443

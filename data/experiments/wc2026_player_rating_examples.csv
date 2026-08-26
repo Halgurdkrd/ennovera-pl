@@ -1,0 +1,16 @@
+player_name,matched_name,position,club_team,nationality,raw_fc26_ovr,fc26_sho,fc26_pas,fc26_def,fc26_gk_ref,ennovera_display_rating,why_different_from_ovr
+Harry Kane,Harry Kane,ST,FC Bayern München,England,89,92,83,48,0,83,Scaled through position anchor (lo=45) + 65% quality + 25% form + 10% exp
+Lionel Messi,Lionel Messi,RW,Inter Miami CF,Argentina,86,85,85,33,0,76,Scaled through position anchor (lo=45) + 65% quality + 25% form + 10% exp
+Kylian Mbappé,Kylian Mbappé,ST,Real Madrid,France,91,90,81,37,0,84,Scaled through position anchor (lo=45) + 65% quality + 25% form + 10% exp
+Erling Haaland,Erling Haaland,ST,Manchester City,Norway,90,91,70,45,0,84,Scaled through position anchor (lo=45) + 65% quality + 25% form + 10% exp
+Mohamed Salah,Mohamed Salah,RM,Liverpool,Egypt,91,88,86,45,0,82,Scaled through position anchor (lo=57) + 65% quality + 25% form + 10% exp
+Jude Bellingham,Jude Bellingham,CAM,Real Madrid,England,90,86,83,78,0,81,Scaled through position anchor (lo=45) + 65% quality + 25% form + 10% exp
+Bukayo Saka,Bukayo Saka,RW,Arsenal,England,88,82,85,60,0,77,Scaled through position anchor (lo=45) + 65% quality + 25% form + 10% exp
+Rodri,Rodri,CDM,Manchester City,Spain,90,80,86,86,0,81,Scaled through position anchor (lo=57) + 65% quality + 25% form + 10% exp
+Declan Rice,Declan Rice,CDM,Arsenal,England,87,73,84,83,0,77,Scaled through position anchor (lo=57) + 65% quality + 25% form + 10% exp
+Virgil van Dijk,Virgil van Dijk,CB,Liverpool,Holland,90,60,72,90,0,80,Scaled through position anchor (lo=55) + 65% quality + 25% form + 10% exp
+William Saliba,William Saliba,CB,Arsenal,France,87,39,68,87,0,74,Scaled through position anchor (lo=55) + 65% quality + 25% form + 10% exp
+Alisson,Alisson,GK,Liverpool,Brazil,89,85,86,56,89,77,Scaled through position anchor (lo=57) + 65% quality + 25% form + 10% exp
+David Raya,David Raya,GK,Arsenal,Spain,87,84,87,62,87,72,Scaled through position anchor (lo=57) + 65% quality + 25% form + 10% exp
+Cole Palmer,Cole Palmer,CAM,Chelsea,England,87,83,87,50,0,76,Scaled through position anchor (lo=45) + 65% quality + 25% form + 10% exp
+Phil Foden,Phil Foden,RW,Manchester City,England,85,81,82,57,0,73,Scaled through position anchor (lo=45) + 65% quality + 25% form + 10% exp

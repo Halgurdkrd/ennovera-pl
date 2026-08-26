@@ -1,0 +1,8 @@
+model,val_acc,val_ll,hold_correct,hold_acc,hold_ll,hold_brier,sp60_picks,sp60_hits,sp60_acc,historical_dependence
+Candidate F2 (Baseline),51.32,1.00326,184,48.42,1.02999,0.6192,55,37,67.27,82.6%
+Candidate M1-D (Baseline),51.05,0.99918,183,48.16,1.0294,0.6188,65,42,64.62,76.5%
+Candidate PQ7 (Corrected),52.11,0.99456,184,48.42,1.02976,0.6194,91,56,61.54,68.4%
+LINEUP-ORACLE (Mode B Confirmed XI),52.37,0.99523,184,48.42,1.03138,0.6191,95,61,64.21,65.0%
+T7 Tactical Matchup Expert,52.37,0.99455,188,49.47,1.02835,0.618,95,57,60.0,60.0%
+DATA-04 D7 (European Form),52.37,0.99657,188,49.47,1.02713,0.6174,89,57,64.04,55.0%
+DATA-04 Peak Hybrid (50% Hist / 50% Squad),52.63,0.9935,189,49.74,1.0271,0.6172,92,59,64.13,50.0%

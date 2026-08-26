@@ -1,0 +1,11 @@
+fixture,actual,m2_probs,pred,correct,log_loss
+Arsenal vs Coventry City,H,"[0.744, 0.178, 0.078]",H,True,0.2957
+Hull City vs Manchester United,H,"[0.321, 0.264, 0.416]",A,False,1.1377
+Everton vs Crystal Palace,H,"[0.404, 0.243, 0.354]",H,True,0.907
+Ipswich Town vs Sunderland,H,"[0.366, 0.268, 0.366]",H,True,1.0049
+Nottingham Forest vs Leeds United,A,"[0.424, 0.298, 0.278]",H,False,1.2799
+Brentford vs Tottenham,H,"[0.592, 0.22, 0.188]",H,True,0.5245
+Brighton and Hove Albion vs Aston Villa,H,"[0.527, 0.272, 0.201]",H,True,0.6401
+Manchester City vs Bournemouth,H,"[0.705, 0.206, 0.089]",H,True,0.3497
+Newcastle United vs Liverpool,D,"[0.468, 0.243, 0.289]",H,False,1.4167
+Fulham vs Chelsea,A,"[0.537, 0.263, 0.2]",H,False,1.6119

@@ -1,0 +1,2 @@
+total_holdout_matches,total_predictions_flipped,flipped_pct,wrong_to_correct,correct_to_wrong,net_correct_gain,holdout_acc_m1_d,holdout_acc_lineup_oracle
+380,6,1.6,3,2,1,48.16,48.42

@@ -1,0 +1,10 @@
+subset,match_count,share_pct
+All 3 Core Experts Correct,168,44.21
+M3 Peak ONLY Correct,1,0.26
+S2 Dixon-Coles ONLY Correct,7,1.84
+C-PLAYER ONLY Correct,4,1.05
+All 3 Core Experts WRONG,177,46.58
+CORE-3 ORACLE CEILING (M3 + S2 + PLAYER),203,53.42
+CORE-4 ORACLE CEILING (+ Tactical),223,58.68
+CORE-5 ORACLE CEILING (+ HybridRaw),240,63.16
+FULL MULTI-PARADIGM FROZEN ORACLE,228,60.0

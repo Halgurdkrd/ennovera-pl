@@ -1,0 +1,162 @@
+[
+  {
+    "team": "Arsenal",
+    "structural_history_share_pct": 77.1,
+    "variance_history_share_pct": 82.6,
+    "variance_player_share_pct": 17.4,
+    "continuity_score": 0.88,
+    "trust_history_recommendation": "HIGH"
+  },
+  {
+    "team": "Aston Villa",
+    "structural_history_share_pct": 77.1,
+    "variance_history_share_pct": 82.6,
+    "variance_player_share_pct": 17.4,
+    "continuity_score": 0.88,
+    "trust_history_recommendation": "HIGH"
+  },
+  {
+    "team": "Bournemouth",
+    "structural_history_share_pct": 77.1,
+    "variance_history_share_pct": 82.6,
+    "variance_player_share_pct": 17.4,
+    "continuity_score": 0.88,
+    "trust_history_recommendation": "HIGH"
+  },
+  {
+    "team": "Brentford",
+    "structural_history_share_pct": 77.1,
+    "variance_history_share_pct": 82.6,
+    "variance_player_share_pct": 17.4,
+    "continuity_score": 0.88,
+    "trust_history_recommendation": "HIGH"
+  },
+  {
+    "team": "Brighton and Hove Albion",
+    "structural_history_share_pct": 77.1,
+    "variance_history_share_pct": 82.6,
+    "variance_player_share_pct": 17.4,
+    "continuity_score": 0.88,
+    "trust_history_recommendation": "HIGH"
+  },
+  {
+    "team": "Chelsea",
+    "structural_history_share_pct": 77.1,
+    "variance_history_share_pct": 82.6,
+    "variance_player_share_pct": 17.4,
+    "continuity_score": 0.88,
+    "trust_history_recommendation": "HIGH"
+  },
+  {
+    "team": "Coventry City",
+    "structural_history_share_pct": 77.1,
+    "variance_history_share_pct": 77.0,
+    "variance_player_share_pct": 23.0,
+    "continuity_score": 0.6,
+    "trust_history_recommendation": "LOW"
+  },
+  {
+    "team": "Crystal Palace",
+    "structural_history_share_pct": 77.1,
+    "variance_history_share_pct": 82.6,
+    "variance_player_share_pct": 17.4,
+    "continuity_score": 0.88,
+    "trust_history_recommendation": "HIGH"
+  },
+  {
+    "team": "Everton",
+    "structural_history_share_pct": 77.1,
+    "variance_history_share_pct": 82.6,
+    "variance_player_share_pct": 17.4,
+    "continuity_score": 0.88,
+    "trust_history_recommendation": "HIGH"
+  },
+  {
+    "team": "Fulham",
+    "structural_history_share_pct": 77.1,
+    "variance_history_share_pct": 82.6,
+    "variance_player_share_pct": 17.4,
+    "continuity_score": 0.88,
+    "trust_history_recommendation": "HIGH"
+  },
+  {
+    "team": "Hull City",
+    "structural_history_share_pct": 77.1,
+    "variance_history_share_pct": 77.0,
+    "variance_player_share_pct": 23.0,
+    "continuity_score": 0.6,
+    "trust_history_recommendation": "LOW"
+  },
+  {
+    "team": "Ipswich Town",
+    "structural_history_share_pct": 77.1,
+    "variance_history_share_pct": 77.0,
+    "variance_player_share_pct": 23.0,
+    "continuity_score": 0.6,
+    "trust_history_recommendation": "LOW"
+  },
+  {
+    "team": "Leeds United",
+    "structural_history_share_pct": 77.1,
+    "variance_history_share_pct": 77.0,
+    "variance_player_share_pct": 23.0,
+    "continuity_score": 0.6,
+    "trust_history_recommendation": "LOW"
+  },
+  {
+    "team": "Liverpool",
+    "structural_history_share_pct": 77.1,
+    "variance_history_share_pct": 82.6,
+    "variance_player_share_pct": 17.4,
+    "continuity_score": 0.88,
+    "trust_history_recommendation": "HIGH"
+  },
+  {
+    "team": "Manchester City",
+    "structural_history_share_pct": 77.1,
+    "variance_history_share_pct": 82.6,
+    "variance_player_share_pct": 17.4,
+    "continuity_score": 0.88,
+    "trust_history_recommendation": "HIGH"
+  },
+  {
+    "team": "Manchester United",
+    "structural_history_share_pct": 77.1,
+    "variance_history_share_pct": 82.6,
+    "variance_player_share_pct": 17.4,
+    "continuity_score": 0.88,
+    "trust_history_recommendation": "HIGH"
+  },
+  {
+    "team": "Newcastle United",
+    "structural_history_share_pct": 77.1,
+    "variance_history_share_pct": 82.6,
+    "variance_player_share_pct": 17.4,
+    "continuity_score": 0.88,
+    "trust_history_recommendation": "HIGH"
+  },
+  {
+    "team": "Nottingham Forest",
+    "structural_history_share_pct": 77.1,
+    "variance_history_share_pct": 82.6,
+    "variance_player_share_pct": 17.4,
+    "continuity_score": 0.88,
+    "trust_history_recommendation": "HIGH"
+  },
+  {
+    "team": "Tottenham",
+    "structural_history_share_pct": 77.1,
+    "variance_history_share_pct": 80.0,
+    "variance_player_share_pct": 20.0,
+    "continuity_score": 0.75,
+    "trust_history_recommendation": "HIGH"
+  },
+  {
+    "team": "Sunderland",
+    "structural_history_share_pct": 77.1,
+    "variance_history_share_pct": 77.0,
+    "variance_player_share_pct": 23.0,
+    "continuity_score": 0.6,
+    "trust_history_recommendation": "LOW"
+  }
+]

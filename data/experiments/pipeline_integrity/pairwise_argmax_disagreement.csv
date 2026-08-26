@@ -1,0 +1,12 @@
+,F2,M1-D,PQ7,Availability,Tactical_T7,Context_D7,DATA04_Hybrid,M3-E,M3-G,R6_Hierarchical,R7_Tree_Disagreement
+F2,0,3,10,27,10,10,8,10,9,8,11
+M1-D,3,0,7,30,9,9,7,9,8,7,10
+PQ7,10,7,0,37,8,8,6,8,7,6,9
+Availability,27,30,37,0,33,35,33,35,34,33,34
+Tactical_T7,10,9,8,33,0,6,2,2,1,2,1
+Context_D7,10,9,8,35,6,0,4,4,5,4,5
+DATA04_Hybrid,8,7,6,33,2,4,0,2,1,0,3
+M3-E,10,9,8,35,2,4,2,0,1,2,1
+M3-G,9,8,7,34,1,5,1,1,0,1,2
+R6_Hierarchical,8,7,6,33,2,4,0,2,1,0,3
+R7_Tree_Disagreement,11,10,9,34,1,5,3,1,2,3,0

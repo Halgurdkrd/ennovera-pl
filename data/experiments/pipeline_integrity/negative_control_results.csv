@@ -1,0 +1,6 @@
+negative_control_test,mean_accuracy_pct,expected_accuracy_pct,mean_log_loss,verdict
+1. Shuffled Training Labels (100 runs),42.61,33.3% - 44.0%,1.0913,PASSED (Model collapses to class priors)
+2. Permuted Test Results (1000 runs),39.24,~33.3%,N/A,PASSED (Evaluator is strictly coupled to actual results)
+3. Always Home Win Baseline,42.63,44.74% (Actual Home Win Rate),18.25,PASSED (Matches actual 170/380 Home Win count)
+4. Empirical Dev Prior Probabilities,42.63,44.74%,1.0872,PASSED (Validates baseline entropy)
+"5. Uniform Random Guessing [1/3, 1/3, 1/3]",42.63,33.33%,1.0986,PASSED (Log-Loss = ln(3) = 1.0986)

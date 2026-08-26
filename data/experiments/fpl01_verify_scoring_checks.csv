@@ -1,0 +1,8 @@
+test_case,expected_pts,computed_pts,status,expected_extra,computed_extra,expected_autosub,computed_autosub
+"Standard Starter Appearance (90m, 1 Goal, CS)",12.0,12.0,PASS,,,,
+"Goalkeeper 90m, CS, 6 Saves (+2 saves pts), 2 Bonus",10.0,10.0,PASS,,,,
+"Defender Conceding 4 Goals (-2 pts), 90m",0.0,0.0,PASS,,,,
+Captain 90m (8 pts raw) -> Final Squad Contribution,,,PASS,8.0,8.0,,
+Captain 0m -> Vice-Captain (6 pts raw) Doubled,,,PASS,6.0,6.0,,
+GK No-Show -> Bench GK (6 pts) Autosubbed In,,,PASS,,,6.0,6.0
+Outfield No-Show -> Bench 1 Autosubbed (Formation Legal),,,PASS,,,5.0,5.0

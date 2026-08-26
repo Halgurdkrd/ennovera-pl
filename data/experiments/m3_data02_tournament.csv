@@ -1,0 +1,8 @@
+model,val_acc,val_ll,hold_acc,hold_ll,hold_brier,sp60_acc,sp60_cov,sp60_cnt
+T7: Nonlinear ML Tactical Expert (HGB),52.37,0.99455,49.47,1.02835,0.6179,60.0,25.0,95
+T0: Corrected PQ7 Baseline,52.11,0.99456,48.16,1.02976,0.6194,61.54,23.9,91
+T3: Matchup Interaction Model,51.58,0.9964,48.16,1.03008,0.6192,59.04,21.8,83
+T2: Latent Tactical Factors (PCA),51.58,0.99525,48.16,1.03069,0.62,61.7,24.7,94
+T1: Raw Tactical Diffs (PPDA/Deep/Tilt),51.84,0.99532,47.89,1.03093,0.6202,61.7,24.7,94
+T5: Tactical + Matchup Fusion,52.11,0.99537,48.16,1.03152,0.6206,62.11,25.0,95
+Diagnostic: Pure Tactical (Zero Identity),50.79,1.01105,47.11,1.05266,0.6346,59.69,33.9,129

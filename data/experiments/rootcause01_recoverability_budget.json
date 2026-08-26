@@ -1,0 +1,16 @@
+{
+  "total_holdout_errors": 191,
+  "group_3_market_correct_ennovera_wrong": 19,
+  "draw_decision_rule_recoverable": 5,
+  "promoted_team_transition_recoverable": 4,
+  "conservative_recoverable_matches": 19,
+  "optimistic_recoverable_matches": 28,
+  "no_demonstrated_prematch_solution_matches": 163,
+  "current_accuracy": "189 / 380 (49.74%)",
+  "conservative_accuracy_scenario": "208 / 380 (54.74%)",
+  "optimistic_accuracy_scenario": "217 / 380 (57.11%)",
+  "target_52_feasibility": "SUPPORTED (Requires +9 matches; 15 available in Group 3)",
+  "target_55_feasibility": "PLAUSIBLE BUT REQUIRES SOLVING DRAW & MARKET GAPS (+20 matches required; 24 optimistic available)",
+  "target_57_feasibility": "STRETCH (+28 matches required exceeds 24 optimistic pool)",
+  "target_60_feasibility": "NOT SUPPORTED BY PRE-MATCH DATA (+39 matches required exceeds all pre-match recoverable evidence)"
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "comparison": "M1-D (Adaptive Blend) vs F2 (Validation 24-25)",
+    "partition": "Validation",
+    "delta_ll": -0.00408,
+    "ci_dll": [
+      -0.00633,
+      -0.00185
+    ],
+    "p_candidate_better_pct": 99.9,
+    "delta_brier": -0.00295,
+    "ci_dbr": [
+      -0.00456,
+      -0.00138
+    ],
+    "delta_acc": -0.26,
+    "ci_dacc": [
+      -0.79,
+      0.0
+    ]
+  },
+  {
+    "comparison": "M1-D (Adaptive Blend) vs F2 (Research Test 25-26)",
+    "partition": "Research Test",
+    "delta_ll": -0.00059,
+    "ci_dll": [
+      -0.00267,
+      0.00147
+    ],
+    "p_candidate_better_pct": 72.5,
+    "delta_brier": -0.00033,
+    "ci_dbr": [
+      -0.00186,
+      0.00119
+    ],
+    "delta_acc": -0.26,
+    "ci_dacc": [
+      -0.79,
+      0.0
+    ]
+  },
+  {
+    "comparison": "M1-D (Adaptive Blend) vs F2 (Pooled 2022-2026)",
+    "partition": "Pooled Walk-Forward",
+    "delta_ll": -0.00287,
+    "ci_dll": [
+      -0.00399,
+      -0.00168
+    ],
+    "p_candidate_better_pct": 100.0,
+    "delta_brier": -0.00205,
+    "ci_dbr": [
+      -0.00285,
+      -0.00121
+    ],
+    "delta_acc": -0.2,
+    "ci_dacc": [
+      -0.46,
+      0.0
+    ]
+  },
+  {
+    "comparison": "M1-A (Player Only) vs F2 (Validation 24-25)",
+    "partition": "Validation",
+    "delta_ll": -0.00878,
+    "ci_dll": [
+      -0.02568,
+      0.01001
+    ],
+    "p_candidate_better_pct": 83.2,
+    "delta_brier": -0.00605,
+    "ci_dbr": [
+      -0.01745,
+      0.0063
+    ],
+    "delta_acc": 1.05,
+    "ci_dacc": [
+      -1.05,
+      3.16
+    ]
+  },
+  {
+    "comparison": "M1-A (Player Only) vs F2 (Research Test 25-26)",
+    "partition": "Research Test",
+    "delta_ll": 0.00785,
+    "ci_dll": [
+      -0.00869,
+      0.025
+    ],
+    "p_candidate_better_pct": 17.4,
+    "delta_brier": 0.00556,
+    "ci_dbr": [
+      -0.00556,
+      0.01706
+    ],
+    "delta_acc": -0.26,
+    "ci_dacc": [
+      -2.63,
+      1.84
+    ]
+  },
+  {
+    "comparison": "M1-A (Player Only) vs F2 (Pooled 2022-2026)",
+    "partition": "Pooled Walk-Forward",
+    "delta_ll": -0.00917,
+    "ci_dll": [
+      -0.0176,
+      -0.00074
+    ],
+    "p_candidate_better_pct": 98.2,
+    "delta_brier": -0.00622,
+    "ci_dbr": [
+      -0.01177,
+      -0.00063
+    ],
+    "delta_acc": 1.12,
+    "ci_dacc": [
+      0.0,
+      2.3
+    ]
+  }
+]

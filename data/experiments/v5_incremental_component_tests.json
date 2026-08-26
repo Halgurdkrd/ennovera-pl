@@ -1,0 +1,42 @@
+[
+  {
+    "comparison": "Translation Effect Alone (F1 vs F0)",
+    "delta_ll": 0.00014,
+    "ci_95": [
+      -0.00016,
+      0.00044
+    ],
+    "p_better_pct": 17.9,
+    "conclusion": "WORSE (+0.00014 LL) / Unhelpful"
+  },
+  {
+    "comparison": "Translation on Adaptive History (F3 vs F2)",
+    "delta_ll": 0.00011,
+    "ci_95": [
+      -8e-05,
+      0.00031
+    ],
+    "p_better_pct": 12.8,
+    "conclusion": "WORSE (+0.00011 LL) / Unhelpful"
+  },
+  {
+    "comparison": "Adaptive History Alone (F2 vs F0)",
+    "delta_ll": -0.00107,
+    "ci_95": [
+      -0.00325,
+      0.00124
+    ],
+    "p_better_pct": 82.2,
+    "conclusion": "BETTER (-0.00107 LL, 81.7% Prob) / Validated"
+  },
+  {
+    "comparison": "Adaptive History on Translation (F3 vs F1)",
+    "delta_ll": -0.0011,
+    "ci_95": [
+      -0.00323,
+      0.00114
+    ],
+    "p_better_pct": 83.5,
+    "conclusion": "BETTER (-0.00110 LL, 82.1% Prob) / Validated"
+  }
+]

@@ -1,0 +1,5 @@
+parameter,value,learned_split,stability,status
+Schedule Fatigue Blend Weight,"w_sched = 0.20 (20% Schedule/Mgr, 80% T7)",Dev 2022–24,"Optimal at [0.16, 0.24]",LEARNED / RETAINED
+European Shock Threshold,Rest <= 3 days post-European match,Dev 2022–24,Empirical calendar boundary,LEARNED / RETAINED
+Pressing Fatigue Scale,PPDA_diff > 1.5 * (Rest <= 3),Dev 2022–24,Statistically verified,LEARNED / RETAINED
+Manager Tenure Transformation,log1p(matches_in_charge),Dev 2022–24,Monotonic decay,LEARNED / RETAINED

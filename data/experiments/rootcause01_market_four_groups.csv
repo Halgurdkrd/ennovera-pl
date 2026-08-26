@@ -1,0 +1,5 @@
+group,match_count,share_pct,nature
+Group 1: Both Ennovera & Market Correct,165,43.42,Consensus Predictable Core
+"Group 2: Ennovera Correct, Market Wrong",24,6.32,Ennovera Specialist Edge
+"Group 3: Ennovera Wrong, Market Correct",19,5.0,Recoverable Pre-Match Information Gap
+Group 4: Both Ennovera & Market Wrong,172,45.26,High-Entropy / Unpredictable Parity / Event Variance

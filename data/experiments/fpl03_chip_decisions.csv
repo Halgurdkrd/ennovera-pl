@@ -1,0 +1,21 @@
+chip_type,policy_name,dev_points_gain,val_points_gain,status
+Triple Captain,TC-C (Haul-Prob Optimized & DGW Aware),32,18,LOCKED WINNER
+Triple Captain,TC-A (Highest Mean xP),24,12,ELIMINATED
+Triple Captain,TC-B (Expected Incremental TC Value),28,15,ELIMINATED
+Triple Captain,TC-D (Risk-Adjusted EV),26,14,ELIMINATED
+Triple Captain,TC-E (Pure DGW Aware),29,16,ELIMINATED
+Bench Boost,BB-B (Incremental Bench Value after Autosub),38,22,LOCKED WINNER
+Bench Boost,BB-A (Highest Predicted Bench xP),28,16,ELIMINATED
+Bench Boost,BB-C (Expected-Minutes Adjusted),34,19,ELIMINATED
+Bench Boost,BB-D (DGW-Aware Bench Value),36,20,ELIMINATED
+Bench Boost,BB-E (Risk-Adjusted Bench Value),32,18,ELIMINATED
+Free Hit,FH-E (Opportunity-Cost Adjusted EV),44,24,LOCKED WINNER
+Free Hit,FH-A (One-GW Squad EV Advantage),32,18,ELIMINATED
+Free Hit,FH-B (Blank-GW Specialist),38,20,ELIMINATED
+Free Hit,FH-C (Double-GW Specialist),36,19,ELIMINATED
+Free Hit,FH-D (Fixture-Concentration Optimizer),40,21,ELIMINATED
+Wildcard,WC-E (Opportunity-Cost/Reservation-Value Policy),78,42,LOCKED WINNER
+Wildcard,WC-A (3-GW Horizon),56,28,ELIMINATED
+Wildcard,WC-B (5-GW Horizon),68,36,ELIMINATED
+Wildcard,WC-C (8-GW Horizon),62,31,ELIMINATED
+Wildcard,WC-D (Squad Weakness + Future EV),72,38,ELIMINATED

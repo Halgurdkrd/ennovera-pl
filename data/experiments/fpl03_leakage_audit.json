@@ -1,0 +1,8 @@
+{
+  "leakage_violations": 0,
+  "future_data_used_for_transfers": false,
+  "future_data_used_for_chips": false,
+  "chip_timing_policy": "Leakage-safe reservation value with half-season expiry decay",
+  "chip_legality": "100% Legal under official 2025-26 rules (1 chip per GW, 4 chips per half)",
+  "status": "PASS"
+}

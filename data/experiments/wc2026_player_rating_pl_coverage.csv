@@ -1,0 +1,805 @@
+fpl_player_name,fpl_web_name,fpl_team_id,match_status,matched_fc26_name
+Fábio Ferreira Vieira,Fábio Vieira,1,MATCHED,Fábio Vieira
+Gabriel Fernando de Jesus,G.Jesus,1,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Gabriel dos Santos Magalhães,Gabriel,1,MATCHED,Gabriel
+Kai Havertz,Havertz,1,MATCHED,Kai Havertz
+Karl Hein,Hein,1,MATCHED,Karl Hein
+Jurriën Timber,J.Timber,1,MATCHED,Jurriën Timber
+Jorge Luiz Frello Filho,Jorginho,1,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Jakub Kiwior,Kiwior,1,MATCHED,Jakub Kiwior
+Gabriel Martinelli Silva,Martinelli,1,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Ethan Nwaneri,Nwaneri,1,MATCHED,Ethan Nwaneri
+Martin Ødegaard,Ødegaard,1,MATCHED,Martin Ødegaard
+David Raya Martin,Raya,1,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Declan Rice,Rice,1,MATCHED,Declan Rice
+Bukayo Saka,Saka,1,MATCHED,Bukayo Saka
+William Saliba,Saliba,1,MATCHED,William Saliba
+Thomas Partey,Thomas,1,MATCHED,Thomas Partey
+Kieran Tierney,Tierney,1,MATCHED,Kieran Tierney
+Tomiyasu Takehiro,Tomiyasu,1,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Leandro Trossard,Trossard,1,MATCHED,Leandro Trossard
+Benjamin White,White,1,MATCHED,Benjamin White
+Oleksandr Zinchenko,Zinchenko,1,MATCHED,Oleksandr Zinchenko
+Norberto Murara Neto,Neto,1,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Raheem Sterling,Sterling,1,MATCHED,Raheem Sterling
+Riccardo Calafiori,Calafiori,1,MATCHED,Riccardo Calafiori
+Myles Lewis-Skelly,Lewis-Skelly,1,MATCHED,Myles Lewis-Skelly
+Mikel Merino,Merino,1,MATCHED,Mikel Merino
+Salah-Eddine Oulad M'hand,Oulad M'hand,1,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Tommy Setford,Setford,1,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Maldini Kacurri,Kacurri,1,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Ismeal Kabia,Kabia,1,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Josh Nichols,Nichols,1,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Nathan Butler-Oyedeji,Butler-Oyedeji,1,MATCHED,Nathan Butler-Oyedeji
+Mikel Arteta,Arteta,1,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Jack Porter,Porter,1,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Jimi Gower,Gower,1,MATCHED,Jimi Gower
+Jack Henry-Francis,Jack Henry-Francis,1,MATCHED,Jack Henry-Francis
+Brayden Clarke,Clarke,1,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Leon Bailey,Bailey,2,MATCHED,Leon Bailey
+Ross Barkley,Barkley,2,MATCHED,Ross Barkley
+Enzo Barrenechea,Barrenechea,2,MATCHED,Enzo Barrenechea
+Emiliano Buendía Stati,Buendia,2,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Matty Cash,Cash,2,MATCHED,Matty Cash
+Leander Dendoncker,Dendoncker,2,MATCHED,Leander Dendoncker
+Moussa Diaby,Diaby,2,MATCHED,Moussa Diaby
+Diego Carlos Santos Silva,Diego Carlos,2,MATCHED,Diego Carlos
+Lucas Digne,Digne,2,MATCHED,Lucas Digne
+Lewis Dobbin,Dobbin,2,MATCHED,Lewis Dobbin
+Jhon Durán,Duran,2,MATCHED,Jhon Durán
+Joe Gauci,Gauci,2,MATCHED,Joe Gauci
+Kortney Hause,Hause,2,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Samuel Iling-Junior,Iling Jr,2,MATCHED,Samuel Iling-Junior
+Boubacar Kamara,Kamara,2,MATCHED,Boubacar Kamara
+Kaine Kesler-Hayden,Kesler-Hayden,2,MATCHED,Kaine Kesler-Hayden
+Ezri Konsa Ngoyo,Konsa,2,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Ian Maatsen,Maatsen,2,MATCHED,Ian Maatsen
+Filip Marschall,Marschall,2,MATCHED,Filip Marschall
+Emiliano Martínez Romero,Martinez,2,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+John McGinn,McGinn,2,MATCHED,John McGinn
+Tyrone Mings,Mings,2,MATCHED,Tyrone Mings
+Kosta Nedeljković,Nedeljkovic,2,MATCHED,Kosta Nedeljković
+Robin Olsen,Olsen,2,MATCHED,Robin Olsen
+Pau Torres,Pau,2,MATCHED,Pau Torres
+Jacob Ramsey,Ramsey,2,MATCHED,Jacob Ramsey
+Morgan Rogers,Rogers,2,MATCHED,Morgan Rogers
+Viljami Sinisalo,Sinisalo,2,MATCHED,Viljami Sinisalo
+Lino da Cruz Sousa,Sousa,2,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Youri Tielemans,Tielemans,2,MATCHED,Youri Tielemans
+Ollie Watkins,Watkins,2,MATCHED,Ollie Watkins
+Axel Disasi,Disasi,2,MATCHED,Axel Disasi
+Amadou Onana,Onana,2,MATCHED,Amadou Onana
+Marcus Rashford,Rashford,2,MATCHED,Marcus Rashford
+Lamare Bogarde,Bogarde,2,MATCHED,Lamare Bogarde
+Sil Swinkels,Swinkels,2,MATCHED,Sil Swinkels
+Oliwier Zych,Zych,2,MATCHED,Oliwier Zych
+Kadan Young,Young,2,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Ben Broggio,Broggio,2,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Jamaldeen Jimoh,Jimoh,2,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Donyell Malen,Malen,2,MATCHED,Donyell Malen
+Andrés García,A. Garcia,2,MATCHED,Andrés García
+Unai Emery,Emery,2,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Marco Asensio,M.Asensio,2,MATCHED,Marco Asensio
+Max Aarons,Aarons,3,MATCHED,Max Aarons
+Tyler Adams,Adams,3,MATCHED,Tyler Adams
+Jaidon Anthony,Anthony,3,MATCHED,Jaidon Anthony
+David Brooks,Brooks,3,MATCHED,David Brooks
+Ryan Christie,Christie,3,MATCHED,Ryan Christie
+Lewis Cook,Cook,3,MATCHED,Lewis Cook
+Enes Ünal,Enes Ünal,3,MATCHED,Enes Ünal
+Romain Faivre,Faivre,3,MATCHED,Romain Faivre
+Hamed Traorè,H.Traorè,3,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+James Hill,Hill,3,MATCHED,James Hill
+Daniel Jebbison,Jebbison,3,MATCHED,Daniel Jebbison
+Milos Kerkez,Kerkez,3,MATCHED,Milos Kerkez
+Justin Kluivert,Kluivert,3,MATCHED,Justin Kluivert
+Chris Mepham,Mepham,3,MATCHED,Chris Mepham
+Dango Ouattara,O.Dango,3,MATCHED,Dango Ouattara
+Alex Paulsen,Paulsen,3,MATCHED,Alex Paulsen
+Philip Billing,Philip,3,MATCHED,Philip Billing
+Alex Scott,Scott,3,MATCHED,Alex Scott
+Antoine Semenyo,Semenyo,3,MATCHED,Antoine Semenyo
+Marcos Senesi,Senesi,3,MATCHED,Marcos Senesi
+Luis Sinisterra,Sinisterra,3,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Adam Smith,Smith,3,MATCHED,Adam Smith
+Marcus Tavernier,Tavernier,3,MATCHED,Marcus Tavernier
+Mark Travers,Travers,3,MATCHED,Mark Travers
+Illia Zabarnyi,Zabarnyi,3,MATCHED,Illia Zabarnyi
+Kepa Arrizabalaga,Arrizabalaga,3,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Dean Huijsen,Huijsen,3,MATCHED,Dean Huijsen
+Julián Araujo Zúñiga,J.Araujo,3,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Will Dennis,Dennis,3,MATCHED,Will Dennis
+Francisco Evanilson de Lima Barbosa,Evanilson,3,MATCHED,Evanilson
+Max Kinsey,Kinsey,3,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Ben Winterburn,Winterburn,3,MATCHED,Ben Winterburn
+Archie Harris,Harris,3,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Remy Rees-Dottin,Rees-Dottin,3,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Matai Akinmboni,Akinmboni,3,MATCHED,Matai Akinmboni
+Julio Soler,Soler,3,MATCHED,Julio Soler
+Daniel Adu-Adjei,Adu-Adjei,3,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Dominic Sadi,Sadi,3,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Callan McKenna,McKenna,3,MATCHED,Callan McKenna
+Zain Silcott-Duberry,Silcott-Duberry,3,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Andoni Iraola,Iraola,3,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Kristoffer Ajer,Ajer,4,MATCHED,Kristoffer Ajer
+Ethan Brierley,Brierley,4,MATCHED,Ethan Brierley
+Nathan Collins,Collins,4,MATCHED,Nathan Collins
+Mikkel Damsgaard,Damsgaard,4,MATCHED,Mikkel Damsgaard
+Josh Dasilva,Dasilva,4,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Mark Flekken,Flekken,4,MATCHED,Mark Flekken
+Rico Henry,Henry,4,MATCHED,Rico Henry
+Aaron Hickey,Hickey,4,MATCHED,Aaron Hickey
+Vitaly Janelt,Janelt,4,MATCHED,Vitaly Janelt
+Mathias Jensen,Jensen,4,MATCHED,Mathias Jensen
+Kim Ji-soo,Ji-soo,4,MATCHED,Kim Ji Soo
+Yunus Emre Konak,Konak,4,MATCHED,Yunus Emre Konak
+Keane Lewis-Potter,Lewis-Potter,4,MATCHED,Keane Lewis-Potter
+Bryan Mbeumo,Mbeumo,4,MATCHED,Bryan Mbeumo
+Ben Mee,Mee,4,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Christian Nørgaard,Nørgaard,4,MATCHED,Christian Nørgaard
+Frank Onyeka,Onyeka,4,MATCHED,Frank Onyeka
+Myles Peart-Harris,Peart-Harris,4,MATCHED,Myles Peart-Harris
+Ethan Pinnock,Pinnock,4,MATCHED,Ethan Pinnock
+Mads Roerslev Rasmussen,Roerslev,4,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Kevin Schade,Schade,4,MATCHED,Kevin Schade
+Igor Thiago Nascimento Rodrigues,Thiago,4,MATCHED,Thiago
+Ivan Toney,Toney,4,MATCHED,Ivan Toney
+Hákon Valdimarsson,Valdimarsson,4,MATCHED,Hákon Valdimarsson
+Yoane Wissa,Wissa,4,MATCHED,Yoane Wissa
+Yehor Yarmoliuk,Yarmoliuk,4,MATCHED,Yehor Yarmoliuk
+Mathias Jorgensen,Zanka,4,MATCHED,Zanka
+Fábio Freitas Gouveia Carvalho,Carvalho,4,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Sepp van den Berg,Van den Berg,4,MATCHED,Sepp van den Berg
+Ryan Trevitt,Trevitt,4,MATCHED,Ryan Trevitt
+Gustavo Nunes Fernandes Gomes,G.Nunes,4,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Jayden Meghoma,Meghoma,4,MATCHED,Jayden Meghoma
+Tony Yogane,Yogane,4,MATCHED,Tony Yogane
+Paris Maghoma,Maghoma,4,MATCHED,Paris Maghoma
+Benjamin Arthur,Arthur,4,MATCHED,Arthur
+Thomas Frank,Frank,4,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Michael Kayode,Kayode,4,MATCHED,Michael Kayode
+Julian Eyestone,Eyestone,4,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Iwan Morgan,Morgan,4,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Benjamin Fredrick,Benjamin Fredrick,4,MATCHED,Benjamin Fredrick
+Simon Adingra,Adingra,5,MATCHED,Simon Adingra
+Benicio Baker-Boaitey,Baker-Boaitey,5,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Carlos Baleba,Baleba,5,MATCHED,Carlos Baleba
+Valentín Barco,Barco,5,MATCHED,Valentín Barco
+Amario Cozier-Duberry,Cozier-Duberry,5,MATCHED,Amario Cozier-Duberry
+Mahmoud Dahoud,Dahoud,5,MATCHED,Mahmoud Dahoud
+Lewis Dunk,Dunk,5,MATCHED,Lewis Dunk
+Pervis Estupiñán,Estupiñan,5,MATCHED,Pervis Estupiñán
+Billy Gilmour,Gilmour,5,MATCHED,Billy Gilmour
+Pascal Groß,Gross,5,MATCHED,Pascal Groß
+Jack Hinshelwood,Hinshelwood,5,MATCHED,Jack Hinshelwood
+Ibrahim Osman,I.Osman,5,MATCHED,Ibrahim Osman
+Igor Julio dos Santos de Paulo,Igor,5,MATCHED,Igor
+João Pedro Junqueira de Jesus,João Pedro,5,MATCHED,João Pedro
+Kacper Kozłowski,Kozlowski,5,MATCHED,Kacper Kozłowski
+Tariq Lamptey,Lamptey,5,MATCHED,Tariq Lamptey
+Solly March,March,5,MATCHED,Solly March
+Adrian Mazilu,Mazilu,5,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+James Milner,Milner,5,MATCHED,James Milner
+Yankuba Minteh,Minteh,5,MATCHED,Yankuba Minteh
+Mitoma Kaoru,Mitoma,5,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Jakub Moder,Moder,5,MATCHED,Jakub Moder
+Mark O’Mahony,O’Mahony,5,MATCHED,Mark O'Mahony
+Odeluga Offiah,Offiah,5,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Cameron Peupion,Peupion,5,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Jeremy Sarmiento Morante,Sarmiento,5,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Jason Steele,Steele,5,MATCHED,Jason Steele
+Deniz Undav,Undav,5,MATCHED,Deniz Undav
+Jan Paul van Hecke,Van Hecke,5,MATCHED,Jan Paul van Hecke
+Joël Veltman,Veltman,5,MATCHED,Joël Veltman
+Bart Verbruggen,Verbruggen,5,MATCHED,Bart Verbruggen
+Adam Webster,Webster,5,MATCHED,Adam Webster
+Danny Welbeck,Welbeck,5,MATCHED,Danny Welbeck
+Mats Wieffer,Wieffer,5,MATCHED,Mats Wieffer
+Brajan Gruda,Gruda,5,MATCHED,Brajan Gruda
+Yasin Ayari,Ayari,5,MATCHED,Yasin Ayari
+Andrew Moran,Moran,5,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Carl Rushworth,Rushworth,5,MATCHED,Carl Rushworth
+Georginio Rutter,Georginio,5,MATCHED,Georginio Rutter
+Ferdi Kadioglu,F.Kadıoğlu,5,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Matt O'Riley,O'Riley,5,MATCHED,Matt O'Riley
+Imari Samuels,Samuels,5,MATCHED,Imari Samuels
+Killian Cahill,Cahill,5,MATCHED,Killian Cahill
+Ruairi McConville,McConville,5,MATCHED,Ruairi McConville
+Jacob Slater,Slater,5,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Diego Gómez,Gómez,5,MATCHED,Diego Gómez
+Fabian Hürzeler,Hürzeler,5,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Joe Knight,Knight,5,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Eiran Cashin,Cashin,5,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Charlie Tasker,Charlie Tasker,5,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Freddie Simmonds,Freddie Simmonds,5,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Harry Howell,Harry Howell,5,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Andrey Nascimento dos Santos,Andrey Santos,6,MATCHED,Andrey Santos
+Ângelo Gabriel Borges Damaceno,Ângelo,6,MATCHED,Ângelo
+Benoît Badiashile,B.Badiashile,6,MATCHED,Benoît Badiashile
+Lucas Bergström,Bergström,6,MATCHED,Lucas Bergström
+Marcus Bettinelli,Bettinelli,6,MATCHED,Marcus Bettinelli
+Moisés Caicedo Corozo,Caicedo,6,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Cesare Casadei,Casadei,6,MATCHED,Cesare Casadei
+Trevoh Chalobah,Chalobah,6,MATCHED,Trevoh Chalobah
+Carney Chukwuemeka,Chukwuemeka,6,MATCHED,Carney Chukwuemeka
+Levi Colwill,Colwill,6,MATCHED,Levi Colwill
+Marc Cucurella Saseta,Cucurella,6,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+David Datro Fofana,D.D.Fofana,6,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Deivid Washington de Souza Eugênio,Deivid,6,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Kiernan Dewsbury-Hall,Dewsbury-Hall,6,MATCHED,Kiernan Dewsbury-Hall
+Enzo Fernández,Enzo,6,MATCHED,Enzo Fernández
+Conor Gallagher,Gallagher,6,MATCHED,Conor Gallagher
+Alfie Gilchrist,Gilchrist,6,MATCHED,Alfie Gilchrist
+Malo Gusto,Gusto,6,MATCHED,Malo Gusto
+Reece James,James,6,MATCHED,Reece James
+Omari Kellyman,Kellyman,6,MATCHED,Omari Kellyman
+Roméo Lavia,Lavia,6,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Romelu Lukaku Bolingoli,Lukaku,6,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Malang Sarr,M.Sarr,6,MATCHED,Malang Sarr
+Noni Madueke,Madueke,6,MATCHED,Noni Madueke
+Marc Guiu Paz,Marc Guiu,6,MATCHED,Marc Guiu
+Mykhailo Mudryk,Mudryk,6,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Nicolas Jackson,N.Jackson,6,MATCHED,Nicolas Jackson
+Christopher Nkunku,Nkunku,6,MATCHED,Christopher Nkunku
+Cole Palmer,Palmer,6,MATCHED,Cole Palmer
+Đorđe Petrović,Petrović,6,MATCHED,Đorđe Petrović
+Renato Palma Veiga,Renato Veiga,6,MATCHED,Renato Veiga
+Robert Sánchez,Sánchez,6,MATCHED,Robert Sánchez
+Tosin Adarabioyo,Tosin,6,MATCHED,Tosin Adarabioyo
+Wesley Fofana,W.Fofana,6,MATCHED,Wesley Fofana
+Jadon Sancho,Sancho,6,MATCHED,Jadon Sancho
+Pedro Lomba Neto,Neto,6,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Caleb Wiley,Wiley,6,MATCHED,Caleb Wiley
+Filip Jørgensen,Jørgensen,6,MATCHED,Filip Jörgensen
+João Félix Sequeira,João Félix,6,MATCHED,João Félix
+Samuel Rak-Sakyi,Rak-Sakyi,6,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Tyrique George,George,6,MATCHED,Tyrique George
+Josh Acheampong,Acheampong,6,MATCHED,Josh Acheampong
+Enzo Maresca,Maresca,6,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Mathis Amougou,Amougou,6,MATCHED,Mathis Amougou
+Aaron Anselmino,Anselmino,6,MATCHED,Aaron Anselmino
+Shumaira Mheuka,Mheuka,6,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Ishé Samuels-Smith,Samuels-Smith,6,MATCHED,Ishé Samuels-Smith
+Genesis Antwi,Genesis Antwi,6,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Eddie Nketiah,Nketiah,7,MATCHED,Eddie Nketiah
+Ben Chilwell,Chilwell,7,MATCHED,Ben Chilwell
+Naouirou Ahamada,Ahamada,7,MATCHED,Naouirou Ahamada
+Cheick Doucouré,C.Doucouré,7,MATCHED,Cheick Doucouré
+Chris Richards,C.Richards,7,MATCHED,Chris Richards
+Chadi Riad Dnanou,Chadi Riad,7,MATCHED,Chadi Riad
+Nathaniel Clyne,Clyne,7,MATCHED,Nathaniel Clyne
+Malcolm Ebiowei,Ebiowei,7,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Eberechi Eze,Eze,7,MATCHED,Eberechi Eze
+Marc Guéhi,Guéhi,7,MATCHED,Marc Guéhi
+Dean Henderson,Henderson,7,MATCHED,Dean Henderson
+Rob Holding,Holding,7,MATCHED,Rob Holding
+Will Hughes,Hughes,7,MATCHED,Will Hughes
+Daichi Kamada,Kamada,7,MATCHED,Daichi Kamada
+Jefferson Lerma Solís,Lerma,7,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Jean-Philippe Mateta,Mateta,7,MATCHED,Jean-Philippe Mateta
+Matheus França de Oliveira,M.França,7,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Remi Matthews,Matthews,7,MATCHED,Remi Matthews
+Tyrick Mitchell,Mitchell,7,MATCHED,Tyrick Mitchell
+Daniel Muñoz,Muñoz,7,MATCHED,Daniel Muñoz
+David Ozoh,Ozoh,7,MATCHED,David Ozoh
+Jesurun Rak-Sakyi,Rak-Sakyi,7,MATCHED,Jesurun Rak-Sakyi
+Jeffrey Schlupp,Schlupp,7,MATCHED,Jeffrey Schlupp
+Joel Ward,Ward,7,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Adam Wharton,Wharton,7,MATCHED,Adam Wharton
+Matt Turner,Turner,7,MATCHED,Matt Turner
+Ismaïla Sarr,I.Sarr,7,MATCHED,Ismaïla Sarr
+Franco Umeh-Chibueze,Umeh-Chibueze,7,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Justin Devenny,Devenny,7,MATCHED,Justin Devenny
+Asher Agbinone,Agbinone,7,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Kaden Rodney,Rodney,7,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Maxence Lacroix,Lacroix,7,MATCHED,Maxence Lacroix
+Caleb Kporha,Kporha,7,MATCHED,Caleb Kporha
+Zach Marsh,Marsh,7,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Romain Esse,Esse,7,MATCHED,Romain Esse
+Oliver Glasner,Glasner,7,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Armando Broja,Broja,8,MATCHED,Armando Broja
+Abdoulaye Doucouré,A.Doucoure,8,MATCHED,Abdoulaye Doucouré
+Norberto Bercique Gomes Betuncal,Beto,8,MATCHED,Beto
+Jarrad Branthwaite,Branthwaite,8,MATCHED,Jarrad Branthwaite
+Dominic Calvert-Lewin,Calvert-Lewin,8,MATCHED,Dominic Calvert-Lewin
+Séamus Coleman,Coleman,8,MATCHED,Séamus Coleman
+Idrissa Gueye,Gana,8,MATCHED,Idrissa Gueye
+James Garner,Garner,8,MATCHED,James Garner
+Jack Harrison,Harrison,8,MATCHED,Jack Harrison
+Mason Holgate,Holgate,8,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Tim Iroegbunam,Iroegbunam,8,MATCHED,Tim Iroegbunam
+João Neves Virgínia,J.Virginia,8,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Michael Keane,Keane,8,MATCHED,Michael Keane
+Neal Maupay,Maupay,8,MATCHED,Neal Maupay
+Dwight McNeil,McNeil,8,MATCHED,Dwight McNeil
+Vitalii Mykolenko,Mykolenko,8,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Iliman Ndiaye,Ndiaye,8,MATCHED,Iliman Ndiaye
+Nathan Patterson,Patterson,8,MATCHED,Nathan Patterson
+Jordan Pickford,Pickford,8,MATCHED,Jordan Pickford
+James Tarkowski,Tarkowski,8,MATCHED,James Tarkowski
+Youssef Ramalho Chermiti,Y. Chermiti,8,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Ashley Young,Young,8,MATCHED,Ashley Young
+Carlos Alcaraz Durán,Alcaraz,8,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Jesper Lindstrøm,Lindstrøm,8,MATCHED,Jesper Lindstrøm
+Jake O'Brien,O'Brien,8,MATCHED,Jake O'Brien
+Harrison Armstrong,Armstrong,8,MATCHED,Harrison Armstrong
+Jenson Metcalfe,Metcalfe,8,MATCHED,Jenson Metcalfe
+Asmir Begovic,Begovic,8,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Roman Dixon,Dixon,8,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Orel Mangala,Mangala,8,MATCHED,Orel Mangala
+Callum Bates,Bates,8,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Martin Sherif,Sherif,8,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+David Moyes,Moyes,8,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Isaac Heath,Heath,8,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Coby Ebere,Coby Ebere,8,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Reece Welch,Welch,8,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Reiss Nelson,Nelson,9,MATCHED,Reiss Nelson
+Emile Smith Rowe,Smith Rowe,9,MATCHED,Emile Smith Rowe
+Joachim Andersen,Andersen,9,MATCHED,Joachim Andersen
+Adama Traoré,Adama,9,MATCHED,Adama Traoré
+Andreas Hoelgebaum Pereira,Andreas,9,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Calvin Bassey,Bassey,9,MATCHED,Calvin Bassey
+Steven Benda,Benda,9,MATCHED,Steven Benda
+Tom Cairney,Cairney,9,MATCHED,Tom Cairney
+Timothy Castagne,Castagne,9,MATCHED,Timothy Castagne
+Issa Diop,Diop,9,MATCHED,Issa Diop
+Luke Harris,Harris,9,MATCHED,Luke Harris
+Alex Iwobi,Iwobi,9,MATCHED,Alex Iwobi
+Bernd Leno,Leno,9,MATCHED,Bernd Leno
+Saša Lukić,Lukić,9,MATCHED,Saša Lukić
+Kevin Mbabu,Mbabu,9,MATCHED,Kevin Mbabu
+Rodrigo Muniz Carvalho,Muniz,9,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Raúl Jiménez,Raúl,9,MATCHED,Raúl Jiménez
+Tim Ream,Ream,9,MATCHED,Tim Ream
+Harrison Reed,Reed,9,MATCHED,Harrison Reed
+Antonee Robinson,Robinson,9,MATCHED,Antonee Robinson
+Jay Stansfield,Stansfield,9,MATCHED,Jay Stansfield
+Kenny Tete,Tete,9,MATCHED,Kenny Tete
+Carlos Vinícius Alves Morais,Vinicius,9,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Harry Wilson,Wilson,9,MATCHED,Harry Wilson
+Ryan Sessegnon,Sessegnon,9,MATCHED,Ryan Sessegnon
+Jorge Cuenca Barreno,J.Cuenca,9,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Josh King,King,9,MATCHED,Josh King
+Martial Godo,Godo,9,MATCHED,Martial Godo
+Sander Berge,Berge,9,MATCHED,Sander Berge
+Samuel Amissah,Amissah,9,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Marco Alexandre Saraiva da Silva,Silva,9,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Willian Borges da Silva,Willian,9,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Julio Enciso,Enciso,10,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Ali Al-Hamadi,Al-Hamadi,10,MATCHED,Ali Al Hamadi
+Elkan Baggott,Baggott,10,MATCHED,Elkan Baggott
+Nathan Broadhead,Broadhead,10,MATCHED,Nathan Broadhead
+Cameron Burgess,Burgess,10,MATCHED,Cameron Burgess
+Wes Burns,Burns,10,MATCHED,Wes Burns
+Conor Chaplin,Chaplin,10,MATCHED,Conor Chaplin
+Harry Clarke,H.Clarke,10,MATCHED,Harry Clarke
+Leif Davis,Davis,10,MATCHED,Leif Davis
+Liam Delap,Delap,10,MATCHED,Liam Delap
+George Edmundson,Edmundson,10,MATCHED,George Edmundson
+Jacob Greaves,Greaves,10,MATCHED,Jacob Greaves
+Marcus Myers-Harness,Harness,10,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+George Hirst,Hirst,10,MATCHED,George Hirst
+Cameron Humphreys,Humphreys,10,MATCHED,Cameron Humphreys
+Omari Giraud-Hutchinson,Hutchinson,10,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Ben Johnson,Johnson,10,MATCHED,Ben Johnson
+Freddie Ladapo,Ladapo,10,MATCHED,Freddie Ladapo
+Massimo Luongo,Luongo,10,MATCHED,Massimo Luongo
+Sam Morsy,Morsy,10,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Corrie Ndaba,Ndaba,10,MATCHED,Corrie Ndaba
+Cieran Slicker,Slicker,10,MATCHED,Cieran Slicker
+Jack Taylor,Taylor,10,MATCHED,Jack Taylor
+Axel Tuanzebe,Tuanzebe,10,MATCHED,Axel Tuanzebe
+Christian Walton,Walton,10,MATCHED,Christian Walton
+Luke Woolfenden,Woolfenden,10,MATCHED,Luke Woolfenden
+Kalvin Phillips,Phillips,10,MATCHED,Kalvin Phillips
+Arijanet Muric,Muric,10,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Jaden Philogene,Jaden,10,MATCHED,Jaden Philogene
+Conor Townsend,Townsend,10,MATCHED,Conor Townsend
+Sam Szmodics,Szmodics,10,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Jens Cajuste,Cajuste,10,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Dara O'Shea,O'Shea,10,MATCHED,Dara O'Shea
+Jack Clarke,J.Clarke,10,MATCHED,Jack Clarke
+Chiedozie Ogbene,Ogbene,10,MATCHED,Chiedozie Ogbene
+Ben Godfrey,Godfrey,10,MATCHED,Ben Godfrey
+Kieran McKenna,McKenna,10,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Alex Palmer,Palmer,10,MATCHED,Alex Palmer
+Somto Boniface,Boniface,10,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Tom Taylor,Tom Taylor,10,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Facundo Buonanotte,Buonanotte,11,MATCHED,Facundo Buonanotte
+Jordan Ayew,J.Ayew,11,MATCHED,Jordan Ayew
+Odsonne Edouard,Edouard,11,MATCHED,Odsonne Edouard
+Boubakary Soumaré,B.Soumaré,11,MATCHED,Boubakary Soumaré
+Tom Cannon,Cannon,11,MATCHED,Tom Cannon
+Hamza Choudhury,Choudhury,11,MATCHED,Hamza Choudhury
+Conor Coady,Coady,11,MATCHED,Conor Coady
+Patson Daka,Daka,11,MATCHED,Patson Daka
+Bobby De Cordova-Reid,De Cordova-Reid,11,MATCHED,Bobby De Cordova-Reid
+Wout Faes,Faes,11,MATCHED,Wout Faes
+Michael Golding,Golding,11,MATCHED,Michael Golding
+Mads Hermansen,Hermansen,11,MATCHED,Mads Hermansen
+Daniel Iversen,Iversen,11,MATCHED,Daniel Iversen
+James Justin,Justin,11,MATCHED,James Justin
+Victor Kristiansen,Kristiansen,11,MATCHED,Victor Kristiansen
+Wanya Marçal-Madivádua,Marcal,11,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Stephy Mavididi,Mavididi,11,MATCHED,Stephy Mavididi
+Kasey McAteer,McAteer,11,MATCHED,Kasey McAteer
+Wilfred Ndidi,Ndidi,11,MATCHED,Wilfred Ndidi
+Caleb Okoli,Okoli,11,MATCHED,Caleb Okoli
+Ricardo Barbosa Pereira,Ricardo,11,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Harry Souttar,Souttar,11,MATCHED,Harry Souttar
+Jakub Stolarczyk,Stolarczyk,11,MATCHED,Jakub Stolarczyk
+Luke Thomas,Thomas,11,MATCHED,Luke Thomas
+Jamie Vardy,Vardy,11,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Jannik Vestergaard,Vestergaard,11,MATCHED,Jannik Vestergaard
+Danny Ward,Ward,11,MATCHED,Danny Ward
+Harry Winks,Winks,11,MATCHED,Harry Winks
+Oliver Skipp,Skipp,11,MATCHED,Oliver Skipp
+Abdul Fatawu,A.Fatawu,11,MATCHED,Abdul Fatawu
+Will Alves,Alves,11,MATCHED,Will Alves
+Ben Nelson,Nelson,11,MATCHED,Ben Nelson
+Bilal El Khannouss,El Khannouss,11,MATCHED,Bilal El Khannouss
+Henry Cartwright,Cartwright,11,MATCHED,Henry Cartwright
+Thomas Wilson-Brown,Wilson-Brown,11,MATCHED,Thomas Wilson-Brown
+Woyo Coulibaly,Coulibaly,11,MATCHED,Woyo Coulibaly
+Ruud van Nistelrooij,Van Nistelrooy,11,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Jeremy Monga,Monga,11,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Olabade Aluko,Olabade Aluko,11,MATCHED,Olabade Aluko
+Jake Evans,Jake Evans,11,MATCHED,Jake Evans
+Sammy Braybrooke,Braybrooke,11,MATCHED,Sammy Braybrooke
+Alisson Ramses Becker,A.Becker,12,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Trent Alexander-Arnold,Alexander-Arnold,12,MATCHED,Trent Alexander-Arnold
+Stefan Bajčetić Maquieira,Bajcetic,12,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Conor Bradley,Bradley,12,MATCHED,Conor Bradley
+Bobby Clark,Clark,12,MATCHED,Bobby Clark
+Darwin Núñez Ribeiro,Darwin,12,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Diogo Teixeira da Silva,Diogo J.,12,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Ben Doak,Doak,12,MATCHED,Ben Doak
+Harvey Elliott,Elliott,12,MATCHED,Harvey Elliott
+Endo Wataru,Endo,12,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Cody Gakpo,Gakpo,12,MATCHED,Cody Gakpo
+Joe Gomez,Gomez,12,MATCHED,Joe Gomez
+Ryan Gravenberch,Gravenberch,12,MATCHED,Ryan Gravenberch
+Curtis Jones,Jones,12,MATCHED,Curtis Jones
+Caoimhin Kelleher,Kelleher,12,MATCHED,Caoimhin Kelleher
+Ibrahima Konaté,Konaté,12,MATCHED,Ibrahima Konaté
+Luis Díaz,Luis Díaz,12,MATCHED,Luis Díaz
+Mohamed Salah,M.Salah,12,MATCHED,Mohamed Salah
+Alexis Mac Allister,Mac Allister,12,MATCHED,Alexis Mac Allister
+James McConnell,McConnell,12,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Tyler Morton,Morton,12,MATCHED,Tyler Morton
+Nathaniel Phillips,N.Phillips,12,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Jarell Quansah,Quansah,12,MATCHED,Jarell Quansah
+Rhys Williams,R.Williams,12,MATCHED,Rhys Williams
+Andrew Robertson,Robertson,12,MATCHED,Andrew Robertson
+Dominik Szoboszlai,Szoboszlai,12,MATCHED,Dominik Szoboszlai
+Konstantinos Tsimikas,Tsimikas,12,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Virgil van Dijk,Virgil,12,MATCHED,Virgil van Dijk
+Federico Chiesa,Chiesa,12,MATCHED,Federico Chiesa
+Vítezslav Jaros,Jaros,12,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Harvey Davies,Davies,12,MATCHED,Harvey Davies
+Treymaurice Nyoni,Nyoni,12,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Amara Nallo,Nallo,12,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Jayden Danns,Danns,12,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Arne Slot,Slot,12,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Manuel Akanji,Akanji,13,MATCHED,Manuel Akanji
+Nathan Aké,Aké,13,MATCHED,Nathan Aké
+Bernardo Veiga de Carvalho e Silva,Bernardo,13,MATCHED,Bernardo
+Oscar Bobb,Bobb,13,MATCHED,Oscar Bobb
+Scott Carson,Carson,13,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Kevin De Bruyne,De Bruyne,13,MATCHED,Kevin De Bruyne
+Jérémy Doku,Doku,13,MATCHED,Jérémy Doku
+Ederson Santana de Moraes,Ederson M.,13,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Phil Foden,Foden,13,MATCHED,Phil Foden
+Jack Grealish,Grealish,13,MATCHED,Jack Grealish
+Joško Gvardiol,Gvardiol,13,MATCHED,Joško Gvardiol
+Erling Haaland,Haaland,13,MATCHED,Erling Haaland
+Julián Álvarez,J.Alvarez,13,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+João Cavaco Cancelo,João Cancelo,13,MATCHED,João Cancelo
+Mateo Kovačić,Kovačić,13,MATCHED,Mateo Kovačić
+Rico Lewis,Lewis,13,MATCHED,Rico Lewis
+Matheus Luiz Nunes,Matheus N.,13,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+James McAtee,McAtee,13,MATCHED,James McAtee
+Stefan Ortega Moreno,Ortega Moreno,13,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Rodrigo 'Rodri' Hernandez,Rodrigo,13,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Rúben Gato Alves Dias,Rúben,13,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+John Stones,Stones,13,MATCHED,John Stones
+Kyle Walker,Walker,13,MATCHED,Kyle Walker
+Sávio 'Savinho' Moreira de Oliveira,Savinho,13,MATCHED,Savinho
+Nico O'Reilly,O’Reilly,13,MATCHED,Nico O'Reilly
+Ilkay Gündogan,Gündogan,13,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Issa Kaboré,Kaboré,13,MATCHED,Issa Kaboré
+Jacob Wright,Wright,13,MATCHED,Jacob Wright
+Jahmai Simpson-Pusey,Simpson-Pusey,13,MATCHED,Jahmai Simpson-Pusey
+Josh Wilson-Esbrand,Wilson-Esbrand,13,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Divin Mubama,Mubama,13,MATCHED,Divin Mubama
+Max Alleyne,Alleyne,13,MATCHED,Max Alleyne
+Spike Brits,Brits,13,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Abdukodir Khusanov,Khusanov,13,MATCHED,Abdukodir Khusanov
+Vitor de Oliveira Nunes dos Reis,Vitor Reis,13,MATCHED,Vitor Reis
+Pep Guardiola,Guardiola,13,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Omar Marmoush,Marmoush,13,MATCHED,Omar Marmoush
+Nico González,N.Gonzalez,13,MATCHED,Nico González
+Claudio Echeverri,Echeverri,13,MATCHED,Claudio Echeverri
+Amad Diallo,Amad,14,MATCHED,Amad
+Antony Matheus dos Santos,Antony,14,MATCHED,Antony
+Bruno Borges Fernandes,B.Fernandes,14,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Altay Bayindir,Bayindir,14,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Carlos Henrique Casimiro,Casemiro,14,MATCHED,Casemiro
+Diogo Dalot Teixeira,Dalot,14,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Christian Eriksen,Eriksen,14,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Jonny Evans,Evans,14,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Alejandro Garnacho,Garnacho,14,MATCHED,Alejandro Garnacho
+Hannibal Mejbri,Hannibal,14,MATCHED,Hannibal
+Tom Heaton,Heaton,14,MATCHED,Tom Heaton
+Rasmus Højlund,Højlund,14,MATCHED,Rasmus Højlund
+Victor Lindelöf,Lindelof,14,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Harry Maguire,Maguire,14,MATCHED,Harry Maguire
+Kobbie Mainoo,Mainoo,14,MATCHED,Kobbie Mainoo
+Tyrell Malacia,Malacia,14,MATCHED,Tyrell Malacia
+Lisandro Martínez,Martinez,14,MATCHED,Lisandro Martínez
+Scott McTominay,McTominay,14,MATCHED,Scott McTominay
+Mason Mount,Mount,14,MATCHED,Mason Mount
+André Onana,Onana,14,MATCHED,André Onana
+Facundo Pellistri Rebollo,Pellistri,14,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Luke Shaw,Shaw,14,MATCHED,Luke Shaw
+Joshua Zirkzee,Zirkzee,14,MATCHED,Joshua Zirkzee
+Leny Yoro,Yoro,14,MATCHED,Leny Yoro
+Matthijs de Ligt,De Ligt,14,MATCHED,Matthijs de Ligt
+Noussair Mazraoui,Mazraoui,14,MATCHED,Noussair Mazraoui
+Toby Collyer,Collyer,14,MATCHED,Toby Collyer
+Ethan Wheatley,Wheatley,14,MATCHED,Ethan Wheatley
+Manuel Ugarte,Ugarte,14,MATCHED,Manuel Ugarte
+Ayden Heaven,Heaven,14,MATCHED,Ayden Heaven
+Jack Fletcher,Fletcher,14,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Harry Amass,Amass,14,MATCHED,Harry Amass
+Jayce Fitzgerald,Fitzgerald,14,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Godwill Kukonki,Kukonki,14,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Ruben Filipe Marques Diogo Amorim,Amorim,14,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Elyh Harrison,Harrison,14,MATCHED,Elyh Harrison
+Patrick Dorgu,Dorgu,14,MATCHED,Patrick Dorgu
+Chido Obi-Martin,Obi,14,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Tyler Fredricson,Fredricson,14,MATCHED,Tyler Fredricson
+Jack Moorhouse,Moorhouse,14,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Sékou Koné,Koné,14,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Hubert Graczyk,Graczyk,14,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Dermot Mee,Dermot Mee,14,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Alex Murphy,A.Murphy,15,MATCHED,Alex Murphy
+Miguel Almirón Rejala,Almirón,15,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Harvey Barnes,Barnes,15,MATCHED,Harvey Barnes
+Sven Botman,Botman,15,MATCHED,Sven Botman
+Bruno Guimarães Rodriguez Moura,Bruno G.,15,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Dan Burn,Burn,15,MATCHED,Dan Burn
+Martin Dúbravka,Dúbravka,15,MATCHED,Martin Dúbravka
+Anthony Gordon,Gordon,15,MATCHED,Anthony Gordon
+Lewis Hall,Hall,15,MATCHED,Lewis Hall
+Isaac Hayden,Hayden,15,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Alexander Isak,Isak,15,MATCHED,Alexander Isak
+Jacob Murphy,J.Murphy,15,MATCHED,Jacob Murphy
+Joelinton Cássio Apolinário de Lira,Joelinton,15,MATCHED,Joelinton
+Lloyd Kelly,Kelly,15,MATCHED,Lloyd Kelly
+Emil Krafth,Krafth,15,MATCHED,Emil Krafth
+Garang Kuol,Kuol,15,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Jamaal Lascelles,Lascelles,15,MATCHED,Jamaal Lascelles
+Jamal Lewis,Lewis,15,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Tino Livramento,Livramento,15,MATCHED,Tino Livramento
+Sean Longstaff,Longstaff,15,MATCHED,Sean Longstaff
+Lewis Miley,Miley,15,MATCHED,Lewis Miley
+Odysseas Vlachodimos,Odysseas,15,MATCHED,Odysseas Vlachodimos
+Nick Pope,Pope,15,MATCHED,Nick Pope
+John Ruddy,Ruddy,15,MATCHED,John Ruddy
+Fabian Schär,Schär,15,MATCHED,Fabian Schär
+Matt Targett,Targett,15,MATCHED,Matt Targett
+Sandro Tonali,Tonali,15,MATCHED,Sandro Tonali
+Kieran Trippier,Trippier,15,MATCHED,Kieran Trippier
+Joe White,White,15,MATCHED,Joe White
+Joe Willock,Willock,15,MATCHED,Joe Willock
+Callum Wilson,Wilson,15,MATCHED,Callum Wilson
+Miodrag Pivaš,Pivas,15,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+William Osula,Osula,15,MATCHED,William Osula
+Eddie Howe,Howe,15,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Sean Neave,Neave,15,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Álex Moreno Lopera,Alex Moreno,16,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Ola Aina,Aina,16,MATCHED,Ola Aina
+Elliot Anderson,Anderson,16,MATCHED,Elliot Anderson
+Taiwo Awoniyi,Awoniyi,16,MATCHED,Taiwo Awoniyi
+Willy Boly,Boly,16,MATCHED,Willy Boly
+Josh Bowler,Bowler,16,MATCHED,Josh Bowler
+Carlos Miguel dos Santos Pereira,C.Miguel,16,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Eric da Silva Moreira,Da Silva Moreira,16,MATCHED,Eric da Silva Moreira
+Danilo dos Santos de Oliveira,Danilo,16,MATCHED,Danilo
+Emmanuel Dennis,Dennis,16,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Nicolás Domínguez,Dominguez,16,MATCHED,Nicolás Domínguez
+Anthony Elanga,Elanga,16,MATCHED,Anthony Elanga
+Morgan Gibbs-White,Gibbs-White,16,MATCHED,Morgan Gibbs-White
+Callum Hudson-Odoi,Hudson-Odoi,16,MATCHED,Callum Hudson-Odoi
+Alex Mighten,Mighten,16,MATCHED,Alex Mighten
+Murillo Santiago Costa dos Santos,Murillo,16,MATCHED,Murillo
+Neco Williams,N.Williams,16,MATCHED,Neco Williams
+Omar Richards,O.Richards,16,MATCHED,Omar Richards
+Lewis O'Brien,O'Brien,16,MATCHED,Lewis O'Brien
+Andrew Omobamidele,Omobamidele,16,MATCHED,Andrew Omobamidele
+Jonathan Panzo,Panzo,16,MATCHED,Jonathan Panzo
+Ibrahim Sangaré,Sangaré,16,MATCHED,Ibrahim Sangaré
+Matz Sels,Sels,16,MATCHED,Matz Sels
+Harry Toffolo,Toffolo,16,MATCHED,Harry Toffolo
+Hwang Ui-jo,Ui-jo,16,MATCHED,Hwang Ui Jo
+Chris Wood,Wood,16,MATCHED,Chris Wood
+Joe Worrall,Worrall,16,MATCHED,Joe Worrall
+Ryan Yates,Yates,16,MATCHED,Ryan Yates
+Nikola Milenković,Milenković,16,MATCHED,Nikola Milenković
+João Pedro Ferreira Silva,Jota Silva,16,MATCHED,Jota Silva
+Ramón Sosa,Sosa,16,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Felipe Rodrigues da Silva,Morato,16,MATCHED,Morato
+Zach Abbott,Abbott,16,MATCHED,Zach Abbott
+Wayne Hennessey,Hennessey,16,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Nuno Herlander Simões Espírito Santo,Nuno,16,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Aaron Ramsdale,Ramsdale,17,MATCHED,Aaron Ramsdale
+Cameron Archer,Archer,17,MATCHED,Cameron Archer
+Lesley Ugochukwu,Ugochukwu,17,MATCHED,Lesley Ugochukwu
+Ryan Fraser,Fraser,17,MATCHED,Ryan Fraser
+Samuel Amo-Ameyaw,Amo-Ameyaw,17,MATCHED,Samuel Amo-Ameyaw
+Joe Aribo,Aribo,17,MATCHED,Joe Aribo
+Adam Armstrong,Armstrong,17,MATCHED,Adam Armstrong
+Gavin Bazunu,Bazunu,17,MATCHED,Gavin Bazunu
+Jan Bednarek,Bednarek,17,MATCHED,Jan Bednarek
+Armel Bella-Kotchap,Bella-Kotchap,17,MATCHED,Armel Bella-Kotchap
+James Bree,Bree,17,MATCHED,James Bree
+Shea Charles,Charles,17,MATCHED,Shea Charles
+Samuel Edozie,Edozie,17,MATCHED,Samuel Edozie
+Ronnie Edwards,Edwards,17,MATCHED,Ronnie Edwards
+Taylor Harwood-Bellis,Harwood-Bellis,17,MATCHED,Taylor Harwood-Bellis
+Kamaldeen Sulemana,Kamaldeen,17,MATCHED,Kamaldeen Sulemana
+Adam Lallana,Lallana,17,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Juan Larios López,Larios,17,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Mateusz Lis,Lis,17,MATCHED,Mateusz Lis
+Joe Lumley,Lumley,17,MATCHED,Joe Lumley
+Ryan Manning,Manning,17,MATCHED,Ryan Manning
+Sékou Mara,Mara,17,MATCHED,Sékou Mara
+Alex McCarthy,McCarthy,17,MATCHED,Alex McCarthy
+Paul Onuachu,Onuachu,17,MATCHED,Paul Onuachu
+Will Smallbone,Smallbone,17,MATCHED,Will Smallbone
+Jack Stephens,Stephens,17,MATCHED,Jack Stephens
+Ross Stewart,Stewart,17,MATCHED,Ross Stewart
+Sugawara Yukinari,Sugawara,17,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Charlie Taylor,Taylor,17,MATCHED,Charlie Taylor
+Kyle Walker-Peters,Walker-Peters,17,MATCHED,Kyle Walker-Peters
+Nathan Wood-Gordon,Wood,17,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Maxwel Cornet,Cornet,17,MATCHED,Maxwel Cornet
+Flynn Downes,Downes,17,MATCHED,Flynn Downes
+Ben Brereton Díaz,Brereton Díaz,17,MATCHED,Ben Brereton Díaz
+Tyler Dibling,Dibling,17,MATCHED,Tyler Dibling
+Mateus Gonçalo Espanha Fernandes,M.Fernandes,17,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Joseph O'Brien-Whitmarsh,O'Brien-Whitmarsh,17,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Welington Damascena Santos,Welington,17,MATCHED,Welington
+Joachim Kayi-Sanda,Kayi Sanda,17,MATCHED,Joachim Kayi Sanda
+Albert Grønbæk,Grønbæk,17,MATCHED,Albert Grønbæk
+Simon Rusk,Rusk,17,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Jay Robinson,Jay Robinson,17,MATCHED,Jay Robinson
+Jayden Moore,Moore,17,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Dominic Solanke-Mitchell,Solanke,18,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Ashley Phillips,A.Phillips,18,MATCHED,Ashley Phillips
+Brandon Austin,Austin,18,MATCHED,Brandon Austin
+Rodrigo Bentancur,Bentancur,18,MATCHED,Rodrigo Bentancur
+Lucas Bergvall,Bergvall,18,MATCHED,Lucas Bergvall
+Yves Bissouma,Bissouma,18,MATCHED,Yves Bissouma
+Bryan Gil Salvatierra,Bryan,18,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Ben Davies,Davies,18,MATCHED,Ben Davies
+Alfie Devine,Devine,18,MATCHED,Alfie Devine
+Radu Drăgușin,Dragusin,18,MATCHED,Radu Drăgușin
+Emerson Leite de Souza Junior,E.Royal,18,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Fraser Forster,Forster,18,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Archie Gray,Gray,18,MATCHED,Archie Gray
+Pierre-Emile Højbjerg,Højbjerg,18,MATCHED,Pierre-Emile Højbjerg
+Brennan Johnson,Johnson,18,MATCHED,Brennan Johnson
+Dejan Kulusevski,Kulusevski,18,MATCHED,Dejan Kulusevski
+Giovani Lo Celso,Lo Celso,18,MATCHED,Giovani Lo Celso
+James Maddison,Maddison,18,MATCHED,James Maddison
+Pedro Porro,Pedro Porro,18,MATCHED,Pedro Porro
+Sergio Reguilón,Reguilón,18,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Richarlison de Andrade,Richarlison,18,MATCHED,Richarlison
+Cristian Romero,Romero,18,MATCHED,Cristian Romero
+Pape Matar Sarr,P.M.Sarr,18,MATCHED,Pape Matar Sarr
+Dane Scarlett,Scarlett,18,MATCHED,Dane Scarlett
+Manor Solomon,Solomon,18,MATCHED,Manor Solomon
+Son Heung-min,Son,18,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Djed Spence,Spence,18,MATCHED,Djed Spence
+Destiny Udogie,Udogie,18,MATCHED,Destiny Udogie
+Micky van de Ven,Van de Ven,18,MATCHED,Micky van de Ven
+Alejo Véliz,Veliz,18,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Guglielmo Vicario,Vicario,18,MATCHED,Guglielmo Vicario
+Timo Werner,Werner,18,MATCHED,Timo Werner
+Alfie Whiteman,Whiteman,18,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Will Lankshear,Lankshear,18,MATCHED,Will Lankshear
+Mikey Moore,Moore,18,MATCHED,Mikey Moore
+Wilson Odobert,Odobert,18,MATCHED,Wilson Odobert
+Callum Olusesi,Olusesi,18,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Malachi Hardy,Hardy,18,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Luca Williams-Barnett,Williams-Barnett,18,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Alfie Dorrington,Dorrington,18,MATCHED,Alfie Dorrington
+Maeson King,King,18,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Antonín Kinsky,Kinsky,18,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Min-Hyeok Yang,Yang,18,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Damola Ajayi,Ajayi,18,MATCHED,Damola Ajayi
+Ange Postecoglou,Postecoglou,18,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Dante Cassanova,Cassanova,18,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Kevin Danso,Danso,18,MATCHED,Kevin Danso
+Mathys Tel,Tel,18,MATCHED,Mathys Tel
+Evan Ferguson,Ferguson,19,MATCHED,Evan Ferguson
+Aaron Wan-Bissaka,Wan-Bissaka,19,MATCHED,Aaron Wan-Bissaka
+Edson Álvarez Velázquez,Álvarez,19,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Michail Antonio,Antonio,19,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Alphonse Areola,Areola,19,MATCHED,Alphonse Areola
+Jarrod Bowen,Bowen,19,MATCHED,Jarrod Bowen
+Vladimír Coufal,Coufal,19,MATCHED,Vladimír Coufal
+Aaron Cresswell,Cresswell,19,MATCHED,Aaron Cresswell
+George Earthy,Earthy,19,MATCHED,George Earthy
+Emerson Palmieri dos Santos,Emerson,19,MATCHED,Emerson
+Łukasz Fabiański,Fabianski,19,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Wes Foderingham,Foderingham,19,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Danny Ings,Ings,19,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Max Kilman,Kilman,19,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Mohammed Kudus,Kudus,19,MATCHED,Mohammed Kudus
+Luis Guilherme Lira dos Santos,L.Guilherme,19,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Lucas Tolentino Coelho de Lima,L.Paquetá,19,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Konstantinos Mavropanos,Mavropanos,19,MATCHED,Konstantinos Mavropanos
+Nayef Aguerd,N.Aguerd,19,MATCHED,Nayef Aguerd
+Tomáš Souček,Souček,19,MATCHED,Tomáš Souček
+James Ward-Prowse,Ward-Prowse,19,MATCHED,James Ward-Prowse
+Kurt Zouma,Zouma,19,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Andy Irving,Irving,19,MATCHED,Andy Irving
+Crysencio Summerville,Summerville,19,MATCHED,Crysencio Summerville
+Guido Rodríguez,G.Rodríguez,19,MATCHED,Guido Rodríguez
+Niclas Füllkrug,Füllkrug,19,MATCHED,Niclas Füllkrug
+Jean-Clair Todibo,Todibo,19,MATCHED,Jean-Clair Todibo
+Kaelan Casey,Casey,19,MATCHED,Kaelan Casey
+Carlos Soler,C.Soler,19,MATCHED,Carlos Soler
+Ollie Scarles,Scarles,19,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Ezra Mayers,Mayers,19,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Lewis Orford,Orford,19,MATCHED,Lewis Orford
+Graham Potter,Potter,19,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Sam Johnstone,Johnstone,20,MATCHED,Sam Johnstone
+Rayan Aït-Nouri,Aït-Nouri,20,MATCHED,Rayan Aït-Nouri
+Boubacar Traoré,B.Traore,20,MATCHED,Boubacar Traoré
+Jean-Ricner Bellegarde,Bellegarde,20,MATCHED,Jean-Ricner Bellegarde
+Daniel Bentley,Bentley,20,MATCHED,Daniel Bentley
+Francisco Jorge Tomás Oliveira,Chiquinho,20,MATCHED,Chiquinho
+Tawanda Chirewa,Chirewa,20,MATCHED,Tawanda Chirewa
+Leon Chiwome,Chiwome,20,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Luke Cundle,Cundle,20,MATCHED,Luke Cundle
+Matheus Santos Carneiro Da Cunha,Cunha,20,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Craig Dawson,Dawson,20,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Matt Doherty,Doherty,20,MATCHED,Matt Doherty
+Tommy Doyle,Doyle,20,MATCHED,Tommy Doyle
+Fábio Silva,Fábio Silva,20,MATCHED,Fábio Silva
+Nathan Fraser,Fraser,20,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Enso González,Gonzalez,20,MATCHED,Enso González
+Gonçalo Manuel Ganchinho Guedes,Guedes,20,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Hugo Bueno López,H.Bueno,20,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Hwang Hee-chan,Hee Chan,20,MATCHED,Hwang Hee Chan
+Joe Hodge,Hodge,20,MATCHED,Joe Hodge
+Ki-Jana Hoever,Hoever,20,MATCHED,Ki-Jana Hoever
+João Victor Gomes da Silva,J.Gomes,20,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+José Malheiro de Sá,José Sá,20,MATCHED,José Sá
+Saša Kalajdžić,Kalajdžić,20,MATCHED,Saša Kalajdžić
+Tom King,King,20,MATCHED,Tom King
+Mario Lemina,Mario Jr.,20,MATCHED,Mario Lemina
+Yerson Mosquera,Mosquera,20,MATCHED,Yerson Mosquera
+Nélson Cabral Semedo,N.Semedo,20,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Pedro Cardoso de Lima,Pedro Lima,20,MATCHED,Pedro Lima
+Daniel Castelo Podence,Podence,20,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Rodrigo Martins Gomes,R.Gomes,20,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Santiago Bueno,S.Bueno,20,MATCHED,Santiago Bueno
+Pablo Sarabia,Sarabia,20,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Jørgen Strand Larsen,Strand Larsen,20,MATCHED,Jørgen Strand Larsen
+Toti António Gomes,Toti,20,MATCHED,Toti
+Bastien Meupiyou,Meupiyou,20,MATCHED,Bastien Meupiyou
+André Trindade da Costa Neto,André,20,MATCHED,André
+Carlos Roberto Forbs Borges,Forbs,20,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Alfie Pond,Pond,20,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Tom Edozie,Edozie,20,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Wes Okoduwa,Okoduwa,20,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Emmanuel Agbadou,Agbadou,20,MATCHED,Emmanuel Agbadou
+Vítor Manuel de Oliveira Lopes Pereira,Pereira,20,UNMATCHED_YOUTH_OR_NEW_SIGNING,N/A
+Nasser Djiga,Djiga,20,MATCHED,Nasser Djiga
+Marshall Munetsi,Munetsi,20,MATCHED,Marshall Munetsi
+Mateus Mané,Mané,20,MATCHED,Mateus Mané

@@ -1,0 +1,2 @@
+total_actual_draws,draw_is_highest_argmax,draw_within_1pp_of_top,draw_within_3pp_of_top,draw_within_5pp_of_top,draw_within_10pp_of_top,mean_P_D_on_draws,mean_P_D_on_non_draws
+104,0,0,0,0,1,0.2421,0.236

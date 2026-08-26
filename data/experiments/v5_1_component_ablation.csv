@@ -1,0 +1,4 @@
+configuration,city_xpts,arsenal_xpts,city_champ_pct,arsenal_champ_pct,xpts_gap,champ_gap
+A0: V2 Baseline Only,76.16,72.89,53.71,32.21,3.27,21.5
+A1: V2 + Score Model (V4 Architecture),75.63,71.79,54.38,29.83,3.84,24.55
+A2: Full V5.1 (Complete Engine),76.86,71.58,59.78,26.27,5.28,33.51

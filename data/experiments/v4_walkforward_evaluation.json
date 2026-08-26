@@ -1,0 +1,874 @@
+{
+  "validation_models": [
+    {
+      "name": "B1: Walk-Forward V2 Baseline",
+      "acc": 198,
+      "acc_pct": 52.11,
+      "log_loss": 1.00805,
+      "brier": 0.60201,
+      "ece": 0.0341,
+      "draw_called": 2,
+      "draw_correct": 0,
+      "draw_total": 93,
+      "calib_table": [
+        {
+          "bin": "40-50%",
+          "count": 111,
+          "confidence": 44.9,
+          "actual_acc": 43.2,
+          "diff": -1.7
+        },
+        {
+          "bin": "50-60%",
+          "count": 103,
+          "confidence": 54.6,
+          "actual_acc": 52.4,
+          "diff": -2.2
+        },
+        {
+          "bin": "60-70%",
+          "count": 99,
+          "confidence": 64.8,
+          "actual_acc": 56.6,
+          "diff": -8.2
+        },
+        {
+          "bin": "70-80%",
+          "count": 48,
+          "confidence": 72.3,
+          "actual_acc": 70.8,
+          "diff": -1.5
+        },
+        {
+          "bin": "80-101%",
+          "count": 0,
+          "confidence": 0,
+          "actual_acc": 0,
+          "diff": 0
+        }
+      ],
+      "confusion_matrix": [
+        [
+          128,
+          1,
+          26
+        ],
+        [
+          62,
+          0,
+          31
+        ],
+        [
+          61,
+          1,
+          70
+        ]
+      ]
+    },
+    {
+      "name": "B3: Dynamic xG Poisson Score Model",
+      "acc": 189,
+      "acc_pct": 49.74,
+      "log_loss": 1.02392,
+      "brier": 0.61535,
+      "ece": 0.0438,
+      "draw_called": 5,
+      "draw_correct": 0,
+      "draw_total": 93,
+      "calib_table": [
+        {
+          "bin": "40-50%",
+          "count": 164,
+          "confidence": 45.4,
+          "actual_acc": 51.8,
+          "diff": 6.5
+        },
+        {
+          "bin": "50-60%",
+          "count": 85,
+          "confidence": 54.5,
+          "actual_acc": 49.4,
+          "diff": -5.1
+        },
+        {
+          "bin": "60-70%",
+          "count": 31,
+          "confidence": 64.2,
+          "actual_acc": 67.7,
+          "diff": 3.6
+        },
+        {
+          "bin": "70-80%",
+          "count": 6,
+          "confidence": 74.1,
+          "actual_acc": 83.3,
+          "diff": 9.2
+        },
+        {
+          "bin": "80-101%",
+          "count": 0,
+          "confidence": 0,
+          "actual_acc": 0,
+          "diff": 0
+        }
+      ],
+      "confusion_matrix": [
+        [
+          140,
+          2,
+          13
+        ],
+        [
+          74,
+          0,
+          19
+        ],
+        [
+          80,
+          3,
+          49
+        ]
+      ]
+    },
+    {
+      "name": "B4: Dynamic xG + Dixon-Coles",
+      "acc": 189,
+      "acc_pct": 49.74,
+      "log_loss": 1.02392,
+      "brier": 0.61535,
+      "ece": 0.0438,
+      "draw_called": 5,
+      "draw_correct": 0,
+      "draw_total": 93,
+      "calib_table": [
+        {
+          "bin": "40-50%",
+          "count": 164,
+          "confidence": 45.4,
+          "actual_acc": 51.8,
+          "diff": 6.5
+        },
+        {
+          "bin": "50-60%",
+          "count": 85,
+          "confidence": 54.5,
+          "actual_acc": 49.4,
+          "diff": -5.1
+        },
+        {
+          "bin": "60-70%",
+          "count": 31,
+          "confidence": 64.2,
+          "actual_acc": 67.7,
+          "diff": 3.6
+        },
+        {
+          "bin": "70-80%",
+          "count": 6,
+          "confidence": 74.1,
+          "actual_acc": 83.3,
+          "diff": 9.2
+        },
+        {
+          "bin": "80-101%",
+          "count": 0,
+          "confidence": 0,
+          "actual_acc": 0,
+          "diff": 0
+        }
+      ],
+      "confusion_matrix": [
+        [
+          140,
+          2,
+          13
+        ],
+        [
+          74,
+          0,
+          19
+        ],
+        [
+          80,
+          3,
+          49
+        ]
+      ]
+    },
+    {
+      "name": "B6: Full V4 Score Model (+Uncertainty)",
+      "acc": 186,
+      "acc_pct": 48.95,
+      "log_loss": 1.02533,
+      "brier": 0.61604,
+      "ece": 0.0397,
+      "draw_called": 4,
+      "draw_correct": 0,
+      "draw_total": 93,
+      "calib_table": [
+        {
+          "bin": "40-50%",
+          "count": 170,
+          "confidence": 45.1,
+          "actual_acc": 50.0,
+          "diff": 4.9
+        },
+        {
+          "bin": "50-60%",
+          "count": 84,
+          "confidence": 54.1,
+          "actual_acc": 50.0,
+          "diff": -4.1
+        },
+        {
+          "bin": "60-70%",
+          "count": 28,
+          "confidence": 63.2,
+          "actual_acc": 71.4,
+          "diff": 8.3
+        },
+        {
+          "bin": "70-80%",
+          "count": 4,
+          "confidence": 73.8,
+          "actual_acc": 100.0,
+          "diff": 26.2
+        },
+        {
+          "bin": "80-101%",
+          "count": 0,
+          "confidence": 0,
+          "actual_acc": 0,
+          "diff": 0
+        }
+      ],
+      "confusion_matrix": [
+        [
+          141,
+          2,
+          12
+        ],
+        [
+          76,
+          0,
+          17
+        ],
+        [
+          85,
+          2,
+          45
+        ]
+      ]
+    },
+    {
+      "name": "B7: V4 Hybrid Score+V2 Ensemble",
+      "acc": 200,
+      "acc_pct": 52.63,
+      "log_loss": 1.00484,
+      "brier": 0.6001,
+      "ece": 0.0238,
+      "draw_called": 0,
+      "draw_correct": 0,
+      "draw_total": 93,
+      "calib_table": [
+        {
+          "bin": "40-50%",
+          "count": 122,
+          "confidence": 45.0,
+          "actual_acc": 44.3,
+          "diff": -0.7
+        },
+        {
+          "bin": "50-60%",
+          "count": 101,
+          "confidence": 54.7,
+          "actual_acc": 51.5,
+          "diff": -3.2
+        },
+        {
+          "bin": "60-70%",
+          "count": 106,
+          "confidence": 64.9,
+          "actual_acc": 60.4,
+          "diff": -4.5
+        },
+        {
+          "bin": "70-80%",
+          "count": 29,
+          "confidence": 72.0,
+          "actual_acc": 72.4,
+          "diff": 0.5
+        },
+        {
+          "bin": "80-101%",
+          "count": 0,
+          "confidence": 0,
+          "actual_acc": 0,
+          "diff": 0
+        }
+      ],
+      "confusion_matrix": [
+        [
+          131,
+          0,
+          24
+        ],
+        [
+          62,
+          0,
+          31
+        ],
+        [
+          63,
+          0,
+          69
+        ]
+      ]
+    }
+  ],
+  "holdout_models": [
+    {
+      "name": "Random Uniform (Tie-Break Argmax)",
+      "acc": 162,
+      "acc_pct": 42.63,
+      "log_loss": 1.09861,
+      "brier": 0.66667,
+      "ece": 0.0,
+      "draw_called": 0,
+      "draw_correct": 0,
+      "draw_total": 104,
+      "calib_table": [
+        {
+          "bin": "40-50%",
+          "count": 0,
+          "confidence": 0,
+          "actual_acc": 0,
+          "diff": 0
+        },
+        {
+          "bin": "50-60%",
+          "count": 0,
+          "confidence": 0,
+          "actual_acc": 0,
+          "diff": 0
+        },
+        {
+          "bin": "60-70%",
+          "count": 0,
+          "confidence": 0,
+          "actual_acc": 0,
+          "diff": 0
+        },
+        {
+          "bin": "70-80%",
+          "count": 0,
+          "confidence": 0,
+          "actual_acc": 0,
+          "diff": 0
+        },
+        {
+          "bin": "80-101%",
+          "count": 0,
+          "confidence": 0,
+          "actual_acc": 0,
+          "diff": 0
+        }
+      ],
+      "confusion_matrix": [
+        [
+          162,
+          0,
+          0
+        ],
+        [
+          104,
+          0,
+          0
+        ],
+        [
+          114,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "Home-Majority Baseline",
+      "acc": 162,
+      "acc_pct": 42.63,
+      "log_loss": 1.08164,
+      "brier": 0.65465,
+      "ece": 0.0087,
+      "draw_called": 0,
+      "draw_correct": 0,
+      "draw_total": 104,
+      "calib_table": [
+        {
+          "bin": "40-50%",
+          "count": 380,
+          "confidence": 43.5,
+          "actual_acc": 42.6,
+          "diff": -0.9
+        },
+        {
+          "bin": "50-60%",
+          "count": 0,
+          "confidence": 0,
+          "actual_acc": 0,
+          "diff": 0
+        },
+        {
+          "bin": "60-70%",
+          "count": 0,
+          "confidence": 0,
+          "actual_acc": 0,
+          "diff": 0
+        },
+        {
+          "bin": "70-80%",
+          "count": 0,
+          "confidence": 0,
+          "actual_acc": 0,
+          "diff": 0
+        },
+        {
+          "bin": "80-101%",
+          "count": 0,
+          "confidence": 0,
+          "actual_acc": 0,
+          "diff": 0
+        }
+      ],
+      "confusion_matrix": [
+        [
+          162,
+          0,
+          0
+        ],
+        [
+          104,
+          0,
+          0
+        ],
+        [
+          114,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "B0: Raw Elo (M0)",
+      "acc": 183,
+      "acc_pct": 48.16,
+      "log_loss": 1.0298,
+      "brier": 0.619,
+      "ece": 0.036,
+      "draw_called": 0,
+      "draw_correct": 0,
+      "draw_total": 104,
+      "calib_table": [
+        {
+          "bin": "40-50%",
+          "count": 150,
+          "confidence": 44.7,
+          "actual_acc": 42.0,
+          "diff": -2.7
+        },
+        {
+          "bin": "50-60%",
+          "count": 125,
+          "confidence": 54.6,
+          "actual_acc": 48.8,
+          "diff": -5.8
+        },
+        {
+          "bin": "60-70%",
+          "count": 67,
+          "confidence": 63.7,
+          "actual_acc": 67.2,
+          "diff": 3.5
+        },
+        {
+          "bin": "70-80%",
+          "count": 0,
+          "confidence": 0,
+          "actual_acc": 0,
+          "diff": 0
+        },
+        {
+          "bin": "80-101%",
+          "count": 0,
+          "confidence": 0,
+          "actual_acc": 0,
+          "diff": 0
+        }
+      ],
+      "confusion_matrix": [
+        [
+          139,
+          0,
+          23
+        ],
+        [
+          68,
+          0,
+          36
+        ],
+        [
+          70,
+          0,
+          44
+        ]
+      ]
+    },
+    {
+      "name": "B1: Walk-Forward V2 Baseline",
+      "acc": 187,
+      "acc_pct": 49.21,
+      "log_loss": 1.03673,
+      "brier": 0.62492,
+      "ece": 0.0332,
+      "draw_called": 1,
+      "draw_correct": 0,
+      "draw_total": 104,
+      "calib_table": [
+        {
+          "bin": "40-50%",
+          "count": 130,
+          "confidence": 45.2,
+          "actual_acc": 45.4,
+          "diff": 0.2
+        },
+        {
+          "bin": "50-60%",
+          "count": 136,
+          "confidence": 55.3,
+          "actual_acc": 47.1,
+          "diff": -8.3
+        },
+        {
+          "bin": "60-70%",
+          "count": 74,
+          "confidence": 63.7,
+          "actual_acc": 62.2,
+          "diff": -1.5
+        },
+        {
+          "bin": "70-80%",
+          "count": 0,
+          "confidence": 0,
+          "actual_acc": 0,
+          "diff": 0
+        },
+        {
+          "bin": "80-101%",
+          "count": 0,
+          "confidence": 0,
+          "actual_acc": 0,
+          "diff": 0
+        }
+      ],
+      "confusion_matrix": [
+        [
+          125,
+          0,
+          37
+        ],
+        [
+          59,
+          0,
+          45
+        ],
+        [
+          51,
+          1,
+          62
+        ]
+      ]
+    },
+    {
+      "name": "B3: Dynamic xG Poisson Score Model",
+      "acc": 179,
+      "acc_pct": 47.11,
+      "log_loss": 1.0395,
+      "brier": 0.625,
+      "ece": 0.0205,
+      "draw_called": 29,
+      "draw_correct": 10,
+      "draw_total": 104,
+      "calib_table": [
+        {
+          "bin": "40-50%",
+          "count": 165,
+          "confidence": 44.3,
+          "actual_acc": 45.5,
+          "diff": 1.1
+        },
+        {
+          "bin": "50-60%",
+          "count": 76,
+          "confidence": 53.7,
+          "actual_acc": 57.9,
+          "diff": 4.1
+        },
+        {
+          "bin": "60-70%",
+          "count": 18,
+          "confidence": 62.4,
+          "actual_acc": 77.8,
+          "diff": 15.4
+        },
+        {
+          "bin": "70-80%",
+          "count": 0,
+          "confidence": 0,
+          "actual_acc": 0,
+          "diff": 0
+        },
+        {
+          "bin": "80-101%",
+          "count": 0,
+          "confidence": 0,
+          "actual_acc": 0,
+          "diff": 0
+        }
+      ],
+      "confusion_matrix": [
+        [
+          141,
+          10,
+          11
+        ],
+        [
+          73,
+          10,
+          21
+        ],
+        [
+          77,
+          9,
+          28
+        ]
+      ]
+    },
+    {
+      "name": "B4: Dynamic xG + Dixon-Coles",
+      "acc": 179,
+      "acc_pct": 47.11,
+      "log_loss": 1.0395,
+      "brier": 0.625,
+      "ece": 0.0205,
+      "draw_called": 29,
+      "draw_correct": 10,
+      "draw_total": 104,
+      "calib_table": [
+        {
+          "bin": "40-50%",
+          "count": 165,
+          "confidence": 44.3,
+          "actual_acc": 45.5,
+          "diff": 1.1
+        },
+        {
+          "bin": "50-60%",
+          "count": 76,
+          "confidence": 53.7,
+          "actual_acc": 57.9,
+          "diff": 4.1
+        },
+        {
+          "bin": "60-70%",
+          "count": 18,
+          "confidence": 62.4,
+          "actual_acc": 77.8,
+          "diff": 15.4
+        },
+        {
+          "bin": "70-80%",
+          "count": 0,
+          "confidence": 0,
+          "actual_acc": 0,
+          "diff": 0
+        },
+        {
+          "bin": "80-101%",
+          "count": 0,
+          "confidence": 0,
+          "actual_acc": 0,
+          "diff": 0
+        }
+      ],
+      "confusion_matrix": [
+        [
+          141,
+          10,
+          11
+        ],
+        [
+          73,
+          10,
+          21
+        ],
+        [
+          77,
+          9,
+          28
+        ]
+      ]
+    },
+    {
+      "name": "B6: Full V4 Score Model (+Uncertainty)",
+      "acc": 181,
+      "acc_pct": 47.63,
+      "log_loss": 1.04051,
+      "brier": 0.62573,
+      "ece": 0.0264,
+      "draw_called": 22,
+      "draw_correct": 9,
+      "draw_total": 104,
+      "calib_table": [
+        {
+          "bin": "40-50%",
+          "count": 171,
+          "confidence": 44.5,
+          "actual_acc": 46.2,
+          "diff": 1.7
+        },
+        {
+          "bin": "50-60%",
+          "count": 76,
+          "confidence": 53.7,
+          "actual_acc": 61.8,
+          "diff": 8.2
+        },
+        {
+          "bin": "60-70%",
+          "count": 10,
+          "confidence": 61.8,
+          "actual_acc": 70.0,
+          "diff": 8.2
+        },
+        {
+          "bin": "70-80%",
+          "count": 0,
+          "confidence": 0,
+          "actual_acc": 0,
+          "diff": 0
+        },
+        {
+          "bin": "80-101%",
+          "count": 0,
+          "confidence": 0,
+          "actual_acc": 0,
+          "diff": 0
+        }
+      ],
+      "confusion_matrix": [
+        [
+          144,
+          7,
+          11
+        ],
+        [
+          76,
+          9,
+          19
+        ],
+        [
+          80,
+          6,
+          28
+        ]
+      ]
+    },
+    {
+      "name": "B7: V4 Hybrid Score+V2 Champion",
+      "acc": 187,
+      "acc_pct": 49.21,
+      "log_loss": 1.03241,
+      "brier": 0.62162,
+      "ece": 0.0222,
+      "draw_called": 1,
+      "draw_correct": 0,
+      "draw_total": 104,
+      "calib_table": [
+        {
+          "bin": "40-50%",
+          "count": 139,
+          "confidence": 45.0,
+          "actual_acc": 45.3,
+          "diff": 0.4
+        },
+        {
+          "bin": "50-60%",
+          "count": 141,
+          "confidence": 54.9,
+          "actual_acc": 49.6,
+          "diff": -5.2
+        },
+        {
+          "bin": "60-70%",
+          "count": 60,
+          "confidence": 62.7,
+          "actual_acc": 61.7,
+          "diff": -1.0
+        },
+        {
+          "bin": "70-80%",
+          "count": 0,
+          "confidence": 0,
+          "actual_acc": 0,
+          "diff": 0
+        },
+        {
+          "bin": "80-101%",
+          "count": 0,
+          "confidence": 0,
+          "actual_acc": 0,
+          "diff": 0
+        }
+      ],
+      "confusion_matrix": [
+        [
+          126,
+          0,
+          36
+        ],
+        [
+          60,
+          0,
+          44
+        ],
+        [
+          52,
+          1,
+          61
+        ]
+      ]
+    }
+  ],
+  "bet365": {
+    "name": "Bet365 (Market Implied)",
+    "acc": 186,
+    "acc_pct": 48.95,
+    "log_loss": 1.0185,
+    "brier": 0.612,
+    "ece": 0.041,
+    "draw_called": 0,
+    "draw_correct": 0,
+    "draw_total": 104
+  },
+  "config": {
+    "name": "V4 Dynamic Team State Hybrid Score Model (B7)",
+    "mu_league": 1.6,
+    "hfa_mult": 1.4,
+    "rho_dixon_coles": 0.0,
+    "blend_weight_score": 0.0928,
+    "strong_picks_thresholds": [
+      0.55,
+      0.6,
+      0.65
+    ]
+  }
+}

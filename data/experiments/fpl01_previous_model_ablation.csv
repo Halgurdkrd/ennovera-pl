@@ -1,0 +1,6 @@
+component,fpl_season_pts_25_26,xp_mae,spearman_r,pl_impact,classification
+Full Integrated Model (All Shared Signals),1961,1.588,0.471,CORE_BASE 50.26%,HELPS BOTH
+Without S2 Score Model (Clean Sheet & Goal Expectancy),2498,1.668,0.441,PL Baseline Drop (-3),HELPS BOTH (Primary Bridge)
+Without C-PLAYER (EA FC Quality Vectors),2512,1.638,0.451,PL Baseline Drop (-2),HELPS BOTH
+Without Availability / P(start) Engine,2340,1.938,0.351,Critical for Minutes,VITAL FOR FPL
+Without Tactical T7 Matchup Adjustments,2575,1.598,0.471,Neutral / Discarded,FPL ONLY (Slight Attacking Signal)

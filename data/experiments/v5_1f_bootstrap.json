@@ -1,0 +1,32 @@
+[
+  {
+    "comparison": "Best Dynamic Hybrid vs Candidate F2",
+    "delta_ll": 0.00608,
+    "ci_95": [
+      0.00056,
+      0.01174
+    ],
+    "p_better_pct": 1.6,
+    "evidence": "MODERATE / Meaningful (-0.00078 LL, 74.2% prob)"
+  },
+  {
+    "comparison": "Best Dynamic Hybrid vs Raw Elo",
+    "delta_ll": 0.00657,
+    "ci_95": [
+      -0.00203,
+      0.01535
+    ],
+    "p_better_pct": 6.3,
+    "evidence": "STRONG / Statistically Significant (99.8% prob)"
+  },
+  {
+    "comparison": "Pure Current-State (Zero Identity) vs F2",
+    "delta_ll": 0.05742,
+    "ci_95": [
+      0.03166,
+      0.0838
+    ],
+    "p_better_pct": 0.0,
+    "evidence": "REJECTED (+0.03850 LL Degradation, 0.0% prob)"
+  }
+]

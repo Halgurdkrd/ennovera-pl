@@ -1,0 +1,26 @@
+expert_A,expert_B,prob_correlation,both_correct,both_wrong,A_correct_B_wrong,B_correct_A_wrong
+E1 (F2 Base),E1 (F2 Base),1.0,184,196,0,0
+E1 (F2 Base),E2 (PQ Talent),0.997,180,193,4,3
+E1 (F2 Base),E3 (Availability),0.999,183,196,1,0
+E1 (F2 Base),E4 (Tactical T7),0.985,183,191,1,5
+E1 (F2 Base),E5 (Context D7),0.982,182,190,2,6
+E2 (PQ Talent),E1 (F2 Base),0.997,180,193,3,4
+E2 (PQ Talent),E2 (PQ Talent),1.0,183,197,0,0
+E2 (PQ Talent),E3 (Availability),0.999,180,194,3,3
+E2 (PQ Talent),E4 (Tactical T7),0.987,182,191,1,6
+E2 (PQ Talent),E5 (Context D7),0.985,182,191,1,6
+E3 (Availability),E1 (F2 Base),0.999,183,196,0,1
+E3 (Availability),E2 (PQ Talent),0.999,180,194,3,3
+E3 (Availability),E3 (Availability),1.0,183,197,0,0
+E3 (Availability),E4 (Tactical T7),0.986,182,191,1,6
+E3 (Availability),E5 (Context D7),0.984,181,190,2,7
+E4 (Tactical T7),E1 (F2 Base),0.985,183,191,5,1
+E4 (Tactical T7),E2 (PQ Talent),0.987,182,191,6,1
+E4 (Tactical T7),E3 (Availability),0.986,182,191,6,1
+E4 (Tactical T7),E4 (Tactical T7),1.0,188,192,0,0
+E4 (Tactical T7),E5 (Context D7),0.995,186,190,2,2
+E5 (Context D7),E1 (F2 Base),0.982,182,190,6,2
+E5 (Context D7),E2 (PQ Talent),0.985,182,191,6,1
+E5 (Context D7),E3 (Availability),0.984,181,190,7,2
+E5 (Context D7),E4 (Tactical T7),0.995,186,190,2,2
+E5 (Context D7),E5 (Context D7),1.0,188,192,0,0

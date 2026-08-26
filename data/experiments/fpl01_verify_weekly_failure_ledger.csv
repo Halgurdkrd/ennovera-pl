@@ -1,0 +1,39 @@
+gw,ennovera_pts,price_pts,diff,ennovera_captain,captain_raw_pts,classification
+1,64,43,21,Yoane Wissa,0,BALANCED
+2,34,50,-16,Fabian Schär,1,CAPTAIN_UNDERPERFORMANCE
+3,65,54,11,Erling Haaland,9,BALANCED
+4,74,49,25,Erling Haaland,13,BALANCED
+5,41,65,-24,Erling Haaland,9,BUDGET_ALLOCATION
+6,59,65,-6,Erling Haaland,16,BUDGET_ALLOCATION
+7,72,60,12,Erling Haaland,8,BALANCED
+8,91,79,12,Erling Haaland,13,BALANCED
+9,41,36,5,Jean-Philippe Mateta,2,BALANCED
+10,77,62,15,Jean-Philippe Mateta,9,BALANCED
+11,43,47,-4,Jean-Philippe Mateta,2,BUDGET_ALLOCATION
+12,34,47,-13,Jean-Philippe Mateta,1,CAPTAIN_UNDERPERFORMANCE
+13,37,40,-3,Erling Haaland,2,BUDGET_ALLOCATION
+14,68,61,7,Igor Thiago Nascimento Rodrigues,1,BALANCED
+15,46,57,-11,Erling Haaland,2,CAPTAIN_UNDERPERFORMANCE
+16,67,65,2,Erling Haaland,13,BALANCED
+17,54,83,-29,Erling Haaland,16,BUDGET_ALLOCATION
+18,34,39,-5,Erling Haaland,2,BUDGET_ALLOCATION
+19,43,34,9,Erling Haaland,2,BALANCED
+20,43,43,0,Kevin Schade,6,BALANCED
+21,49,44,5,Kevin Schade,6,BALANCED
+22,33,31,2,Kevin Schade,1,BALANCED
+23,45,55,-10,Kevin Schade,2,CAPTAIN_UNDERPERFORMANCE
+24,47,52,-5,Ollie Watkins,0,BUDGET_ALLOCATION
+25,60,59,1,Igor Thiago Nascimento Rodrigues,5,BALANCED
+26,33,65,-32,Erling Haaland,5,CAPTAIN_UNDERPERFORMANCE
+27,48,40,8,Cole Palmer,3,BALANCED
+28,36,50,-14,Cole Palmer,1,CAPTAIN_UNDERPERFORMANCE
+29,91,57,34,Cole Palmer,9,BALANCED
+30,42,54,-12,João Pedro Junqueira de Jesus,2,CAPTAIN_UNDERPERFORMANCE
+31,42,54,-12,João Pedro Junqueira de Jesus,2,CAPTAIN_UNDERPERFORMANCE
+32,44,61,-17,João Pedro Junqueira de Jesus,2,CAPTAIN_UNDERPERFORMANCE
+33,46,32,14,Bruno Borges Fernandes,6,BALANCED
+34,43,43,0,Igor Thiago Nascimento Rodrigues,1,BALANCED
+35,59,49,10,Erling Haaland,7,BALANCED
+36,51,42,9,Erling Haaland,0,BALANCED
+37,63,65,-2,Gabriel dos Santos Magalhães,6,BUDGET_ALLOCATION
+38,42,65,-23,Gabriel dos Santos Magalhães,1,CAPTAIN_UNDERPERFORMANCE

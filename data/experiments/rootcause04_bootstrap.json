@@ -1,0 +1,8 @@
+{
+  "r4_vs_core_acc_delta": -0.0238,
+  "bootstrap_95_ci": [
+    -0.0605,
+    0.0132
+  ],
+  "prob_r4_better_or_equal": 11.6
+}

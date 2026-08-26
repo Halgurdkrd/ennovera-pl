@@ -1,0 +1,9 @@
+context,n_matches,m3_acc,s2_acc,player_acc,best_expert,advantage
+Early Season (GW 1-5),50,52.0,50.0,56.0,C-PLAYER,+4.0% vs M3 (New rosters)
+Mid Season (GW 6-25),200,50.5,49.5,48.0,M3 Peak,+1.0% vs S2 (Established form)
+Late Season (GW 26-38),130,47.7,48.5,47.7,S2 Dixon-Coles,+0.8% vs M3 (Fatigue decay)
+Promoted Clubs Involved,114,48.2,47.4,51.8,C-PLAYER,+3.6% vs M3 (Zero stale prior)
+Low Expected Total Goals (<2.4),88,45.5,48.9,44.3,S2 Dixon-Coles,+3.4% vs M3 (Score Poisson)
+High Expected Total Goals (>3.2),96,53.1,51.0,52.1,M3 Peak,+2.1% vs S2
+European Congestion (Rest <=3d),72,47.2,51.4,45.8,S2 Dixon-Coles,+4.2% vs M3
+Strong Favorites (Top P >=60%),55,67.3,63.6,60.0,M3 Peak,+3.7% vs S2 (Elite stability)

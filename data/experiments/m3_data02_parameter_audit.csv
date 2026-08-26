@@ -1,0 +1,5 @@
+parameter,value,learned_split,stability,status
+Rolling Window Length,5 matches (Exponentially weighted),Dev 2022–24,Stable across 3-10 grid,LEARNED / RETAINED
+Tactical Blend Weight,"w_tact = 0.15 (15% Tactical, 85% PQ7)",Dev 2022–24,"Optimal at [0.12, 0.18]",LEARNED / RETAINED
+Press Trap Scaling,0.25 * tact_diff_ppda * (1 - cont),Dev 2022–24,Consistent across seasons,LEARNED / RETAINED
+Low-Block Decay Scale,exp(-tilt^2 / 8.0),Dev 2022–24,Gaussian kernel,LEARNED / RETAINED

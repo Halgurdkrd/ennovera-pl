@@ -1,0 +1,10 @@
+{
+  "total_seasons_audited": 4,
+  "total_matches_audited": 1520,
+  "confirmed_lineups_available": 1518,
+  "confirmed_lineups_coverage_pct": 99.87,
+  "exact_11v11_verified_matches": 1518,
+  "full_player_identity_mapped_pct": 97.4,
+  "kickoff_timestamp_verified_pct": 100.0,
+  "temporal_leak_free_status": "100% VERIFIED"
+}

@@ -1,0 +1,2 @@
+total_opportunities,actual_starts,roc_auc,pr_auc,brier_score,accuracy_pct,precision_pct,recall_pct,f1_score,high_conf_surprise_benchings_cnt,surprise_starters_cnt
+33440,16720,0.9175,0.9082,0.09618,86.85,87.12,86.45,0.8678,642,598

@@ -1,0 +1,13 @@
+component_removed,holdout_log_loss,delta_log_loss,importance
+None (Full M1 Player Model),1.03783,0.0,Baseline
+diff_xi_att,1.0377,-0.00013,NEGLIGIBLE
+diff_xi_cre,1.03775,-8e-05,NEGLIGIBLE
+diff_xi_def,1.03782,-1e-05,NEGLIGIBLE
+diff_xi_gk,1.03783,-0.0,NEGLIGIBLE
+diff_xi_xgi,1.03721,-0.00062,NEGLIGIBLE
+diff_depth,1.03779,-4e-05,NEGLIGIBLE
+diff_cont,1.03837,0.00053,NEGLIGIBLE
+diff_unc,1.03788,5e-05,NEGLIGIBLE
+inter_att_cre,1.03757,-0.00027,NEGLIGIBLE
+inter_opp_att_def,1.03778,-5e-05,NEGLIGIBLE
+inter_cont_att,1.03795,0.00011,NEGLIGIBLE

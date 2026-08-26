@@ -1,0 +1,4 @@
+confidence_threshold,total_picks,coverage_pct,accuracy_pct,wilson_95_ci
+>=55%,141,37.1,56.74,"[48.5%, 64.6%]"
+>=60%,89,23.4,60.67,"[50.3%, 70.2%]"
+>=65%,50,13.2,68.0,"[54.2%, 79.2%]"

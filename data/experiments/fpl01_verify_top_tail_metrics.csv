@@ -1,0 +1,5 @@
+cohort,ennovera_mae,price_mae,form_mae,xgi_mae,winner
+"All Active Players (N=113,592)",1.588,1.954,2.315,1.612,Ennovera (Lowest Error on Zero/Low Scorers)
+Top 20% Predicted xP Cohort,3.412,3.12,3.085,3.34,Form / Price (Better Scaling on Starters)
+"Top 5% Elite Talismans (Haaland, Salah, etc.)",4.85,3.92,3.84,4.62,Price / Form (Less Shrinkage on 15+ Hauls)
+"Selected Starting XI Players (N=1,661)",3.68,3.31,3.25,3.59,Form / Price (Lower Error on Key Starters)

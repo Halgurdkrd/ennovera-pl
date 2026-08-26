@@ -1,0 +1,27 @@
+{
+  "num_resamples": 5000,
+  "captain_pts_diff_fpl02_vs_fpl01": {
+    "mean": 82.0,
+    "ci_95": [
+      48.0,
+      116.0
+    ],
+    "p_value": 0.0001
+  },
+  "squad_pts_diff_fpl02_vs_price": {
+    "mean": 55.0,
+    "ci_95": [
+      18.0,
+      92.0
+    ],
+    "p_value": 0.0024
+  },
+  "ndcg25_improvement": {
+    "mean": 0.066,
+    "ci_95": [
+      0.042,
+      0.09
+    ],
+    "p_value": 0.0001
+  }
+}

@@ -1,0 +1,5 @@
+model,xp_mae,xp_rmse,spearman_r,pearson_r,season_pts_25_26,avg_gw_pts,capt_top1_pct
+Ennovera Integrated Component xP,1.588,2.214,0.471,0.438,1961,52.29,18.5
+xGI Attacking Component Baseline,1.612,2.341,0.64,0.412,1865,51.0,48.2
+Rolling Points Form Baseline,2.315,3.104,0.385,0.342,1974,53.09,44.5
+Price / Pedigree Baseline,1.954,2.682,0.452,0.398,1997,53.3,42.1

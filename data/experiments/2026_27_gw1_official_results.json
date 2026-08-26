@@ -1,0 +1,92 @@
+[
+  {
+    "fixture_id": 1,
+    "kickoff_time": "2026-08-21T19:00:00Z",
+    "home_team": "Arsenal",
+    "away_team": "Coventry City",
+    "home_score": 3,
+    "away_score": 0,
+    "ftr": "H"
+  },
+  {
+    "fixture_id": 4,
+    "kickoff_time": "2026-08-22T11:30:00Z",
+    "home_team": "Hull City",
+    "away_team": "Man Utd",
+    "home_score": 2,
+    "away_score": 0,
+    "ftr": "H"
+  },
+  {
+    "fixture_id": 3,
+    "kickoff_time": "2026-08-22T14:00:00Z",
+    "home_team": "Everton",
+    "away_team": "Crystal Palace",
+    "home_score": 2,
+    "away_score": 0,
+    "ftr": "H"
+  },
+  {
+    "fixture_id": 5,
+    "kickoff_time": "2026-08-22T14:00:00Z",
+    "home_team": "Ipswich Town",
+    "away_team": "Sunderland",
+    "home_score": 2,
+    "away_score": 1,
+    "ftr": "H"
+  },
+  {
+    "fixture_id": 6,
+    "kickoff_time": "2026-08-22T14:00:00Z",
+    "home_team": "Nott'm Forest",
+    "away_team": "Leeds",
+    "home_score": 0,
+    "away_score": 1,
+    "ftr": "A"
+  },
+  {
+    "fixture_id": 2,
+    "kickoff_time": "2026-08-22T16:30:00Z",
+    "home_team": "Brentford",
+    "away_team": "Spurs",
+    "home_score": 3,
+    "away_score": 0,
+    "ftr": "H"
+  },
+  {
+    "fixture_id": 7,
+    "kickoff_time": "2026-08-23T13:00:00Z",
+    "home_team": "Brighton",
+    "away_team": "Aston Villa",
+    "home_score": 4,
+    "away_score": 0,
+    "ftr": "H"
+  },
+  {
+    "fixture_id": 8,
+    "kickoff_time": "2026-08-23T13:00:00Z",
+    "home_team": "Man City",
+    "away_team": "Bournemouth",
+    "home_score": 2,
+    "away_score": 1,
+    "ftr": "H"
+  },
+  {
+    "fixture_id": 9,
+    "kickoff_time": "2026-08-23T15:30:00Z",
+    "home_team": "Newcastle",
+    "away_team": "Liverpool",
+    "home_score": 2,
+    "away_score": 2,
+    "ftr": "D"
+  },
+  {
+    "fixture_id": 10,
+    "kickoff_time": "2026-08-24T19:00:00Z",
+    "home_team": "Fulham",
+    "away_team": "Chelsea",
+    "home_score": 2,
+    "away_score": 3,
+    "ftr": "A"
+  }
+]

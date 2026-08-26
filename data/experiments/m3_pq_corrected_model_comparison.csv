@@ -1,0 +1,5 @@
+model,val_acc,val_ll,hold_acc,hold_ll,hold_brier,hold_ece,sp60_acc,sp60_cov,sp60_cnt,hist_dependence_pct
+Candidate M1-D (Baseline),51.05,0.99918,48.16,1.0294,0.6188,0.0301,64.62,17.1,65,65.0
+Original PQ7 (Pre-Audit),52.11,0.99456,48.16,1.02976,0.6194,0.0471,61.54,23.9,91,60.0
+Candidate F2 (Baseline),51.32,1.00326,48.42,1.02999,0.6192,0.0203,67.27,14.5,55,80.0
+Corrected PQ7 (Validated Master),51.84,0.99467,48.42,1.03019,0.6196,0.0552,60.67,23.4,89,61.5

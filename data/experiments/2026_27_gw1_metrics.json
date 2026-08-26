@@ -1,0 +1,58 @@
+{
+  "raw_elo": {
+    "model": "Raw Elo (M0)",
+    "correct": 5,
+    "total": 10,
+    "accuracy_pct": 50.0,
+    "log_loss": 0.95659,
+    "brier_score": 0.5656,
+    "mean_confidence": 49.58,
+    "draws_predicted": 0,
+    "actual_draws": 1,
+    "strong_picks_count": 1,
+    "strong_picks_correct": 1,
+    "strong_picks_accuracy_pct": 100.0
+  },
+  "v2": {
+    "model": "Frozen V2",
+    "correct": 5,
+    "total": 10,
+    "accuracy_pct": 50.0,
+    "log_loss": 0.97515,
+    "brier_score": 0.57441,
+    "mean_confidence": 53.6,
+    "draws_predicted": 0,
+    "actual_draws": 1,
+    "strong_picks_count": 3,
+    "strong_picks_correct": 3,
+    "strong_picks_accuracy_pct": 100.0
+  },
+  "v4": {
+    "model": "Frozen V4",
+    "correct": 5,
+    "total": 10,
+    "accuracy_pct": 50.0,
+    "log_loss": 0.96816,
+    "brier_score": 0.57145,
+    "mean_confidence": 53.44,
+    "draws_predicted": 0,
+    "actual_draws": 1,
+    "strong_picks_count": 2,
+    "strong_picks_correct": 2,
+    "strong_picks_accuracy_pct": 100.0
+  },
+  "v5_1": {
+    "model": "Frozen V5.1",
+    "correct": 5,
+    "total": 10,
+    "accuracy_pct": 50.0,
+    "log_loss": 0.9539,
+    "brier_score": 0.56353,
+    "mean_confidence": 53.71,
+    "draws_predicted": 0,
+    "actual_draws": 1,
+    "strong_picks_count": 2,
+    "strong_picks_correct": 2,
+    "strong_picks_accuracy_pct": 100.0
+  }
+}

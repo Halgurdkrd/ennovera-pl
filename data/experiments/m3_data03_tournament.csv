@@ -1,0 +1,6 @@
+model,val_acc,val_ll,hold_correct,hold_acc,hold_ll,hold_brier,sp60_acc,sp60_cov,sp60_cnt
+R2: Rest & Congestion Expert,52.11,0.99831,187,49.21,1.02799,0.6173,64.29,22.1,84
+R1: Manager-Only Expert,52.11,0.99781,188,49.47,1.02817,0.6176,64.29,22.1,84
+R0: T7 Tactical Benchmark,52.37,0.99455,188,49.47,1.02835,0.6179,60.0,25.0,95
+R7: Linear Combined (Tact+Sched+Mgr),52.11,0.99637,187,49.21,1.02956,0.6187,59.18,25.8,98
+R8: Non-linear ML Combined DATA-03 Expert,51.05,1.0055,188,49.47,1.04147,0.6243,56.3,31.3,119

@@ -1,0 +1,9 @@
+model,val_acc,val_ll,hold_correct,hold_acc,hold_ll,hold_brier,hold_ece,sp60_picks,sp60_acc,sp60_cov,draw_recall
+M3-C: Rule-Based Interpretable Gate,52.11,0.99612,185,48.68,1.02706,0.6171,0.0428,83,63.86,21.8,0.0
+M3-A: Equal Expert Blend (20% each),51.84,0.9967,185,48.68,1.02775,0.6176,0.0313,82,64.63,21.6,0.0
+M3-E: Shallow Tree Gate (HGB Router),52.37,0.9961,189,49.74,1.02782,0.6175,0.0594,92,60.87,24.2,0.0
+M3-D: Regularized Softmax Gating Network,52.37,0.99518,188,49.47,1.02786,0.6176,0.0523,93,61.29,24.5,0.0
+M3-G: Best Hybrid MoE (Mode A Early),52.11,0.99488,188,49.47,1.028,0.6177,0.0555,94,60.64,24.7,0.0
+M3-G: Best Hybrid MoE (Mode B 1-Hour Lineup),52.11,0.99488,188,49.47,1.028,0.6177,0.0555,94,60.64,24.7,0.0
+M3-B: Global Learned Weights (Static Convex),52.37,0.99455,188,49.47,1.02834,0.6179,0.0652,95,60.0,25.0,0.0
+M3-F: Stacked Multinomial Meta-Model,52.89,1.0011,188,49.47,1.03611,0.6239,0.0822,150,58.67,39.5,0.0

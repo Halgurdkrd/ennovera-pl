@@ -1,0 +1,28 @@
+{
+  "promoted_teams_bootstrap": {
+    "match_count": 121,
+    "mean_delta_ll": -0.02365,
+    "ci_95": [
+      -0.03561,
+      -0.01128
+    ],
+    "p_m1_better_pct": 100.0
+  },
+  "high_turnover_teams_bootstrap": {
+    "match_count": 53,
+    "mean_delta_ll": -0.03097,
+    "ci_95": [
+      -0.05027,
+      -0.00997
+    ],
+    "p_m1_better_pct": 99.8
+  },
+  "overlap_analysis": {
+    "promoted_count": 121,
+    "high_turnover_count": 53,
+    "exact_overlap_count": 53,
+    "overlap_percentage": 43.8,
+    "independent_non_promoted_high_turnover_matches": 0,
+    "independent_non_promoted_delta_ll": NaN
+  }
+}

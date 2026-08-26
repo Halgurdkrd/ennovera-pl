@@ -1,0 +1,5 @@
+model,overall_mae,starter_mae,spearman_r,squad_points_25_26,avg_gw_pts,capt_points_25_26,capt_top1_pct,budget_used
+Ennovera Integrated Component xP,1.588,3.68,0.471,1961,51.61,392,15.8,98.6
+Price / Pedigree Baseline,1.954,3.31,0.452,1997,52.55,436,26.3,99.8
+Rolling Form Baseline,2.315,3.25,0.385,1974,51.95,420,23.7,99.4
+Pure xGI Statistical Baseline,1.612,3.59,0.64,1865,49.08,380,18.4,98.2

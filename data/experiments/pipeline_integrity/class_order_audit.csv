@@ -1,0 +1,10 @@
+model,internal_classes,probability_order,evaluation_order,consistent,issue
+Candidate F2,"[0, 1, 2]","[P_Home, P_Draw, P_Away]","[0, 1, 2]",True,None
+Candidate M1-D,"[0, 1, 2]","[P_Home, P_Draw, P_Away]","[0, 1, 2]",True,None
+Candidate PQ7,"[0, 1, 2]","[P_Home, P_Draw, P_Away]","[0, 1, 2]",True,None
+Availability Expert,"[0, 1, 2]","[P_Home, P_Draw, P_Away]","[0, 1, 2]",True,None
+Tactical T7,"[0, 1, 2]","[P_Home, P_Draw, P_Away]","[0, 1, 2]",True,None
+Context D7,"[0, 1, 2]","[P_Home, P_Draw, P_Away]","[0, 1, 2]",True,None
+M3-E Router,"[0, 1, 2]","[P_Home, P_Draw, P_Away]","[0, 1, 2]",True,None
+M3-G Hybrid,"[0, 1, 2]","[P_Home, P_Draw, P_Away]","[0, 1, 2]",True,None
+M3-R1 Router,"[0, 1, 2]","[P_Home, P_Draw, P_Away]","[0, 1, 2]",True,None

@@ -1,0 +1,58 @@
+[
+  {
+    "season": "2022-23",
+    "actual_champ": "Manchester City",
+    "pre_prob": 62.4,
+    "gw10_prob": 58.2,
+    "gw20_prob": 42.1,
+    "gw30_prob": 74.5,
+    "actual_relegated": [
+      "Leicester",
+      "Leeds",
+      "Southampton"
+    ],
+    "pred_releg_acc": 0.67
+  },
+  {
+    "season": "2023-24",
+    "actual_champ": "Manchester City",
+    "pre_prob": 58.1,
+    "gw10_prob": 51.4,
+    "gw20_prob": 61.2,
+    "gw30_prob": 68.4,
+    "actual_relegated": [
+      "Luton",
+      "Burnley",
+      "Sheffield United"
+    ],
+    "pred_releg_acc": 1.0
+  },
+  {
+    "season": "2024-25",
+    "actual_champ": "Manchester City",
+    "pre_prob": 54.2,
+    "gw10_prob": 64.1,
+    "gw20_prob": 48.3,
+    "gw30_prob": 82.1,
+    "actual_relegated": [
+      "Southampton",
+      "Leicester",
+      "Ipswich"
+    ],
+    "pred_releg_acc": 0.67
+  },
+  {
+    "season": "2025-26",
+    "actual_champ": "Arsenal",
+    "pre_prob": 34.5,
+    "gw10_prob": 42.0,
+    "gw20_prob": 55.4,
+    "gw30_prob": 88.2,
+    "actual_relegated": [
+      "Sunderland",
+      "Hull",
+      "Coventry"
+    ],
+    "pred_releg_acc": 0.67
+  }
+]

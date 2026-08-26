@@ -1,0 +1,6 @@
+configuration,val_log_loss,holdout_log_loss,holdout_acc,delta_ll_vs_full,verdict
+Full PQ4 Model (All Attributes),0.99608,1.03716,48.16,6e-05,VALUABLE SIGNAL
+Remove DEF (No Defender Quality),0.99554,1.03738,48.42,0.00028,VALUABLE SIGNAL
+Remove GK (No Goalkeeper Quality),0.99607,1.03722,48.42,0.00012,VALUABLE SIGNAL
+Remove PHY (No Physical Quality),0.99624,1.03666,47.89,-0.00044,HARMFUL
+Remove All FC Features (M1 Only),0.99462,1.03576,48.16,-0.00134,HARMFUL

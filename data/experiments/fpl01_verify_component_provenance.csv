@@ -1,0 +1,7 @@
+component,training_period,validation_period,holdout_period,2025_26_used_for_training,2025_26_used_for_validation,2025_26_used_for_model_selection,2025_26_used_for_manual_decision,contamination_status,notes
+Expected Minutes Engine,2022-24,2024-25,2025-26,False,False,False,False,CLEAN,Rolling 3/5 GW lagged minutes
+xG / xA Attacking Engine,2022-24,2024-25,2025-26,False,False,False,False,CLEAN,Shifted rolling 5-GW rates
+S2 Dixon-Coles Clean Sheet,2022-24,2024-25,2025-26,False,False,False,False,CLEAN,Frozen PL S2 score parameters
+C-PLAYER EA FC Vectors,Historical,2024-25,2025-26,False,False,False,False,CLEAN,Point-in-time EA FC attributes
+Integer Linear Optimizer,N/A,2024-25,2025-26,False,False,False,False,CLEAN,Deterministic HiGHS solver
+Overall 2025-26 Season Environment,N/A,N/A,2025-26,False,False,True,True,RESEARCH-EXPOSED (H1),2025-26 was previously inspected during PL 1X2 research

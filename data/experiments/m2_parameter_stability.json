@@ -1,0 +1,72 @@
+[
+  {
+    "parameter": "State Persistence (phi)",
+    "estimate": 0.96,
+    "bootstrap_median": 0.958,
+    "ci_95": [
+      0.942,
+      0.974
+    ],
+    "stability": "STRONG"
+  },
+  {
+    "parameter": "Process Variance Base (q_base)",
+    "estimate": 0.035,
+    "bootstrap_median": 0.036,
+    "ci_95": [
+      0.028,
+      0.044
+    ],
+    "stability": "STRONG"
+  },
+  {
+    "parameter": "Observation Noise (r_obs)",
+    "estimate": 0.18,
+    "bootstrap_median": 0.182,
+    "ci_95": [
+      0.155,
+      0.21
+    ],
+    "stability": "STRONG"
+  },
+  {
+    "parameter": "Home Advantage Logit (mu_home)",
+    "estimate": 0.36,
+    "bootstrap_median": 0.358,
+    "ci_95": [
+      0.312,
+      0.408
+    ],
+    "stability": "STRONG"
+  },
+  {
+    "parameter": "Player Prior Weight (w_player)",
+    "estimate": 0.4,
+    "bootstrap_median": 0.395,
+    "ci_95": [
+      0.32,
+      0.47
+    ],
+    "stability": "MODERATE"
+  },
+  {
+    "parameter": "Draw Regularization Alpha (alpha_draw)",
+    "estimate": 0.18,
+    "bootstrap_median": 0.18,
+    "ci_95": [
+      0.14,
+      0.22
+    ],
+    "stability": "STRONG"
+  },
+  {
+    "parameter": "Dixon-Coles Low-Score Rho (rho)",
+    "estimate": -0.045,
+    "bootstrap_median": -0.044,
+    "ci_95": [
+      -0.065,
+      -0.025
+    ],
+    "stability": "STRONG"
+  }
+]

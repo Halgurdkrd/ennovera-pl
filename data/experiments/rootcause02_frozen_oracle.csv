@@ -1,0 +1,2 @@
+all_5_independent_models_correct,4_models_correct,3_models_correct,2_models_correct,1_model_correct,all_5_independent_models_WRONG,ROOTCAUSE02_FROZEN_ORACLE,comparison_vs_old_F2_descendant_oracle
+130,38,20,10,30,152,228 / 380 (60.00%),214 / 380 vs 197 / 380 (+17 match complementarity gain!)

@@ -1,0 +1,1521 @@
+season,gw,date,home,away,rating_edition_used,rating_release_date,days_since_release,is_pre_release_fixture
+2022-23,15,2022-08-05,Crystal Palace,Arsenal,FIFA 22,2021-09-27,312,1
+2022-23,15,2022-08-06,Everton,Chelsea,FIFA 22,2021-09-27,313,1
+2022-23,15,2022-08-06,Tottenham,Southampton,FIFA 22,2021-09-27,313,1
+2022-23,15,2022-08-06,Newcastle United,Nottingham Forest,FIFA 22,2021-09-27,313,1
+2022-23,15,2022-08-06,Leeds United,Wolverhampton Wanderers,FIFA 22,2021-09-27,313,1
+2022-23,15,2022-08-06,Bournemouth,Aston Villa,FIFA 22,2021-09-27,313,1
+2022-23,15,2022-08-06,Fulham,Liverpool,FIFA 22,2021-09-27,313,1
+2022-23,15,2022-08-07,Leicester City,Brentford,FIFA 22,2021-09-27,314,1
+2022-23,15,2022-08-07,Manchester United,Brighton and Hove Albion,FIFA 22,2021-09-27,314,1
+2022-23,15,2022-08-07,West Ham United,Manchester City,FIFA 22,2021-09-27,314,1
+2022-23,15,2022-08-13,Brentford,Manchester United,FIFA 22,2021-09-27,320,1
+2022-23,15,2022-08-13,Wolverhampton Wanderers,Fulham,FIFA 22,2021-09-27,320,1
+2022-23,15,2022-08-13,Southampton,Leeds United,FIFA 22,2021-09-27,320,1
+2022-23,15,2022-08-13,Aston Villa,Everton,FIFA 22,2021-09-27,320,1
+2022-23,15,2022-08-13,Brighton and Hove Albion,Newcastle United,FIFA 22,2021-09-27,320,1
+2022-23,15,2022-08-13,Arsenal,Leicester City,FIFA 22,2021-09-27,320,1
+2022-23,15,2022-08-13,Manchester City,Bournemouth,FIFA 22,2021-09-27,320,1
+2022-23,15,2022-08-14,Nottingham Forest,West Ham United,FIFA 22,2021-09-27,321,1
+2022-23,15,2022-08-14,Chelsea,Tottenham,FIFA 22,2021-09-27,321,1
+2022-23,15,2022-08-15,Liverpool,Crystal Palace,FIFA 22,2021-09-27,322,1
+2022-23,15,2022-08-20,Bournemouth,Arsenal,FIFA 22,2021-09-27,327,1
+2022-23,15,2022-08-20,Tottenham,Wolverhampton Wanderers,FIFA 22,2021-09-27,327,1
+2022-23,15,2022-08-20,Crystal Palace,Aston Villa,FIFA 22,2021-09-27,327,1
+2022-23,15,2022-08-20,Everton,Nottingham Forest,FIFA 22,2021-09-27,327,1
+2022-23,15,2022-08-20,Fulham,Brentford,FIFA 22,2021-09-27,327,1
+2022-23,15,2022-08-20,Leicester City,Southampton,FIFA 22,2021-09-27,327,1
+2022-23,15,2022-08-21,Newcastle United,Manchester City,FIFA 22,2021-09-27,328,1
+2022-23,15,2022-08-21,Leeds United,Chelsea,FIFA 22,2021-09-27,328,1
+2022-23,15,2022-08-21,West Ham United,Brighton and Hove Albion,FIFA 22,2021-09-27,328,1
+2022-23,15,2022-08-22,Manchester United,Liverpool,FIFA 22,2021-09-27,329,1
+2022-23,15,2022-08-27,Southampton,Manchester United,FIFA 22,2021-09-27,334,1
+2022-23,15,2022-08-27,Brentford,Everton,FIFA 22,2021-09-27,334,1
+2022-23,15,2022-08-27,Brighton and Hove Albion,Leeds United,FIFA 22,2021-09-27,334,1
+2022-23,15,2022-08-27,Chelsea,Leicester City,FIFA 22,2021-09-27,334,1
+2022-23,15,2022-08-27,Liverpool,Bournemouth,FIFA 22,2021-09-27,334,1
+2022-23,15,2022-08-27,Manchester City,Crystal Palace,FIFA 22,2021-09-27,334,1
+2022-23,15,2022-08-27,Arsenal,Fulham,FIFA 22,2021-09-27,334,1
+2022-23,15,2022-08-28,Nottingham Forest,Tottenham,FIFA 22,2021-09-27,335,1
+2022-23,15,2022-08-28,Aston Villa,West Ham United,FIFA 22,2021-09-27,335,1
+2022-23,15,2022-08-28,Wolverhampton Wanderers,Newcastle United,FIFA 22,2021-09-27,335,1
+2022-23,15,2022-08-30,Leeds United,Everton,FIFA 22,2021-09-27,337,1
+2022-23,15,2022-08-30,Southampton,Chelsea,FIFA 22,2021-09-27,337,1
+2022-23,15,2022-08-30,Crystal Palace,Brentford,FIFA 22,2021-09-27,337,1
+2022-23,15,2022-08-30,Fulham,Brighton and Hove Albion,FIFA 22,2021-09-27,337,1
+2022-23,15,2022-08-31,Arsenal,Aston Villa,FIFA 22,2021-09-27,338,1
+2022-23,15,2022-08-31,Bournemouth,Wolverhampton Wanderers,FIFA 22,2021-09-27,338,1
+2022-23,15,2022-08-31,Manchester City,Nottingham Forest,FIFA 22,2021-09-27,338,1
+2022-23,15,2022-08-31,West Ham United,Tottenham,FIFA 22,2021-09-27,338,1
+2022-23,15,2022-08-31,Liverpool,Newcastle United,FIFA 22,2021-09-27,338,1
+2022-23,15,2022-09-01,Leicester City,Manchester United,FIFA 22,2021-09-27,339,1
+2022-23,15,2022-09-03,Wolverhampton Wanderers,Southampton,FIFA 22,2021-09-27,341,1
+2022-23,15,2022-09-03,Tottenham,Fulham,FIFA 22,2021-09-27,341,1
+2022-23,15,2022-09-03,Aston Villa,Manchester City,FIFA 22,2021-09-27,341,1
+2022-23,15,2022-09-03,Nottingham Forest,Bournemouth,FIFA 22,2021-09-27,341,1
+2022-23,15,2022-09-03,Newcastle United,Crystal Palace,FIFA 22,2021-09-27,341,1
+2022-23,15,2022-09-03,Chelsea,West Ham United,FIFA 22,2021-09-27,341,1
+2022-23,15,2022-09-03,Brentford,Leeds United,FIFA 22,2021-09-27,341,1
+2022-23,15,2022-09-03,Everton,Liverpool,FIFA 22,2021-09-27,341,1
+2022-23,15,2022-09-04,Brighton and Hove Albion,Leicester City,FIFA 22,2021-09-27,342,1
+2022-23,15,2022-09-04,Manchester United,Arsenal,FIFA 22,2021-09-27,342,1
+2022-23,15,2022-09-16,Aston Villa,Southampton,FIFA 22,2021-09-27,354,1
+2022-23,15,2022-09-16,Nottingham Forest,Fulham,FIFA 22,2021-09-27,354,1
+2022-23,15,2022-09-17,Wolverhampton Wanderers,Manchester City,FIFA 22,2021-09-27,355,1
+2022-23,15,2022-09-17,Newcastle United,Bournemouth,FIFA 22,2021-09-27,355,1
+2022-23,15,2022-09-17,Tottenham,Leicester City,FIFA 22,2021-09-27,355,1
+2022-23,15,2022-09-18,Everton,West Ham United,FIFA 22,2021-09-27,356,1
+2022-23,15,2022-09-18,Brentford,Arsenal,FIFA 22,2021-09-27,356,1
+2022-23,15,2022-10-01,Arsenal,Tottenham,FIFA 23,2022-09-27,4,0
+2022-23,15,2022-10-01,Bournemouth,Brentford,FIFA 23,2022-09-27,4,0
+2022-23,15,2022-10-01,Crystal Palace,Chelsea,FIFA 23,2022-09-27,4,0
+2022-23,15,2022-10-01,Fulham,Newcastle United,FIFA 23,2022-09-27,4,0
+2022-23,15,2022-10-01,Liverpool,Brighton and Hove Albion,FIFA 23,2022-09-27,4,0
+2022-23,15,2022-10-01,Southampton,Everton,FIFA 23,2022-09-27,4,0
+2022-23,15,2022-10-01,West Ham United,Wolverhampton Wanderers,FIFA 23,2022-09-27,4,0
+2022-23,15,2022-10-02,Manchester City,Manchester United,FIFA 23,2022-09-27,5,0
+2022-23,15,2022-10-02,Leeds United,Aston Villa,FIFA 23,2022-09-27,5,0
+2022-23,15,2022-10-03,Leicester City,Nottingham Forest,FIFA 23,2022-09-27,6,0
+2022-23,15,2022-10-08,Newcastle United,Brentford,FIFA 23,2022-09-27,11,0
+2022-23,15,2022-10-08,Manchester City,Southampton,FIFA 23,2022-09-27,11,0
+2022-23,15,2022-10-08,Brighton and Hove Albion,Tottenham,FIFA 23,2022-09-27,11,0
+2022-23,15,2022-10-08,Bournemouth,Leicester City,FIFA 23,2022-09-27,11,0
+2022-23,15,2022-10-08,Chelsea,Wolverhampton Wanderers,FIFA 23,2022-09-27,11,0
+2022-23,15,2022-10-09,Arsenal,Liverpool,FIFA 23,2022-09-27,12,0
+2022-23,15,2022-10-09,Everton,Manchester United,FIFA 23,2022-09-27,12,0
+2022-23,15,2022-10-09,Crystal Palace,Leeds United,FIFA 23,2022-09-27,12,0
+2022-23,15,2022-10-09,West Ham United,Fulham,FIFA 23,2022-09-27,12,0
+2022-23,15,2022-10-10,Nottingham Forest,Aston Villa,FIFA 23,2022-09-27,13,0
+2022-23,15,2022-10-14,Brentford,Brighton and Hove Albion,FIFA 23,2022-09-27,17,0
+2022-23,15,2022-10-15,Tottenham,Everton,FIFA 23,2022-09-27,18,0
+2022-23,15,2022-10-15,Wolverhampton Wanderers,Nottingham Forest,FIFA 23,2022-09-27,18,0
+2022-23,15,2022-10-15,Fulham,Bournemouth,FIFA 23,2022-09-27,18,0
+2022-23,15,2022-10-15,Leicester City,Crystal Palace,FIFA 23,2022-09-27,18,0
+2022-23,15,2022-10-16,Aston Villa,Chelsea,FIFA 23,2022-09-27,19,0
+2022-23,15,2022-10-16,Leeds United,Arsenal,FIFA 23,2022-09-27,19,0
+2022-23,15,2022-10-16,Manchester United,Newcastle United,FIFA 23,2022-09-27,19,0
+2022-23,15,2022-10-16,Southampton,West Ham United,FIFA 23,2022-09-27,19,0
+2022-23,15,2022-10-16,Liverpool,Manchester City,FIFA 23,2022-09-27,19,0
+2022-23,15,2022-10-18,Brighton and Hove Albion,Nottingham Forest,FIFA 23,2022-09-27,21,0
+2022-23,15,2022-10-18,Crystal Palace,Wolverhampton Wanderers,FIFA 23,2022-09-27,21,0
+2022-23,15,2022-10-19,Bournemouth,Southampton,FIFA 23,2022-09-27,22,0
+2022-23,15,2022-10-19,Brentford,Chelsea,FIFA 23,2022-09-27,22,0
+2022-23,15,2022-10-19,Liverpool,West Ham United,FIFA 23,2022-09-27,22,0
+2022-23,15,2022-10-19,Newcastle United,Everton,FIFA 23,2022-09-27,22,0
+2022-23,15,2022-10-19,Manchester United,Tottenham,FIFA 23,2022-09-27,22,0
+2022-23,15,2022-10-20,Leicester City,Leeds United,FIFA 23,2022-09-27,23,0
+2022-23,15,2022-10-20,Fulham,Aston Villa,FIFA 23,2022-09-27,23,0
+2022-23,15,2022-10-22,Nottingham Forest,Liverpool,FIFA 23,2022-09-27,25,0
+2022-23,15,2022-10-22,Everton,Crystal Palace,FIFA 23,2022-09-27,25,0
+2022-23,15,2022-10-22,Manchester City,Brighton and Hove Albion,FIFA 23,2022-09-27,25,0
+2022-23,15,2022-10-22,Chelsea,Manchester United,FIFA 23,2022-09-27,25,0
+2022-23,15,2022-10-23,Aston Villa,Brentford,FIFA 23,2022-09-27,26,0
+2022-23,15,2022-10-23,Leeds United,Fulham,FIFA 23,2022-09-27,26,0
+2022-23,15,2022-10-23,Southampton,Arsenal,FIFA 23,2022-09-27,26,0
+2022-23,15,2022-10-23,Wolverhampton Wanderers,Leicester City,FIFA 23,2022-09-27,26,0
+2022-23,15,2022-10-23,Tottenham,Newcastle United,FIFA 23,2022-09-27,26,0
+2022-23,15,2022-10-24,West Ham United,Bournemouth,FIFA 23,2022-09-27,27,0
+2022-23,15,2022-10-29,Liverpool,Leeds United,FIFA 23,2022-09-27,32,0
+2022-23,15,2022-10-29,Fulham,Everton,FIFA 23,2022-09-27,32,0
+2022-23,15,2022-10-29,Newcastle United,Aston Villa,FIFA 23,2022-09-27,32,0
+2022-23,15,2022-10-29,Crystal Palace,Southampton,FIFA 23,2022-09-27,32,0
+2022-23,15,2022-10-29,Brighton and Hove Albion,Chelsea,FIFA 23,2022-09-27,32,0
+2022-23,15,2022-10-29,Brentford,Wolverhampton Wanderers,FIFA 23,2022-09-27,32,0
+2022-23,15,2022-10-29,Bournemouth,Tottenham,FIFA 23,2022-09-27,32,0
+2022-23,15,2022-10-29,Leicester City,Manchester City,FIFA 23,2022-09-27,32,0
+2022-23,15,2022-10-30,Arsenal,Nottingham Forest,FIFA 23,2022-09-27,33,0
+2022-23,15,2022-10-30,Manchester United,West Ham United,FIFA 23,2022-09-27,33,0
+2022-23,15,2022-11-05,Leeds United,Bournemouth,FIFA 23,2022-09-27,39,0
+2022-23,15,2022-11-05,Manchester City,Fulham,FIFA 23,2022-09-27,39,0
+2022-23,15,2022-11-05,Nottingham Forest,Brentford,FIFA 23,2022-09-27,39,0
+2022-23,15,2022-11-05,Wolverhampton Wanderers,Brighton and Hove Albion,FIFA 23,2022-09-27,39,0
+2022-23,15,2022-11-05,Everton,Leicester City,FIFA 23,2022-09-27,39,0
+2022-23,15,2022-11-06,West Ham United,Crystal Palace,FIFA 23,2022-09-27,40,0
+2022-23,15,2022-11-06,Southampton,Newcastle United,FIFA 23,2022-09-27,40,0
+2022-23,15,2022-11-06,Tottenham,Liverpool,FIFA 23,2022-09-27,40,0
+2022-23,15,2022-11-06,Chelsea,Arsenal,FIFA 23,2022-09-27,40,0
+2022-23,15,2022-11-06,Aston Villa,Manchester United,FIFA 23,2022-09-27,40,0
+2022-23,15,2022-11-12,Manchester City,Brentford,FIFA 23,2022-09-27,46,0
+2022-23,15,2022-11-12,Bournemouth,Everton,FIFA 23,2022-09-27,46,0
+2022-23,15,2022-11-12,Liverpool,Southampton,FIFA 23,2022-09-27,46,0
+2022-23,15,2022-11-12,Nottingham Forest,Crystal Palace,FIFA 23,2022-09-27,46,0
+2022-23,15,2022-11-12,Tottenham,Leeds United,FIFA 23,2022-09-27,46,0
+2022-23,15,2022-11-12,West Ham United,Leicester City,FIFA 23,2022-09-27,46,0
+2022-23,15,2022-11-12,Newcastle United,Chelsea,FIFA 23,2022-09-27,46,0
+2022-23,15,2022-11-12,Wolverhampton Wanderers,Arsenal,FIFA 23,2022-09-27,46,0
+2022-23,15,2022-11-13,Brighton and Hove Albion,Aston Villa,FIFA 23,2022-09-27,47,0
+2022-23,15,2022-11-13,Fulham,Manchester United,FIFA 23,2022-09-27,47,0
+2022-23,15,2022-12-26,Southampton,Brighton and Hove Albion,FIFA 23,2022-09-27,90,0
+2022-23,15,2022-12-26,Arsenal,West Ham United,FIFA 23,2022-09-27,90,0
+2022-23,15,2022-12-26,Aston Villa,Liverpool,FIFA 23,2022-09-27,90,0
+2022-23,15,2022-12-26,Leicester City,Newcastle United,FIFA 23,2022-09-27,90,0
+2022-23,15,2022-12-26,Everton,Wolverhampton Wanderers,FIFA 23,2022-09-27,90,0
+2022-23,15,2022-12-26,Crystal Palace,Fulham,FIFA 23,2022-09-27,90,0
+2022-23,15,2022-12-26,Brentford,Tottenham,FIFA 23,2022-09-27,90,0
+2022-23,15,2022-12-27,Chelsea,Bournemouth,FIFA 23,2022-09-27,91,0
+2022-23,15,2022-12-27,Manchester United,Nottingham Forest,FIFA 23,2022-09-27,91,0
+2022-23,15,2022-12-28,Leeds United,Manchester City,FIFA 23,2022-09-27,92,0
+2022-23,15,2022-12-30,West Ham United,Brentford,FIFA 23,2022-09-27,94,0
+2022-23,15,2022-12-30,Liverpool,Leicester City,FIFA 23,2022-09-27,94,0
+2022-23,15,2022-12-31,Wolverhampton Wanderers,Manchester United,FIFA 23,2022-09-27,95,0
+2022-23,15,2022-12-31,Bournemouth,Crystal Palace,FIFA 23,2022-09-27,95,0
+2022-23,15,2022-12-31,Fulham,Southampton,FIFA 23,2022-09-27,95,0
+2022-23,15,2022-12-31,Manchester City,Everton,FIFA 23,2022-09-27,95,0
+2022-23,15,2022-12-31,Newcastle United,Leeds United,FIFA 23,2022-09-27,95,0
+2022-23,15,2022-12-31,Brighton and Hove Albion,Arsenal,FIFA 23,2022-09-27,95,0
+2022-23,15,2023-01-01,Nottingham Forest,Chelsea,FIFA 23,2022-09-27,96,0
+2022-23,15,2023-01-01,Tottenham,Aston Villa,FIFA 23,2022-09-27,96,0
+2022-23,15,2023-01-02,Brentford,Liverpool,FIFA 23,2022-09-27,97,0
+2022-23,15,2023-01-03,Arsenal,Newcastle United,FIFA 23,2022-09-27,98,0
+2022-23,15,2023-01-03,Everton,Brighton and Hove Albion,FIFA 23,2022-09-27,98,0
+2022-23,15,2023-01-03,Leicester City,Fulham,FIFA 23,2022-09-27,98,0
+2022-23,15,2023-01-03,Manchester United,Bournemouth,FIFA 23,2022-09-27,98,0
+2022-23,15,2023-01-04,Southampton,Nottingham Forest,FIFA 23,2022-09-27,99,0
+2022-23,15,2023-01-04,Leeds United,West Ham United,FIFA 23,2022-09-27,99,0
+2022-23,15,2023-01-04,Aston Villa,Wolverhampton Wanderers,FIFA 23,2022-09-27,99,0
+2022-23,15,2023-01-04,Crystal Palace,Tottenham,FIFA 23,2022-09-27,99,0
+2022-23,15,2023-01-05,Chelsea,Manchester City,FIFA 23,2022-09-27,100,0
+2022-23,15,2023-01-12,Fulham,Chelsea,FIFA 23,2022-09-27,107,0
+2022-23,15,2023-01-13,Aston Villa,Leeds United,FIFA 23,2022-09-27,108,0
+2022-23,15,2023-01-14,Wolverhampton Wanderers,West Ham United,FIFA 23,2022-09-27,109,0
+2022-23,15,2023-01-14,Brentford,Bournemouth,FIFA 23,2022-09-27,109,0
+2022-23,15,2023-01-14,Nottingham Forest,Leicester City,FIFA 23,2022-09-27,109,0
+2022-23,15,2023-01-14,Manchester United,Manchester City,FIFA 23,2022-09-27,109,0
+2022-23,15,2023-01-14,Brighton and Hove Albion,Liverpool,FIFA 23,2022-09-27,109,0
+2022-23,15,2023-01-14,Everton,Southampton,FIFA 23,2022-09-27,109,0
+2022-23,15,2023-01-15,Chelsea,Crystal Palace,FIFA 23,2022-09-27,110,0
+2022-23,15,2023-01-15,Newcastle United,Fulham,FIFA 23,2022-09-27,110,0
+2022-23,15,2023-01-15,Tottenham,Arsenal,FIFA 23,2022-09-27,110,0
+2022-23,15,2023-01-18,Crystal Palace,Manchester United,FIFA 23,2022-09-27,113,0
+2022-23,15,2023-01-19,Manchester City,Tottenham,FIFA 23,2022-09-27,114,0
+2022-23,15,2023-01-21,West Ham United,Everton,FIFA 23,2022-09-27,116,0
+2022-23,15,2023-01-21,Southampton,Aston Villa,FIFA 23,2022-09-27,116,0
+2022-23,15,2023-01-21,Crystal Palace,Newcastle United,FIFA 23,2022-09-27,116,0
+2022-23,15,2023-01-21,Bournemouth,Nottingham Forest,FIFA 23,2022-09-27,116,0
+2022-23,15,2023-01-21,Liverpool,Chelsea,FIFA 23,2022-09-27,116,0
+2022-23,15,2023-01-21,Leicester City,Brighton and Hove Albion,FIFA 23,2022-09-27,116,0
+2022-23,15,2023-01-22,Leeds United,Brentford,FIFA 23,2022-09-27,117,0
+2022-23,15,2023-01-22,Manchester City,Wolverhampton Wanderers,FIFA 23,2022-09-27,117,0
+2022-23,15,2023-01-22,Arsenal,Manchester United,FIFA 23,2022-09-27,117,0
+2022-23,15,2023-01-23,Fulham,Tottenham,FIFA 23,2022-09-27,118,0
+2022-23,15,2023-02-03,Chelsea,Fulham,FIFA 23,2022-09-27,129,0
+2022-23,15,2023-02-04,Wolverhampton Wanderers,Liverpool,FIFA 23,2022-09-27,130,0
+2022-23,15,2023-02-04,Everton,Arsenal,FIFA 23,2022-09-27,130,0
+2022-23,15,2023-02-04,Aston Villa,Leicester City,FIFA 23,2022-09-27,130,0
+2022-23,15,2023-02-04,Brentford,Southampton,FIFA 23,2022-09-27,130,0
+2022-23,15,2023-02-04,Brighton and Hove Albion,Bournemouth,FIFA 23,2022-09-27,130,0
+2022-23,15,2023-02-04,Manchester United,Crystal Palace,FIFA 23,2022-09-27,130,0
+2022-23,15,2023-02-04,Newcastle United,West Ham United,FIFA 23,2022-09-27,130,0
+2022-23,15,2023-02-05,Nottingham Forest,Leeds United,FIFA 23,2022-09-27,131,0
+2022-23,15,2023-02-05,Tottenham,Manchester City,FIFA 23,2022-09-27,131,0
+2022-23,15,2023-02-08,Manchester United,Leeds United,FIFA 23,2022-09-27,134,0
+2022-23,15,2023-02-11,West Ham United,Chelsea,FIFA 23,2022-09-27,137,0
+2022-23,15,2023-02-11,Arsenal,Brentford,FIFA 23,2022-09-27,137,0
+2022-23,15,2023-02-11,Crystal Palace,Brighton and Hove Albion,FIFA 23,2022-09-27,137,0
+2022-23,15,2023-02-11,Fulham,Nottingham Forest,FIFA 23,2022-09-27,137,0
+2022-23,15,2023-02-11,Leicester City,Tottenham,FIFA 23,2022-09-27,137,0
+2022-23,15,2023-02-11,Southampton,Wolverhampton Wanderers,FIFA 23,2022-09-27,137,0
+2022-23,15,2023-02-11,Bournemouth,Newcastle United,FIFA 23,2022-09-27,137,0
+2022-23,15,2023-02-12,Leeds United,Manchester United,FIFA 23,2022-09-27,138,0
+2022-23,15,2023-02-12,Manchester City,Aston Villa,FIFA 23,2022-09-27,138,0
+2022-23,15,2023-02-13,Liverpool,Everton,FIFA 23,2022-09-27,139,0
+2022-23,15,2023-02-15,Arsenal,Manchester City,FIFA 23,2022-09-27,141,0
+2022-23,15,2023-02-18,Newcastle United,Liverpool,FIFA 23,2022-09-27,144,0
+2022-23,15,2023-02-18,Wolverhampton Wanderers,Bournemouth,FIFA 23,2022-09-27,144,0
+2022-23,15,2023-02-18,Nottingham Forest,Manchester City,FIFA 23,2022-09-27,144,0
+2022-23,15,2023-02-18,Everton,Leeds United,FIFA 23,2022-09-27,144,0
+2022-23,15,2023-02-18,Aston Villa,Arsenal,FIFA 23,2022-09-27,144,0
+2022-23,15,2023-02-18,Brighton and Hove Albion,Fulham,FIFA 23,2022-09-27,144,0
+2022-23,15,2023-02-18,Brentford,Crystal Palace,FIFA 23,2022-09-27,144,0
+2022-23,15,2023-02-18,Chelsea,Southampton,FIFA 23,2022-09-27,144,0
+2022-23,15,2023-02-19,Manchester United,Leicester City,FIFA 23,2022-09-27,145,0
+2022-23,15,2023-02-19,Tottenham,West Ham United,FIFA 23,2022-09-27,145,0
+2022-23,15,2023-02-24,Fulham,Wolverhampton Wanderers,FIFA 23,2022-09-27,150,0
+2022-23,15,2023-02-25,Bournemouth,Manchester City,FIFA 23,2022-09-27,151,0
+2022-23,15,2023-02-25,West Ham United,Nottingham Forest,FIFA 23,2022-09-27,151,0
+2022-23,15,2023-02-25,Crystal Palace,Liverpool,FIFA 23,2022-09-27,151,0
+2022-23,15,2023-02-25,Leeds United,Southampton,FIFA 23,2022-09-27,151,0
+2022-23,15,2023-02-25,Everton,Aston Villa,FIFA 23,2022-09-27,151,0
+2022-23,15,2023-02-25,Leicester City,Arsenal,FIFA 23,2022-09-27,151,0
+2022-23,15,2023-02-26,Tottenham,Chelsea,FIFA 23,2022-09-27,152,0
+2022-23,15,2023-03-01,Arsenal,Everton,FIFA 23,2022-09-27,155,0
+2022-23,15,2023-03-01,Liverpool,Wolverhampton Wanderers,FIFA 23,2022-09-27,155,0
+2022-23,15,2023-03-04,Manchester City,Newcastle United,FIFA 23,2022-09-27,158,0
+2022-23,15,2023-03-04,Arsenal,Bournemouth,FIFA 23,2022-09-27,158,0
+2022-23,15,2023-03-04,Aston Villa,Crystal Palace,FIFA 23,2022-09-27,158,0
+2022-23,15,2023-03-04,Brighton and Hove Albion,West Ham United,FIFA 23,2022-09-27,158,0
+2022-23,15,2023-03-04,Chelsea,Leeds United,FIFA 23,2022-09-27,158,0
+2022-23,15,2023-03-04,Wolverhampton Wanderers,Tottenham,FIFA 23,2022-09-27,158,0
+2022-23,15,2023-03-04,Southampton,Leicester City,FIFA 23,2022-09-27,158,0
+2022-23,15,2023-03-05,Nottingham Forest,Everton,FIFA 23,2022-09-27,159,0
+2022-23,15,2023-03-05,Liverpool,Manchester United,FIFA 23,2022-09-27,159,0
+2022-23,15,2023-03-06,Brentford,Fulham,FIFA 23,2022-09-27,160,0
+2022-23,15,2023-03-11,Bournemouth,Liverpool,FIFA 23,2022-09-27,165,0
+2022-23,15,2023-03-11,Everton,Brentford,FIFA 23,2022-09-27,165,0
+2022-23,15,2023-03-11,Leeds United,Brighton and Hove Albion,FIFA 23,2022-09-27,165,0
+2022-23,15,2023-03-11,Leicester City,Chelsea,FIFA 23,2022-09-27,165,0
+2022-23,15,2023-03-11,Tottenham,Nottingham Forest,FIFA 23,2022-09-27,165,0
+2022-23,15,2023-03-11,Crystal Palace,Manchester City,FIFA 23,2022-09-27,165,0
+2022-23,15,2023-03-12,Fulham,Arsenal,FIFA 23,2022-09-27,166,0
+2022-23,15,2023-03-12,Manchester United,Southampton,FIFA 23,2022-09-27,166,0
+2022-23,15,2023-03-12,West Ham United,Aston Villa,FIFA 23,2022-09-27,166,0
+2022-23,15,2023-03-12,Newcastle United,Wolverhampton Wanderers,FIFA 23,2022-09-27,166,0
+2022-23,15,2023-03-15,Brighton and Hove Albion,Crystal Palace,FIFA 23,2022-09-27,169,0
+2022-23,15,2023-03-15,Southampton,Brentford,FIFA 23,2022-09-27,169,0
+2022-23,15,2023-03-17,Nottingham Forest,Newcastle United,FIFA 23,2022-09-27,171,0
+2022-23,15,2023-03-18,Chelsea,Everton,FIFA 23,2022-09-27,172,0
+2022-23,15,2023-03-18,Southampton,Tottenham,FIFA 23,2022-09-27,172,0
+2022-23,15,2023-03-18,Wolverhampton Wanderers,Leeds United,FIFA 23,2022-09-27,172,0
+2022-23,15,2023-03-18,Brentford,Leicester City,FIFA 23,2022-09-27,172,0
+2022-23,15,2023-03-18,Aston Villa,Bournemouth,FIFA 23,2022-09-27,172,0
+2022-23,15,2023-03-19,Arsenal,Crystal Palace,FIFA 23,2022-09-27,173,0
+2022-23,15,2023-04-01,Manchester City,Liverpool,FIFA 23,2022-09-27,186,0
+2022-23,15,2023-04-01,Arsenal,Leeds United,FIFA 23,2022-09-27,186,0
+2022-23,15,2023-04-01,Bournemouth,Fulham,FIFA 23,2022-09-27,186,0
+2022-23,15,2023-04-01,Brighton and Hove Albion,Brentford,FIFA 23,2022-09-27,186,0
+2022-23,15,2023-04-01,Crystal Palace,Leicester City,FIFA 23,2022-09-27,186,0
+2022-23,15,2023-04-01,Nottingham Forest,Wolverhampton Wanderers,FIFA 23,2022-09-27,186,0
+2022-23,15,2023-04-01,Chelsea,Aston Villa,FIFA 23,2022-09-27,186,0
+2022-23,15,2023-04-02,West Ham United,Southampton,FIFA 23,2022-09-27,187,0
+2022-23,15,2023-04-02,Newcastle United,Manchester United,FIFA 23,2022-09-27,187,0
+2022-23,15,2023-04-03,Everton,Tottenham,FIFA 23,2022-09-27,188,0
+2022-23,15,2023-04-04,Chelsea,Liverpool,FIFA 23,2022-09-27,189,0
+2022-23,15,2023-04-04,Leicester City,Aston Villa,FIFA 23,2022-09-27,189,0
+2022-23,15,2023-04-04,Bournemouth,Brighton and Hove Albion,FIFA 23,2022-09-27,189,0
+2022-23,15,2023-04-04,Leeds United,Nottingham Forest,FIFA 23,2022-09-27,189,0
+2022-23,15,2023-04-05,Manchester United,Brentford,FIFA 23,2022-09-27,190,0
+2022-23,15,2023-04-05,West Ham United,Newcastle United,FIFA 23,2022-09-27,190,0
+2022-23,15,2023-04-08,Southampton,Manchester City,FIFA 23,2022-09-27,193,0
+2022-23,15,2023-04-08,Manchester United,Everton,FIFA 23,2022-09-27,193,0
+2022-23,15,2023-04-08,Aston Villa,Nottingham Forest,FIFA 23,2022-09-27,193,0
+2022-23,15,2023-04-08,Brentford,Newcastle United,FIFA 23,2022-09-27,193,0
+2022-23,15,2023-04-08,Fulham,West Ham United,FIFA 23,2022-09-27,193,0
+2022-23,15,2023-04-08,Leicester City,Bournemouth,FIFA 23,2022-09-27,193,0
+2022-23,15,2023-04-08,Tottenham,Brighton and Hove Albion,FIFA 23,2022-09-27,193,0
+2022-23,15,2023-04-08,Wolverhampton Wanderers,Chelsea,FIFA 23,2022-09-27,193,0
+2022-23,15,2023-04-09,Liverpool,Arsenal,FIFA 23,2022-09-27,194,0
+2022-23,15,2023-04-09,Leeds United,Crystal Palace,FIFA 23,2022-09-27,194,0
+2022-23,15,2023-04-15,Aston Villa,Newcastle United,FIFA 23,2022-09-27,200,0
+2022-23,15,2023-04-15,Chelsea,Brighton and Hove Albion,FIFA 23,2022-09-27,200,0
+2022-23,15,2023-04-15,Everton,Fulham,FIFA 23,2022-09-27,200,0
+2022-23,15,2023-04-15,Southampton,Crystal Palace,FIFA 23,2022-09-27,200,0
+2022-23,15,2023-04-15,Tottenham,Bournemouth,FIFA 23,2022-09-27,200,0
+2022-23,15,2023-04-15,Wolverhampton Wanderers,Brentford,FIFA 23,2022-09-27,200,0
+2022-23,15,2023-04-15,Manchester City,Leicester City,FIFA 23,2022-09-27,200,0
+2022-23,15,2023-04-16,West Ham United,Arsenal,FIFA 23,2022-09-27,201,0
+2022-23,15,2023-04-16,Nottingham Forest,Manchester United,FIFA 23,2022-09-27,201,0
+2022-23,15,2023-04-17,Leeds United,Liverpool,FIFA 23,2022-09-27,202,0
+2022-23,15,2023-04-21,Arsenal,Southampton,FIFA 23,2022-09-27,206,0
+2022-23,15,2023-04-22,Liverpool,Nottingham Forest,FIFA 23,2022-09-27,207,0
+2022-23,15,2023-04-22,Leicester City,Wolverhampton Wanderers,FIFA 23,2022-09-27,207,0
+2022-23,15,2023-04-22,Brentford,Aston Villa,FIFA 23,2022-09-27,207,0
+2022-23,15,2023-04-22,Fulham,Leeds United,FIFA 23,2022-09-27,207,0
+2022-23,15,2023-04-22,Crystal Palace,Everton,FIFA 23,2022-09-27,207,0
+2022-23,15,2023-04-23,Bournemouth,West Ham United,FIFA 23,2022-09-27,208,0
+2022-23,15,2023-04-23,Newcastle United,Tottenham,FIFA 23,2022-09-27,208,0
+2022-23,15,2023-04-25,Wolverhampton Wanderers,Crystal Palace,FIFA 23,2022-09-27,210,0
+2022-23,15,2023-04-25,Aston Villa,Fulham,FIFA 23,2022-09-27,210,0
+2022-23,15,2023-04-25,Leeds United,Leicester City,FIFA 23,2022-09-27,210,0
+2022-23,15,2023-04-26,Manchester City,Arsenal,FIFA 23,2022-09-27,211,0
+2022-23,15,2023-04-26,Nottingham Forest,Brighton and Hove Albion,FIFA 23,2022-09-27,211,0
+2022-23,15,2023-04-26,Chelsea,Brentford,FIFA 23,2022-09-27,211,0
+2022-23,15,2023-04-26,West Ham United,Liverpool,FIFA 23,2022-09-27,211,0
+2022-23,15,2023-04-27,Southampton,Bournemouth,FIFA 23,2022-09-27,212,0
+2022-23,15,2023-04-27,Tottenham,Manchester United,FIFA 23,2022-09-27,212,0
+2022-23,15,2023-04-27,Everton,Newcastle United,FIFA 23,2022-09-27,212,0
+2022-23,15,2023-04-29,Brentford,Nottingham Forest,FIFA 23,2022-09-27,214,0
+2022-23,15,2023-04-29,Brighton and Hove Albion,Wolverhampton Wanderers,FIFA 23,2022-09-27,214,0
+2022-23,15,2023-04-29,Crystal Palace,West Ham United,FIFA 23,2022-09-27,214,0
+2022-23,15,2023-04-30,Liverpool,Tottenham,FIFA 23,2022-09-27,215,0
+2022-23,15,2023-04-30,Newcastle United,Southampton,FIFA 23,2022-09-27,215,0
+2022-23,15,2023-04-30,Bournemouth,Leeds United,FIFA 23,2022-09-27,215,0
+2022-23,15,2023-04-30,Fulham,Manchester City,FIFA 23,2022-09-27,215,0
+2022-23,15,2023-04-30,Manchester United,Aston Villa,FIFA 23,2022-09-27,215,0
+2022-23,15,2023-05-01,Leicester City,Everton,FIFA 23,2022-09-27,216,0
+2022-23,15,2023-05-02,Arsenal,Chelsea,FIFA 23,2022-09-27,217,0
+2022-23,15,2023-05-03,Liverpool,Fulham,FIFA 23,2022-09-27,218,0
+2022-23,15,2023-05-03,Manchester City,West Ham United,FIFA 23,2022-09-27,218,0
+2022-23,15,2023-05-04,Brighton and Hove Albion,Manchester United,FIFA 23,2022-09-27,219,0
+2022-23,15,2023-05-06,Bournemouth,Chelsea,FIFA 23,2022-09-27,221,0
+2022-23,15,2023-05-06,Manchester City,Leeds United,FIFA 23,2022-09-27,221,0
+2022-23,15,2023-05-06,Tottenham,Crystal Palace,FIFA 23,2022-09-27,221,0
+2022-23,15,2023-05-06,Wolverhampton Wanderers,Aston Villa,FIFA 23,2022-09-27,221,0
+2022-23,15,2023-05-06,Liverpool,Brentford,FIFA 23,2022-09-27,221,0
+2022-23,15,2023-05-07,West Ham United,Manchester United,FIFA 23,2022-09-27,222,0
+2022-23,15,2023-05-07,Newcastle United,Arsenal,FIFA 23,2022-09-27,222,0
+2022-23,15,2023-05-08,Fulham,Leicester City,FIFA 23,2022-09-27,223,0
+2022-23,15,2023-05-08,Brighton and Hove Albion,Everton,FIFA 23,2022-09-27,223,0
+2022-23,15,2023-05-08,Nottingham Forest,Southampton,FIFA 23,2022-09-27,223,0
+2022-23,15,2023-05-13,Leeds United,Newcastle United,FIFA 23,2022-09-27,228,0
+2022-23,15,2023-05-13,Aston Villa,Tottenham,FIFA 23,2022-09-27,228,0
+2022-23,15,2023-05-13,Chelsea,Nottingham Forest,FIFA 23,2022-09-27,228,0
+2022-23,15,2023-05-13,Crystal Palace,Bournemouth,FIFA 23,2022-09-27,228,0
+2022-23,15,2023-05-13,Manchester United,Wolverhampton Wanderers,FIFA 23,2022-09-27,228,0
+2022-23,15,2023-05-13,Southampton,Fulham,FIFA 23,2022-09-27,228,0
+2022-23,15,2023-05-14,Brentford,West Ham United,FIFA 23,2022-09-27,229,0
+2022-23,15,2023-05-14,Everton,Manchester City,FIFA 23,2022-09-27,229,0
+2022-23,15,2023-05-14,Arsenal,Brighton and Hove Albion,FIFA 23,2022-09-27,229,0
+2022-23,15,2023-05-15,Leicester City,Liverpool,FIFA 23,2022-09-27,230,0
+2022-23,15,2023-05-18,Newcastle United,Brighton and Hove Albion,FIFA 23,2022-09-27,233,0
+2022-23,15,2023-05-20,Tottenham,Brentford,FIFA 23,2022-09-27,235,0
+2022-23,15,2023-05-20,Bournemouth,Manchester United,FIFA 23,2022-09-27,235,0
+2022-23,15,2023-05-20,Fulham,Crystal Palace,FIFA 23,2022-09-27,235,0
+2022-23,15,2023-05-20,Liverpool,Aston Villa,FIFA 23,2022-09-27,235,0
+2022-23,15,2023-05-20,Wolverhampton Wanderers,Everton,FIFA 23,2022-09-27,235,0
+2022-23,15,2023-05-20,Nottingham Forest,Arsenal,FIFA 23,2022-09-27,235,0
+2022-23,15,2023-05-21,West Ham United,Leeds United,FIFA 23,2022-09-27,236,0
+2022-23,15,2023-05-21,Brighton and Hove Albion,Southampton,FIFA 23,2022-09-27,236,0
+2022-23,15,2023-05-21,Manchester City,Chelsea,FIFA 23,2022-09-27,236,0
+2022-23,15,2023-05-22,Newcastle United,Leicester City,FIFA 23,2022-09-27,237,0
+2022-23,15,2023-05-24,Brighton and Hove Albion,Manchester City,FIFA 23,2022-09-27,239,0
+2022-23,15,2023-05-25,Manchester United,Chelsea,FIFA 23,2022-09-27,240,0
+2022-23,15,2023-05-28,Arsenal,Wolverhampton Wanderers,FIFA 23,2022-09-27,243,0
+2022-23,15,2023-05-28,Aston Villa,Brighton and Hove Albion,FIFA 23,2022-09-27,243,0
+2022-23,15,2023-05-28,Brentford,Manchester City,FIFA 23,2022-09-27,243,0
+2022-23,15,2023-05-28,Chelsea,Newcastle United,FIFA 23,2022-09-27,243,0
+2022-23,15,2023-05-28,Crystal Palace,Nottingham Forest,FIFA 23,2022-09-27,243,0
+2022-23,15,2023-05-28,Everton,Bournemouth,FIFA 23,2022-09-27,243,0
+2022-23,15,2023-05-28,Leeds United,Tottenham,FIFA 23,2022-09-27,243,0
+2022-23,15,2023-05-28,Leicester City,West Ham United,FIFA 23,2022-09-27,243,0
+2022-23,15,2023-05-28,Manchester United,Fulham,FIFA 23,2022-09-27,243,0
+2022-23,15,2023-05-28,Southampton,Liverpool,FIFA 23,2022-09-27,243,0
+2023-24,15,2023-08-11,Burnley,Manchester City,FIFA 23,2022-09-27,318,1
+2023-24,15,2023-08-12,Newcastle United,Aston Villa,FIFA 23,2022-09-27,319,1
+2023-24,15,2023-08-12,Everton,Fulham,FIFA 23,2022-09-27,319,1
+2023-24,15,2023-08-12,Sheffield United,Crystal Palace,FIFA 23,2022-09-27,319,1
+2023-24,15,2023-08-12,Bournemouth,West Ham United,FIFA 23,2022-09-27,319,1
+2023-24,15,2023-08-12,Arsenal,Nottingham Forest,FIFA 23,2022-09-27,319,1
+2023-24,15,2023-08-12,Brighton and Hove Albion,Luton,FIFA 23,2022-09-27,319,1
+2023-24,15,2023-08-13,Brentford,Tottenham,FIFA 23,2022-09-27,320,1
+2023-24,15,2023-08-13,Chelsea,Liverpool,FIFA 23,2022-09-27,320,1
+2023-24,15,2023-08-14,Manchester United,Wolverhampton Wanderers,FIFA 23,2022-09-27,321,1
+2023-24,15,2023-08-18,Nottingham Forest,Sheffield United,FIFA 23,2022-09-27,325,1
+2023-24,15,2023-08-19,Fulham,Brentford,FIFA 23,2022-09-27,326,1
+2023-24,15,2023-08-19,Liverpool,Bournemouth,FIFA 23,2022-09-27,326,1
+2023-24,15,2023-08-19,Wolverhampton Wanderers,Brighton and Hove Albion,FIFA 23,2022-09-27,326,1
+2023-24,15,2023-08-19,Tottenham,Manchester United,FIFA 23,2022-09-27,326,1
+2023-24,15,2023-08-19,Manchester City,Newcastle United,FIFA 23,2022-09-27,326,1
+2023-24,15,2023-08-20,Aston Villa,Everton,FIFA 23,2022-09-27,327,1
+2023-24,15,2023-08-20,West Ham United,Chelsea,FIFA 23,2022-09-27,327,1
+2023-24,15,2023-08-21,Crystal Palace,Arsenal,FIFA 23,2022-09-27,328,1
+2023-24,15,2023-08-25,Chelsea,Luton,FIFA 23,2022-09-27,332,1
+2023-24,15,2023-08-26,Bournemouth,Tottenham,FIFA 23,2022-09-27,333,1
+2023-24,15,2023-08-26,Arsenal,Fulham,FIFA 23,2022-09-27,333,1
+2023-24,15,2023-08-26,Brentford,Crystal Palace,FIFA 23,2022-09-27,333,1
+2023-24,15,2023-08-26,Everton,Wolverhampton Wanderers,FIFA 23,2022-09-27,333,1
+2023-24,15,2023-08-26,Manchester United,Nottingham Forest,FIFA 23,2022-09-27,333,1
+2023-24,15,2023-08-26,Brighton and Hove Albion,West Ham United,FIFA 23,2022-09-27,333,1
+2023-24,15,2023-08-27,Burnley,Aston Villa,FIFA 23,2022-09-27,334,1
+2023-24,15,2023-08-27,Sheffield United,Manchester City,FIFA 23,2022-09-27,334,1
+2023-24,15,2023-08-27,Newcastle United,Liverpool,FIFA 23,2022-09-27,334,1
+2023-24,15,2023-09-01,Luton,West Ham United,FIFA 23,2022-09-27,339,1
+2023-24,15,2023-09-02,Brighton and Hove Albion,Newcastle United,FIFA 23,2022-09-27,340,1
+2023-24,15,2023-09-02,Manchester City,Fulham,FIFA 23,2022-09-27,340,1
+2023-24,15,2023-09-02,Chelsea,Nottingham Forest,FIFA 23,2022-09-27,340,1
+2023-24,15,2023-09-02,Burnley,Tottenham,FIFA 23,2022-09-27,340,1
+2023-24,15,2023-09-02,Sheffield United,Everton,FIFA 23,2022-09-27,340,1
+2023-24,15,2023-09-02,Brentford,Bournemouth,FIFA 23,2022-09-27,340,1
+2023-24,15,2023-09-03,Crystal Palace,Wolverhampton Wanderers,FIFA 23,2022-09-27,341,1
+2023-24,15,2023-09-03,Liverpool,Aston Villa,FIFA 23,2022-09-27,341,1
+2023-24,15,2023-09-03,Arsenal,Manchester United,FIFA 23,2022-09-27,341,1
+2023-24,15,2023-09-16,Wolverhampton Wanderers,Liverpool,FIFA 23,2022-09-27,354,1
+2023-24,15,2023-09-16,Aston Villa,Crystal Palace,FIFA 23,2022-09-27,354,1
+2023-24,15,2023-09-16,Fulham,Luton,FIFA 23,2022-09-27,354,1
+2023-24,15,2023-09-16,Manchester United,Brighton and Hove Albion,FIFA 23,2022-09-27,354,1
+2023-24,15,2023-09-16,Tottenham,Sheffield United,FIFA 23,2022-09-27,354,1
+2023-24,15,2023-09-16,West Ham United,Manchester City,FIFA 23,2022-09-27,354,1
+2023-24,15,2023-09-16,Newcastle United,Brentford,FIFA 23,2022-09-27,354,1
+2023-24,15,2023-09-17,Everton,Arsenal,FIFA 23,2022-09-27,355,1
+2023-24,15,2023-09-17,Bournemouth,Chelsea,FIFA 23,2022-09-27,355,1
+2023-24,15,2023-09-18,Nottingham Forest,Burnley,FIFA 23,2022-09-27,356,1
+2023-24,15,2023-09-23,Crystal Palace,Fulham,EA SPORTS FC 24,2023-09-22,1,0
+2023-24,15,2023-09-23,Luton,Wolverhampton Wanderers,EA SPORTS FC 24,2023-09-22,1,0
+2023-24,15,2023-09-23,Manchester City,Nottingham Forest,EA SPORTS FC 24,2023-09-22,1,0
+2023-24,15,2023-09-23,Brentford,Everton,EA SPORTS FC 24,2023-09-22,1,0
+2023-24,15,2023-09-23,Burnley,Manchester United,EA SPORTS FC 24,2023-09-22,1,0
+2023-24,15,2023-09-24,Arsenal,Tottenham,EA SPORTS FC 24,2023-09-22,2,0
+2023-24,15,2023-09-24,Brighton and Hove Albion,Bournemouth,EA SPORTS FC 24,2023-09-22,2,0
+2023-24,15,2023-09-24,Chelsea,Aston Villa,EA SPORTS FC 24,2023-09-22,2,0
+2023-24,15,2023-09-24,Liverpool,West Ham United,EA SPORTS FC 24,2023-09-22,2,0
+2023-24,15,2023-09-24,Sheffield United,Newcastle United,EA SPORTS FC 24,2023-09-22,2,0
+2023-24,15,2023-09-30,West Ham United,Sheffield United,EA SPORTS FC 24,2023-09-22,8,0
+2023-24,15,2023-09-30,Wolverhampton Wanderers,Manchester City,EA SPORTS FC 24,2023-09-22,8,0
+2023-24,15,2023-09-30,Newcastle United,Burnley,EA SPORTS FC 24,2023-09-22,8,0
+2023-24,15,2023-09-30,Tottenham,Liverpool,EA SPORTS FC 24,2023-09-22,8,0
+2023-24,15,2023-09-30,Everton,Luton,EA SPORTS FC 24,2023-09-22,8,0
+2023-24,15,2023-09-30,Aston Villa,Brighton and Hove Albion,EA SPORTS FC 24,2023-09-22,8,0
+2023-24,15,2023-09-30,Manchester United,Crystal Palace,EA SPORTS FC 24,2023-09-22,8,0
+2023-24,15,2023-09-30,Bournemouth,Arsenal,EA SPORTS FC 24,2023-09-22,8,0
+2023-24,15,2023-10-01,Nottingham Forest,Brentford,EA SPORTS FC 24,2023-09-22,9,0
+2023-24,15,2023-10-02,Fulham,Chelsea,EA SPORTS FC 24,2023-09-22,10,0
+2023-24,15,2023-10-03,Luton,Burnley,EA SPORTS FC 24,2023-09-22,11,0
+2023-24,15,2023-10-07,Luton,Tottenham,EA SPORTS FC 24,2023-09-22,15,0
+2023-24,15,2023-10-07,Burnley,Chelsea,EA SPORTS FC 24,2023-09-22,15,0
+2023-24,15,2023-10-07,Everton,Bournemouth,EA SPORTS FC 24,2023-09-22,15,0
+2023-24,15,2023-10-07,Fulham,Sheffield United,EA SPORTS FC 24,2023-09-22,15,0
+2023-24,15,2023-10-07,Manchester United,Brentford,EA SPORTS FC 24,2023-09-22,15,0
+2023-24,15,2023-10-07,Crystal Palace,Nottingham Forest,EA SPORTS FC 24,2023-09-22,15,0
+2023-24,15,2023-10-08,Arsenal,Manchester City,EA SPORTS FC 24,2023-09-22,16,0
+2023-24,15,2023-10-08,Wolverhampton Wanderers,Aston Villa,EA SPORTS FC 24,2023-09-22,16,0
+2023-24,15,2023-10-08,Brighton and Hove Albion,Liverpool,EA SPORTS FC 24,2023-09-22,16,0
+2023-24,15,2023-10-08,West Ham United,Newcastle United,EA SPORTS FC 24,2023-09-22,16,0
+2023-24,15,2023-10-21,Liverpool,Everton,EA SPORTS FC 24,2023-09-22,29,0
+2023-24,15,2023-10-21,Bournemouth,Wolverhampton Wanderers,EA SPORTS FC 24,2023-09-22,29,0
+2023-24,15,2023-10-21,Brentford,Burnley,EA SPORTS FC 24,2023-09-22,29,0
+2023-24,15,2023-10-21,Manchester City,Brighton and Hove Albion,EA SPORTS FC 24,2023-09-22,29,0
+2023-24,15,2023-10-21,Newcastle United,Crystal Palace,EA SPORTS FC 24,2023-09-22,29,0
+2023-24,15,2023-10-21,Nottingham Forest,Luton,EA SPORTS FC 24,2023-09-22,29,0
+2023-24,15,2023-10-21,Chelsea,Arsenal,EA SPORTS FC 24,2023-09-22,29,0
+2023-24,15,2023-10-21,Sheffield United,Manchester United,EA SPORTS FC 24,2023-09-22,29,0
+2023-24,15,2023-10-22,Aston Villa,West Ham United,EA SPORTS FC 24,2023-09-22,30,0
+2023-24,15,2023-10-23,Tottenham,Fulham,EA SPORTS FC 24,2023-09-22,31,0
+2023-24,15,2023-10-27,Crystal Palace,Tottenham,EA SPORTS FC 24,2023-09-22,35,0
+2023-24,15,2023-10-28,Wolverhampton Wanderers,Newcastle United,EA SPORTS FC 24,2023-09-22,36,0
+2023-24,15,2023-10-28,Bournemouth,Burnley,EA SPORTS FC 24,2023-09-22,36,0
+2023-24,15,2023-10-28,Arsenal,Sheffield United,EA SPORTS FC 24,2023-09-22,36,0
+2023-24,15,2023-10-28,Chelsea,Brentford,EA SPORTS FC 24,2023-09-22,36,0
+2023-24,15,2023-10-29,West Ham United,Everton,EA SPORTS FC 24,2023-09-22,37,0
+2023-24,15,2023-10-29,Aston Villa,Luton,EA SPORTS FC 24,2023-09-22,37,0
+2023-24,15,2023-10-29,Brighton and Hove Albion,Fulham,EA SPORTS FC 24,2023-09-22,37,0
+2023-24,15,2023-10-29,Liverpool,Nottingham Forest,EA SPORTS FC 24,2023-09-22,37,0
+2023-24,15,2023-10-29,Manchester United,Manchester City,EA SPORTS FC 24,2023-09-22,37,0
+2023-24,15,2023-11-04,Fulham,Manchester United,EA SPORTS FC 24,2023-09-22,43,0
+2023-24,15,2023-11-04,Brentford,West Ham United,EA SPORTS FC 24,2023-09-22,43,0
+2023-24,15,2023-11-04,Burnley,Crystal Palace,EA SPORTS FC 24,2023-09-22,43,0
+2023-24,15,2023-11-04,Everton,Brighton and Hove Albion,EA SPORTS FC 24,2023-09-22,43,0
+2023-24,15,2023-11-04,Manchester City,Bournemouth,EA SPORTS FC 24,2023-09-22,43,0
+2023-24,15,2023-11-04,Sheffield United,Wolverhampton Wanderers,EA SPORTS FC 24,2023-09-22,43,0
+2023-24,15,2023-11-04,Newcastle United,Arsenal,EA SPORTS FC 24,2023-09-22,43,0
+2023-24,15,2023-11-05,Luton,Liverpool,EA SPORTS FC 24,2023-09-22,44,0
+2023-24,15,2023-11-05,Nottingham Forest,Aston Villa,EA SPORTS FC 24,2023-09-22,44,0
+2023-24,15,2023-11-06,Tottenham,Chelsea,EA SPORTS FC 24,2023-09-22,45,0
+2023-24,15,2023-11-11,Wolverhampton Wanderers,Tottenham,EA SPORTS FC 24,2023-09-22,50,0
+2023-24,15,2023-11-11,Arsenal,Burnley,EA SPORTS FC 24,2023-09-22,50,0
+2023-24,15,2023-11-11,Crystal Palace,Everton,EA SPORTS FC 24,2023-09-22,50,0
+2023-24,15,2023-11-11,Manchester United,Luton,EA SPORTS FC 24,2023-09-22,50,0
+2023-24,15,2023-11-11,Bournemouth,Newcastle United,EA SPORTS FC 24,2023-09-22,50,0
+2023-24,15,2023-11-12,Aston Villa,Fulham,EA SPORTS FC 24,2023-09-22,51,0
+2023-24,15,2023-11-12,Brighton and Hove Albion,Sheffield United,EA SPORTS FC 24,2023-09-22,51,0
+2023-24,15,2023-11-12,Liverpool,Brentford,EA SPORTS FC 24,2023-09-22,51,0
+2023-24,15,2023-11-12,West Ham United,Nottingham Forest,EA SPORTS FC 24,2023-09-22,51,0
+2023-24,15,2023-11-12,Chelsea,Manchester City,EA SPORTS FC 24,2023-09-22,51,0
+2023-24,15,2023-11-25,Nottingham Forest,Brighton and Hove Albion,EA SPORTS FC 24,2023-09-22,64,0
+2023-24,15,2023-11-25,Sheffield United,Bournemouth,EA SPORTS FC 24,2023-09-22,64,0
+2023-24,15,2023-11-25,Brentford,Arsenal,EA SPORTS FC 24,2023-09-22,64,0
+2023-24,15,2023-11-25,Luton,Crystal Palace,EA SPORTS FC 24,2023-09-22,64,0
+2023-24,15,2023-11-25,Burnley,West Ham United,EA SPORTS FC 24,2023-09-22,64,0
+2023-24,15,2023-11-25,Newcastle United,Chelsea,EA SPORTS FC 24,2023-09-22,64,0
+2023-24,15,2023-11-25,Manchester City,Liverpool,EA SPORTS FC 24,2023-09-22,64,0
+2023-24,15,2023-11-26,Tottenham,Aston Villa,EA SPORTS FC 24,2023-09-22,65,0
+2023-24,15,2023-11-26,Everton,Manchester United,EA SPORTS FC 24,2023-09-22,65,0
+2023-24,15,2023-11-27,Fulham,Wolverhampton Wanderers,EA SPORTS FC 24,2023-09-22,66,0
+2023-24,15,2023-12-02,Arsenal,Wolverhampton Wanderers,EA SPORTS FC 24,2023-09-22,71,0
+2023-24,15,2023-12-02,Brentford,Luton,EA SPORTS FC 24,2023-09-22,71,0
+2023-24,15,2023-12-02,Burnley,Sheffield United,EA SPORTS FC 24,2023-09-22,71,0
+2023-24,15,2023-12-02,Nottingham Forest,Everton,EA SPORTS FC 24,2023-09-22,71,0
+2023-24,15,2023-12-02,Newcastle United,Manchester United,EA SPORTS FC 24,2023-09-22,71,0
+2023-24,15,2023-12-03,West Ham United,Crystal Palace,EA SPORTS FC 24,2023-09-22,72,0
+2023-24,15,2023-12-03,Manchester City,Tottenham,EA SPORTS FC 24,2023-09-22,72,0
+2023-24,15,2023-12-03,Liverpool,Fulham,EA SPORTS FC 24,2023-09-22,72,0
+2023-24,15,2023-12-03,Chelsea,Brighton and Hove Albion,EA SPORTS FC 24,2023-09-22,72,0
+2023-24,15,2023-12-03,Bournemouth,Aston Villa,EA SPORTS FC 24,2023-09-22,72,0
+2023-24,15,2023-12-05,Wolverhampton Wanderers,Burnley,EA SPORTS FC 24,2023-09-22,74,0
+2023-24,15,2023-12-05,Luton,Arsenal,EA SPORTS FC 24,2023-09-22,74,0
+2023-24,15,2023-12-06,Brighton and Hove Albion,Brentford,EA SPORTS FC 24,2023-09-22,75,0
+2023-24,15,2023-12-06,Crystal Palace,Bournemouth,EA SPORTS FC 24,2023-09-22,75,0
+2023-24,15,2023-12-06,Fulham,Nottingham Forest,EA SPORTS FC 24,2023-09-22,75,0
+2023-24,15,2023-12-06,Sheffield United,Liverpool,EA SPORTS FC 24,2023-09-22,75,0
+2023-24,15,2023-12-06,Aston Villa,Manchester City,EA SPORTS FC 24,2023-09-22,75,0
+2023-24,15,2023-12-06,Manchester United,Chelsea,EA SPORTS FC 24,2023-09-22,75,0
+2023-24,15,2023-12-07,Everton,Newcastle United,EA SPORTS FC 24,2023-09-22,76,0
+2023-24,15,2023-12-07,Tottenham,West Ham United,EA SPORTS FC 24,2023-09-22,76,0
+2023-24,15,2023-12-09,Wolverhampton Wanderers,Nottingham Forest,EA SPORTS FC 24,2023-09-22,78,0
+2023-24,15,2023-12-09,Aston Villa,Arsenal,EA SPORTS FC 24,2023-09-22,78,0
+2023-24,15,2023-12-09,Sheffield United,Brentford,EA SPORTS FC 24,2023-09-22,78,0
+2023-24,15,2023-12-09,Brighton and Hove Albion,Burnley,EA SPORTS FC 24,2023-09-22,78,0
+2023-24,15,2023-12-09,Crystal Palace,Liverpool,EA SPORTS FC 24,2023-09-22,78,0
+2023-24,15,2023-12-09,Manchester United,Bournemouth,EA SPORTS FC 24,2023-09-22,78,0
+2023-24,15,2023-12-10,Everton,Chelsea,EA SPORTS FC 24,2023-09-22,79,0
+2023-24,15,2023-12-10,Fulham,West Ham United,EA SPORTS FC 24,2023-09-22,79,0
+2023-24,15,2023-12-10,Luton,Manchester City,EA SPORTS FC 24,2023-09-22,79,0
+2023-24,15,2023-12-10,Tottenham,Newcastle United,EA SPORTS FC 24,2023-09-22,79,0
+2023-24,15,2023-12-15,Nottingham Forest,Tottenham,EA SPORTS FC 24,2023-09-22,84,0
+2023-24,15,2023-12-16,Chelsea,Sheffield United,EA SPORTS FC 24,2023-09-22,85,0
+2023-24,15,2023-12-16,Manchester City,Crystal Palace,EA SPORTS FC 24,2023-09-22,85,0
+2023-24,15,2023-12-16,Newcastle United,Fulham,EA SPORTS FC 24,2023-09-22,85,0
+2023-24,15,2023-12-16,Burnley,Everton,EA SPORTS FC 24,2023-09-22,85,0
+2023-24,15,2023-12-17,Liverpool,Manchester United,EA SPORTS FC 24,2023-09-22,86,0
+2023-24,15,2023-12-17,West Ham United,Wolverhampton Wanderers,EA SPORTS FC 24,2023-09-22,86,0
+2023-24,15,2023-12-17,Arsenal,Brighton and Hove Albion,EA SPORTS FC 24,2023-09-22,86,0
+2023-24,15,2023-12-17,Brentford,Aston Villa,EA SPORTS FC 24,2023-09-22,86,0
+2023-24,15,2023-12-21,Crystal Palace,Brighton and Hove Albion,EA SPORTS FC 24,2023-09-22,90,0
+2023-24,15,2023-12-22,Aston Villa,Sheffield United,EA SPORTS FC 24,2023-09-22,91,0
+2023-24,15,2023-12-23,West Ham United,Manchester United,EA SPORTS FC 24,2023-09-22,92,0
+2023-24,15,2023-12-23,Fulham,Burnley,EA SPORTS FC 24,2023-09-22,92,0
+2023-24,15,2023-12-23,Luton,Newcastle United,EA SPORTS FC 24,2023-09-22,92,0
+2023-24,15,2023-12-23,Nottingham Forest,Bournemouth,EA SPORTS FC 24,2023-09-22,92,0
+2023-24,15,2023-12-23,Tottenham,Everton,EA SPORTS FC 24,2023-09-22,92,0
+2023-24,15,2023-12-23,Liverpool,Arsenal,EA SPORTS FC 24,2023-09-22,92,0
+2023-24,15,2023-12-24,Wolverhampton Wanderers,Chelsea,EA SPORTS FC 24,2023-09-22,93,0
+2023-24,15,2023-12-26,Burnley,Liverpool,EA SPORTS FC 24,2023-09-22,95,0
+2023-24,15,2023-12-26,Newcastle United,Nottingham Forest,EA SPORTS FC 24,2023-09-22,95,0
+2023-24,15,2023-12-26,Bournemouth,Fulham,EA SPORTS FC 24,2023-09-22,95,0
+2023-24,15,2023-12-26,Sheffield United,Luton,EA SPORTS FC 24,2023-09-22,95,0
+2023-24,15,2023-12-26,Manchester United,Aston Villa,EA SPORTS FC 24,2023-09-22,95,0
+2023-24,15,2023-12-27,Chelsea,Crystal Palace,EA SPORTS FC 24,2023-09-22,96,0
+2023-24,15,2023-12-27,Brentford,Wolverhampton Wanderers,EA SPORTS FC 24,2023-09-22,96,0
+2023-24,15,2023-12-27,Everton,Manchester City,EA SPORTS FC 24,2023-09-22,96,0
+2023-24,15,2023-12-28,Arsenal,West Ham United,EA SPORTS FC 24,2023-09-22,97,0
+2023-24,15,2023-12-28,Brighton and Hove Albion,Tottenham,EA SPORTS FC 24,2023-09-22,97,0
+2023-24,15,2023-12-30,Luton,Chelsea,EA SPORTS FC 24,2023-09-22,99,0
+2023-24,15,2023-12-30,Aston Villa,Burnley,EA SPORTS FC 24,2023-09-22,99,0
+2023-24,15,2023-12-30,Crystal Palace,Brentford,EA SPORTS FC 24,2023-09-22,99,0
+2023-24,15,2023-12-30,Manchester City,Sheffield United,EA SPORTS FC 24,2023-09-22,99,0
+2023-24,15,2023-12-30,Wolverhampton Wanderers,Everton,EA SPORTS FC 24,2023-09-22,99,0
+2023-24,15,2023-12-30,Nottingham Forest,Manchester United,EA SPORTS FC 24,2023-09-22,99,0
+2023-24,15,2023-12-31,Fulham,Arsenal,EA SPORTS FC 24,2023-09-22,100,0
+2023-24,15,2023-12-31,Tottenham,Bournemouth,EA SPORTS FC 24,2023-09-22,100,0
+2023-24,15,2024-01-01,Liverpool,Newcastle United,EA SPORTS FC 24,2023-09-22,101,0
+2023-24,15,2024-01-02,West Ham United,Brighton and Hove Albion,EA SPORTS FC 24,2023-09-22,102,0
+2023-24,15,2024-01-12,Burnley,Luton,EA SPORTS FC 24,2023-09-22,112,0
+2023-24,15,2024-01-13,Newcastle United,Manchester City,EA SPORTS FC 24,2023-09-22,113,0
+2023-24,15,2024-01-13,Chelsea,Fulham,EA SPORTS FC 24,2023-09-22,113,0
+2023-24,15,2024-01-14,Everton,Aston Villa,EA SPORTS FC 24,2023-09-22,114,0
+2023-24,15,2024-01-14,Manchester United,Tottenham,EA SPORTS FC 24,2023-09-22,114,0
+2023-24,15,2024-01-20,Arsenal,Crystal Palace,EA SPORTS FC 24,2023-09-22,120,0
+2023-24,15,2024-01-20,Brentford,Nottingham Forest,EA SPORTS FC 24,2023-09-22,120,0
+2023-24,15,2024-01-21,Sheffield United,West Ham United,EA SPORTS FC 24,2023-09-22,121,0
+2023-24,15,2024-01-21,Bournemouth,Liverpool,EA SPORTS FC 24,2023-09-22,121,0
+2023-24,15,2024-01-22,Brighton and Hove Albion,Wolverhampton Wanderers,EA SPORTS FC 24,2023-09-22,122,0
+2023-24,15,2024-01-30,Aston Villa,Newcastle United,EA SPORTS FC 24,2023-09-22,130,0
+2023-24,15,2024-01-30,Nottingham Forest,Arsenal,EA SPORTS FC 24,2023-09-22,130,0
+2023-24,15,2024-01-30,Fulham,Everton,EA SPORTS FC 24,2023-09-22,130,0
+2023-24,15,2024-01-30,Luton,Brighton and Hove Albion,EA SPORTS FC 24,2023-09-22,130,0
+2023-24,15,2024-01-30,Crystal Palace,Sheffield United,EA SPORTS FC 24,2023-09-22,130,0
+2023-24,15,2024-01-31,Tottenham,Brentford,EA SPORTS FC 24,2023-09-22,131,0
+2023-24,15,2024-01-31,Liverpool,Chelsea,EA SPORTS FC 24,2023-09-22,131,0
+2023-24,15,2024-01-31,Manchester City,Burnley,EA SPORTS FC 24,2023-09-22,131,0
+2023-24,15,2024-02-01,West Ham United,Bournemouth,EA SPORTS FC 24,2023-09-22,132,0
+2023-24,15,2024-02-01,Wolverhampton Wanderers,Manchester United,EA SPORTS FC 24,2023-09-22,132,0
+2023-24,15,2024-02-03,Everton,Tottenham,EA SPORTS FC 24,2023-09-22,134,0
+2023-24,15,2024-02-03,Brighton and Hove Albion,Crystal Palace,EA SPORTS FC 24,2023-09-22,134,0
+2023-24,15,2024-02-03,Burnley,Fulham,EA SPORTS FC 24,2023-09-22,134,0
+2023-24,15,2024-02-03,Newcastle United,Luton,EA SPORTS FC 24,2023-09-22,134,0
+2023-24,15,2024-02-03,Sheffield United,Aston Villa,EA SPORTS FC 24,2023-09-22,134,0
+2023-24,15,2024-02-04,Bournemouth,Nottingham Forest,EA SPORTS FC 24,2023-09-22,135,0
+2023-24,15,2024-02-04,Chelsea,Wolverhampton Wanderers,EA SPORTS FC 24,2023-09-22,135,0
+2023-24,15,2024-02-04,Manchester United,West Ham United,EA SPORTS FC 24,2023-09-22,135,0
+2023-24,15,2024-02-04,Arsenal,Liverpool,EA SPORTS FC 24,2023-09-22,135,0
+2023-24,15,2024-02-05,Brentford,Manchester City,EA SPORTS FC 24,2023-09-22,136,0
+2023-24,15,2024-02-10,Nottingham Forest,Newcastle United,EA SPORTS FC 24,2023-09-22,141,0
+2023-24,15,2024-02-10,Wolverhampton Wanderers,Brentford,EA SPORTS FC 24,2023-09-22,141,0
+2023-24,15,2024-02-10,Tottenham,Brighton and Hove Albion,EA SPORTS FC 24,2023-09-22,141,0
+2023-24,15,2024-02-10,Fulham,Bournemouth,EA SPORTS FC 24,2023-09-22,141,0
+2023-24,15,2024-02-10,Liverpool,Burnley,EA SPORTS FC 24,2023-09-22,141,0
+2023-24,15,2024-02-10,Manchester City,Everton,EA SPORTS FC 24,2023-09-22,141,0
+2023-24,15,2024-02-10,Luton,Sheffield United,EA SPORTS FC 24,2023-09-22,141,0
+2023-24,15,2024-02-11,West Ham United,Arsenal,EA SPORTS FC 24,2023-09-22,142,0
+2023-24,15,2024-02-11,Aston Villa,Manchester United,EA SPORTS FC 24,2023-09-22,142,0
+2023-24,15,2024-02-12,Crystal Palace,Chelsea,EA SPORTS FC 24,2023-09-22,143,0
+2023-24,15,2024-02-17,Nottingham Forest,West Ham United,EA SPORTS FC 24,2023-09-22,148,0
+2023-24,15,2024-02-17,Newcastle United,Bournemouth,EA SPORTS FC 24,2023-09-22,148,0
+2023-24,15,2024-02-17,Tottenham,Wolverhampton Wanderers,EA SPORTS FC 24,2023-09-22,148,0
+2023-24,15,2024-02-17,Burnley,Arsenal,EA SPORTS FC 24,2023-09-22,148,0
+2023-24,15,2024-02-17,Brentford,Liverpool,EA SPORTS FC 24,2023-09-22,148,0
+2023-24,15,2024-02-17,Fulham,Aston Villa,EA SPORTS FC 24,2023-09-22,148,0
+2023-24,15,2024-02-17,Manchester City,Chelsea,EA SPORTS FC 24,2023-09-22,148,0
+2023-24,15,2024-02-18,Luton,Manchester United,EA SPORTS FC 24,2023-09-22,149,0
+2023-24,15,2024-02-18,Sheffield United,Brighton and Hove Albion,EA SPORTS FC 24,2023-09-22,149,0
+2023-24,15,2024-02-19,Everton,Crystal Palace,EA SPORTS FC 24,2023-09-22,150,0
+2023-24,15,2024-02-20,Manchester City,Brentford,EA SPORTS FC 24,2023-09-22,151,0
+2023-24,15,2024-02-21,Liverpool,Luton,EA SPORTS FC 24,2023-09-22,152,0
+2023-24,15,2024-02-24,Aston Villa,Nottingham Forest,EA SPORTS FC 24,2023-09-22,155,0
+2023-24,15,2024-02-24,Brighton and Hove Albion,Everton,EA SPORTS FC 24,2023-09-22,155,0
+2023-24,15,2024-02-24,Crystal Palace,Burnley,EA SPORTS FC 24,2023-09-22,155,0
+2023-24,15,2024-02-24,Manchester United,Fulham,EA SPORTS FC 24,2023-09-22,155,0
+2023-24,15,2024-02-24,Bournemouth,Manchester City,EA SPORTS FC 24,2023-09-22,155,0
+2023-24,15,2024-02-24,Arsenal,Newcastle United,EA SPORTS FC 24,2023-09-22,155,0
+2023-24,15,2024-02-25,Wolverhampton Wanderers,Sheffield United,EA SPORTS FC 24,2023-09-22,156,0
+2023-24,15,2024-02-26,West Ham United,Brentford,EA SPORTS FC 24,2023-09-22,157,0
+2023-24,15,2024-03-02,Luton,Aston Villa,EA SPORTS FC 24,2023-09-22,162,0
+2023-24,15,2024-03-02,Tottenham,Crystal Palace,EA SPORTS FC 24,2023-09-22,162,0
+2023-24,15,2024-03-02,Nottingham Forest,Liverpool,EA SPORTS FC 24,2023-09-22,162,0
+2023-24,15,2024-03-02,Fulham,Brighton and Hove Albion,EA SPORTS FC 24,2023-09-22,162,0
+2023-24,15,2024-03-02,Everton,West Ham United,EA SPORTS FC 24,2023-09-22,162,0
+2023-24,15,2024-03-02,Brentford,Chelsea,EA SPORTS FC 24,2023-09-22,162,0
+2023-24,15,2024-03-02,Newcastle United,Wolverhampton Wanderers,EA SPORTS FC 24,2023-09-22,162,0
+2023-24,15,2024-03-03,Burnley,Bournemouth,EA SPORTS FC 24,2023-09-22,163,0
+2023-24,15,2024-03-03,Manchester City,Manchester United,EA SPORTS FC 24,2023-09-22,163,0
+2023-24,15,2024-03-04,Sheffield United,Arsenal,EA SPORTS FC 24,2023-09-22,164,0
+2023-24,15,2024-03-09,Manchester United,Everton,EA SPORTS FC 24,2023-09-22,169,0
+2023-24,15,2024-03-09,Bournemouth,Sheffield United,EA SPORTS FC 24,2023-09-22,169,0
+2023-24,15,2024-03-09,Crystal Palace,Luton,EA SPORTS FC 24,2023-09-22,169,0
+2023-24,15,2024-03-09,Wolverhampton Wanderers,Fulham,EA SPORTS FC 24,2023-09-22,169,0
+2023-24,15,2024-03-09,Arsenal,Brentford,EA SPORTS FC 24,2023-09-22,169,0
+2023-24,15,2024-03-10,Liverpool,Manchester City,EA SPORTS FC 24,2023-09-22,170,0
+2023-24,15,2024-03-10,West Ham United,Burnley,EA SPORTS FC 24,2023-09-22,170,0
+2023-24,15,2024-03-10,Brighton and Hove Albion,Nottingham Forest,EA SPORTS FC 24,2023-09-22,170,0
+2023-24,15,2024-03-10,Aston Villa,Tottenham,EA SPORTS FC 24,2023-09-22,170,0
+2023-24,15,2024-03-11,Chelsea,Newcastle United,EA SPORTS FC 24,2023-09-22,171,0
+2023-24,15,2024-03-13,Bournemouth,Luton,EA SPORTS FC 24,2023-09-22,173,0
+2023-24,15,2024-03-16,Burnley,Brentford,EA SPORTS FC 24,2023-09-22,176,0
+2023-24,15,2024-03-16,Luton,Nottingham Forest,EA SPORTS FC 24,2023-09-22,176,0
+2023-24,15,2024-03-16,Fulham,Tottenham,EA SPORTS FC 24,2023-09-22,176,0
+2023-24,15,2024-03-17,West Ham United,Aston Villa,EA SPORTS FC 24,2023-09-22,177,0
+2023-24,15,2024-03-30,Brentford,Manchester United,EA SPORTS FC 24,2023-09-22,190,0
+2023-24,15,2024-03-30,Tottenham,Luton,EA SPORTS FC 24,2023-09-22,190,0
+2023-24,15,2024-03-30,Sheffield United,Fulham,EA SPORTS FC 24,2023-09-22,190,0
+2023-24,15,2024-03-30,Aston Villa,Wolverhampton Wanderers,EA SPORTS FC 24,2023-09-22,190,0
+2023-24,15,2024-03-30,Chelsea,Burnley,EA SPORTS FC 24,2023-09-22,190,0
+2023-24,15,2024-03-30,Bournemouth,Everton,EA SPORTS FC 24,2023-09-22,190,0
+2023-24,15,2024-03-30,Newcastle United,West Ham United,EA SPORTS FC 24,2023-09-22,190,0
+2023-24,15,2024-03-30,Nottingham Forest,Crystal Palace,EA SPORTS FC 24,2023-09-22,190,0
+2023-24,15,2024-03-31,Liverpool,Brighton and Hove Albion,EA SPORTS FC 24,2023-09-22,191,0
+2023-24,15,2024-03-31,Manchester City,Arsenal,EA SPORTS FC 24,2023-09-22,191,0
+2023-24,15,2024-04-02,Newcastle United,Everton,EA SPORTS FC 24,2023-09-22,193,0
+2023-24,15,2024-04-02,Nottingham Forest,Fulham,EA SPORTS FC 24,2023-09-22,193,0
+2023-24,15,2024-04-02,Bournemouth,Crystal Palace,EA SPORTS FC 24,2023-09-22,193,0
+2023-24,15,2024-04-02,Burnley,Wolverhampton Wanderers,EA SPORTS FC 24,2023-09-22,193,0
+2023-24,15,2024-04-02,West Ham United,Tottenham,EA SPORTS FC 24,2023-09-22,193,0
+2023-24,15,2024-04-03,Arsenal,Luton,EA SPORTS FC 24,2023-09-22,194,0
+2023-24,15,2024-04-03,Brentford,Brighton and Hove Albion,EA SPORTS FC 24,2023-09-22,194,0
+2023-24,15,2024-04-03,Manchester City,Aston Villa,EA SPORTS FC 24,2023-09-22,194,0
+2023-24,15,2024-04-04,Liverpool,Sheffield United,EA SPORTS FC 24,2023-09-22,195,0
+2023-24,15,2024-04-04,Chelsea,Manchester United,EA SPORTS FC 24,2023-09-22,195,0
+2023-24,15,2024-04-06,Wolverhampton Wanderers,West Ham United,EA SPORTS FC 24,2023-09-22,197,0
+2023-24,15,2024-04-06,Brighton and Hove Albion,Arsenal,EA SPORTS FC 24,2023-09-22,197,0
+2023-24,15,2024-04-06,Luton,Bournemouth,EA SPORTS FC 24,2023-09-22,197,0
+2023-24,15,2024-04-06,Aston Villa,Brentford,EA SPORTS FC 24,2023-09-22,197,0
+2023-24,15,2024-04-06,Everton,Burnley,EA SPORTS FC 24,2023-09-22,197,0
+2023-24,15,2024-04-06,Fulham,Newcastle United,EA SPORTS FC 24,2023-09-22,197,0
+2023-24,15,2024-04-06,Crystal Palace,Manchester City,EA SPORTS FC 24,2023-09-22,197,0
+2023-24,15,2024-04-07,Manchester United,Liverpool,EA SPORTS FC 24,2023-09-22,198,0
+2023-24,15,2024-04-07,Sheffield United,Chelsea,EA SPORTS FC 24,2023-09-22,198,0
+2023-24,15,2024-04-07,Tottenham,Nottingham Forest,EA SPORTS FC 24,2023-09-22,198,0
+2023-24,15,2024-04-13,Newcastle United,Tottenham,EA SPORTS FC 24,2023-09-22,204,0
+2023-24,15,2024-04-13,Brentford,Sheffield United,EA SPORTS FC 24,2023-09-22,204,0
+2023-24,15,2024-04-13,Burnley,Brighton and Hove Albion,EA SPORTS FC 24,2023-09-22,204,0
+2023-24,15,2024-04-13,Manchester City,Luton,EA SPORTS FC 24,2023-09-22,204,0
+2023-24,15,2024-04-13,Nottingham Forest,Wolverhampton Wanderers,EA SPORTS FC 24,2023-09-22,204,0
+2023-24,15,2024-04-13,Bournemouth,Manchester United,EA SPORTS FC 24,2023-09-22,204,0
+2023-24,15,2024-04-14,Arsenal,Aston Villa,EA SPORTS FC 24,2023-09-22,205,0
+2023-24,15,2024-04-14,Liverpool,Crystal Palace,EA SPORTS FC 24,2023-09-22,205,0
+2023-24,15,2024-04-14,West Ham United,Fulham,EA SPORTS FC 24,2023-09-22,205,0
+2023-24,15,2024-04-15,Chelsea,Everton,EA SPORTS FC 24,2023-09-22,206,0
+2023-24,15,2024-04-20,Luton,Brentford,EA SPORTS FC 24,2023-09-22,211,0
+2023-24,15,2024-04-20,Sheffield United,Burnley,EA SPORTS FC 24,2023-09-22,211,0
+2023-24,15,2024-04-20,Wolverhampton Wanderers,Arsenal,EA SPORTS FC 24,2023-09-22,211,0
+2023-24,15,2024-04-21,Everton,Nottingham Forest,EA SPORTS FC 24,2023-09-22,212,0
+2023-24,15,2024-04-21,Aston Villa,Bournemouth,EA SPORTS FC 24,2023-09-22,212,0
+2023-24,15,2024-04-21,Crystal Palace,West Ham United,EA SPORTS FC 24,2023-09-22,212,0
+2023-24,15,2024-04-21,Fulham,Liverpool,EA SPORTS FC 24,2023-09-22,212,0
+2023-24,15,2024-04-23,Arsenal,Chelsea,EA SPORTS FC 24,2023-09-22,214,0
+2023-24,15,2024-04-24,Manchester United,Sheffield United,EA SPORTS FC 24,2023-09-22,215,0
+2023-24,15,2024-04-24,Everton,Liverpool,EA SPORTS FC 24,2023-09-22,215,0
+2023-24,15,2024-04-24,Wolverhampton Wanderers,Bournemouth,EA SPORTS FC 24,2023-09-22,215,0
+2023-24,15,2024-04-24,Crystal Palace,Newcastle United,EA SPORTS FC 24,2023-09-22,215,0
+2023-24,15,2024-04-25,Brighton and Hove Albion,Manchester City,EA SPORTS FC 24,2023-09-22,216,0
+2023-24,15,2024-04-27,West Ham United,Liverpool,EA SPORTS FC 24,2023-09-22,218,0
+2023-24,15,2024-04-27,Fulham,Crystal Palace,EA SPORTS FC 24,2023-09-22,218,0
+2023-24,15,2024-04-27,Manchester United,Burnley,EA SPORTS FC 24,2023-09-22,218,0
+2023-24,15,2024-04-27,Newcastle United,Sheffield United,EA SPORTS FC 24,2023-09-22,218,0
+2023-24,15,2024-04-27,Wolverhampton Wanderers,Luton,EA SPORTS FC 24,2023-09-22,218,0
+2023-24,15,2024-04-27,Everton,Brentford,EA SPORTS FC 24,2023-09-22,218,0
+2023-24,15,2024-04-27,Aston Villa,Chelsea,EA SPORTS FC 24,2023-09-22,218,0
+2023-24,15,2024-04-28,Tottenham,Arsenal,EA SPORTS FC 24,2023-09-22,219,0
+2023-24,15,2024-04-28,Bournemouth,Brighton and Hove Albion,EA SPORTS FC 24,2023-09-22,219,0
+2023-24,15,2024-04-28,Nottingham Forest,Manchester City,EA SPORTS FC 24,2023-09-22,219,0
+2023-24,15,2024-05-02,Chelsea,Tottenham,EA SPORTS FC 24,2023-09-22,223,0
+2023-24,15,2024-05-03,Luton,Everton,EA SPORTS FC 24,2023-09-22,224,0
+2023-24,15,2024-05-04,Arsenal,Bournemouth,EA SPORTS FC 24,2023-09-22,225,0
+2023-24,15,2024-05-04,Brentford,Fulham,EA SPORTS FC 24,2023-09-22,225,0
+2023-24,15,2024-05-04,Burnley,Newcastle United,EA SPORTS FC 24,2023-09-22,225,0
+2023-24,15,2024-05-04,Sheffield United,Nottingham Forest,EA SPORTS FC 24,2023-09-22,225,0
+2023-24,15,2024-05-04,Manchester City,Wolverhampton Wanderers,EA SPORTS FC 24,2023-09-22,225,0
+2023-24,15,2024-05-05,Brighton and Hove Albion,Aston Villa,EA SPORTS FC 24,2023-09-22,226,0
+2023-24,15,2024-05-05,Chelsea,West Ham United,EA SPORTS FC 24,2023-09-22,226,0
+2023-24,15,2024-05-05,Liverpool,Tottenham,EA SPORTS FC 24,2023-09-22,226,0
+2023-24,15,2024-05-06,Crystal Palace,Manchester United,EA SPORTS FC 24,2023-09-22,227,0
+2023-24,15,2024-05-11,West Ham United,Luton,EA SPORTS FC 24,2023-09-22,232,0
+2023-24,15,2024-05-11,Wolverhampton Wanderers,Crystal Palace,EA SPORTS FC 24,2023-09-22,232,0
+2023-24,15,2024-05-11,Tottenham,Burnley,EA SPORTS FC 24,2023-09-22,232,0
+2023-24,15,2024-05-11,Nottingham Forest,Chelsea,EA SPORTS FC 24,2023-09-22,232,0
+2023-24,15,2024-05-11,Everton,Sheffield United,EA SPORTS FC 24,2023-09-22,232,0
+2023-24,15,2024-05-11,Bournemouth,Brentford,EA SPORTS FC 24,2023-09-22,232,0
+2023-24,15,2024-05-11,Fulham,Manchester City,EA SPORTS FC 24,2023-09-22,232,0
+2023-24,15,2024-05-11,Newcastle United,Brighton and Hove Albion,EA SPORTS FC 24,2023-09-22,232,0
+2023-24,15,2024-05-12,Manchester United,Arsenal,EA SPORTS FC 24,2023-09-22,233,0
+2023-24,15,2024-05-13,Aston Villa,Liverpool,EA SPORTS FC 24,2023-09-22,234,0
+2023-24,15,2024-05-14,Tottenham,Manchester City,EA SPORTS FC 24,2023-09-22,235,0
+2023-24,15,2024-05-15,Brighton and Hove Albion,Chelsea,EA SPORTS FC 24,2023-09-22,236,0
+2023-24,15,2024-05-15,Manchester United,Newcastle United,EA SPORTS FC 24,2023-09-22,236,0
+2023-24,15,2024-05-19,Sheffield United,Tottenham,EA SPORTS FC 24,2023-09-22,240,0
+2023-24,15,2024-05-19,Manchester City,West Ham United,EA SPORTS FC 24,2023-09-22,240,0
+2023-24,15,2024-05-19,Luton,Fulham,EA SPORTS FC 24,2023-09-22,240,0
+2023-24,15,2024-05-19,Crystal Palace,Aston Villa,EA SPORTS FC 24,2023-09-22,240,0
+2023-24,15,2024-05-19,Liverpool,Wolverhampton Wanderers,EA SPORTS FC 24,2023-09-22,240,0
+2023-24,15,2024-05-19,Burnley,Nottingham Forest,EA SPORTS FC 24,2023-09-22,240,0
+2023-24,15,2024-05-19,Brighton and Hove Albion,Manchester United,EA SPORTS FC 24,2023-09-22,240,0
+2023-24,15,2024-05-19,Brentford,Newcastle United,EA SPORTS FC 24,2023-09-22,240,0
+2023-24,15,2024-05-19,Arsenal,Everton,EA SPORTS FC 24,2023-09-22,240,0
+2023-24,15,2024-05-19,Chelsea,Bournemouth,EA SPORTS FC 24,2023-09-22,240,0
+2024-25,15,2024-08-16,Manchester United,Fulham,EA SPORTS FC 24,2023-09-22,329,1
+2024-25,15,2024-08-17,West Ham United,Aston Villa,EA SPORTS FC 24,2023-09-22,330,1
+2024-25,15,2024-08-17,Nottingham Forest,Bournemouth,EA SPORTS FC 24,2023-09-22,330,1
+2024-25,15,2024-08-17,Newcastle United,Southampton,EA SPORTS FC 24,2023-09-22,330,1
+2024-25,15,2024-08-17,Everton,Brighton and Hove Albion,EA SPORTS FC 24,2023-09-22,330,1
+2024-25,15,2024-08-17,Ipswich Town,Liverpool,EA SPORTS FC 24,2023-09-22,330,1
+2024-25,15,2024-08-17,Arsenal,Wolverhampton Wanderers,EA SPORTS FC 24,2023-09-22,330,1
+2024-25,15,2024-08-18,Brentford,Crystal Palace,EA SPORTS FC 24,2023-09-22,331,1
+2024-25,15,2024-08-18,Chelsea,Manchester City,EA SPORTS FC 24,2023-09-22,331,1
+2024-25,15,2024-08-19,Leicester City,Tottenham,EA SPORTS FC 24,2023-09-22,332,1
+2024-25,15,2024-08-24,Aston Villa,Arsenal,EA SPORTS FC 24,2023-09-22,337,1
+2024-25,15,2024-08-24,Tottenham,Everton,EA SPORTS FC 24,2023-09-22,337,1
+2024-25,15,2024-08-24,Southampton,Nottingham Forest,EA SPORTS FC 24,2023-09-22,337,1
+2024-25,15,2024-08-24,Crystal Palace,West Ham United,EA SPORTS FC 24,2023-09-22,337,1
+2024-25,15,2024-08-24,Fulham,Leicester City,EA SPORTS FC 24,2023-09-22,337,1
+2024-25,15,2024-08-24,Brighton and Hove Albion,Manchester United,EA SPORTS FC 24,2023-09-22,337,1
+2024-25,15,2024-08-24,Manchester City,Ipswich Town,EA SPORTS FC 24,2023-09-22,337,1
+2024-25,15,2024-08-25,Bournemouth,Newcastle United,EA SPORTS FC 24,2023-09-22,338,1
+2024-25,15,2024-08-25,Wolverhampton Wanderers,Chelsea,EA SPORTS FC 24,2023-09-22,338,1
+2024-25,15,2024-08-25,Liverpool,Brentford,EA SPORTS FC 24,2023-09-22,338,1
+2024-25,15,2024-08-31,Arsenal,Brighton and Hove Albion,EA SPORTS FC 24,2023-09-22,344,1
+2024-25,15,2024-08-31,Brentford,Southampton,EA SPORTS FC 24,2023-09-22,344,1
+2024-25,15,2024-08-31,Everton,Bournemouth,EA SPORTS FC 24,2023-09-22,344,1
+2024-25,15,2024-08-31,Ipswich Town,Fulham,EA SPORTS FC 24,2023-09-22,344,1
+2024-25,15,2024-08-31,Leicester City,Aston Villa,EA SPORTS FC 24,2023-09-22,344,1
+2024-25,15,2024-08-31,Nottingham Forest,Wolverhampton Wanderers,EA SPORTS FC 24,2023-09-22,344,1
+2024-25,15,2024-08-31,West Ham United,Manchester City,EA SPORTS FC 24,2023-09-22,344,1
+2024-25,15,2024-09-01,Manchester United,Liverpool,EA SPORTS FC 24,2023-09-22,345,1
+2024-25,15,2024-09-01,Newcastle United,Tottenham,EA SPORTS FC 24,2023-09-22,345,1
+2024-25,15,2024-09-01,Chelsea,Crystal Palace,EA SPORTS FC 24,2023-09-22,345,1
+2024-25,15,2024-09-14,Southampton,Manchester United,EA SPORTS FC 24,2023-09-22,358,1
+2024-25,15,2024-09-14,Brighton and Hove Albion,Ipswich Town,EA SPORTS FC 24,2023-09-22,358,1
+2024-25,15,2024-09-14,Crystal Palace,Leicester City,EA SPORTS FC 24,2023-09-22,358,1
+2024-25,15,2024-09-14,Fulham,West Ham United,EA SPORTS FC 24,2023-09-22,358,1
+2024-25,15,2024-09-14,Liverpool,Nottingham Forest,EA SPORTS FC 24,2023-09-22,358,1
+2024-25,15,2024-09-14,Manchester City,Brentford,EA SPORTS FC 24,2023-09-22,358,1
+2024-25,15,2024-09-14,Aston Villa,Everton,EA SPORTS FC 24,2023-09-22,358,1
+2024-25,15,2024-09-14,Bournemouth,Chelsea,EA SPORTS FC 24,2023-09-22,358,1
+2024-25,15,2024-09-15,Tottenham,Arsenal,EA SPORTS FC 24,2023-09-22,359,1
+2024-25,15,2024-09-15,Wolverhampton Wanderers,Newcastle United,EA SPORTS FC 24,2023-09-22,359,1
+2024-25,15,2024-09-21,Tottenham,Brentford,EA SPORTS FC 25,2024-09-20,1,0
+2024-25,15,2024-09-21,Crystal Palace,Manchester United,EA SPORTS FC 25,2024-09-20,1,0
+2024-25,15,2024-09-21,Southampton,Ipswich Town,EA SPORTS FC 25,2024-09-20,1,0
+2024-25,15,2024-09-21,Liverpool,Bournemouth,EA SPORTS FC 25,2024-09-20,1,0
+2024-25,15,2024-09-21,Leicester City,Everton,EA SPORTS FC 25,2024-09-20,1,0
+2024-25,15,2024-09-21,Fulham,Newcastle United,EA SPORTS FC 25,2024-09-20,1,0
+2024-25,15,2024-09-21,Aston Villa,Wolverhampton Wanderers,EA SPORTS FC 25,2024-09-20,1,0
+2024-25,15,2024-09-21,West Ham United,Chelsea,EA SPORTS FC 25,2024-09-20,1,0
+2024-25,15,2024-09-22,Brighton and Hove Albion,Nottingham Forest,EA SPORTS FC 25,2024-09-20,2,0
+2024-25,15,2024-09-22,Manchester City,Arsenal,EA SPORTS FC 25,2024-09-20,2,0
+2024-25,15,2024-09-28,Newcastle United,Manchester City,EA SPORTS FC 25,2024-09-20,8,0
+2024-25,15,2024-09-28,Arsenal,Leicester City,EA SPORTS FC 25,2024-09-20,8,0
+2024-25,15,2024-09-28,Brentford,West Ham United,EA SPORTS FC 25,2024-09-20,8,0
+2024-25,15,2024-09-28,Chelsea,Brighton and Hove Albion,EA SPORTS FC 25,2024-09-20,8,0
+2024-25,15,2024-09-28,Everton,Crystal Palace,EA SPORTS FC 25,2024-09-20,8,0
+2024-25,15,2024-09-28,Nottingham Forest,Fulham,EA SPORTS FC 25,2024-09-20,8,0
+2024-25,15,2024-09-28,Wolverhampton Wanderers,Liverpool,EA SPORTS FC 25,2024-09-20,8,0
+2024-25,15,2024-09-29,Manchester United,Tottenham,EA SPORTS FC 25,2024-09-20,9,0
+2024-25,15,2024-09-29,Ipswich Town,Aston Villa,EA SPORTS FC 25,2024-09-20,9,0
+2024-25,15,2024-09-30,Bournemouth,Southampton,EA SPORTS FC 25,2024-09-20,10,0
+2024-25,15,2024-10-05,Crystal Palace,Liverpool,EA SPORTS FC 25,2024-09-20,15,0
+2024-25,15,2024-10-05,Arsenal,Southampton,EA SPORTS FC 25,2024-09-20,15,0
+2024-25,15,2024-10-05,Brentford,Wolverhampton Wanderers,EA SPORTS FC 25,2024-09-20,15,0
+2024-25,15,2024-10-05,Leicester City,Bournemouth,EA SPORTS FC 25,2024-09-20,15,0
+2024-25,15,2024-10-05,Manchester City,Fulham,EA SPORTS FC 25,2024-09-20,15,0
+2024-25,15,2024-10-05,West Ham United,Ipswich Town,EA SPORTS FC 25,2024-09-20,15,0
+2024-25,15,2024-10-05,Everton,Newcastle United,EA SPORTS FC 25,2024-09-20,15,0
+2024-25,15,2024-10-06,Aston Villa,Manchester United,EA SPORTS FC 25,2024-09-20,16,0
+2024-25,15,2024-10-06,Chelsea,Nottingham Forest,EA SPORTS FC 25,2024-09-20,16,0
+2024-25,15,2024-10-06,Brighton and Hove Albion,Tottenham,EA SPORTS FC 25,2024-09-20,16,0
+2024-25,15,2024-10-19,Southampton,Leicester City,EA SPORTS FC 25,2024-09-20,29,0
+2024-25,15,2024-10-19,Bournemouth,Arsenal,EA SPORTS FC 25,2024-09-20,29,0
+2024-25,15,2024-10-19,Newcastle United,Brighton and Hove Albion,EA SPORTS FC 25,2024-09-20,29,0
+2024-25,15,2024-10-19,Manchester United,Brentford,EA SPORTS FC 25,2024-09-20,29,0
+2024-25,15,2024-10-19,Ipswich Town,Everton,EA SPORTS FC 25,2024-09-20,29,0
+2024-25,15,2024-10-19,Fulham,Aston Villa,EA SPORTS FC 25,2024-09-20,29,0
+2024-25,15,2024-10-19,Tottenham,West Ham United,EA SPORTS FC 25,2024-09-20,29,0
+2024-25,15,2024-10-20,Wolverhampton Wanderers,Manchester City,EA SPORTS FC 25,2024-09-20,30,0
+2024-25,15,2024-10-20,Liverpool,Chelsea,EA SPORTS FC 25,2024-09-20,30,0
+2024-25,15,2024-10-21,Nottingham Forest,Crystal Palace,EA SPORTS FC 25,2024-09-20,31,0
+2024-25,15,2024-10-25,Leicester City,Nottingham Forest,EA SPORTS FC 25,2024-09-20,35,0
+2024-25,15,2024-10-26,Aston Villa,Bournemouth,EA SPORTS FC 25,2024-09-20,36,0
+2024-25,15,2024-10-26,Brentford,Ipswich Town,EA SPORTS FC 25,2024-09-20,36,0
+2024-25,15,2024-10-26,Brighton and Hove Albion,Wolverhampton Wanderers,EA SPORTS FC 25,2024-09-20,36,0
+2024-25,15,2024-10-26,Manchester City,Southampton,EA SPORTS FC 25,2024-09-20,36,0
+2024-25,15,2024-10-26,Everton,Fulham,EA SPORTS FC 25,2024-09-20,36,0
+2024-25,15,2024-10-27,Arsenal,Liverpool,EA SPORTS FC 25,2024-09-20,37,0
+2024-25,15,2024-10-27,West Ham United,Manchester United,EA SPORTS FC 25,2024-09-20,37,0
+2024-25,15,2024-10-27,Chelsea,Newcastle United,EA SPORTS FC 25,2024-09-20,37,0
+2024-25,15,2024-10-27,Crystal Palace,Tottenham,EA SPORTS FC 25,2024-09-20,37,0
+2024-25,15,2024-11-02,Newcastle United,Arsenal,EA SPORTS FC 25,2024-09-20,43,0
+2024-25,15,2024-11-02,Bournemouth,Manchester City,EA SPORTS FC 25,2024-09-20,43,0
+2024-25,15,2024-11-02,Ipswich Town,Leicester City,EA SPORTS FC 25,2024-09-20,43,0
+2024-25,15,2024-11-02,Liverpool,Brighton and Hove Albion,EA SPORTS FC 25,2024-09-20,43,0
+2024-25,15,2024-11-02,Nottingham Forest,West Ham United,EA SPORTS FC 25,2024-09-20,43,0
+2024-25,15,2024-11-02,Southampton,Everton,EA SPORTS FC 25,2024-09-20,43,0
+2024-25,15,2024-11-02,Wolverhampton Wanderers,Crystal Palace,EA SPORTS FC 25,2024-09-20,43,0
+2024-25,15,2024-11-03,Tottenham,Aston Villa,EA SPORTS FC 25,2024-09-20,44,0
+2024-25,15,2024-11-03,Manchester United,Chelsea,EA SPORTS FC 25,2024-09-20,44,0
+2024-25,15,2024-11-04,Fulham,Brentford,EA SPORTS FC 25,2024-09-20,45,0
+2024-25,15,2024-11-09,Brighton and Hove Albion,Manchester City,EA SPORTS FC 25,2024-09-20,50,0
+2024-25,15,2024-11-09,Liverpool,Aston Villa,EA SPORTS FC 25,2024-09-20,50,0
+2024-25,15,2024-11-09,West Ham United,Everton,EA SPORTS FC 25,2024-09-20,50,0
+2024-25,15,2024-11-09,Crystal Palace,Fulham,EA SPORTS FC 25,2024-09-20,50,0
+2024-25,15,2024-11-09,Wolverhampton Wanderers,Southampton,EA SPORTS FC 25,2024-09-20,50,0
+2024-25,15,2024-11-09,Brentford,Bournemouth,EA SPORTS FC 25,2024-09-20,50,0
+2024-25,15,2024-11-10,Manchester United,Leicester City,EA SPORTS FC 25,2024-09-20,51,0
+2024-25,15,2024-11-10,Nottingham Forest,Newcastle United,EA SPORTS FC 25,2024-09-20,51,0
+2024-25,15,2024-11-10,Tottenham,Ipswich Town,EA SPORTS FC 25,2024-09-20,51,0
+2024-25,15,2024-11-10,Chelsea,Arsenal,EA SPORTS FC 25,2024-09-20,51,0
+2024-25,15,2024-11-23,Fulham,Wolverhampton Wanderers,EA SPORTS FC 25,2024-09-20,64,0
+2024-25,15,2024-11-23,Everton,Brentford,EA SPORTS FC 25,2024-09-20,64,0
+2024-25,15,2024-11-23,Bournemouth,Brighton and Hove Albion,EA SPORTS FC 25,2024-09-20,64,0
+2024-25,15,2024-11-23,Manchester City,Tottenham,EA SPORTS FC 25,2024-09-20,64,0
+2024-25,15,2024-11-23,Arsenal,Nottingham Forest,EA SPORTS FC 25,2024-09-20,64,0
+2024-25,15,2024-11-23,Leicester City,Chelsea,EA SPORTS FC 25,2024-09-20,64,0
+2024-25,15,2024-11-23,Aston Villa,Crystal Palace,EA SPORTS FC 25,2024-09-20,64,0
+2024-25,15,2024-11-24,Southampton,Liverpool,EA SPORTS FC 25,2024-09-20,65,0
+2024-25,15,2024-11-24,Ipswich Town,Manchester United,EA SPORTS FC 25,2024-09-20,65,0
+2024-25,15,2024-11-25,Newcastle United,West Ham United,EA SPORTS FC 25,2024-09-20,66,0
+2024-25,15,2024-11-29,Brighton and Hove Albion,Southampton,EA SPORTS FC 25,2024-09-20,70,0
+2024-25,15,2024-11-30,Brentford,Leicester City,EA SPORTS FC 25,2024-09-20,71,0
+2024-25,15,2024-11-30,Crystal Palace,Newcastle United,EA SPORTS FC 25,2024-09-20,71,0
+2024-25,15,2024-11-30,Nottingham Forest,Ipswich Town,EA SPORTS FC 25,2024-09-20,71,0
+2024-25,15,2024-11-30,Wolverhampton Wanderers,Bournemouth,EA SPORTS FC 25,2024-09-20,71,0
+2024-25,15,2024-11-30,West Ham United,Arsenal,EA SPORTS FC 25,2024-09-20,71,0
+2024-25,15,2024-12-01,Tottenham,Fulham,EA SPORTS FC 25,2024-09-20,72,0
+2024-25,15,2024-12-01,Chelsea,Aston Villa,EA SPORTS FC 25,2024-09-20,72,0
+2024-25,15,2024-12-01,Manchester United,Everton,EA SPORTS FC 25,2024-09-20,72,0
+2024-25,15,2024-12-01,Liverpool,Manchester City,EA SPORTS FC 25,2024-09-20,72,0
+2024-25,15,2024-12-03,Leicester City,West Ham United,EA SPORTS FC 25,2024-09-20,74,0
+2024-25,15,2024-12-03,Ipswich Town,Crystal Palace,EA SPORTS FC 25,2024-09-20,74,0
+2024-25,15,2024-12-04,Everton,Wolverhampton Wanderers,EA SPORTS FC 25,2024-09-20,75,0
+2024-25,15,2024-12-04,Manchester City,Nottingham Forest,EA SPORTS FC 25,2024-09-20,75,0
+2024-25,15,2024-12-04,Newcastle United,Liverpool,EA SPORTS FC 25,2024-09-20,75,0
+2024-25,15,2024-12-04,Southampton,Chelsea,EA SPORTS FC 25,2024-09-20,75,0
+2024-25,15,2024-12-04,Arsenal,Manchester United,EA SPORTS FC 25,2024-09-20,75,0
+2024-25,15,2024-12-04,Aston Villa,Brentford,EA SPORTS FC 25,2024-09-20,75,0
+2024-25,15,2024-12-05,Fulham,Brighton and Hove Albion,EA SPORTS FC 25,2024-09-20,76,0
+2024-25,15,2024-12-05,Bournemouth,Tottenham,EA SPORTS FC 25,2024-09-20,76,0
+2024-25,15,2024-12-07,Crystal Palace,Manchester City,EA SPORTS FC 25,2024-09-20,78,0
+2024-25,15,2024-12-07,Manchester United,Nottingham Forest,EA SPORTS FC 25,2024-09-20,78,0
+2024-25,15,2024-12-07,Aston Villa,Southampton,EA SPORTS FC 25,2024-09-20,78,0
+2024-25,15,2024-12-07,Brentford,Newcastle United,EA SPORTS FC 25,2024-09-20,78,0
+2024-25,15,2024-12-08,Fulham,Arsenal,EA SPORTS FC 25,2024-09-20,79,0
+2024-25,15,2024-12-08,Ipswich Town,Bournemouth,EA SPORTS FC 25,2024-09-20,79,0
+2024-25,15,2024-12-08,Leicester City,Brighton and Hove Albion,EA SPORTS FC 25,2024-09-20,79,0
+2024-25,15,2024-12-08,Tottenham,Chelsea,EA SPORTS FC 25,2024-09-20,79,0
+2024-25,15,2024-12-09,West Ham United,Wolverhampton Wanderers,EA SPORTS FC 25,2024-09-20,80,0
+2024-25,15,2024-12-14,Wolverhampton Wanderers,Ipswich Town,EA SPORTS FC 25,2024-09-20,85,0
+2024-25,15,2024-12-14,Newcastle United,Leicester City,EA SPORTS FC 25,2024-09-20,85,0
+2024-25,15,2024-12-14,Nottingham Forest,Aston Villa,EA SPORTS FC 25,2024-09-20,85,0
+2024-25,15,2024-12-14,Arsenal,Everton,EA SPORTS FC 25,2024-09-20,85,0
+2024-25,15,2024-12-14,Liverpool,Fulham,EA SPORTS FC 25,2024-09-20,85,0
+2024-25,15,2024-12-15,Chelsea,Brentford,EA SPORTS FC 25,2024-09-20,86,0
+2024-25,15,2024-12-15,Southampton,Tottenham,EA SPORTS FC 25,2024-09-20,86,0
+2024-25,15,2024-12-15,Brighton and Hove Albion,Crystal Palace,EA SPORTS FC 25,2024-09-20,86,0
+2024-25,15,2024-12-15,Manchester City,Manchester United,EA SPORTS FC 25,2024-09-20,86,0
+2024-25,15,2024-12-16,Bournemouth,West Ham United,EA SPORTS FC 25,2024-09-20,87,0
+2024-25,15,2024-12-21,Crystal Palace,Arsenal,EA SPORTS FC 25,2024-09-20,92,0
+2024-25,15,2024-12-21,West Ham United,Brighton and Hove Albion,EA SPORTS FC 25,2024-09-20,92,0
+2024-25,15,2024-12-21,Ipswich Town,Newcastle United,EA SPORTS FC 25,2024-09-20,92,0
+2024-25,15,2024-12-21,Brentford,Nottingham Forest,EA SPORTS FC 25,2024-09-20,92,0
+2024-25,15,2024-12-21,Aston Villa,Manchester City,EA SPORTS FC 25,2024-09-20,92,0
+2024-25,15,2024-12-22,Everton,Chelsea,EA SPORTS FC 25,2024-09-20,93,0
+2024-25,15,2024-12-22,Fulham,Southampton,EA SPORTS FC 25,2024-09-20,93,0
+2024-25,15,2024-12-22,Leicester City,Wolverhampton Wanderers,EA SPORTS FC 25,2024-09-20,93,0
+2024-25,15,2024-12-22,Manchester United,Bournemouth,EA SPORTS FC 25,2024-09-20,93,0
+2024-25,15,2024-12-22,Tottenham,Liverpool,EA SPORTS FC 25,2024-09-20,93,0
+2024-25,15,2024-12-26,Wolverhampton Wanderers,Manchester United,EA SPORTS FC 25,2024-09-20,97,0
+2024-25,15,2024-12-26,Southampton,West Ham United,EA SPORTS FC 25,2024-09-20,97,0
+2024-25,15,2024-12-26,Nottingham Forest,Tottenham,EA SPORTS FC 25,2024-09-20,97,0
+2024-25,15,2024-12-26,Liverpool,Leicester City,EA SPORTS FC 25,2024-09-20,97,0
+2024-25,15,2024-12-26,Chelsea,Fulham,EA SPORTS FC 25,2024-09-20,97,0
+2024-25,15,2024-12-26,Bournemouth,Crystal Palace,EA SPORTS FC 25,2024-09-20,97,0
+2024-25,15,2024-12-26,Manchester City,Everton,EA SPORTS FC 25,2024-09-20,97,0
+2024-25,15,2024-12-26,Newcastle United,Aston Villa,EA SPORTS FC 25,2024-09-20,97,0
+2024-25,15,2024-12-27,Brighton and Hove Albion,Brentford,EA SPORTS FC 25,2024-09-20,98,0
+2024-25,15,2024-12-27,Arsenal,Ipswich Town,EA SPORTS FC 25,2024-09-20,98,0
+2024-25,15,2024-12-29,West Ham United,Liverpool,EA SPORTS FC 25,2024-09-20,100,0
+2024-25,15,2024-12-29,Tottenham,Wolverhampton Wanderers,EA SPORTS FC 25,2024-09-20,100,0
+2024-25,15,2024-12-29,Fulham,Bournemouth,EA SPORTS FC 25,2024-09-20,100,0
+2024-25,15,2024-12-29,Crystal Palace,Southampton,EA SPORTS FC 25,2024-09-20,100,0
+2024-25,15,2024-12-29,Leicester City,Manchester City,EA SPORTS FC 25,2024-09-20,100,0
+2024-25,15,2024-12-29,Everton,Nottingham Forest,EA SPORTS FC 25,2024-09-20,100,0
+2024-25,15,2024-12-30,Aston Villa,Brighton and Hove Albion,EA SPORTS FC 25,2024-09-20,101,0
+2024-25,15,2024-12-30,Ipswich Town,Chelsea,EA SPORTS FC 25,2024-09-20,101,0
+2024-25,15,2024-12-30,Manchester United,Newcastle United,EA SPORTS FC 25,2024-09-20,101,0
+2024-25,15,2025-01-01,Brentford,Arsenal,EA SPORTS FC 25,2024-09-20,103,0
+2024-25,15,2025-01-04,Southampton,Brentford,EA SPORTS FC 25,2024-09-20,106,0
+2024-25,15,2025-01-04,Brighton and Hove Albion,Arsenal,EA SPORTS FC 25,2024-09-20,106,0
+2024-25,15,2025-01-04,Manchester City,West Ham United,EA SPORTS FC 25,2024-09-20,106,0
+2024-25,15,2025-01-04,Bournemouth,Everton,EA SPORTS FC 25,2024-09-20,106,0
+2024-25,15,2025-01-04,Aston Villa,Leicester City,EA SPORTS FC 25,2024-09-20,106,0
+2024-25,15,2025-01-04,Tottenham,Newcastle United,EA SPORTS FC 25,2024-09-20,106,0
+2024-25,15,2025-01-04,Crystal Palace,Chelsea,EA SPORTS FC 25,2024-09-20,106,0
+2024-25,15,2025-01-05,Fulham,Ipswich Town,EA SPORTS FC 25,2024-09-20,107,0
+2024-25,15,2025-01-05,Liverpool,Manchester United,EA SPORTS FC 25,2024-09-20,107,0
+2024-25,15,2025-01-06,Wolverhampton Wanderers,Nottingham Forest,EA SPORTS FC 25,2024-09-20,108,0
+2024-25,15,2025-01-14,Brentford,Manchester City,EA SPORTS FC 25,2024-09-20,116,0
+2024-25,15,2025-01-14,Chelsea,Bournemouth,EA SPORTS FC 25,2024-09-20,116,0
+2024-25,15,2025-01-14,West Ham United,Fulham,EA SPORTS FC 25,2024-09-20,116,0
+2024-25,15,2025-01-14,Nottingham Forest,Liverpool,EA SPORTS FC 25,2024-09-20,116,0
+2024-25,15,2025-01-15,Newcastle United,Wolverhampton Wanderers,EA SPORTS FC 25,2024-09-20,117,0
+2024-25,15,2025-01-15,Everton,Aston Villa,EA SPORTS FC 25,2024-09-20,117,0
+2024-25,15,2025-01-15,Leicester City,Crystal Palace,EA SPORTS FC 25,2024-09-20,117,0
+2024-25,15,2025-01-15,Arsenal,Tottenham,EA SPORTS FC 25,2024-09-20,117,0
+2024-25,15,2025-01-16,Manchester United,Southampton,EA SPORTS FC 25,2024-09-20,118,0
+2024-25,15,2025-01-16,Ipswich Town,Brighton and Hove Albion,EA SPORTS FC 25,2024-09-20,118,0
+2024-25,15,2025-01-18,Newcastle United,Bournemouth,EA SPORTS FC 25,2024-09-20,120,0
+2024-25,15,2025-01-18,Brentford,Liverpool,EA SPORTS FC 25,2024-09-20,120,0
+2024-25,15,2025-01-18,Leicester City,Fulham,EA SPORTS FC 25,2024-09-20,120,0
+2024-25,15,2025-01-18,West Ham United,Crystal Palace,EA SPORTS FC 25,2024-09-20,120,0
+2024-25,15,2025-01-18,Arsenal,Aston Villa,EA SPORTS FC 25,2024-09-20,120,0
+2024-25,15,2025-01-19,Everton,Tottenham,EA SPORTS FC 25,2024-09-20,121,0
+2024-25,15,2025-01-19,Manchester United,Brighton and Hove Albion,EA SPORTS FC 25,2024-09-20,121,0
+2024-25,15,2025-01-19,Nottingham Forest,Southampton,EA SPORTS FC 25,2024-09-20,121,0
+2024-25,15,2025-01-19,Ipswich Town,Manchester City,EA SPORTS FC 25,2024-09-20,121,0
+2024-25,15,2025-01-20,Chelsea,Wolverhampton Wanderers,EA SPORTS FC 25,2024-09-20,122,0
+2024-25,15,2025-01-25,Wolverhampton Wanderers,Arsenal,EA SPORTS FC 25,2024-09-20,127,0
+2024-25,15,2025-01-25,Manchester City,Chelsea,EA SPORTS FC 25,2024-09-20,127,0
+2024-25,15,2025-01-25,Southampton,Newcastle United,EA SPORTS FC 25,2024-09-20,127,0
+2024-25,15,2025-01-25,Brighton and Hove Albion,Everton,EA SPORTS FC 25,2024-09-20,127,0
+2024-25,15,2025-01-25,Bournemouth,Nottingham Forest,EA SPORTS FC 25,2024-09-20,127,0
+2024-25,15,2025-01-25,Liverpool,Ipswich Town,EA SPORTS FC 25,2024-09-20,127,0
+2024-25,15,2025-01-26,Crystal Palace,Brentford,EA SPORTS FC 25,2024-09-20,128,0
+2024-25,15,2025-01-26,Tottenham,Leicester City,EA SPORTS FC 25,2024-09-20,128,0
+2024-25,15,2025-01-26,Aston Villa,West Ham United,EA SPORTS FC 25,2024-09-20,128,0
+2024-25,15,2025-01-26,Fulham,Manchester United,EA SPORTS FC 25,2024-09-20,128,0
+2024-25,15,2025-02-01,Nottingham Forest,Brighton and Hove Albion,EA SPORTS FC 25,2024-09-20,134,0
+2024-25,15,2025-02-01,Bournemouth,Liverpool,EA SPORTS FC 25,2024-09-20,134,0
+2024-25,15,2025-02-01,Everton,Leicester City,EA SPORTS FC 25,2024-09-20,134,0
+2024-25,15,2025-02-01,Ipswich Town,Southampton,EA SPORTS FC 25,2024-09-20,134,0
+2024-25,15,2025-02-01,Newcastle United,Fulham,EA SPORTS FC 25,2024-09-20,134,0
+2024-25,15,2025-02-01,Wolverhampton Wanderers,Aston Villa,EA SPORTS FC 25,2024-09-20,134,0
+2024-25,15,2025-02-02,Manchester United,Crystal Palace,EA SPORTS FC 25,2024-09-20,135,0
+2024-25,15,2025-02-02,Arsenal,Manchester City,EA SPORTS FC 25,2024-09-20,135,0
+2024-25,15,2025-02-02,Brentford,Tottenham,EA SPORTS FC 25,2024-09-20,135,0
+2024-25,15,2025-02-03,Chelsea,West Ham United,EA SPORTS FC 25,2024-09-20,136,0
+2024-25,15,2025-02-12,Everton,Liverpool,EA SPORTS FC 25,2024-09-20,145,0
+2024-25,15,2025-02-14,Brighton and Hove Albion,Chelsea,EA SPORTS FC 25,2024-09-20,147,0
+2024-25,15,2025-02-15,Leicester City,Arsenal,EA SPORTS FC 25,2024-09-20,148,0
+2024-25,15,2025-02-15,Aston Villa,Ipswich Town,EA SPORTS FC 25,2024-09-20,148,0
+2024-25,15,2025-02-15,Fulham,Nottingham Forest,EA SPORTS FC 25,2024-09-20,148,0
+2024-25,15,2025-02-15,Manchester City,Newcastle United,EA SPORTS FC 25,2024-09-20,148,0
+2024-25,15,2025-02-15,Southampton,Bournemouth,EA SPORTS FC 25,2024-09-20,148,0
+2024-25,15,2025-02-15,West Ham United,Brentford,EA SPORTS FC 25,2024-09-20,148,0
+2024-25,15,2025-02-15,Crystal Palace,Everton,EA SPORTS FC 25,2024-09-20,148,0
+2024-25,15,2025-02-16,Tottenham,Manchester United,EA SPORTS FC 25,2024-09-20,149,0
+2024-25,15,2025-02-16,Liverpool,Wolverhampton Wanderers,EA SPORTS FC 25,2024-09-20,149,0
+2024-25,15,2025-02-19,Aston Villa,Liverpool,EA SPORTS FC 25,2024-09-20,152,0
+2024-25,15,2025-02-21,Leicester City,Brentford,EA SPORTS FC 25,2024-09-20,154,0
+2024-25,15,2025-02-22,Everton,Manchester United,EA SPORTS FC 25,2024-09-20,155,0
+2024-25,15,2025-02-22,Arsenal,West Ham United,EA SPORTS FC 25,2024-09-20,155,0
+2024-25,15,2025-02-22,Bournemouth,Wolverhampton Wanderers,EA SPORTS FC 25,2024-09-20,155,0
+2024-25,15,2025-02-22,Fulham,Crystal Palace,EA SPORTS FC 25,2024-09-20,155,0
+2024-25,15,2025-02-22,Ipswich Town,Tottenham,EA SPORTS FC 25,2024-09-20,155,0
+2024-25,15,2025-02-22,Southampton,Brighton and Hove Albion,EA SPORTS FC 25,2024-09-20,155,0
+2024-25,15,2025-02-22,Aston Villa,Chelsea,EA SPORTS FC 25,2024-09-20,155,0
+2024-25,15,2025-02-23,Newcastle United,Nottingham Forest,EA SPORTS FC 25,2024-09-20,156,0
+2024-25,15,2025-02-23,Manchester City,Liverpool,EA SPORTS FC 25,2024-09-20,156,0
+2024-25,15,2025-02-25,Wolverhampton Wanderers,Fulham,EA SPORTS FC 25,2024-09-20,158,0
+2024-25,15,2025-02-25,Chelsea,Southampton,EA SPORTS FC 25,2024-09-20,158,0
+2024-25,15,2025-02-25,Brighton and Hove Albion,Bournemouth,EA SPORTS FC 25,2024-09-20,158,0
+2024-25,15,2025-02-25,Crystal Palace,Aston Villa,EA SPORTS FC 25,2024-09-20,158,0
+2024-25,15,2025-02-26,Brentford,Everton,EA SPORTS FC 25,2024-09-20,159,0
+2024-25,15,2025-02-26,Manchester United,Ipswich Town,EA SPORTS FC 25,2024-09-20,159,0
+2024-25,15,2025-02-26,Nottingham Forest,Arsenal,EA SPORTS FC 25,2024-09-20,159,0
+2024-25,15,2025-02-26,Tottenham,Manchester City,EA SPORTS FC 25,2024-09-20,159,0
+2024-25,15,2025-02-26,Liverpool,Newcastle United,EA SPORTS FC 25,2024-09-20,159,0
+2024-25,15,2025-02-27,West Ham United,Leicester City,EA SPORTS FC 25,2024-09-20,160,0
+2024-25,15,2025-03-08,Brentford,Aston Villa,EA SPORTS FC 25,2024-09-20,169,0
+2024-25,15,2025-03-08,Nottingham Forest,Manchester City,EA SPORTS FC 25,2024-09-20,169,0
+2024-25,15,2025-03-08,Brighton and Hove Albion,Fulham,EA SPORTS FC 25,2024-09-20,169,0
+2024-25,15,2025-03-08,Crystal Palace,Ipswich Town,EA SPORTS FC 25,2024-09-20,169,0
+2024-25,15,2025-03-08,Liverpool,Southampton,EA SPORTS FC 25,2024-09-20,169,0
+2024-25,15,2025-03-08,Wolverhampton Wanderers,Everton,EA SPORTS FC 25,2024-09-20,169,0
+2024-25,15,2025-03-09,Tottenham,Bournemouth,EA SPORTS FC 25,2024-09-20,170,0
+2024-25,15,2025-03-09,Chelsea,Leicester City,EA SPORTS FC 25,2024-09-20,170,0
+2024-25,15,2025-03-09,Manchester United,Arsenal,EA SPORTS FC 25,2024-09-20,170,0
+2024-25,15,2025-03-10,West Ham United,Newcastle United,EA SPORTS FC 25,2024-09-20,171,0
+2024-25,15,2025-03-15,Bournemouth,Brentford,EA SPORTS FC 25,2024-09-20,176,0
+2024-25,15,2025-03-15,Southampton,Wolverhampton Wanderers,EA SPORTS FC 25,2024-09-20,176,0
+2024-25,15,2025-03-15,Manchester City,Brighton and Hove Albion,EA SPORTS FC 25,2024-09-20,176,0
+2024-25,15,2025-03-15,Everton,West Ham United,EA SPORTS FC 25,2024-09-20,176,0
+2024-25,15,2025-03-15,Ipswich Town,Nottingham Forest,EA SPORTS FC 25,2024-09-20,176,0
+2024-25,15,2025-03-16,Arsenal,Chelsea,EA SPORTS FC 25,2024-09-20,177,0
+2024-25,15,2025-03-16,Fulham,Tottenham,EA SPORTS FC 25,2024-09-20,177,0
+2024-25,15,2025-03-16,Leicester City,Manchester United,EA SPORTS FC 25,2024-09-20,177,0
+2024-25,15,2025-04-01,Arsenal,Fulham,EA SPORTS FC 25,2024-09-20,193,0
+2024-25,15,2025-04-01,Wolverhampton Wanderers,West Ham United,EA SPORTS FC 25,2024-09-20,193,0
+2024-25,15,2025-04-01,Nottingham Forest,Manchester United,EA SPORTS FC 25,2024-09-20,193,0
+2024-25,15,2025-04-02,Southampton,Crystal Palace,EA SPORTS FC 25,2024-09-20,194,0
+2024-25,15,2025-04-02,Newcastle United,Brentford,EA SPORTS FC 25,2024-09-20,194,0
+2024-25,15,2025-04-02,Liverpool,Everton,EA SPORTS FC 25,2024-09-20,194,0
+2024-25,15,2025-04-02,Brighton and Hove Albion,Aston Villa,EA SPORTS FC 25,2024-09-20,194,0
+2024-25,15,2025-04-02,Bournemouth,Ipswich Town,EA SPORTS FC 25,2024-09-20,194,0
+2024-25,15,2025-04-02,Manchester City,Leicester City,EA SPORTS FC 25,2024-09-20,194,0
+2024-25,15,2025-04-03,Chelsea,Tottenham,EA SPORTS FC 25,2024-09-20,195,0
+2024-25,15,2025-04-05,Everton,Arsenal,EA SPORTS FC 25,2024-09-20,197,0
+2024-25,15,2025-04-05,Crystal Palace,Brighton and Hove Albion,EA SPORTS FC 25,2024-09-20,197,0
+2024-25,15,2025-04-05,Ipswich Town,Wolverhampton Wanderers,EA SPORTS FC 25,2024-09-20,197,0
+2024-25,15,2025-04-05,West Ham United,Bournemouth,EA SPORTS FC 25,2024-09-20,197,0
+2024-25,15,2025-04-05,Aston Villa,Nottingham Forest,EA SPORTS FC 25,2024-09-20,197,0
+2024-25,15,2025-04-06,Brentford,Chelsea,EA SPORTS FC 25,2024-09-20,198,0
+2024-25,15,2025-04-06,Fulham,Liverpool,EA SPORTS FC 25,2024-09-20,198,0
+2024-25,15,2025-04-06,Tottenham,Southampton,EA SPORTS FC 25,2024-09-20,198,0
+2024-25,15,2025-04-06,Manchester United,Manchester City,EA SPORTS FC 25,2024-09-20,198,0
+2024-25,15,2025-04-07,Leicester City,Newcastle United,EA SPORTS FC 25,2024-09-20,199,0
+2024-25,15,2025-04-12,Southampton,Aston Villa,EA SPORTS FC 25,2024-09-20,204,0
+2024-25,15,2025-04-12,Nottingham Forest,Everton,EA SPORTS FC 25,2024-09-20,204,0
+2024-25,15,2025-04-12,Arsenal,Brentford,EA SPORTS FC 25,2024-09-20,204,0
+2024-25,15,2025-04-12,Manchester City,Crystal Palace,EA SPORTS FC 25,2024-09-20,204,0
+2024-25,15,2025-04-12,Brighton and Hove Albion,Leicester City,EA SPORTS FC 25,2024-09-20,204,0
+2024-25,15,2025-04-13,Chelsea,Ipswich Town,EA SPORTS FC 25,2024-09-20,205,0
+2024-25,15,2025-04-13,Liverpool,West Ham United,EA SPORTS FC 25,2024-09-20,205,0
+2024-25,15,2025-04-13,Wolverhampton Wanderers,Tottenham,EA SPORTS FC 25,2024-09-20,205,0
+2024-25,15,2025-04-13,Newcastle United,Manchester United,EA SPORTS FC 25,2024-09-20,205,0
+2024-25,15,2025-04-14,Bournemouth,Fulham,EA SPORTS FC 25,2024-09-20,206,0
+2024-25,15,2025-04-16,Newcastle United,Crystal Palace,EA SPORTS FC 25,2024-09-20,208,0
+2024-25,15,2025-04-19,Brentford,Brighton and Hove Albion,EA SPORTS FC 25,2024-09-20,211,0
+2024-25,15,2025-04-19,Crystal Palace,Bournemouth,EA SPORTS FC 25,2024-09-20,211,0
+2024-25,15,2025-04-19,Everton,Manchester City,EA SPORTS FC 25,2024-09-20,211,0
+2024-25,15,2025-04-19,West Ham United,Southampton,EA SPORTS FC 25,2024-09-20,211,0
+2024-25,15,2025-04-19,Aston Villa,Newcastle United,EA SPORTS FC 25,2024-09-20,211,0
+2024-25,15,2025-04-20,Leicester City,Liverpool,EA SPORTS FC 25,2024-09-20,212,0
+2024-25,15,2025-04-20,Manchester United,Wolverhampton Wanderers,EA SPORTS FC 25,2024-09-20,212,0
+2024-25,15,2025-04-20,Fulham,Chelsea,EA SPORTS FC 25,2024-09-20,212,0
+2024-25,15,2025-04-20,Ipswich Town,Arsenal,EA SPORTS FC 25,2024-09-20,212,0
+2024-25,15,2025-04-21,Tottenham,Nottingham Forest,EA SPORTS FC 25,2024-09-20,213,0
+2024-25,15,2025-04-22,Manchester City,Aston Villa,EA SPORTS FC 25,2024-09-20,214,0
+2024-25,15,2025-04-23,Arsenal,Crystal Palace,EA SPORTS FC 25,2024-09-20,215,0
+2024-25,15,2025-04-26,Chelsea,Everton,EA SPORTS FC 25,2024-09-20,218,0
+2024-25,15,2025-04-26,Brighton and Hove Albion,West Ham United,EA SPORTS FC 25,2024-09-20,218,0
+2024-25,15,2025-04-26,Newcastle United,Ipswich Town,EA SPORTS FC 25,2024-09-20,218,0
+2024-25,15,2025-04-26,Southampton,Fulham,EA SPORTS FC 25,2024-09-20,218,0
+2024-25,15,2025-04-26,Wolverhampton Wanderers,Leicester City,EA SPORTS FC 25,2024-09-20,218,0
+2024-25,15,2025-04-27,Bournemouth,Manchester United,EA SPORTS FC 25,2024-09-20,219,0
+2024-25,15,2025-04-27,Liverpool,Tottenham,EA SPORTS FC 25,2024-09-20,219,0
+2024-25,15,2025-05-01,Nottingham Forest,Brentford,EA SPORTS FC 25,2024-09-20,223,0
+2024-25,15,2025-05-02,Manchester City,Wolverhampton Wanderers,EA SPORTS FC 25,2024-09-20,224,0
+2024-25,15,2025-05-03,Arsenal,Bournemouth,EA SPORTS FC 25,2024-09-20,225,0
+2024-25,15,2025-05-03,Leicester City,Southampton,EA SPORTS FC 25,2024-09-20,225,0
+2024-25,15,2025-05-03,Aston Villa,Fulham,EA SPORTS FC 25,2024-09-20,225,0
+2024-25,15,2025-05-03,Everton,Ipswich Town,EA SPORTS FC 25,2024-09-20,225,0
+2024-25,15,2025-05-04,Brentford,Manchester United,EA SPORTS FC 25,2024-09-20,226,0
+2024-25,15,2025-05-04,Brighton and Hove Albion,Newcastle United,EA SPORTS FC 25,2024-09-20,226,0
+2024-25,15,2025-05-04,West Ham United,Tottenham,EA SPORTS FC 25,2024-09-20,226,0
+2024-25,15,2025-05-04,Chelsea,Liverpool,EA SPORTS FC 25,2024-09-20,226,0
+2024-25,15,2025-05-05,Crystal Palace,Nottingham Forest,EA SPORTS FC 25,2024-09-20,227,0
+2024-25,15,2025-05-10,Fulham,Everton,EA SPORTS FC 25,2024-09-20,232,0
+2024-25,15,2025-05-10,Ipswich Town,Brentford,EA SPORTS FC 25,2024-09-20,232,0
+2024-25,15,2025-05-10,Southampton,Manchester City,EA SPORTS FC 25,2024-09-20,232,0
+2024-25,15,2025-05-10,Wolverhampton Wanderers,Brighton and Hove Albion,EA SPORTS FC 25,2024-09-20,232,0
+2024-25,15,2025-05-10,Bournemouth,Aston Villa,EA SPORTS FC 25,2024-09-20,232,0
+2024-25,15,2025-05-11,Liverpool,Arsenal,EA SPORTS FC 25,2024-09-20,233,0
+2024-25,15,2025-05-11,Tottenham,Crystal Palace,EA SPORTS FC 25,2024-09-20,233,0
+2024-25,15,2025-05-11,Newcastle United,Chelsea,EA SPORTS FC 25,2024-09-20,233,0
+2024-25,15,2025-05-11,Manchester United,West Ham United,EA SPORTS FC 25,2024-09-20,233,0
+2024-25,15,2025-05-11,Nottingham Forest,Leicester City,EA SPORTS FC 25,2024-09-20,233,0
+2024-25,15,2025-05-16,Aston Villa,Tottenham,EA SPORTS FC 25,2024-09-20,238,0
+2024-25,15,2025-05-16,Chelsea,Manchester United,EA SPORTS FC 25,2024-09-20,238,0
+2024-25,15,2025-05-18,Arsenal,Newcastle United,EA SPORTS FC 25,2024-09-20,240,0
+2024-25,15,2025-05-18,Everton,Southampton,EA SPORTS FC 25,2024-09-20,240,0
+2024-25,15,2025-05-18,West Ham United,Nottingham Forest,EA SPORTS FC 25,2024-09-20,240,0
+2024-25,15,2025-05-18,Brentford,Fulham,EA SPORTS FC 25,2024-09-20,240,0
+2024-25,15,2025-05-18,Leicester City,Ipswich Town,EA SPORTS FC 25,2024-09-20,240,0
+2024-25,15,2025-05-19,Brighton and Hove Albion,Liverpool,EA SPORTS FC 25,2024-09-20,241,0
+2024-25,15,2025-05-20,Manchester City,Bournemouth,EA SPORTS FC 25,2024-09-20,242,0
+2024-25,15,2025-05-20,Crystal Palace,Wolverhampton Wanderers,EA SPORTS FC 25,2024-09-20,242,0
+2024-25,15,2025-05-25,Wolverhampton Wanderers,Brentford,EA SPORTS FC 25,2024-09-20,247,0
+2024-25,15,2025-05-25,Tottenham,Brighton and Hove Albion,EA SPORTS FC 25,2024-09-20,247,0
+2024-25,15,2025-05-25,Nottingham Forest,Chelsea,EA SPORTS FC 25,2024-09-20,247,0
+2024-25,15,2025-05-25,Southampton,Arsenal,EA SPORTS FC 25,2024-09-20,247,0
+2024-25,15,2025-05-25,Newcastle United,Everton,EA SPORTS FC 25,2024-09-20,247,0
+2024-25,15,2025-05-25,Fulham,Manchester City,EA SPORTS FC 25,2024-09-20,247,0
+2024-25,15,2025-05-25,Liverpool,Crystal Palace,EA SPORTS FC 25,2024-09-20,247,0
+2024-25,15,2025-05-25,Ipswich Town,West Ham United,EA SPORTS FC 25,2024-09-20,247,0
+2024-25,15,2025-05-25,Bournemouth,Leicester City,EA SPORTS FC 25,2024-09-20,247,0
+2024-25,15,2025-05-25,Manchester United,Aston Villa,EA SPORTS FC 25,2024-09-20,247,0
+2025-26,15,2025-08-15,Liverpool,Bournemouth,EA SPORTS FC 25,2024-09-20,329,1
+2025-26,15,2025-08-16,Tottenham,Burnley,EA SPORTS FC 25,2024-09-20,330,1
+2025-26,15,2025-08-16,Sunderland,West Ham United,EA SPORTS FC 25,2024-09-20,330,1
+2025-26,15,2025-08-16,Wolverhampton Wanderers,Manchester City,EA SPORTS FC 25,2024-09-20,330,1
+2025-26,15,2025-08-16,Aston Villa,Newcastle United,EA SPORTS FC 25,2024-09-20,330,1
+2025-26,15,2025-08-16,Brighton and Hove Albion,Fulham,EA SPORTS FC 25,2024-09-20,330,1
+2025-26,15,2025-08-17,Chelsea,Crystal Palace,EA SPORTS FC 25,2024-09-20,331,1
+2025-26,15,2025-08-17,Nottingham Forest,Brentford,EA SPORTS FC 25,2024-09-20,331,1
+2025-26,15,2025-08-17,Manchester United,Arsenal,EA SPORTS FC 25,2024-09-20,331,1
+2025-26,15,2025-08-18,Leeds United,Everton,EA SPORTS FC 25,2024-09-20,332,1
+2025-26,15,2025-08-22,West Ham United,Chelsea,EA SPORTS FC 25,2024-09-20,336,1
+2025-26,15,2025-08-23,Burnley,Sunderland,EA SPORTS FC 25,2024-09-20,337,1
+2025-26,15,2025-08-23,Manchester City,Tottenham,EA SPORTS FC 25,2024-09-20,337,1
+2025-26,15,2025-08-23,Bournemouth,Wolverhampton Wanderers,EA SPORTS FC 25,2024-09-20,337,1
+2025-26,15,2025-08-23,Brentford,Aston Villa,EA SPORTS FC 25,2024-09-20,337,1
+2025-26,15,2025-08-23,Arsenal,Leeds United,EA SPORTS FC 25,2024-09-20,337,1
+2025-26,15,2025-08-24,Everton,Brighton and Hove Albion,EA SPORTS FC 25,2024-09-20,338,1
+2025-26,15,2025-08-24,Crystal Palace,Nottingham Forest,EA SPORTS FC 25,2024-09-20,338,1
+2025-26,15,2025-08-24,Fulham,Manchester United,EA SPORTS FC 25,2024-09-20,338,1
+2025-26,15,2025-08-25,Newcastle United,Liverpool,EA SPORTS FC 25,2024-09-20,339,1
+2025-26,15,2025-08-30,Chelsea,Fulham,EA SPORTS FC 25,2024-09-20,344,1
+2025-26,15,2025-08-30,Manchester United,Burnley,EA SPORTS FC 25,2024-09-20,344,1
+2025-26,15,2025-08-30,Sunderland,Brentford,EA SPORTS FC 25,2024-09-20,344,1
+2025-26,15,2025-08-30,Tottenham,Bournemouth,EA SPORTS FC 25,2024-09-20,344,1
+2025-26,15,2025-08-30,Wolverhampton Wanderers,Everton,EA SPORTS FC 25,2024-09-20,344,1
+2025-26,15,2025-08-30,Leeds United,Newcastle United,EA SPORTS FC 25,2024-09-20,344,1
+2025-26,15,2025-08-31,Brighton and Hove Albion,Manchester City,EA SPORTS FC 25,2024-09-20,345,1
+2025-26,15,2025-08-31,Nottingham Forest,West Ham United,EA SPORTS FC 25,2024-09-20,345,1
+2025-26,15,2025-08-31,Liverpool,Arsenal,EA SPORTS FC 25,2024-09-20,345,1
+2025-26,15,2025-08-31,Aston Villa,Crystal Palace,EA SPORTS FC 25,2024-09-20,345,1
+2025-26,15,2025-09-13,Brentford,Chelsea,EA SPORTS FC 25,2024-09-20,358,1
+2025-26,15,2025-09-13,West Ham United,Tottenham,EA SPORTS FC 25,2024-09-20,358,1
+2025-26,15,2025-09-13,Newcastle United,Wolverhampton Wanderers,EA SPORTS FC 25,2024-09-20,358,1
+2025-26,15,2025-09-13,Fulham,Leeds United,EA SPORTS FC 25,2024-09-20,358,1
+2025-26,15,2025-09-13,Everton,Aston Villa,EA SPORTS FC 25,2024-09-20,358,1
+2025-26,15,2025-09-13,Crystal Palace,Sunderland,EA SPORTS FC 25,2024-09-20,358,1
+2025-26,15,2025-09-13,Bournemouth,Brighton and Hove Albion,EA SPORTS FC 25,2024-09-20,358,1
+2025-26,15,2025-09-13,Arsenal,Nottingham Forest,EA SPORTS FC 25,2024-09-20,358,1
+2025-26,15,2025-09-14,Burnley,Liverpool,EA SPORTS FC 25,2024-09-20,359,1
+2025-26,15,2025-09-14,Manchester City,Manchester United,EA SPORTS FC 25,2024-09-20,359,1
+2025-26,15,2025-09-20,Liverpool,Everton,EA SPORTS FC 26,2025-09-19,1,0
+2025-26,15,2025-09-20,Brighton and Hove Albion,Tottenham,EA SPORTS FC 26,2025-09-19,1,0
+2025-26,15,2025-09-20,Burnley,Nottingham Forest,EA SPORTS FC 26,2025-09-19,1,0
+2025-26,15,2025-09-20,West Ham United,Crystal Palace,EA SPORTS FC 26,2025-09-19,1,0
+2025-26,15,2025-09-20,Wolverhampton Wanderers,Leeds United,EA SPORTS FC 26,2025-09-19,1,0
+2025-26,15,2025-09-20,Manchester United,Chelsea,EA SPORTS FC 26,2025-09-19,1,0
+2025-26,15,2025-09-20,Fulham,Brentford,EA SPORTS FC 26,2025-09-19,1,0
+2025-26,15,2025-09-21,Arsenal,Manchester City,EA SPORTS FC 26,2025-09-19,2,0
+2025-26,15,2025-09-21,Sunderland,Aston Villa,EA SPORTS FC 26,2025-09-19,2,0
+2025-26,15,2025-09-21,Bournemouth,Newcastle United,EA SPORTS FC 26,2025-09-19,2,0
+2025-26,15,2025-09-27,Brentford,Manchester United,EA SPORTS FC 26,2025-09-19,8,0
+2025-26,15,2025-09-27,Chelsea,Brighton and Hove Albion,EA SPORTS FC 26,2025-09-19,8,0
+2025-26,15,2025-09-27,Crystal Palace,Liverpool,EA SPORTS FC 26,2025-09-19,8,0
+2025-26,15,2025-09-27,Leeds United,Bournemouth,EA SPORTS FC 26,2025-09-19,8,0
+2025-26,15,2025-09-27,Manchester City,Burnley,EA SPORTS FC 26,2025-09-19,8,0
+2025-26,15,2025-09-27,Nottingham Forest,Sunderland,EA SPORTS FC 26,2025-09-19,8,0
+2025-26,15,2025-09-27,Tottenham,Wolverhampton Wanderers,EA SPORTS FC 26,2025-09-19,8,0
+2025-26,15,2025-09-28,Aston Villa,Fulham,EA SPORTS FC 26,2025-09-19,9,0
+2025-26,15,2025-09-28,Newcastle United,Arsenal,EA SPORTS FC 26,2025-09-19,9,0
+2025-26,15,2025-09-29,Everton,West Ham United,EA SPORTS FC 26,2025-09-19,10,0
+2025-26,15,2025-10-03,Bournemouth,Fulham,EA SPORTS FC 26,2025-09-19,14,0
+2025-26,15,2025-10-04,Chelsea,Liverpool,EA SPORTS FC 26,2025-09-19,15,0
+2025-26,15,2025-10-04,Manchester United,Sunderland,EA SPORTS FC 26,2025-09-19,15,0
+2025-26,15,2025-10-04,Leeds United,Tottenham,EA SPORTS FC 26,2025-09-19,15,0
+2025-26,15,2025-10-04,Arsenal,West Ham United,EA SPORTS FC 26,2025-09-19,15,0
+2025-26,15,2025-10-05,Aston Villa,Burnley,EA SPORTS FC 26,2025-09-19,16,0
+2025-26,15,2025-10-05,Everton,Crystal Palace,EA SPORTS FC 26,2025-09-19,16,0
+2025-26,15,2025-10-05,Newcastle United,Nottingham Forest,EA SPORTS FC 26,2025-09-19,16,0
+2025-26,15,2025-10-05,Wolverhampton Wanderers,Brighton and Hove Albion,EA SPORTS FC 26,2025-09-19,16,0
+2025-26,15,2025-10-05,Brentford,Manchester City,EA SPORTS FC 26,2025-09-19,16,0
+2025-26,15,2025-10-18,Fulham,Arsenal,EA SPORTS FC 26,2025-09-19,29,0
+2025-26,15,2025-10-18,Nottingham Forest,Chelsea,EA SPORTS FC 26,2025-09-19,29,0
+2025-26,15,2025-10-18,Brighton and Hove Albion,Newcastle United,EA SPORTS FC 26,2025-09-19,29,0
+2025-26,15,2025-10-18,Burnley,Leeds United,EA SPORTS FC 26,2025-09-19,29,0
+2025-26,15,2025-10-18,Crystal Palace,Bournemouth,EA SPORTS FC 26,2025-09-19,29,0
+2025-26,15,2025-10-18,Manchester City,Everton,EA SPORTS FC 26,2025-09-19,29,0
+2025-26,15,2025-10-18,Sunderland,Wolverhampton Wanderers,EA SPORTS FC 26,2025-09-19,29,0
+2025-26,15,2025-10-19,Liverpool,Manchester United,EA SPORTS FC 26,2025-09-19,30,0
+2025-26,15,2025-10-19,Tottenham,Aston Villa,EA SPORTS FC 26,2025-09-19,30,0
+2025-26,15,2025-10-20,West Ham United,Brentford,EA SPORTS FC 26,2025-09-19,31,0
+2025-26,15,2025-10-24,Leeds United,West Ham United,EA SPORTS FC 26,2025-09-19,35,0
+2025-26,15,2025-10-25,Chelsea,Sunderland,EA SPORTS FC 26,2025-09-19,36,0
+2025-26,15,2025-10-25,Newcastle United,Fulham,EA SPORTS FC 26,2025-09-19,36,0
+2025-26,15,2025-10-25,Manchester United,Brighton and Hove Albion,EA SPORTS FC 26,2025-09-19,36,0
+2025-26,15,2025-10-25,Brentford,Liverpool,EA SPORTS FC 26,2025-09-19,36,0
+2025-26,15,2025-10-26,Arsenal,Crystal Palace,EA SPORTS FC 26,2025-09-19,37,0
+2025-26,15,2025-10-26,Aston Villa,Manchester City,EA SPORTS FC 26,2025-09-19,37,0
+2025-26,15,2025-10-26,Bournemouth,Nottingham Forest,EA SPORTS FC 26,2025-09-19,37,0
+2025-26,15,2025-10-26,Wolverhampton Wanderers,Burnley,EA SPORTS FC 26,2025-09-19,37,0
+2025-26,15,2025-10-26,Everton,Tottenham,EA SPORTS FC 26,2025-09-19,37,0
+2025-26,15,2025-11-01,Liverpool,Aston Villa,EA SPORTS FC 26,2025-09-19,43,0
+2025-26,15,2025-11-01,Tottenham,Chelsea,EA SPORTS FC 26,2025-09-19,43,0
+2025-26,15,2025-11-01,Nottingham Forest,Manchester United,EA SPORTS FC 26,2025-09-19,43,0
+2025-26,15,2025-11-01,Crystal Palace,Brentford,EA SPORTS FC 26,2025-09-19,43,0
+2025-26,15,2025-11-01,Burnley,Arsenal,EA SPORTS FC 26,2025-09-19,43,0
+2025-26,15,2025-11-01,Brighton and Hove Albion,Leeds United,EA SPORTS FC 26,2025-09-19,43,0
+2025-26,15,2025-11-01,Fulham,Wolverhampton Wanderers,EA SPORTS FC 26,2025-09-19,43,0
+2025-26,15,2025-11-02,West Ham United,Newcastle United,EA SPORTS FC 26,2025-09-19,44,0
+2025-26,15,2025-11-02,Manchester City,Bournemouth,EA SPORTS FC 26,2025-09-19,44,0
+2025-26,15,2025-11-03,Sunderland,Everton,EA SPORTS FC 26,2025-09-19,45,0
+2025-26,15,2025-11-08,Tottenham,Manchester United,EA SPORTS FC 26,2025-09-19,50,0
+2025-26,15,2025-11-08,Everton,Fulham,EA SPORTS FC 26,2025-09-19,50,0
+2025-26,15,2025-11-08,West Ham United,Burnley,EA SPORTS FC 26,2025-09-19,50,0
+2025-26,15,2025-11-08,Sunderland,Arsenal,EA SPORTS FC 26,2025-09-19,50,0
+2025-26,15,2025-11-08,Chelsea,Wolverhampton Wanderers,EA SPORTS FC 26,2025-09-19,50,0
+2025-26,15,2025-11-09,Manchester City,Liverpool,EA SPORTS FC 26,2025-09-19,51,0
+2025-26,15,2025-11-09,Nottingham Forest,Leeds United,EA SPORTS FC 26,2025-09-19,51,0
+2025-26,15,2025-11-09,Brentford,Newcastle United,EA SPORTS FC 26,2025-09-19,51,0
+2025-26,15,2025-11-09,Aston Villa,Bournemouth,EA SPORTS FC 26,2025-09-19,51,0
+2025-26,15,2025-11-09,Crystal Palace,Brighton and Hove Albion,EA SPORTS FC 26,2025-09-19,51,0
+2025-26,15,2025-11-22,Burnley,Chelsea,EA SPORTS FC 26,2025-09-19,64,0
+2025-26,15,2025-11-22,Bournemouth,West Ham United,EA SPORTS FC 26,2025-09-19,64,0
+2025-26,15,2025-11-22,Brighton and Hove Albion,Brentford,EA SPORTS FC 26,2025-09-19,64,0
+2025-26,15,2025-11-22,Fulham,Sunderland,EA SPORTS FC 26,2025-09-19,64,0
+2025-26,15,2025-11-22,Liverpool,Nottingham Forest,EA SPORTS FC 26,2025-09-19,64,0
+2025-26,15,2025-11-22,Wolverhampton Wanderers,Crystal Palace,EA SPORTS FC 26,2025-09-19,64,0
+2025-26,15,2025-11-22,Newcastle United,Manchester City,EA SPORTS FC 26,2025-09-19,64,0
+2025-26,15,2025-11-23,Leeds United,Aston Villa,EA SPORTS FC 26,2025-09-19,65,0
+2025-26,15,2025-11-23,Arsenal,Tottenham,EA SPORTS FC 26,2025-09-19,65,0
+2025-26,15,2025-11-24,Manchester United,Everton,EA SPORTS FC 26,2025-09-19,66,0
+2025-26,15,2025-11-29,Manchester City,Leeds United,EA SPORTS FC 26,2025-09-19,71,0
+2025-26,15,2025-11-29,Tottenham,Fulham,EA SPORTS FC 26,2025-09-19,71,0
+2025-26,15,2025-11-29,Everton,Newcastle United,EA SPORTS FC 26,2025-09-19,71,0
+2025-26,15,2025-11-29,Brentford,Burnley,EA SPORTS FC 26,2025-09-19,71,0
+2025-26,15,2025-11-29,Sunderland,Bournemouth,EA SPORTS FC 26,2025-09-19,71,0
+2025-26,15,2025-11-30,Crystal Palace,Manchester United,EA SPORTS FC 26,2025-09-19,72,0
+2025-26,15,2025-11-30,Aston Villa,Wolverhampton Wanderers,EA SPORTS FC 26,2025-09-19,72,0
+2025-26,15,2025-11-30,Nottingham Forest,Brighton and Hove Albion,EA SPORTS FC 26,2025-09-19,72,0
+2025-26,15,2025-11-30,West Ham United,Liverpool,EA SPORTS FC 26,2025-09-19,72,0
+2025-26,15,2025-11-30,Chelsea,Arsenal,EA SPORTS FC 26,2025-09-19,72,0
+2025-26,15,2025-12-02,Fulham,Manchester City,EA SPORTS FC 26,2025-09-19,74,0
+2025-26,15,2025-12-02,Bournemouth,Everton,EA SPORTS FC 26,2025-09-19,74,0
+2025-26,15,2025-12-02,Newcastle United,Tottenham,EA SPORTS FC 26,2025-09-19,74,0
+2025-26,15,2025-12-03,Leeds United,Chelsea,EA SPORTS FC 26,2025-09-19,75,0
+2025-26,15,2025-12-03,Wolverhampton Wanderers,Nottingham Forest,EA SPORTS FC 26,2025-09-19,75,0
+2025-26,15,2025-12-03,Liverpool,Sunderland,EA SPORTS FC 26,2025-09-19,75,0
+2025-26,15,2025-12-03,Brighton and Hove Albion,Aston Villa,EA SPORTS FC 26,2025-09-19,75,0
+2025-26,15,2025-12-03,Arsenal,Brentford,EA SPORTS FC 26,2025-09-19,75,0
+2025-26,15,2025-12-03,Burnley,Crystal Palace,EA SPORTS FC 26,2025-09-19,75,0
+2025-26,15,2025-12-04,Manchester United,West Ham United,EA SPORTS FC 26,2025-09-19,76,0
+2025-26,15,2025-12-06,Aston Villa,Arsenal,EA SPORTS FC 26,2025-09-19,78,0
+2025-26,15,2025-12-06,Bournemouth,Chelsea,EA SPORTS FC 26,2025-09-19,78,0
+2025-26,15,2025-12-06,Everton,Nottingham Forest,EA SPORTS FC 26,2025-09-19,78,0
+2025-26,15,2025-12-06,Manchester City,Sunderland,EA SPORTS FC 26,2025-09-19,78,0
+2025-26,15,2025-12-06,Newcastle United,Burnley,EA SPORTS FC 26,2025-09-19,78,0
+2025-26,15,2025-12-06,Tottenham,Brentford,EA SPORTS FC 26,2025-09-19,78,0
+2025-26,15,2025-12-06,Leeds United,Liverpool,EA SPORTS FC 26,2025-09-19,78,0
+2025-26,15,2025-12-07,Brighton and Hove Albion,West Ham United,EA SPORTS FC 26,2025-09-19,79,0
+2025-26,15,2025-12-07,Fulham,Crystal Palace,EA SPORTS FC 26,2025-09-19,79,0
+2025-26,15,2025-12-08,Wolverhampton Wanderers,Manchester United,EA SPORTS FC 26,2025-09-19,80,0
+2025-26,15,2025-12-13,Chelsea,Everton,EA SPORTS FC 26,2025-09-19,85,0
+2025-26,15,2025-12-13,Liverpool,Brighton and Hove Albion,EA SPORTS FC 26,2025-09-19,85,0
+2025-26,15,2025-12-13,Burnley,Fulham,EA SPORTS FC 26,2025-09-19,85,0
+2025-26,15,2025-12-13,Arsenal,Wolverhampton Wanderers,EA SPORTS FC 26,2025-09-19,85,0
+2025-26,15,2025-12-14,Crystal Palace,Manchester City,EA SPORTS FC 26,2025-09-19,86,0
+2025-26,15,2025-12-14,Nottingham Forest,Tottenham,EA SPORTS FC 26,2025-09-19,86,0
+2025-26,15,2025-12-14,Sunderland,Newcastle United,EA SPORTS FC 26,2025-09-19,86,0
+2025-26,15,2025-12-14,West Ham United,Aston Villa,EA SPORTS FC 26,2025-09-19,86,0
+2025-26,15,2025-12-14,Brentford,Leeds United,EA SPORTS FC 26,2025-09-19,86,0
+2025-26,15,2025-12-15,Manchester United,Bournemouth,EA SPORTS FC 26,2025-09-19,87,0
+2025-26,15,2025-12-20,Leeds United,Crystal Palace,EA SPORTS FC 26,2025-09-19,92,0
+2025-26,15,2025-12-20,Tottenham,Liverpool,EA SPORTS FC 26,2025-09-19,92,0
+2025-26,15,2025-12-20,Wolverhampton Wanderers,Brentford,EA SPORTS FC 26,2025-09-19,92,0
+2025-26,15,2025-12-20,Everton,Arsenal,EA SPORTS FC 26,2025-09-19,92,0
+2025-26,15,2025-12-20,Brighton and Hove Albion,Sunderland,EA SPORTS FC 26,2025-09-19,92,0
+2025-26,15,2025-12-20,Bournemouth,Burnley,EA SPORTS FC 26,2025-09-19,92,0
+2025-26,15,2025-12-20,Newcastle United,Chelsea,EA SPORTS FC 26,2025-09-19,92,0
+2025-26,15,2025-12-20,Manchester City,West Ham United,EA SPORTS FC 26,2025-09-19,92,0
+2025-26,15,2025-12-21,Aston Villa,Manchester United,EA SPORTS FC 26,2025-09-19,93,0
+2025-26,15,2025-12-22,Fulham,Nottingham Forest,EA SPORTS FC 26,2025-09-19,94,0
+2025-26,15,2025-12-26,Manchester United,Newcastle United,EA SPORTS FC 26,2025-09-19,98,0
+2025-26,15,2025-12-27,Chelsea,Aston Villa,EA SPORTS FC 26,2025-09-19,99,0
+2025-26,15,2025-12-27,West Ham United,Fulham,EA SPORTS FC 26,2025-09-19,99,0
+2025-26,15,2025-12-27,Liverpool,Wolverhampton Wanderers,EA SPORTS FC 26,2025-09-19,99,0
+2025-26,15,2025-12-27,Brentford,Bournemouth,EA SPORTS FC 26,2025-09-19,99,0
+2025-26,15,2025-12-27,Arsenal,Brighton and Hove Albion,EA SPORTS FC 26,2025-09-19,99,0
+2025-26,15,2025-12-27,Nottingham Forest,Manchester City,EA SPORTS FC 26,2025-09-19,99,0
+2025-26,15,2025-12-27,Burnley,Everton,EA SPORTS FC 26,2025-09-19,99,0
+2025-26,15,2025-12-28,Sunderland,Leeds United,EA SPORTS FC 26,2025-09-19,100,0
+2025-26,15,2025-12-28,Crystal Palace,Tottenham,EA SPORTS FC 26,2025-09-19,100,0
+2025-26,15,2025-12-30,Arsenal,Aston Villa,EA SPORTS FC 26,2025-09-19,102,0
+2025-26,15,2025-12-30,Manchester United,Wolverhampton Wanderers,EA SPORTS FC 26,2025-09-19,102,0
+2025-26,15,2025-12-30,West Ham United,Brighton and Hove Albion,EA SPORTS FC 26,2025-09-19,102,0
+2025-26,15,2025-12-30,Burnley,Newcastle United,EA SPORTS FC 26,2025-09-19,102,0
+2025-26,15,2025-12-30,Chelsea,Bournemouth,EA SPORTS FC 26,2025-09-19,102,0
+2025-26,15,2025-12-30,Nottingham Forest,Everton,EA SPORTS FC 26,2025-09-19,102,0
+2025-26,15,2026-01-01,Crystal Palace,Fulham,EA SPORTS FC 26,2025-09-19,104,0
+2025-26,15,2026-01-01,Liverpool,Leeds United,EA SPORTS FC 26,2025-09-19,104,0
+2025-26,15,2026-01-01,Brentford,Tottenham,EA SPORTS FC 26,2025-09-19,104,0
+2025-26,15,2026-01-01,Sunderland,Manchester City,EA SPORTS FC 26,2025-09-19,104,0
+2025-26,15,2026-01-03,Aston Villa,Nottingham Forest,EA SPORTS FC 26,2025-09-19,106,0
+2025-26,15,2026-01-03,Brighton and Hove Albion,Burnley,EA SPORTS FC 26,2025-09-19,106,0
+2025-26,15,2026-01-03,Wolverhampton Wanderers,West Ham United,EA SPORTS FC 26,2025-09-19,106,0
+2025-26,15,2026-01-03,Bournemouth,Arsenal,EA SPORTS FC 26,2025-09-19,106,0
+2025-26,15,2026-01-04,Manchester City,Chelsea,EA SPORTS FC 26,2025-09-19,107,0
+2025-26,15,2026-01-04,Fulham,Liverpool,EA SPORTS FC 26,2025-09-19,107,0
+2025-26,15,2026-01-04,Tottenham,Sunderland,EA SPORTS FC 26,2025-09-19,107,0
+2025-26,15,2026-01-04,Everton,Brentford,EA SPORTS FC 26,2025-09-19,107,0
+2025-26,15,2026-01-04,Leeds United,Manchester United,EA SPORTS FC 26,2025-09-19,107,0
+2025-26,15,2026-01-04,Newcastle United,Crystal Palace,EA SPORTS FC 26,2025-09-19,107,0
+2025-26,15,2026-01-06,West Ham United,Nottingham Forest,EA SPORTS FC 26,2025-09-19,109,0
+2025-26,15,2026-01-07,Bournemouth,Tottenham,EA SPORTS FC 26,2025-09-19,110,0
+2025-26,15,2026-01-07,Brentford,Sunderland,EA SPORTS FC 26,2025-09-19,110,0
+2025-26,15,2026-01-07,Crystal Palace,Aston Villa,EA SPORTS FC 26,2025-09-19,110,0
+2025-26,15,2026-01-07,Everton,Wolverhampton Wanderers,EA SPORTS FC 26,2025-09-19,110,0
+2025-26,15,2026-01-07,Fulham,Chelsea,EA SPORTS FC 26,2025-09-19,110,0
+2025-26,15,2026-01-07,Manchester City,Brighton and Hove Albion,EA SPORTS FC 26,2025-09-19,110,0
+2025-26,15,2026-01-07,Burnley,Manchester United,EA SPORTS FC 26,2025-09-19,110,0
+2025-26,15,2026-01-07,Newcastle United,Leeds United,EA SPORTS FC 26,2025-09-19,110,0
+2025-26,15,2026-01-08,Arsenal,Liverpool,EA SPORTS FC 26,2025-09-19,111,0
+2025-26,15,2026-01-17,Nottingham Forest,Arsenal,EA SPORTS FC 26,2025-09-19,120,0
+2025-26,15,2026-01-17,Tottenham,West Ham United,EA SPORTS FC 26,2025-09-19,120,0
+2025-26,15,2026-01-17,Sunderland,Crystal Palace,EA SPORTS FC 26,2025-09-19,120,0
+2025-26,15,2026-01-17,Liverpool,Burnley,EA SPORTS FC 26,2025-09-19,120,0
+2025-26,15,2026-01-17,Chelsea,Brentford,EA SPORTS FC 26,2025-09-19,120,0
+2025-26,15,2026-01-17,Manchester United,Manchester City,EA SPORTS FC 26,2025-09-19,120,0
+2025-26,15,2026-01-17,Leeds United,Fulham,EA SPORTS FC 26,2025-09-19,120,0
+2025-26,15,2026-01-18,Wolverhampton Wanderers,Newcastle United,EA SPORTS FC 26,2025-09-19,121,0
+2025-26,15,2026-01-18,Aston Villa,Everton,EA SPORTS FC 26,2025-09-19,121,0
+2025-26,15,2026-01-19,Brighton and Hove Albion,Bournemouth,EA SPORTS FC 26,2025-09-19,122,0
+2025-26,15,2026-01-24,West Ham United,Sunderland,EA SPORTS FC 26,2025-09-19,127,0
+2025-26,15,2026-01-24,Burnley,Tottenham,EA SPORTS FC 26,2025-09-19,127,0
+2025-26,15,2026-01-24,Fulham,Brighton and Hove Albion,EA SPORTS FC 26,2025-09-19,127,0
+2025-26,15,2026-01-24,Manchester City,Wolverhampton Wanderers,EA SPORTS FC 26,2025-09-19,127,0
+2025-26,15,2026-01-24,Bournemouth,Liverpool,EA SPORTS FC 26,2025-09-19,127,0
+2025-26,15,2026-01-25,Newcastle United,Aston Villa,EA SPORTS FC 26,2025-09-19,128,0
+2025-26,15,2026-01-25,Arsenal,Manchester United,EA SPORTS FC 26,2025-09-19,128,0
+2025-26,15,2026-01-25,Crystal Palace,Chelsea,EA SPORTS FC 26,2025-09-19,128,0
+2025-26,15,2026-01-25,Brentford,Nottingham Forest,EA SPORTS FC 26,2025-09-19,128,0
+2025-26,15,2026-01-26,Everton,Leeds United,EA SPORTS FC 26,2025-09-19,129,0
+2025-26,15,2026-01-31,Brighton and Hove Albion,Everton,EA SPORTS FC 26,2025-09-19,134,0
+2025-26,15,2026-01-31,Leeds United,Arsenal,EA SPORTS FC 26,2025-09-19,134,0
+2025-26,15,2026-01-31,Wolverhampton Wanderers,Bournemouth,EA SPORTS FC 26,2025-09-19,134,0
+2025-26,15,2026-01-31,Chelsea,West Ham United,EA SPORTS FC 26,2025-09-19,134,0
+2025-26,15,2026-01-31,Liverpool,Newcastle United,EA SPORTS FC 26,2025-09-19,134,0
+2025-26,15,2026-02-01,Aston Villa,Brentford,EA SPORTS FC 26,2025-09-19,135,0
+2025-26,15,2026-02-01,Manchester United,Fulham,EA SPORTS FC 26,2025-09-19,135,0
+2025-26,15,2026-02-01,Nottingham Forest,Crystal Palace,EA SPORTS FC 26,2025-09-19,135,0
+2025-26,15,2026-02-01,Tottenham,Manchester City,EA SPORTS FC 26,2025-09-19,135,0
+2025-26,15,2026-02-02,Sunderland,Burnley,EA SPORTS FC 26,2025-09-19,136,0
+2025-26,15,2026-02-06,Leeds United,Nottingham Forest,EA SPORTS FC 26,2025-09-19,140,0
+2025-26,15,2026-02-07,Newcastle United,Brentford,EA SPORTS FC 26,2025-09-19,141,0
+2025-26,15,2026-02-07,Wolverhampton Wanderers,Chelsea,EA SPORTS FC 26,2025-09-19,141,0
+2025-26,15,2026-02-07,Fulham,Everton,EA SPORTS FC 26,2025-09-19,141,0
+2025-26,15,2026-02-07,Manchester United,Tottenham,EA SPORTS FC 26,2025-09-19,141,0
+2025-26,15,2026-02-07,Bournemouth,Aston Villa,EA SPORTS FC 26,2025-09-19,141,0
+2025-26,15,2026-02-07,Arsenal,Sunderland,EA SPORTS FC 26,2025-09-19,141,0
+2025-26,15,2026-02-07,Burnley,West Ham United,EA SPORTS FC 26,2025-09-19,141,0
+2025-26,15,2026-02-08,Brighton and Hove Albion,Crystal Palace,EA SPORTS FC 26,2025-09-19,142,0
+2025-26,15,2026-02-08,Liverpool,Manchester City,EA SPORTS FC 26,2025-09-19,142,0
+2025-26,15,2026-02-10,Tottenham,Newcastle United,EA SPORTS FC 26,2025-09-19,144,0
+2025-26,15,2026-02-10,Chelsea,Leeds United,EA SPORTS FC 26,2025-09-19,144,0
+2025-26,15,2026-02-10,Everton,Bournemouth,EA SPORTS FC 26,2025-09-19,144,0
+2025-26,15,2026-02-10,West Ham United,Manchester United,EA SPORTS FC 26,2025-09-19,144,0
+2025-26,15,2026-02-11,Sunderland,Liverpool,EA SPORTS FC 26,2025-09-19,145,0
+2025-26,15,2026-02-11,Nottingham Forest,Wolverhampton Wanderers,EA SPORTS FC 26,2025-09-19,145,0
+2025-26,15,2026-02-11,Aston Villa,Brighton and Hove Albion,EA SPORTS FC 26,2025-09-19,145,0
+2025-26,15,2026-02-11,Crystal Palace,Burnley,EA SPORTS FC 26,2025-09-19,145,0
+2025-26,15,2026-02-11,Manchester City,Fulham,EA SPORTS FC 26,2025-09-19,145,0
+2025-26,15,2026-02-12,Brentford,Arsenal,EA SPORTS FC 26,2025-09-19,146,0
+2025-26,15,2026-02-18,Wolverhampton Wanderers,Arsenal,EA SPORTS FC 26,2025-09-19,152,0
+2025-26,15,2026-02-21,Aston Villa,Leeds United,EA SPORTS FC 26,2025-09-19,155,0
+2025-26,15,2026-02-21,Brentford,Brighton and Hove Albion,EA SPORTS FC 26,2025-09-19,155,0
+2025-26,15,2026-02-21,Chelsea,Burnley,EA SPORTS FC 26,2025-09-19,155,0
+2025-26,15,2026-02-21,West Ham United,Bournemouth,EA SPORTS FC 26,2025-09-19,155,0
+2025-26,15,2026-02-21,Manchester City,Newcastle United,EA SPORTS FC 26,2025-09-19,155,0
+2025-26,15,2026-02-22,Crystal Palace,Wolverhampton Wanderers,EA SPORTS FC 26,2025-09-19,156,0
+2025-26,15,2026-02-22,Nottingham Forest,Liverpool,EA SPORTS FC 26,2025-09-19,156,0
+2025-26,15,2026-02-22,Sunderland,Fulham,EA SPORTS FC 26,2025-09-19,156,0
+2025-26,15,2026-02-22,Tottenham,Arsenal,EA SPORTS FC 26,2025-09-19,156,0
+2025-26,15,2026-02-23,Everton,Manchester United,EA SPORTS FC 26,2025-09-19,157,0
+2025-26,15,2026-02-27,Wolverhampton Wanderers,Aston Villa,EA SPORTS FC 26,2025-09-19,161,0
+2025-26,15,2026-02-28,Leeds United,Manchester City,EA SPORTS FC 26,2025-09-19,162,0
+2025-26,15,2026-02-28,Newcastle United,Everton,EA SPORTS FC 26,2025-09-19,162,0
+2025-26,15,2026-02-28,Bournemouth,Sunderland,EA SPORTS FC 26,2025-09-19,162,0
+2025-26,15,2026-02-28,Burnley,Brentford,EA SPORTS FC 26,2025-09-19,162,0
+2025-26,15,2026-02-28,Liverpool,West Ham United,EA SPORTS FC 26,2025-09-19,162,0
+2025-26,15,2026-03-01,Brighton and Hove Albion,Nottingham Forest,EA SPORTS FC 26,2025-09-19,163,0
+2025-26,15,2026-03-01,Fulham,Tottenham,EA SPORTS FC 26,2025-09-19,163,0
+2025-26,15,2026-03-01,Manchester United,Crystal Palace,EA SPORTS FC 26,2025-09-19,163,0
+2025-26,15,2026-03-01,Arsenal,Chelsea,EA SPORTS FC 26,2025-09-19,163,0
+2025-26,15,2026-03-03,Bournemouth,Brentford,EA SPORTS FC 26,2025-09-19,165,0
+2025-26,15,2026-03-03,Everton,Burnley,EA SPORTS FC 26,2025-09-19,165,0
+2025-26,15,2026-03-03,Leeds United,Sunderland,EA SPORTS FC 26,2025-09-19,165,0
+2025-26,15,2026-03-03,Wolverhampton Wanderers,Liverpool,EA SPORTS FC 26,2025-09-19,165,0
+2025-26,15,2026-03-04,Newcastle United,Manchester United,EA SPORTS FC 26,2025-09-19,166,0
+2025-26,15,2026-03-04,Manchester City,Nottingham Forest,EA SPORTS FC 26,2025-09-19,166,0
+2025-26,15,2026-03-04,Fulham,West Ham United,EA SPORTS FC 26,2025-09-19,166,0
+2025-26,15,2026-03-04,Brighton and Hove Albion,Arsenal,EA SPORTS FC 26,2025-09-19,166,0
+2025-26,15,2026-03-04,Aston Villa,Chelsea,EA SPORTS FC 26,2025-09-19,166,0
+2025-26,15,2026-03-05,Tottenham,Crystal Palace,EA SPORTS FC 26,2025-09-19,167,0
+2025-26,15,2026-03-14,Burnley,Bournemouth,EA SPORTS FC 26,2025-09-19,176,0
+2025-26,15,2026-03-14,Sunderland,Brighton and Hove Albion,EA SPORTS FC 26,2025-09-19,176,0
+2025-26,15,2026-03-14,Arsenal,Everton,EA SPORTS FC 26,2025-09-19,176,0
+2025-26,15,2026-03-14,Chelsea,Newcastle United,EA SPORTS FC 26,2025-09-19,176,0
+2025-26,15,2026-03-14,West Ham United,Manchester City,EA SPORTS FC 26,2025-09-19,176,0
+2025-26,15,2026-03-15,Crystal Palace,Leeds United,EA SPORTS FC 26,2025-09-19,177,0
+2025-26,15,2026-03-15,Manchester United,Aston Villa,EA SPORTS FC 26,2025-09-19,177,0
+2025-26,15,2026-03-15,Nottingham Forest,Fulham,EA SPORTS FC 26,2025-09-19,177,0
+2025-26,15,2026-03-15,Liverpool,Tottenham,EA SPORTS FC 26,2025-09-19,177,0
+2025-26,15,2026-03-16,Brentford,Wolverhampton Wanderers,EA SPORTS FC 26,2025-09-19,178,0
+2025-26,15,2026-03-20,Bournemouth,Manchester United,EA SPORTS FC 26,2025-09-19,182,0
+2025-26,15,2026-03-21,Brighton and Hove Albion,Liverpool,EA SPORTS FC 26,2025-09-19,183,0
+2025-26,15,2026-03-21,Fulham,Burnley,EA SPORTS FC 26,2025-09-19,183,0
+2025-26,15,2026-03-21,Everton,Chelsea,EA SPORTS FC 26,2025-09-19,183,0
+2025-26,15,2026-03-21,Leeds United,Brentford,EA SPORTS FC 26,2025-09-19,183,0
+2025-26,15,2026-03-22,Newcastle United,Sunderland,EA SPORTS FC 26,2025-09-19,184,0
+2025-26,15,2026-03-22,Aston Villa,West Ham United,EA SPORTS FC 26,2025-09-19,184,0
+2025-26,15,2026-03-22,Tottenham,Nottingham Forest,EA SPORTS FC 26,2025-09-19,184,0
+2025-26,15,2026-04-10,West Ham United,Wolverhampton Wanderers,EA SPORTS FC 26,2025-09-19,203,0
+2025-26,15,2026-04-11,Arsenal,Bournemouth,EA SPORTS FC 26,2025-09-19,204,0
+2025-26,15,2026-04-11,Brentford,Everton,EA SPORTS FC 26,2025-09-19,204,0
+2025-26,15,2026-04-11,Burnley,Brighton and Hove Albion,EA SPORTS FC 26,2025-09-19,204,0
+2025-26,15,2026-04-11,Liverpool,Fulham,EA SPORTS FC 26,2025-09-19,204,0
+2025-26,15,2026-04-12,Chelsea,Manchester City,EA SPORTS FC 26,2025-09-19,205,0
+2025-26,15,2026-04-12,Sunderland,Tottenham,EA SPORTS FC 26,2025-09-19,205,0
+2025-26,15,2026-04-12,Nottingham Forest,Aston Villa,EA SPORTS FC 26,2025-09-19,205,0
+2025-26,15,2026-04-12,Crystal Palace,Newcastle United,EA SPORTS FC 26,2025-09-19,205,0
+2025-26,15,2026-04-13,Manchester United,Leeds United,EA SPORTS FC 26,2025-09-19,206,0
+2025-26,15,2026-04-18,Brentford,Fulham,EA SPORTS FC 26,2025-09-19,211,0
+2025-26,15,2026-04-18,Leeds United,Wolverhampton Wanderers,EA SPORTS FC 26,2025-09-19,211,0
+2025-26,15,2026-04-18,Newcastle United,Bournemouth,EA SPORTS FC 26,2025-09-19,211,0
+2025-26,15,2026-04-18,Tottenham,Brighton and Hove Albion,EA SPORTS FC 26,2025-09-19,211,0
+2025-26,15,2026-04-18,Chelsea,Manchester United,EA SPORTS FC 26,2025-09-19,211,0
+2025-26,15,2026-04-19,Aston Villa,Sunderland,EA SPORTS FC 26,2025-09-19,212,0
+2025-26,15,2026-04-19,Everton,Liverpool,EA SPORTS FC 26,2025-09-19,212,0
+2025-26,15,2026-04-19,Nottingham Forest,Burnley,EA SPORTS FC 26,2025-09-19,212,0
+2025-26,15,2026-04-19,Manchester City,Arsenal,EA SPORTS FC 26,2025-09-19,212,0
+2025-26,15,2026-04-20,Crystal Palace,West Ham United,EA SPORTS FC 26,2025-09-19,213,0
+2025-26,15,2026-04-21,Brighton and Hove Albion,Chelsea,EA SPORTS FC 26,2025-09-19,214,0
+2025-26,15,2026-04-22,Burnley,Manchester City,EA SPORTS FC 26,2025-09-19,215,0
+2025-26,15,2026-04-22,Bournemouth,Leeds United,EA SPORTS FC 26,2025-09-19,215,0
+2025-26,15,2026-04-24,Sunderland,Nottingham Forest,EA SPORTS FC 26,2025-09-19,217,0
+2025-26,15,2026-04-25,Fulham,Aston Villa,EA SPORTS FC 26,2025-09-19,218,0
+2025-26,15,2026-04-25,Liverpool,Crystal Palace,EA SPORTS FC 26,2025-09-19,218,0
+2025-26,15,2026-04-25,West Ham United,Everton,EA SPORTS FC 26,2025-09-19,218,0
+2025-26,15,2026-04-25,Wolverhampton Wanderers,Tottenham,EA SPORTS FC 26,2025-09-19,218,0
+2025-26,15,2026-04-25,Arsenal,Newcastle United,EA SPORTS FC 26,2025-09-19,218,0
+2025-26,15,2026-04-27,Manchester United,Brentford,EA SPORTS FC 26,2025-09-19,220,0
+2025-26,15,2026-05-01,Leeds United,Burnley,EA SPORTS FC 26,2025-09-19,224,0
+2025-26,15,2026-05-02,Brentford,West Ham United,EA SPORTS FC 26,2025-09-19,225,0
+2025-26,15,2026-05-02,Newcastle United,Brighton and Hove Albion,EA SPORTS FC 26,2025-09-19,225,0
+2025-26,15,2026-05-02,Wolverhampton Wanderers,Sunderland,EA SPORTS FC 26,2025-09-19,225,0
+2025-26,15,2026-05-02,Arsenal,Fulham,EA SPORTS FC 26,2025-09-19,225,0
+2025-26,15,2026-05-03,Aston Villa,Tottenham,EA SPORTS FC 26,2025-09-19,226,0
+2025-26,15,2026-05-03,Manchester United,Liverpool,EA SPORTS FC 26,2025-09-19,226,0
+2025-26,15,2026-05-03,Bournemouth,Crystal Palace,EA SPORTS FC 26,2025-09-19,226,0
+2025-26,15,2026-05-04,Chelsea,Nottingham Forest,EA SPORTS FC 26,2025-09-19,227,0
+2025-26,15,2026-05-04,Everton,Manchester City,EA SPORTS FC 26,2025-09-19,227,0
+2025-26,15,2026-05-09,Liverpool,Chelsea,EA SPORTS FC 26,2025-09-19,232,0
+2025-26,15,2026-05-09,Brighton and Hove Albion,Wolverhampton Wanderers,EA SPORTS FC 26,2025-09-19,232,0
+2025-26,15,2026-05-09,Fulham,Bournemouth,EA SPORTS FC 26,2025-09-19,232,0
+2025-26,15,2026-05-09,Sunderland,Manchester United,EA SPORTS FC 26,2025-09-19,232,0
+2025-26,15,2026-05-09,Manchester City,Brentford,EA SPORTS FC 26,2025-09-19,232,0
+2025-26,15,2026-05-10,Nottingham Forest,Newcastle United,EA SPORTS FC 26,2025-09-19,233,0
+2025-26,15,2026-05-10,Burnley,Aston Villa,EA SPORTS FC 26,2025-09-19,233,0
+2025-26,15,2026-05-10,Crystal Palace,Everton,EA SPORTS FC 26,2025-09-19,233,0
+2025-26,15,2026-05-10,West Ham United,Arsenal,EA SPORTS FC 26,2025-09-19,233,0
+2025-26,15,2026-05-11,Tottenham,Leeds United,EA SPORTS FC 26,2025-09-19,234,0
+2025-26,15,2026-05-13,Manchester City,Crystal Palace,EA SPORTS FC 26,2025-09-19,236,0
+2025-26,15,2026-05-15,Aston Villa,Liverpool,EA SPORTS FC 26,2025-09-19,238,0
+2025-26,15,2026-05-17,Manchester United,Nottingham Forest,EA SPORTS FC 26,2025-09-19,240,0
+2025-26,15,2026-05-17,Brentford,Crystal Palace,EA SPORTS FC 26,2025-09-19,240,0
+2025-26,15,2026-05-17,Everton,Sunderland,EA SPORTS FC 26,2025-09-19,240,0
+2025-26,15,2026-05-17,Leeds United,Brighton and Hove Albion,EA SPORTS FC 26,2025-09-19,240,0
+2025-26,15,2026-05-17,Wolverhampton Wanderers,Fulham,EA SPORTS FC 26,2025-09-19,240,0
+2025-26,15,2026-05-17,Newcastle United,West Ham United,EA SPORTS FC 26,2025-09-19,240,0
+2025-26,15,2026-05-18,Arsenal,Burnley,EA SPORTS FC 26,2025-09-19,241,0
+2025-26,15,2026-05-19,Chelsea,Tottenham,EA SPORTS FC 26,2025-09-19,242,0
+2025-26,15,2026-05-19,Bournemouth,Manchester City,EA SPORTS FC 26,2025-09-19,242,0
+2025-26,15,2026-05-24,Nottingham Forest,Bournemouth,EA SPORTS FC 26,2025-09-19,247,0
+2025-26,15,2026-05-24,Manchester City,Aston Villa,EA SPORTS FC 26,2025-09-19,247,0
+2025-26,15,2026-05-24,Sunderland,Chelsea,EA SPORTS FC 26,2025-09-19,247,0
+2025-26,15,2026-05-24,Liverpool,Brentford,EA SPORTS FC 26,2025-09-19,247,0
+2025-26,15,2026-05-24,Tottenham,Everton,EA SPORTS FC 26,2025-09-19,247,0
+2025-26,15,2026-05-24,Crystal Palace,Arsenal,EA SPORTS FC 26,2025-09-19,247,0
+2025-26,15,2026-05-24,Burnley,Wolverhampton Wanderers,EA SPORTS FC 26,2025-09-19,247,0
+2025-26,15,2026-05-24,Brighton and Hove Albion,Manchester United,EA SPORTS FC 26,2025-09-19,247,0
+2025-26,15,2026-05-24,Fulham,Newcastle United,EA SPORTS FC 26,2025-09-19,247,0
+2025-26,15,2026-05-24,West Ham United,Leeds United,EA SPORTS FC 26,2025-09-19,247,0

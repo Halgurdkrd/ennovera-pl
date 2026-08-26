@@ -26,6 +26,7 @@ TEAM_ALIASES = {
     # --- FPL API spellings ---
     'Man Utd': 'Manchester United',
     'Spurs': 'Tottenham',
+    'Sheffield Utd': 'Sheffield United',
     'Coventry City': 'Coventry City',
     'Hull City': 'Hull City',
     'Ipswich Town': 'Ipswich Town',

@@ -1,0 +1,6 @@
+feature_group,val_ll,hold_ll,hold_acc,delta_ll,status
+Full Tactical T5 Model,0.99342,1.0289,48.68,0.0,BEST COMPOSITE
+Remove PPDA Pressing Intensity,0.9942,1.0296,48.42,0.0007,VALUABLE SIGNAL
+Remove Deep Box Penetration,0.9941,1.0295,48.42,0.0006,VALUABLE SIGNAL
+Remove Matchup Interactions,0.9945,1.0298,48.42,0.0009,VALUABLE SIGNAL
+Remove All Tactical Features (PQ7 Base),0.99467,1.03019,48.42,0.00129,BASELINE

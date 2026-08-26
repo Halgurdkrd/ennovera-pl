@@ -1,0 +1,3 @@
+experiment,actual_net_gain,mean_random_gain,p_value_above_random,conclusion
+Tactical Overrides vs Random,-9,-9.0,1.0,Random Error Diversity
+HybridRaw Overrides vs Random,-5,-5.0,1.0,Random Error Diversity

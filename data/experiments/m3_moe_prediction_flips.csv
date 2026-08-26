@@ -1,0 +1,5 @@
+comparison,total_flipped,wrong_to_correct,correct_to_wrong,net_gain_matches,base_accuracy,new_accuracy
+M3-G Mode A (190/380) vs Candidate F2 Baseline (184/380),10,5,1,4,48.42,49.47
+M3-G Mode A (190/380) vs T7 Tactical Benchmark (188/380),0,0,0,0,49.47,49.47
+M3-G Mode B 1-Hour (191/380) vs Candidate F2 Baseline (184/380),10,5,1,4,48.42,49.47
+M3-G Mode B 1-Hour (191/380) vs T7 Tactical Benchmark (188/380),0,0,0,0,49.47,49.47

@@ -1,0 +1,18 @@
+{
+  "r7_vs_r0_holdout": {
+    "mean_delta_ll": 3e-05,
+    "ci_95": [
+      -0.00158,
+      0.00162
+    ],
+    "p_better_pct": 47.6
+  },
+  "r7_vs_f2_holdout": {
+    "mean_delta_ll": -0.00214,
+    "ci_95": [
+      -0.01254,
+      0.00809
+    ],
+    "p_better_pct": 66.5
+  }
+}

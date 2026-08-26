@@ -1,0 +1,135 @@
+season,gw,player_out,player_in,transfer_cost,predicted_gain,actual_out_pts,actual_in_pts
+2022-23,3,Zidane Iqbal,Harrison Reed,0,2.42,0,2
+2022-23,4,Adrián San Miguel del Castillo,Danny Ward,0,5.91,0,1
+2022-23,5,Junior Stanislas,Josh Dasilva,0,3.39,0,1
+2022-23,6,Kevin Mbabu,Lewis Dunk,0,10.58,1,1
+2022-23,8,Jan Bednarek,Jonathan Castro Otto,0,10.38,0,1
+2022-23,9,Josh Dasilva,Sean Longstaff,0,3.06,1,7
+2022-23,13,Michail Antonio,Gianluca Scamacca,0,6.27,1,2
+2022-23,14,Jannik Vestergaard,Neco Williams,0,6.66,0,1
+2022-23,15,Jonathan Castro Otto,Timothy Castagne,0,9.86,0,6
+2022-23,16,Richie Laryea,Wout Faes,0,9.51,0,6
+2022-23,17,Neco Williams,Hugo Bueno López,0,1.57,1,1
+2022-23,18,Gianluca Scamacca,Che Adams,0,6.01,2,5
+2022-23,19,Harrison Reed,Kiernan Dewsbury-Hall,0,7.67,3,0
+2022-23,21,Kiernan Dewsbury-Hall,Carlos Henrique Casimiro,0,12.21,2,0
+2022-23,22,Carlos Henrique Casimiro,Leon Bailey,0,6.61,0,2
+2022-23,23,Hugo Bueno López,Renan Augusto Lodi dos Santos,0,7.71,1,1
+2022-23,24,Che Adams,Brennan Johnson,0,10.21,0,2
+2022-23,25,Jamie Vardy,Eddie Nketiah,0,16.18,1,1
+2022-23,26,Leon Bailey,Solly March,0,12.74,1,3
+2022-23,27,Thiago Emiliano da Silva,Trent Alexander-Arnold,0,17.17,0,2
+2022-23,28,Eddie Nketiah,Bryan Mbeumo,0,9.35,0,2
+2022-23,29,Danny Ward,Emiliano Martínez Romero,0,12.36,0,3
+2022-23,30,Marcos Senesi,Alexandre Moreno Lopera,0,5.89,0,5
+2022-23,31,Bryan Mbeumo,Dominic Solanke,0,12.13,2,15
+2022-23,33,Brennan Johnson,Bryan Mbeumo,0,1.86,0,6
+2022-23,35,James Ward-Prowse,Eberechi Eze,0,7.74,13,2
+2022-23,36,Benjamin White,Pervis Estupiñán,0,8.59,1,0
+2022-23,37,Gabriel Martinelli Silva,Morgan Gibbs-White,0,12.0,0,5
+2022-23,38,Alexandre Moreno Lopera,Ben Mee,0,7.58,0,6
+2023-24,2,Igor Julio dos Santos de Paulo,Aaron Wan-Bissaka,0,8.13,0,1
+2023-24,3,Bruno Cavaco Jordão,Ethan Brierley,0,3.26,0,0
+2023-24,4,Dwight McNeil,Carlos Henrique Casimiro,0,12.45,1,2
+2023-24,5,Ethan Brierley,Marvelous Nakamba,0,3.69,0,2
+2023-24,6,Bénie Traoré,Lyle Foster,0,6.74,1,0
+2023-24,7,Lyle Foster,Jacob Brown,0,4.49,9,1
+2023-24,8,Aaron Wan-Bissaka,Levi Colwill,0,13.73,0,2
+2023-24,9,Ben Mee,Dan Burn,0,14.25,0,6
+2023-24,10,Carlos Henrique Casimiro,Douglas Luiz Soares de Paulo,0,13.3,0,7
+2023-24,11,Eberechi Eze,Cole Palmer,0,15.29,4,12
+2023-24,12,Jacob Brown,Dominic Calvert-Lewin,0,9.36,0,2
+2023-24,13,Levi Colwill,Konstantinos Tsimikas,0,10.71,0,2
+2023-24,14,Dan Burn,Harry Maguire,0,10.28,0,1
+2023-24,15,Marvelous Nakamba,Jefferson Lerma Solís,0,9.12,0,2
+2023-24,16,Matty Cash,Diogo Dalot Teixeira,0,10.96,1,1
+2023-24,17,Alisson Ramses Becker,Jordan Pickford,0,8.1,6,6
+2023-24,18,Joel Ward,Pedro Porro,0,11.15,0,2
+2023-24,19,Harry Maguire,Jarrad Branthwaite,0,10.06,0,0
+2023-24,20,Konstantinos Tsimikas,Marcos Senesi,0,13.64,0,0
+2023-24,21,Jarrad Branthwaite,Yerson Mosquera,0,6.54,6,0
+2023-24,22,Jefferson Lerma Solís,Keane Lewis-Potter,0,6.8,1,2
+2023-24,23,Yerson Mosquera,Craig Dawson,0,11.65,0,1
+2023-24,24,Mohamed Salah,Bukayo Saka,0,20.83,0,15
+2023-24,25,Keane Lewis-Potter,Richarlison de Andrade,0,20.69,1,2
+2023-24,26,Craig Dawson,Benjamin White,0,7.37,7,2
+2023-24,27,Diogo Dalot Teixeira,Rúben Gato Alves Dias,0,6.3,1,2
+2023-24,28,Marcos Senesi,Jakub Kiwior,0,11.14,0,2
+2023-24,30,Clément Lenglet,Jakub Kiwior,0,6.87,0,6
+2023-24,31,Matty Cash,Manuel Akanji,0,8.94,0,2
+2023-24,32,Reece Burke,Tosin Adarabioyo,0,7.51,2,2
+2023-24,33,Jakub Kiwior,Jan Paul van Hecke,0,5.73,0,2
+2023-24,34,Alphonse Areola,Bart Verbruggen,0,9.36,0,0
+2023-24,35,Douglas Luiz Soares de Paulo,Andreas Hoelgebaum Pereira,0,14.6,1,3
+2023-24,36,Anthony Elanga,Ben Brereton,0,12.45,2,8
+2023-24,37,Jan Paul van Hecke,Chris Richards,0,7.95,0,2
+2023-24,38,Mads Roerslev Rasmussen,Takehiro Tomiyasu,0,13.19,1,9
+2024-25,4,Sean Longstaff,Ismeal Kabia,0,5.76,1,0
+2024-25,6,Ismeal Kabia,Flynn Downes,0,5.97,0,1
+2024-25,7,Martin Ødegaard,James Maddison,0,17.28,0,10
+2024-25,8,Ben Brereton Díaz,Adama Traoré,0,12.78,0,2
+2024-25,9,Manuel Akanji,Gabriel dos Santos Magalhães,0,9.6,6,1
+2024-25,11,James Maddison,Jarrod Bowen,0,11.67,1,3
+2024-25,12,Adama Traoré,Facundo Buonanotte,0,10.79,1,0
+2024-25,13,Flynn Downes,Carlos Henrique Casimiro,0,2.34,6,3
+2024-25,14,Facundo Buonanotte,Mikkel Damsgaard,0,4.31,3,9
+2024-25,15,Carlos Henrique Casimiro,Pape Matar Sarr,0,3.1,0,1
+2024-25,16,Gabriel dos Santos Magalhães,William Saliba,0,16.64,9,6
+2024-25,17,Mikkel Damsgaard,Enzo Fernández,0,10.03,1,3
+2024-25,18,Brennan Johnson,Justin Kluivert,0,14.21,2,2
+2024-25,19,Leif Davis,Lewis Hall,0,8.62,5,12
+2024-25,20,Pape Matar Sarr,Jacob Murphy,0,9.34,2,5
+2024-25,21,Justin Kluivert,Ismaïla Sarr,0,9.49,8,6
+2024-25,22,Jarrod Bowen,Amad Diallo,0,12.71,0,2
+2024-25,23,Enzo Fernández,Morgan Gibbs-White,0,6.6,2,2
+2024-25,24,Jacob Murphy,Dango Ouattara,0,6.87,8,2
+2024-25,25,Lewis Hall,Maxence Lacroix,0,5.66,0,1
+2024-25,26,Nicolas Jackson,Jean-Philippe Mateta,0,19.85,0,5
+2024-25,27,Amad Diallo,Yankuba Minteh,0,12.61,0,2
+2024-25,28,André Onana,David Raya Martin,0,6.19,3,3
+2024-25,29,Dango Ouattara,Enzo Fernández,0,6.81,1,2
+2024-25,30,Neco Williams,Daniel Muñoz,0,6.43,5,2
+2024-25,31,Yankuba Minteh,Ismaïla Sarr,0,18.27,5,2
+2024-25,32,Chris Wood,Francisco Evanilson de Lima Barbosa,0,14.82,2,2
+2024-25,33,Erling Haaland,Omar Marmoush,0,17.52,0,2
+2024-25,35,Matz Sels,Robert Sánchez,0,2.22,1,2
+2024-25,36,Ibrahima Konaté,Joško Gvardiol,0,8.91,1,6
+2024-25,37,Jørgen Strand Larsen,Yoane Wissa,0,13.05,11,10
+2024-25,38,Enzo Fernández,Kevin De Bruyne,0,12.38,3,1
+2025-26,2,Filip Jörgensen,Marco Bizot,0,10.18,0,0
+2025-26,3,Ilia Gruev,Anton Stach,0,7.12,3,3
+2025-26,4,Joško Gvardiol,Daniel Muñoz Mejía,0,12.87,6,5
+2025-26,5,Yoane Wissa,Jean-Philippe Mateta,0,15.13,0,6
+2025-26,6,Marco Bizot,Đorđe Petrović,0,10.8,0,3
+2025-26,7,Cole Palmer,Bruno Borges Fernandes,0,21.89,0,3
+2025-26,8,Fabian Schär,Jurriën Timber,0,13.51,0,6
+2025-26,9,Ezri Konsa Ngoyo,Nico O'Reilly,0,8.43,8,1
+2025-26,10,Anton Stach,Brenden Aaronson,0,9.44,1,2
+2025-26,11,Chris Wood,Igor Thiago Nascimento Rodrigues,0,15.71,0,13
+2025-26,12,Norberto Bercique Gomes Betuncal,Jørgen Strand Larsen,0,5.87,1,2
+2025-26,13,Đorđe Petrović,Bart Verbruggen,0,2.34,2,7
+2025-26,14,Brenden Aaronson,Marcus Tavernier,0,9.35,0,1
+2025-26,15,Ismaïla Sarr,Mikel Merino Zazón,0,9.73,0,1
+2025-26,16,Jørgen Strand Larsen,Dominic Calvert-Lewin,0,4.81,2,9
+2025-26,17,Kevin Schade,Enzo Fernández,0,12.38,3,1
+2025-26,18,Daniel Muñoz Mejía,Joško Gvardiol,0,17.42,0,8
+2025-26,19,Mikel Merino Zazón,Kevin Schade,0,14.0,2,3
+2025-26,20,Mohamed Salah,Matheus Santos Carneiro da Cunha,0,19.57,0,9
+2025-26,21,Bruno Borges Fernandes,Morgan Rogers,0,16.52,7,3
+2025-26,22,Marc Cucurella Saseta,Keane Lewis-Potter,0,13.07,5,1
+2025-26,23,Joško Gvardiol,Gabriel dos Santos Magalhães,0,15.32,0,1
+2025-26,24,Nico O'Reilly,James Tarkowski,0,10.44,1,2
+2025-26,25,Keane Lewis-Potter,William Saliba,0,13.57,1,7
+2025-26,26,Marcus Tavernier,Bruno Borges Fernandes,0,19.32,0,2
+2025-26,27,Jean-Philippe Mateta,Hugo Ekitiké,0,17.6,0,2
+2025-26,28,Kevin Schade,Ismaïla Sarr,0,15.99,7,2
+2025-26,29,Matty Cash,Nico O'Reilly,0,7.28,-1,0
+2025-26,30,Bart Verbruggen,Mads Hermansen,0,6.99,7,3
+2025-26,31,Emiliano Martínez Romero,Đorđe Petrović,0,4.8,6,2
+2025-26,32,Hugo Ekitiké,João Pedro Junqueira de Jesus,0,16.95,0,2
+2025-26,33,Enzo Fernández,Marcus Tavernier,0,12.02,2,2
+2025-26,34,James Tarkowski,Sepp van den Berg,0,2.32,3,0
+2025-26,35,Dominic Solanke-Mitchell,Dominic Calvert-Lewin,0,8.34,0,6
+2025-26,36,Mads Hermansen,David Raya Martín,0,6.06,2,9
+2025-26,37,Morgan Gibbs-White,Jack Hinshelwood,0,10.77,7,3
+2025-26,38,Mohamed Salah,Cole Palmer,0,13.43,6,8

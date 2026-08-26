@@ -1,0 +1,12 @@
+{
+  "router_vs_m3_holdout_acc_delta": -0.0054,
+  "bootstrap_95_ci_acc": [
+    -0.0237,
+    0.0132
+  ],
+  "bootstrap_95_ci_ll": [
+    -0.0029,
+    0.0143
+  ],
+  "prob_router_better_or_equal": 32.4
+}

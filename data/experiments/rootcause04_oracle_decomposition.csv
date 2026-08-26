@@ -1,0 +1,5 @@
+system,correct_count,accuracy_pct,incremental_gain
+Baseline Reference (M3 Peak),189,49.74,0
+CORE-3 ORACLE (M3 + S2 + C-PLAYER),203,53.42,14
+CORE-4 ORACLE (+ C-TACTICAL),223,58.68,20
+CORE-5 ORACLE (+ C-HYBRID-RAW),240,63.16,17

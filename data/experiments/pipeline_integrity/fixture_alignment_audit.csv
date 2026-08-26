@@ -1,0 +1,2 @@
+total_master_rows,dev_rows_2022_24,val_rows_2024_25,holdout_rows_2025_26,unique_fixtures_holdout,duplicate_fixtures,missing_values_in_target,class_distribution_holdout
+1520,760,380,380,380,0,0,"{'Home_Wins_0': 162, 'Draws_1': 104, 'Away_Wins_2': 114}"

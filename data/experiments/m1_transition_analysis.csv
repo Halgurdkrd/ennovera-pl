@@ -1,0 +1,10 @@
+subgroup,match_count,f2_accuracy,m1_d_accuracy,f2_log_loss,m1_d_log_loss,delta_log_loss,m1_advantage
+Promoted Teams,121,76.86,76.86,0.72748,0.70383,-0.02365,M1-D BETTER
+Non-Promoted Teams,1399,50.32,50.11,1.01448,1.01341,-0.00107,M1-D BETTER
+High Squad Turnover (Cont < 0.75),53,79.25,79.25,0.65619,0.62522,-0.03097,M1-D BETTER
+Stable Squads (Cont >= 0.85),8,50.0,50.0,1.02804,1.02794,-0.0001,M1-D BETTER
+Mid Season (GW 6-28),1520,52.43,52.24,0.99163,0.98877,-0.00287,M1-D BETTER
+Large Elo Gap (|Elo Diff| > 250),184,72.83,72.83,0.78364,0.76709,-0.01655,M1-D BETTER
+Balanced Elo (|Elo Diff| <= 100),726,44.21,44.08,1.05805,1.05763,-0.00042,M1-D BETTER
+Actual Draw Matches,366,0.0,0.0,1.37635,1.38745,0.0111,F2 BETTER
+Actual Decisive Matches (H or A),1154,69.06,68.8,0.86962,0.86232,-0.0073,M1-D BETTER

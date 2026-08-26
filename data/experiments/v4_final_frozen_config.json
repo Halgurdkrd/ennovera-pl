@@ -1,0 +1,46 @@
+{
+  "model_version": "V4 (Dynamic Team State + Hybrid Score Model B7)",
+  "status": "FROZEN_RESEARCH_CANDIDATE",
+  "frozen_date": "2026-08-25",
+  "random_seed": 13,
+  "architecture": {
+    "type": "Hybrid Score Ensemble",
+    "base_model": "Walk-Forward V2 (M7 + Platt Calibration on S-1)",
+    "score_model": "Dynamic Exponential Team State Bivariate Poisson",
+    "blend_weight_score": 0.0928,
+    "blend_formula": "P_v4 = 0.0928 * P_score + 0.9072 * P_v2"
+  },
+  "score_model_hyperparameters": {
+    "mu_league": 1.60,
+    "hfa_mult": 1.40,
+    "rho_dixon_coles": 0.0,
+    "decay_half_life_matches": 6.0,
+    "decay_lambda": 0.11552453,
+    "prior_weight_matches": 4.0,
+    "max_score_goals": 9
+  },
+  "squad_transition_rules": {
+    "minutes_turnover_weight": 0.5,
+    "creator_turnover_weight": 0.5,
+    "promoted_team_transition_index": 1.0,
+    "effective_prior_weight_formula": "max(0.5, 4.0 * (1.0 - 0.7 * tau))"
+  },
+  "uncertainty_rules": {
+    "initial_uncertainty_formula": "0.30 * (1.0 + 1.2 * tau)",
+    "match_decay_rate": 0.08,
+    "baseline_residual_uncertainty": 0.08,
+    "dynamic_uncertainty_formula": "unc = (0.30 * (1.0 + 1.2 * tau)) * exp(-0.08 * n_played) + 0.08"
+  },
+  "strong_picks_policy": {
+    "selected_on": "2024-25 Validation Split",
+    "primary_product_threshold": 0.60,
+    "all_evaluated_thresholds": [0.50, 0.55, 0.60, 0.65, 0.70]
+  },
+  "data_cutoffs": {
+    "2022-23": "Trained <= 2020-21, Calibrated 2021-22, Dynamic GW < N",
+    "2023-24": "Trained <= 2021-22, Calibrated 2022-23, Dynamic GW < N",
+    "2024-25": "Trained <= 2022-23, Calibrated 2023-24, Dynamic GW < N",
+    "2025-26": "Trained <= 2023-24, Calibrated 2024-25, Dynamic GW < N"
+  }
+}
+

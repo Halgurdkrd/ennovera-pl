@@ -1,0 +1,2 @@
+total_holdout_matches,oracle_correct_matches,oracle_accuracy_pct,theoretical_55pct_possible,theoretical_60pct_possible,routing_bottleneck_diagnosis
+380,191,50.26,YES (Oracle is 63.68%),YES (Oracle is 63.68%),Sufficient complementary signal exists across experts to theoretically reach 63.68%. Gating network precision is the true operational bottleneck.

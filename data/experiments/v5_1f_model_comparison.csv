@@ -1,0 +1,10 @@
+model,hist_dependence_pct,val_acc,val_ll,val_brier,val_draw_rec,hold_acc,hold_ll,hold_brier,hold_draw_rec,hold_sp_60_picks,hold_sp_60_acc,wilson_ci
+V5.1-F + Market Odds Fusion,40.0,51.58,0.99639,0.5955,0.0,48.42,1.02695,0.61633,0.0,71,70.42,"[np.float64(59.0), np.float64(79.8)]"
+Raw Elo Baseline,100.0,51.05,1.00277,0.60068,0.0,48.16,1.02979,0.619,0.0,67,67.16,"[np.float64(55.3), np.float64(77.2)]"
+Candidate F2 (Adaptive Base),80.0,50.79,1.00437,0.60171,0.0,48.68,1.03029,0.61934,0.0,49,67.35,"[np.float64(53.4), np.float64(78.8)]"
+V5.1-F Best Dynamic Hybrid,52.0,48.95,1.01363,0.60781,0.0,47.89,1.03636,0.62304,0.0,71,64.79,"[np.float64(53.2), np.float64(74.9)]"
+Regularized Multinomial ML,60.0,51.84,0.99646,0.59678,0.0,48.42,1.03826,0.62569,0.0,129,57.36,"[np.float64(48.7), np.float64(65.6)]"
+Random Forest ML,60.0,52.63,1.0093,0.60446,0.0,48.95,1.04504,0.6253,0.0,106,62.26,"[np.float64(52.8), np.float64(70.9)]"
+Pure Current-State (Zero Identity),0.0,40.79,1.07999,0.6567,0.0,42.63,1.08771,0.65839,0.0,0,0.0,"[0.0, 0.0]"
+HistGradientBoosting ML,60.0,50.0,1.05001,0.62385,7.53,47.37,1.09728,0.65262,6.73,174,58.05,"[np.float64(50.6), np.float64(65.1)]"
+Dynamic Poisson Score Model,35.0,40.79,1.12687,0.68638,0.0,42.63,1.10688,0.67307,0.0,0,0.0,"[0.0, 0.0]"

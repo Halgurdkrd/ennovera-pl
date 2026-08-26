@@ -1,0 +1,29 @@
+{
+  "canonical_model": "Candidate F2 (Adaptive Base with Club-Specific Continuity)",
+  "data_hash_source": "data/v5_features/m1_expected_xi_features.csv",
+  "seasons": {
+    "2022-23": {
+      "accuracy": 53.95,
+      "log_loss": 0.98105,
+      "brier": 0.5843
+    },
+    "2023-24": {
+      "accuracy": 56.05,
+      "log_loss": 0.9549,
+      "brier": 0.5651
+    },
+    "2024-25": {
+      "accuracy": 51.32,
+      "log_loss": 1.00326,
+      "brier": 0.6017
+    },
+    "2025-26": {
+      "accuracy": 48.42,
+      "log_loss": 1.02999,
+      "brier": 0.6192
+    }
+  },
+  "discrepancy_resolved": true,
+  "delta_matches": 1,
+  "root_cause": "Club-specific continuity (0.92/0.82/0.65) vs flat 0.85/0.65 scalar"
+}

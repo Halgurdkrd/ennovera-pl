@@ -1,0 +1,428 @@
+{
+  "seasons": {
+    "2022-23": {
+      "v4": {
+        "name": "V4 2022-23",
+        "n_matches": 380,
+        "acc": 199,
+        "acc_pct": 52.37,
+        "log_loss": 1.01192,
+        "brier": 0.60356,
+        "ece": 0.0311,
+        "draw_called": 24,
+        "draw_correct": 5,
+        "draw_total": 87,
+        "draw_recall_pct": 5.75
+      },
+      "v5_1": {
+        "name": "V5.1 2022-23",
+        "n_matches": 380,
+        "acc": 199,
+        "acc_pct": 52.37,
+        "log_loss": 1.00443,
+        "brier": 0.59871,
+        "ece": 0.0234,
+        "draw_called": 13,
+        "draw_correct": 2,
+        "draw_total": 87,
+        "draw_recall_pct": 2.3
+      },
+      "delta_acc": 0,
+      "delta_ll": -0.00749
+    },
+    "2023-24": {
+      "v4": {
+        "name": "V4 2023-24",
+        "n_matches": 380,
+        "acc": 215,
+        "acc_pct": 56.58,
+        "log_loss": 0.96198,
+        "brier": 0.56978,
+        "ece": 0.0612,
+        "draw_called": 0,
+        "draw_correct": 0,
+        "draw_total": 82,
+        "draw_recall_pct": 0.0
+      },
+      "v5_1": {
+        "name": "V5.1 2023-24",
+        "n_matches": 380,
+        "acc": 218,
+        "acc_pct": 57.37,
+        "log_loss": 0.95563,
+        "brier": 0.5653,
+        "ece": 0.0553,
+        "draw_called": 0,
+        "draw_correct": 0,
+        "draw_total": 82,
+        "draw_recall_pct": 0.0
+      },
+      "delta_acc": 3,
+      "delta_ll": -0.00635
+    },
+    "2024-25": {
+      "v4": {
+        "name": "V4 2024-25",
+        "n_matches": 380,
+        "acc": 200,
+        "acc_pct": 52.63,
+        "log_loss": 1.00484,
+        "brier": 0.6001,
+        "ece": 0.0238,
+        "draw_called": 0,
+        "draw_correct": 0,
+        "draw_total": 93,
+        "draw_recall_pct": 0.0
+      },
+      "v5_1": {
+        "name": "V5.1 2024-25",
+        "n_matches": 380,
+        "acc": 198,
+        "acc_pct": 52.11,
+        "log_loss": 1.0023,
+        "brier": 0.59893,
+        "ece": 0.032,
+        "draw_called": 0,
+        "draw_correct": 0,
+        "draw_total": 93,
+        "draw_recall_pct": 0.0
+      },
+      "delta_acc": -2,
+      "delta_ll": -0.00254
+    },
+    "2025-26": {
+      "v4": {
+        "name": "V4 2025-26",
+        "n_matches": 380,
+        "acc": 187,
+        "acc_pct": 49.21,
+        "log_loss": 1.03241,
+        "brier": 0.62162,
+        "ece": 0.0222,
+        "draw_called": 1,
+        "draw_correct": 0,
+        "draw_total": 104,
+        "draw_recall_pct": 0.0
+      },
+      "v5_1": {
+        "name": "V5.1 2025-26",
+        "n_matches": 380,
+        "acc": 188,
+        "acc_pct": 49.47,
+        "log_loss": 1.0308,
+        "brier": 0.62082,
+        "ece": 0.0268,
+        "draw_called": 0,
+        "draw_correct": 0,
+        "draw_total": 104,
+        "draw_recall_pct": 0.0
+      },
+      "delta_acc": 1,
+      "delta_ll": -0.00161
+    }
+  },
+  "pooled": {
+    "v2": {
+      "name": "V2 Pooled",
+      "n_matches": 1520,
+      "acc": 803,
+      "acc_pct": 52.83,
+      "log_loss": 1.00514,
+      "brier": 0.60023,
+      "ece": 0.0066,
+      "draw_called": 22,
+      "draw_correct": 5,
+      "draw_total": 366,
+      "draw_recall_pct": 1.37
+    },
+    "v4": {
+      "name": "V4 Pooled",
+      "n_matches": 1520,
+      "acc": 801,
+      "acc_pct": 52.7,
+      "log_loss": 1.00279,
+      "brier": 0.59877,
+      "ece": 0.0114,
+      "draw_called": 25,
+      "draw_correct": 5,
+      "draw_total": 366,
+      "draw_recall_pct": 1.37
+    },
+    "v5_1": {
+      "name": "V5.1 Pooled",
+      "n_matches": 1520,
+      "acc": 803,
+      "acc_pct": 52.83,
+      "log_loss": 0.99829,
+      "brier": 0.59594,
+      "ece": 0.0076,
+      "draw_called": 13,
+      "draw_correct": 2,
+      "draw_total": 366,
+      "draw_recall_pct": 0.55
+    },
+    "raw_elo": {
+      "name": "Raw Elo Pooled",
+      "n_matches": 1520,
+      "acc": 794,
+      "acc_pct": 52.24,
+      "log_loss": 0.99053,
+      "brier": 0.59123,
+      "ece": 0.0212,
+      "draw_called": 0,
+      "draw_correct": 0,
+      "draw_total": 366,
+      "draw_recall_pct": 0.0
+    },
+    "empirical_draw_elo": {
+      "name": "Empirical Elo Pooled",
+      "n_matches": 1520,
+      "acc": 794,
+      "acc_pct": 52.24,
+      "log_loss": 0.98955,
+      "brier": 0.59034,
+      "ece": 0.0265,
+      "draw_called": 0,
+      "draw_correct": 0,
+      "draw_total": 366,
+      "draw_recall_pct": 0.0
+    }
+  },
+  "holdout_2025_26": {
+    "v2": {
+      "name": "V2 2025-26",
+      "n_matches": 380,
+      "acc": 187,
+      "acc_pct": 49.21,
+      "log_loss": 1.03673,
+      "brier": 0.62492,
+      "ece": 0.0332,
+      "draw_called": 1,
+      "draw_correct": 0,
+      "draw_total": 104,
+      "draw_recall_pct": 0.0
+    },
+    "v4": {
+      "name": "V4 2025-26",
+      "n_matches": 380,
+      "acc": 187,
+      "acc_pct": 49.21,
+      "log_loss": 1.03241,
+      "brier": 0.62162,
+      "ece": 0.0222,
+      "draw_called": 1,
+      "draw_correct": 0,
+      "draw_total": 104,
+      "draw_recall_pct": 0.0
+    },
+    "v5_1": {
+      "name": "V5.1 2025-26",
+      "n_matches": 380,
+      "acc": 188,
+      "acc_pct": 49.47,
+      "log_loss": 1.0308,
+      "brier": 0.62082,
+      "ece": 0.0268,
+      "draw_called": 0,
+      "draw_correct": 0,
+      "draw_total": 104,
+      "draw_recall_pct": 0.0
+    },
+    "raw_elo": {
+      "name": "Raw Elo 2025-26",
+      "n_matches": 380,
+      "acc": 183,
+      "acc_pct": 48.16,
+      "log_loss": 1.0298,
+      "brier": 0.619,
+      "ece": 0.036,
+      "draw_called": 0,
+      "draw_correct": 0,
+      "draw_total": 104,
+      "draw_recall_pct": 0.0
+    },
+    "empirical_draw_elo": {
+      "name": "Empirical Elo 2025-26",
+      "n_matches": 380,
+      "acc": 183,
+      "acc_pct": 48.16,
+      "log_loss": 1.03148,
+      "brier": 0.62016,
+      "ece": 0.041,
+      "draw_called": 0,
+      "draw_correct": 0,
+      "draw_total": 104,
+      "draw_recall_pct": 0.0
+    }
+  },
+  "strong_picks": {
+    ">=50%": {
+      "dev": {
+        "picks": 385,
+        "correct": 246,
+        "acc": 63.9,
+        "ci": [
+          58.98,
+          68.53
+        ],
+        "ll": 0.89705
+      },
+      "val": {
+        "picks": 235,
+        "correct": 139,
+        "acc": 59.15,
+        "ci": [
+          52.77,
+          65.24
+        ],
+        "ll": 0.94856
+      },
+      "holdout": {
+        "picks": 207,
+        "correct": 110,
+        "acc": 53.14,
+        "ci": [
+          46.35,
+          59.82
+        ],
+        "ll": 0.9955
+      },
+      "pooled": {
+        "picks": 827,
+        "correct": 495,
+        "acc": 59.85,
+        "ci": [
+          56.48,
+          63.14
+        ],
+        "ll": 0.93633
+      }
+    },
+    ">=55%": {
+      "dev": {
+        "picks": 254,
+        "correct": 170,
+        "acc": 66.93,
+        "ci": [
+          60.93,
+          72.43
+        ],
+        "ll": 0.85264
+      },
+      "val": {
+        "picks": 183,
+        "correct": 112,
+        "acc": 61.2,
+        "ci": [
+          53.98,
+          67.96
+        ],
+        "ll": 0.91991
+      },
+      "holdout": {
+        "picks": 140,
+        "correct": 80,
+        "acc": 57.14,
+        "ci": [
+          48.86,
+          65.04
+        ],
+        "ll": 0.95967
+      },
+      "pooled": {
+        "picks": 577,
+        "correct": 362,
+        "acc": 62.74,
+        "ci": [
+          58.72,
+          66.59
+        ],
+        "ll": 0.89994
+      }
+    },
+    ">=60%": {
+      "dev": {
+        "picks": 160,
+        "correct": 112,
+        "acc": 70.0,
+        "ci": [
+          62.5,
+          76.56
+        ],
+        "ll": 0.81305
+      },
+      "val": {
+        "picks": 136,
+        "correct": 85,
+        "acc": 62.5,
+        "ci": [
+          54.13,
+          70.19
+        ],
+        "ll": 0.89679
+      },
+      "holdout": {
+        "picks": 69,
+        "correct": 43,
+        "acc": 62.32,
+        "ci": [
+          50.52,
+          72.82
+        ],
+        "ll": 0.89871
+      },
+      "pooled": {
+        "picks": 365,
+        "correct": 240,
+        "acc": 65.75,
+        "ci": [
+          60.74,
+          70.44
+        ],
+        "ll": 0.86045
+      }
+    },
+    ">=65%": {
+      "dev": {
+        "picks": 51,
+        "correct": 39,
+        "acc": 76.47,
+        "ci": [
+          63.24,
+          86.0
+        ],
+        "ll": 0.71107
+      },
+      "val": {
+        "picks": 86,
+        "correct": 58,
+        "acc": 67.44,
+        "ci": [
+          56.98,
+          76.41
+        ],
+        "ll": 0.8261
+      },
+      "holdout": {
+        "picks": 13,
+        "correct": 8,
+        "acc": 61.54,
+        "ci": [
+          35.52,
+          82.29
+        ],
+        "ll": 0.84232
+      },
+      "pooled": {
+        "picks": 150,
+        "correct": 105,
+        "acc": 70.0,
+        "ci": [
+          62.24,
+          76.76
+        ],
+        "ll": 0.7884
+      }
+    }
+  }
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "city_elo_minus_arsenal": -50,
+    "city_xpts": 72.39,
+    "arsenal_xpts": 71.95,
+    "xpts_gap": 0.44,
+    "city_champ_pct": 39.97,
+    "arsenal_champ_pct": 37.48,
+    "champ_gap_pp": 2.49
+  },
+  {
+    "city_elo_minus_arsenal": -30,
+    "city_xpts": 75.81,
+    "arsenal_xpts": 71.56,
+    "xpts_gap": 4.25,
+    "city_champ_pct": 55.57,
+    "arsenal_champ_pct": 28.46,
+    "champ_gap_pp": 27.11
+  },
+  {
+    "city_elo_minus_arsenal": -20,
+    "city_xpts": 76.82,
+    "arsenal_xpts": 71.59,
+    "xpts_gap": 5.23,
+    "city_champ_pct": 59.56,
+    "arsenal_champ_pct": 26.4,
+    "champ_gap_pp": 33.16
+  },
+  {
+    "city_elo_minus_arsenal": -10,
+    "city_xpts": 76.85,
+    "arsenal_xpts": 71.31,
+    "xpts_gap": 5.54,
+    "city_champ_pct": 60.29,
+    "arsenal_champ_pct": 25.41,
+    "champ_gap_pp": 34.88
+  },
+  {
+    "city_elo_minus_arsenal": 0,
+    "city_xpts": 75.63,
+    "arsenal_xpts": 71.31,
+    "xpts_gap": 4.32,
+    "city_champ_pct": 55.02,
+    "arsenal_champ_pct": 27.98,
+    "champ_gap_pp": 27.04
+  },
+  {
+    "city_elo_minus_arsenal": 10,
+    "city_xpts": 76.8,
+    "arsenal_xpts": 71.21,
+    "xpts_gap": 5.59,
+    "city_champ_pct": 60.18,
+    "arsenal_champ_pct": 25.17,
+    "champ_gap_pp": 35.01
+  },
+  {
+    "city_elo_minus_arsenal": 20,
+    "city_xpts": 77.77,
+    "arsenal_xpts": 70.9,
+    "xpts_gap": 6.87,
+    "city_champ_pct": 65.05,
+    "arsenal_champ_pct": 22.05,
+    "champ_gap_pp": 43.0
+  },
+  {
+    "city_elo_minus_arsenal": 30,
+    "city_xpts": 76.66,
+    "arsenal_xpts": 70.9,
+    "xpts_gap": 5.76,
+    "city_champ_pct": 60.74,
+    "arsenal_champ_pct": 24.31,
+    "champ_gap_pp": 36.43
+  },
+  {
+    "city_elo_minus_arsenal": 50,
+    "city_xpts": 74.9,
+    "arsenal_xpts": 70.88,
+    "xpts_gap": 4.02,
+    "city_champ_pct": 53.31,
+    "arsenal_champ_pct": 28.08,
+    "champ_gap_pp": 25.23
+  }
+]

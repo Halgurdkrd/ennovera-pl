@@ -1,0 +1,92 @@
+{
+  "S0_independent_simulation": {
+    "Manchester City": {
+      "title_pct": 52.4,
+      "top4_pct": 94.2,
+      "expected_pts": 86.4,
+      "pts_sd": 5.9
+    },
+    "Arsenal": {
+      "title_pct": 31.8,
+      "top4_pct": 89.5,
+      "expected_pts": 83.8,
+      "pts_sd": 6.0
+    },
+    "Liverpool": {
+      "title_pct": 11.2,
+      "top4_pct": 74.0,
+      "expected_pts": 78.5,
+      "pts_sd": 6.2
+    },
+    "Chelsea": {
+      "title_pct": 3.2,
+      "top4_pct": 48.5,
+      "expected_pts": 71.2,
+      "pts_sd": 6.4
+    },
+    "Manchester United": {
+      "title_pct": 1.1,
+      "top4_pct": 32.0,
+      "expected_pts": 66.8,
+      "pts_sd": 6.5
+    },
+    "Rest of League": {
+      "title_pct": 0.3,
+      "top4_pct": 61.8,
+      "expected_pts": 45.0,
+      "pts_sd": 7.0
+    }
+  },
+  "S1_latent_season_uncertainty": {
+    "Manchester City": {
+      "title_pct": 46.8,
+      "top4_pct": 91.2,
+      "expected_pts": 86.2,
+      "pts_sd": 7.2
+    },
+    "Arsenal": {
+      "title_pct": 33.5,
+      "top4_pct": 87.8,
+      "expected_pts": 84.1,
+      "pts_sd": 7.3
+    },
+    "Liverpool": {
+      "title_pct": 13.8,
+      "top4_pct": 76.5,
+      "expected_pts": 78.9,
+      "pts_sd": 7.5
+    },
+    "Chelsea": {
+      "title_pct": 4.1,
+      "top4_pct": 51.0,
+      "expected_pts": 71.5,
+      "pts_sd": 7.6
+    },
+    "Manchester United": {
+      "title_pct": 1.4,
+      "top4_pct": 35.2,
+      "expected_pts": 67.1,
+      "pts_sd": 7.8
+    },
+    "Rest of League": {
+      "title_pct": 0.4,
+      "top4_pct": 58.3,
+      "expected_pts": 45.0,
+      "pts_sd": 8.1
+    }
+  },
+  "sensitivity_xpts_to_title_pct": {
+    "delta_1_xpt": {
+      "head_to_head_delta_pp": "+6.8pp (S1 Latent Uncertainty)",
+      "independent_delta_pp": "+9.2pp (S0 Independent)"
+    },
+    "delta_2_xpts": {
+      "head_to_head_delta_pp": "+13.2pp (S1)",
+      "independent_delta_pp": "+17.8pp (S0)"
+    },
+    "delta_3_xpts": {
+      "head_to_head_delta_pp": "+19.1pp (S1)",
+      "independent_delta_pp": "+25.6pp (S0)"
+    }
+  }
+}

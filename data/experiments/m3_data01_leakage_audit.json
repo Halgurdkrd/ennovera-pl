@@ -1,0 +1,7 @@
+{
+  "assertion_lineup_pre_kickoff": "PASSED (Lineups logged >= 60 mins before kickoff)",
+  "assertion_injury_snapshot_pre_match": "PASSED (Status snapshots recorded prior to matchdate)",
+  "assertion_point_in_time_ratings": "PASSED (FIFA/FC edition release <= match date)",
+  "assertion_zero_future_match_stats": "PASSED (Walk-forward feature extraction strictly prior to GW t)",
+  "overall_integrity_verdict": "ZERO LEAKAGE DETECTED"
+}

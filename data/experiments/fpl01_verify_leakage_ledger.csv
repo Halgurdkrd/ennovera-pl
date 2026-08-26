@@ -1,0 +1,5 @@
+feature_group,audited_rows,violations,status,rule
+Rolling Minutes / Starts,113592,0,PASS,Shifted 1-GW (GW < Target GW)
+Rolling xG / xA / xGI,113592,0,PASS,Shifted 1-GW (GW < Target GW)
+Official FPL Price,113592,0,PASS,Point-in-time opening value for that GW
+Target Label Isolation,113592,0,PASS,total_points excluded from features

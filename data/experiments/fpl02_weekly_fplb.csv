@@ -1,0 +1,152 @@
+season,gw,formation,fplb_pts,cum_pts,raw_xi_pts,captain_name,captain_pts,captain_extra,capt_top1_hit,capt_top3_hit,transfers_in,transfers_out,hit_cost,bank,bench_pts,autosub_pts
+2022-23,1,5-3-2,31,31,25,Kevin Mbabu,0,0,0,0,None,None,0,0.0,6,6
+2022-23,2,5-3-2,39,70,37,William Saliba,-1,-1,0,0,None,None,0,0.0,3,3
+2022-23,3,3-4-3,52,122,47,Kevin De Bruyne,5,5,0,0,Harrison Reed,Zidane Iqbal,0,0.0,0,0
+2022-23,4,3-4-3,38,160,36,Kevin De Bruyne,2,2,0,0,Danny Ward,Adrián San Miguel del Castillo,0,0.0,3,0
+2022-23,5,3-4-3,24,184,22,Kevin De Bruyne,1,1,0,0,Josh Dasilva,Junior Stanislas,0,0.2,3,1
+2022-23,6,3-4-3,35,219,32,Son Heung-min,2,2,0,0,Lewis Dunk,Kevin Mbabu,0,0.1,3,1
+2022-23,8,3-4-3,98,317,79,Son Heung-min,19,19,1,1,Jonathan Castro Otto,Jan Bednarek,0,0.0,2,0
+2022-23,9,3-4-3,38,355,30,Kevin De Bruyne,8,8,1,1,Sean Longstaff,Josh Dasilva,0,0.1,15,0
+2022-23,10,3-5-2,59,414,45,Kevin De Bruyne,6,6,0,1,None,None,0,0.1,9,8
+2022-23,11,3-5-2,37,451,35,Kevin De Bruyne,2,2,0,0,None,None,0,0.1,7,0
+2022-23,12,3-5-2,62,513,58,Mohamed Salah,3,3,0,0,None,None,0,0.1,12,1
+2022-23,13,3-4-3,45,558,43,Mohamed Salah,2,2,0,0,Gianluca Scamacca,Michail Antonio,0,0.4,8,0
+2022-23,14,3-4-3,40,598,33,Mohamed Salah,7,7,0,1,Neco Williams,Jannik Vestergaard,0,0.2,13,0
+2022-23,15,4-3-3,70,668,52,Mohamed Salah,15,15,1,1,Timothy Castagne,Jonathan Castro Otto,0,0.0,5,3
+2022-23,16,5-3-2,57,725,53,Mohamed Salah,2,2,0,0,Wout Faes,Richie Laryea,0,0.0,8,2
+2022-23,17,4-4-2,64,789,51,Mohamed Salah,12,12,1,1,Hugo Bueno López,Neco Williams,0,0.1,11,1
+2022-23,18,4-4-2,33,822,31,Mohamed Salah,2,2,0,0,Che Adams,Gianluca Scamacca,0,0.4,12,0
+2022-23,19,3-5-2,56,878,52,Mohamed Salah,2,2,0,0,Kiernan Dewsbury-Hall,Harrison Reed,0,0.0,4,2
+2022-23,20,4-4-2,57,935,55,Mohamed Salah,2,2,0,0,None,None,0,0.0,11,0
+2022-23,21,4-4-2,44,979,39,Mohamed Salah,3,3,0,0,Carlos Henrique Casimiro,Kiernan Dewsbury-Hall,0,0.0,7,2
+2022-23,22,4-4-2,45,1024,37,Mohamed Salah,2,2,0,0,Leon Bailey,Carlos Henrique Casimiro,0,0.4,10,6
+2022-23,23,4-4-2,41,1065,39,Harry Kane,2,2,0,0,Renan Augusto Lodi dos Santos,Hugo Bueno López,0,0.0,10,0
+2022-23,24,4-4-2,64,1129,56,Mohamed Salah,6,6,0,0,Brennan Johnson,Che Adams,0,0.5,6,2
+2022-23,25,3-4-3,53,1182,30,Mohamed Salah,8,8,1,1,Eddie Nketiah,Jamie Vardy,0,2.8,20,15
+2022-23,26,3-5-2,84,1266,50,Mohamed Salah,21,21,1,1,Solly March,Leon Bailey,0,2.1,25,13
+2022-23,27,3-5-2,43,1309,43,Mohamed Salah,0,0,0,0,Trent Alexander-Arnold,Thiago Emiliano da Silva,0,0.2,11,0
+2022-23,28,4-5-1,67,1376,60,Gabriel Martinelli Silva,7,7,0,1,Bryan Mbeumo,Eddie Nketiah,0,0.9,4,0
+2022-23,29,4-3-3,50,1426,43,Harry Kane,7,7,0,1,Emiliano Martínez Romero,Danny Ward,0,0.0,11,0
+2022-23,30,4-5-1,56,1482,47,Harry Kane,9,9,0,1,Alexandre Moreno Lopera,Marcos Senesi,0,0.0,5,0
+2022-23,31,3-5-2,60,1542,58,Harry Kane,2,2,0,0,Dominic Solanke,Bryan Mbeumo,0,0.3,9,0
+2022-23,32,3-5-2,57,1599,51,Harry Kane,6,6,0,0,None,None,0,0.3,8,0
+2022-23,33,4-4-2,50,1649,48,Mohamed Salah,2,2,0,0,Bryan Mbeumo,Brennan Johnson,0,0.1,8,0
+2022-23,34,3-5-2,66,1715,55,Mohamed Salah,11,11,1,1,None,None,0,0.1,9,0
+2022-23,35,3-5-2,56,1771,46,Mohamed Salah,10,10,1,1,Eberechi Eze,James Ward-Prowse,0,0.7,24,0
+2022-23,36,4-5-1,67,1838,55,Mohamed Salah,12,12,0,1,Pervis Estupiñán,Benjamin White,0,0.8,14,0
+2022-23,37,3-5-2,62,1900,57,Mohamed Salah,5,5,0,0,Morgan Gibbs-White,Gabriel Martinelli Silva,0,1.9,6,0
+2022-23,38,3-5-2,64,1964,59,Mohamed Salah,5,5,0,0,Ben Mee,Alexandre Moreno Lopera,0,1.6,11,0
+2023-24,1,3-5-2,28,28,20,Mohamed Salah,5,5,1,1,None,None,0,0.0,3,3
+2023-24,2,5-3-2,27,55,20,Mohamed Salah,5,5,1,1,Aaron Wan-Bissaka,Igor Julio dos Santos de Paulo,0,0.0,2,2
+2023-24,3,4-3-3,39,94,34,Mohamed Salah,5,5,0,1,Ethan Brierley,Bruno Cavaco Jordão,0,0.0,0,0
+2023-24,4,4-4-2,51,145,49,Bruno Borges Fernandes,2,2,0,0,Carlos Henrique Casimiro,Dwight McNeil,0,0.0,1,0
+2023-24,5,3-5-2,38,183,24,Mohamed Salah,10,10,1,1,Marvelous Nakamba,Ethan Brierley,0,0.1,12,4
+2023-24,6,3-4-3,57,240,44,Mohamed Salah,10,10,1,1,Lyle Foster,Bénie Traoré,0,0.4,5,3
+2023-24,7,3-4-3,47,287,43,Mohamed Salah,1,1,0,0,Jacob Brown,Lyle Foster,0,0.5,9,3
+2023-24,8,4-4-2,53,340,34,Mohamed Salah,15,15,1,1,Levi Colwill,Aaron Wan-Bissaka,0,0.4,10,4
+2023-24,9,5-3-2,75,415,55,Mohamed Salah,16,16,1,1,Dan Burn,Ben Mee,0,0.5,12,4
+2023-24,10,5-3-2,38,453,29,Mohamed Salah,8,8,1,1,Douglas Luiz Soares de Paulo,Carlos Henrique Casimiro,0,0.4,10,1
+2023-24,11,4-4-2,54,507,51,Mohamed Salah,2,2,0,0,Cole Palmer,Eberechi Eze,0,1.5,4,1
+2023-24,12,3-4-3,64,571,45,Mohamed Salah,16,16,1,1,Dominic Calvert-Lewin,Jacob Brown,0,0.6,6,3
+2023-24,13,3-4-3,42,613,33,Mohamed Salah,5,5,0,1,Konstantinos Tsimikas,Levi Colwill,0,0.4,4,4
+2023-24,14,3-4-3,48,661,38,Mohamed Salah,5,5,0,1,Harry Maguire,Dan Burn,0,0.6,5,5
+2023-24,15,3-5-2,30,691,23,Mohamed Salah,3,3,0,1,Jefferson Lerma Solís,Marvelous Nakamba,0,0.3,4,4
+2023-24,16,3-5-2,42,733,24,Mohamed Salah,13,13,1,1,Diogo Dalot Teixeira,Matty Cash,0,0.1,10,5
+2023-24,17,3-5-2,48,781,35,Mohamed Salah,3,3,0,0,Jordan Pickford,Alisson Ramses Becker,0,1.3,16,10
+2023-24,18,3-4-3,37,818,27,Mohamed Salah,7,7,0,1,Pedro Porro,Joel Ward,0,0.3,5,3
+2023-24,19,3-4-3,23,841,17,Mohamed Salah,3,3,0,1,Jarrad Branthwaite,Harry Maguire,0,0.4,9,3
+2023-24,20,4-3-3,77,918,51,Mohamed Salah,16,16,0,1,Marcos Senesi,Konstantinos Tsimikas,0,0.6,13,10
+2023-24,21,3-4-3,37,955,33,Mohamed Salah,0,0,0,0,Yerson Mosquera,Jarrad Branthwaite,0,0.7,12,4
+2023-24,22,3-5-2,40,995,37,Mohamed Salah,0,0,0,0,Keane Lewis-Potter,Jefferson Lerma Solís,0,0.7,5,3
+2023-24,23,3-5-2,80,1075,51,Harry Kane,0,18,0,0,Craig Dawson,Yerson Mosquera,0,0.2,14,11
+2023-24,24,3-4-3,65,1140,49,Bukayo Saka,15,15,1,1,Bukayo Saka,Mohamed Salah,0,4.2,22,1
+2023-24,25,3-5-2,59,1199,42,Bukayo Saka,15,15,1,1,Richarlison de Andrade,Keane Lewis-Potter,0,1.7,10,2
+2023-24,26,3-4-3,50,1249,45,Erling Haaland,5,5,0,0,Benjamin White,Craig Dawson,0,0.6,21,0
+2023-24,27,3-5-2,67,1316,61,Erling Haaland,6,6,0,0,Rúben Gato Alves Dias,Diogo Dalot Teixeira,0,0.3,15,0
+2023-24,28,3-5-2,48,1364,43,Erling Haaland,2,2,0,0,Jakub Kiwior,Marcos Senesi,0,0.6,4,3
+2023-24,29,3-4-3,38,1402,35,Ollie Watkins,2,2,0,0,None,None,0,0.6,5,1
+2023-24,30,3-4-3,37,1439,33,Ollie Watkins,1,1,0,0,Jakub Kiwior,Clément Lenglet,0,0.7,10,3
+2023-24,31,3-4-3,23,1462,10,Son Heung-min,2,2,1,1,Manuel Akanji,Matty Cash,0,0.4,11,11
+2023-24,32,4-4-2,34,1496,28,Son Heung-min,5,5,0,1,Tosin Adarabioyo,Reece Burke,0,0.1,14,1
+2023-24,33,4-4-2,36,1532,26,Son Heung-min,1,1,0,0,Jan Paul van Hecke,Jakub Kiwior,0,0.4,9,9
+2023-24,34,5-2-3,39,1571,23,Cole Palmer,0,2,0,0,Bart Verbruggen,Alphonse Areola,0,0.2,15,14
+2023-24,35,3-4-3,58,1629,45,Alexander Isak,13,13,1,1,Andreas Hoelgebaum Pereira,Douglas Luiz Soares de Paulo,0,0.3,5,0
+2023-24,36,3-4-3,64,1693,57,Alexander Isak,7,7,0,0,Ben Brereton,Anthony Elanga,0,0.3,9,0
+2023-24,37,3-5-2,46,1739,40,Cole Palmer,6,6,0,1,Chris Richards,Jan Paul van Hecke,0,0.4,10,0
+2023-24,38,3-4-3,52,1791,39,Erling Haaland,2,2,0,0,Takehiro Tomiyasu,Mads Roerslev Rasmussen,0,0.3,11,11
+2024-25,1,3-4-3,48,48,41,Erling Haaland,7,7,0,1,None,None,0,0.0,10,0
+2024-25,2,3-4-3,74,122,57,Erling Haaland,17,17,1,1,None,None,0,0.0,5,0
+2024-25,3,3-4-3,77,199,60,Erling Haaland,17,17,1,1,None,None,0,0.0,6,0
+2024-25,4,3-4-3,45,244,26,Erling Haaland,13,13,1,1,Ismeal Kabia,Sean Longstaff,0,0.4,14,6
+2024-25,5,4-3-3,75,319,64,Erling Haaland,9,9,0,1,None,None,0,0.4,12,2
+2024-25,6,5-2-3,63,382,61,Erling Haaland,2,2,0,0,Flynn Downes,Ismeal Kabia,0,0.0,4,0
+2024-25,7,4-3-3,56,438,54,Erling Haaland,2,2,0,0,James Maddison,Martin Ødegaard,0,0.7,6,0
+2024-25,8,3-4-3,46,484,42,Erling Haaland,2,2,0,0,Adama Traoré,Ben Brereton Díaz,0,0.8,8,2
+2024-25,9,3-4-3,68,552,58,Cole Palmer,10,10,0,1,Gabriel dos Santos Magalhães,Manuel Akanji,0,0.0,20,0
+2024-25,10,3-4-3,54,606,52,Erling Haaland,2,2,0,0,None,None,0,0.0,9,0
+2024-25,11,4-3-3,37,643,32,Erling Haaland,5,5,0,1,Jarrod Bowen,James Maddison,0,0.1,4,0
+2024-25,12,3-4-3,47,690,43,Erling Haaland,2,2,0,0,Facundo Buonanotte,Adama Traoré,0,0.1,11,2
+2024-25,13,3-4-3,75,765,71,Erling Haaland,2,2,0,0,Carlos Henrique Casimiro,Flynn Downes,0,0.1,8,2
+2024-25,14,4-3-3,58,823,38,Erling Haaland,5,5,0,0,Mikkel Damsgaard,Facundo Buonanotte,0,0.1,22,15
+2024-25,15,4-4-2,68,891,61,Erling Haaland,7,7,0,0,Pape Matar Sarr,Carlos Henrique Casimiro,0,0.1,4,0
+2024-25,16,4-4-2,32,923,29,Cole Palmer,3,3,0,1,William Saliba,Gabriel dos Santos Magalhães,0,0.1,31,0
+2024-25,17,4-4-2,31,954,26,Cole Palmer,3,3,0,1,Enzo Fernández,Mikkel Damsgaard,0,0.0,3,2
+2024-25,18,3-4-3,52,1006,42,Cole Palmer,10,10,1,1,Justin Kluivert,Brennan Johnson,0,1.0,17,0
+2024-25,19,4-4-2,41,1047,37,Cole Palmer,2,2,0,0,Lewis Hall,Leif Davis,0,0.8,16,2
+2024-25,20,4-4-2,59,1106,41,Cole Palmer,10,10,0,1,Jacob Murphy,Pape Matar Sarr,0,0.5,15,8
+2024-25,21,5-3-2,51,1157,49,Erling Haaland,2,2,0,0,Ismaïla Sarr,Justin Kluivert,0,0.1,18,0
+2024-25,22,4-4-2,51,1208,45,Erling Haaland,6,6,1,1,Amad Diallo,Jarrod Bowen,0,1.9,13,0
+2024-25,23,4-3-3,54,1262,42,Erling Haaland,12,12,1,1,Morgan Gibbs-White,Enzo Fernández,0,0.4,23,0
+2024-25,24,3-4-3,79,1341,73,Erling Haaland,6,6,0,0,Dango Ouattara,Jacob Murphy,0,0.5,7,0
+2024-25,25,4-3-3,46,1387,34,Erling Haaland,5,5,0,0,Maxence Lacroix,Lewis Hall,0,1.1,17,7
+2024-25,26,4-3-3,60,1447,50,Jean-Philippe Mateta,5,5,0,0,Jean-Philippe Mateta,Nicolas Jackson,0,1.5,13,5
+2024-25,27,3-4-3,51,1498,43,Jean-Philippe Mateta,8,8,1,1,Yankuba Minteh,Amad Diallo,0,1.9,29,0
+2024-25,28,4-3-3,43,1541,36,Cole Palmer,1,1,0,0,David Raya Martin,André Onana,0,1.4,23,6
+2024-25,29,3-4-3,57,1598,41,Cole Palmer,0,7,0,0,Enzo Fernández,Dango Ouattara,0,1.8,21,9
+2024-25,30,4-4-2,58,1656,51,Erling Haaland,0,6,0,0,Daniel Muñoz,Neco Williams,0,1.1,9,1
+2024-25,31,4-4-2,37,1693,33,Ismaïla Sarr,2,2,0,0,Ismaïla Sarr,Yankuba Minteh,0,0.5,4,2
+2024-25,32,3-5-2,27,1720,23,Ismaïla Sarr,2,2,0,0,Francisco Evanilson de Lima Barbosa,Chris Wood,0,1.7,3,2
+2024-25,33,3-5-2,48,1768,46,Francisco Evanilson de Lima Barbosa,2,2,0,0,Omar Marmoush,Erling Haaland,0,8.8,2,0
+2024-25,34,3-4-3,63,1831,55,Mohamed Salah,8,8,0,1,None,None,0,8.8,15,0
+2024-25,35,3-4-3,54,1885,46,Mohamed Salah,2,2,0,0,Robert Sánchez,Matz Sels,0,9.4,17,6
+2024-25,36,4-4-2,39,1924,37,Mohamed Salah,2,2,0,0,Joško Gvardiol,Ibrahima Konaté,0,8.3,11,0
+2024-25,37,5-3-2,35,1959,28,Mohamed Salah,2,2,0,0,Yoane Wissa,Jørgen Strand Larsen,0,6.7,13,5
+2024-25,38,3-5-2,51,2010,41,Mohamed Salah,10,10,1,1,Kevin De Bruyne,Enzo Fernández,0,1.9,11,0
+2025-26,1,4-4-2,58,58,47,Mohamed Salah,8,8,0,1,None,None,0,0.0,11,3
+2025-26,2,4-3-3,35,93,21,Mohamed Salah,5,5,0,1,Marco Bizot,Filip Jörgensen,0,0.0,9,9
+2025-26,3,3-5-2,38,131,34,Mohamed Salah,3,3,0,0,Anton Stach,Ilia Gruev,0,0.0,1,1
+2025-26,4,4-4-2,61,192,39,Mohamed Salah,9,9,1,1,Daniel Muñoz Mejía,Joško Gvardiol,0,0.2,19,13
+2025-26,5,4-4-2,53,245,45,Mohamed Salah,5,5,0,0,Jean-Philippe Mateta,Yoane Wissa,0,0.1,4,3
+2025-26,6,4-3-3,25,270,21,Mohamed Salah,2,2,0,1,Đorđe Petrović,Marco Bizot,0,0.1,16,2
+2025-26,7,3-4-3,35,305,33,Mohamed Salah,2,2,0,0,Bruno Borges Fernandes,Cole Palmer,0,1.4,10,0
+2025-26,8,4-4-2,66,371,64,Mohamed Salah,2,2,0,0,Jurriën Timber,Fabian Schär,0,0.9,8,0
+2025-26,9,4-4-2,43,414,41,Jean-Philippe Mateta,2,2,0,0,Nico O'Reilly,Ezri Konsa Ngoyo,0,0.5,23,0
+2025-26,10,4-5-1,68,482,59,Jean-Philippe Mateta,9,9,0,1,Brenden Aaronson,Anton Stach,0,0.1,2,0
+2025-26,11,4-4-2,60,542,58,Jean-Philippe Mateta,2,2,0,0,Igor Thiago Nascimento Rodrigues,Chris Wood,0,1.1,28,0
+2025-26,12,4-4-2,44,586,43,Jean-Philippe Mateta,1,1,0,0,Jørgen Strand Larsen,Norberto Bercique Gomes Betuncal,0,0.0,7,0
+2025-26,13,4-4-2,63,649,49,Mohamed Salah,0,13,0,0,Bart Verbruggen,Đorđe Petrović,0,0.1,16,1
+2025-26,14,5-3-2,31,680,29,Igor Thiago Nascimento Rodrigues,1,1,0,0,Marcus Tavernier,Brenden Aaronson,0,0.0,4,1
+2025-26,15,4-4-2,58,738,46,Igor Thiago Nascimento Rodrigues,2,2,0,0,Mikel Merino Zazón,Ismaïla Sarr,0,0.5,15,10
+2025-26,16,5-3-2,67,805,44,Bruno Borges Fernandes,13,13,1,1,Dominic Calvert-Lewin,Jørgen Strand Larsen,0,1.1,17,10
+2025-26,17,3-4-3,47,852,46,Bruno Borges Fernandes,1,1,0,0,Enzo Fernández,Kevin Schade,0,1.6,5,0
+2025-26,18,4-3-3,40,892,29,Bruno Borges Fernandes,0,8,0,0,Joško Gvardiol,Daniel Muñoz Mejía,0,1.5,5,3
+2025-26,19,4-4-2,40,932,37,Dominic Calvert-Lewin,1,1,0,0,Kevin Schade,Mikel Merino Zazón,0,0.3,3,2
+2025-26,20,3-4-3,67,999,58,Matheus Santos Carneiro da Cunha,9,9,0,1,Matheus Santos Carneiro da Cunha,Mohamed Salah,0,6.1,12,0
+2025-26,21,3-4-3,55,1054,44,Kevin Schade,6,6,0,1,Morgan Rogers,Bruno Borges Fernandes,0,7.6,9,5
+2025-26,22,3-4-3,27,1081,26,Kevin Schade,1,1,0,0,Keane Lewis-Potter,Marc Cucurella Saseta,0,8.7,12,0
+2025-26,23,3-4-3,53,1134,42,Kevin Schade,2,2,0,0,Gabriel dos Santos Magalhães,Joško Gvardiol,0,7.8,17,9
+2025-26,24,4-3-3,42,1176,31,Igor Thiago Nascimento Rodrigues,2,2,0,0,James Tarkowski,Nico O'Reilly,0,7.0,13,9
+2025-26,25,5-3-2,61,1237,53,Igor Thiago Nascimento Rodrigues,5,5,0,0,William Saliba,Keane Lewis-Potter,0,5.9,6,3
+2025-26,26,5-3-2,29,1266,24,Bruno Borges Fernandes,2,2,0,0,Bruno Borges Fernandes,Marcus Tavernier,0,1.4,5,3
+2025-26,27,4-4-2,37,1303,34,Cole Palmer,3,3,0,1,Hugo Ekitiké,Jean-Philippe Mateta,0,0.0,12,0
+2025-26,28,4-4-2,67,1370,66,Cole Palmer,1,1,0,0,Ismaïla Sarr,Kevin Schade,0,0.5,10,0
+2025-26,29,3-5-2,79,1449,55,Cole Palmer,9,9,0,1,Nico O'Reilly,Matty Cash,0,0.2,32,15
+2025-26,30,3-5-2,49,1498,46,Cole Palmer,2,2,0,0,Mads Hermansen,Bart Verbruggen,0,0.5,5,1
+2025-26,31,4-3-3,38,1536,30,Cole Palmer,2,2,0,0,Đorđe Petrović,Emiliano Martínez Romero,0,1.1,16,6
+2025-26,32,3-4-3,56,1592,52,Bruno Borges Fernandes,4,4,0,0,João Pedro Junqueira de Jesus,Hugo Ekitiké,0,2.6,12,0
+2025-26,33,3-4-3,44,1636,22,Bruno Borges Fernandes,6,6,1,1,Marcus Tavernier,Enzo Fernández,0,3.7,17,16
+2025-26,34,3-5-2,44,1680,39,Bruno Borges Fernandes,5,5,0,1,Sepp van den Berg,James Tarkowski,0,4.8,4,0
+2025-26,35,3-4-3,64,1744,53,Mohamed Salah,0,5,0,0,Dominic Calvert-Lewin,Dominic Solanke-Mitchell,0,6.3,20,6
+2025-26,36,4-3-3,51,1795,46,Bruno Borges Fernandes,3,3,0,0,David Raya Martín,Mads Hermansen,0,4.4,5,2
+2025-26,37,3-4-3,72,1867,63,Bruno Borges Fernandes,9,9,0,1,Jack Hinshelwood,Morgan Gibbs-White,0,6.7,10,0
+2025-26,38,3-4-3,71,1938,51,Bruno Borges Fernandes,14,14,1,1,Cole Palmer,Mohamed Salah,0,10.4,13,6

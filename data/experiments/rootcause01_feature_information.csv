@@ -1,0 +1,6 @@
+feature_family,feature_count,holdout_correct,holdout_acc_pct,holdout_ll
+1_historical_f2_state,1,184,48.42,1.03575
+2_player_quality_fc26,4,183,48.16,1.03749
+3_tactical_mismatch,4,178,46.84,1.0513
+4_lineup_shock,3,162,42.63,1.09588
+5_european_fatigue,3,175,46.05,1.0585

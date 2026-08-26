@@ -1,0 +1,9 @@
+router,val_correct,val_acc,val_ll,hold_correct,hold_acc,hold_ll,hold_brier,diffs_vs_M3,wrong_to_correct,correct_to_wrong,net_gain_vs_M3,routing_efficiency_pct,disagreement_acc_pct
+R0_Consensus,200,52.63,0.9952,191,50.26,1.03098,0.6197,4,3,1,2,14.3,43.4
+R1_Multinomial_Logistic,195,51.32,1.01874,187,49.21,1.04244,0.6264,36,10,12,-2,-14.3,35.85
+R2_Shallow_Tree,199,52.37,1.00211,185,48.68,1.05295,0.635,31,9,13,-4,-28.6,32.08
+R3_Random_Forest,203,53.42,0.99281,186,48.95,1.04607,0.6301,21,7,10,-3,-21.4,33.96
+R4_HistGradientBoosting,201,52.89,0.99796,184,48.42,1.05223,0.6345,23,7,12,-5,-35.7,30.19
+R6_Reliability_Argmax,203,53.42,0.98215,186,48.95,1.03529,0.6234,21,7,10,-3,-21.4,33.96
+R_SELECTIVE_OVERRIDE,206,54.21,0.9837,187,49.21,1.03332,0.6218,14,5,7,-2,-14.3,35.85
+SOFT_RELIABILITY_ROUTER,198,52.11,0.99514,187,49.21,1.03274,0.6209,8,2,4,-2,-14.3,35.85

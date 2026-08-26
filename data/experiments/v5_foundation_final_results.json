@@ -1,0 +1,91 @@
+{
+  "candidates": {
+    "F0: Frozen V5.1 Baseline": {
+      "val": {
+        "accuracy": 50.53,
+        "log_loss": 1.00599,
+        "brier": 0.60262,
+        "sp_count": 50,
+        "sp_acc": 70.0
+      },
+      "holdout": {
+        "accuracy": 48.68,
+        "log_loss": 1.03136,
+        "brier": 0.61988,
+        "sp_count": 40,
+        "sp_acc": 65.0
+      }
+    },
+    "F1: V5.1 + Translated Priors": {
+      "val": {
+        "accuracy": 50.26,
+        "log_loss": 1.00631,
+        "brier": 0.60287,
+        "sp_count": 52,
+        "sp_acc": 67.31
+      },
+      "holdout": {
+        "accuracy": 48.42,
+        "log_loss": 1.0315,
+        "brier": 0.61998,
+        "sp_count": 40,
+        "sp_acc": 65.0
+      }
+    },
+    "F2: V5.1 + Adaptive Weighting": {
+      "val": {
+        "accuracy": 50.79,
+        "log_loss": 1.00437,
+        "brier": 0.60171,
+        "sp_count": 61,
+        "sp_acc": 67.21
+      },
+      "holdout": {
+        "accuracy": 48.68,
+        "log_loss": 1.03029,
+        "brier": 0.61934,
+        "sp_count": 49,
+        "sp_acc": 67.35
+      }
+    },
+    "F3: V5.1 + Both Improvements": {
+      "val": {
+        "accuracy": 50.79,
+        "log_loss": 1.0046,
+        "brier": 0.60188,
+        "sp_count": 60,
+        "sp_acc": 66.67
+      },
+      "holdout": {
+        "accuracy": 48.42,
+        "log_loss": 1.0304,
+        "brier": 0.61941,
+        "sp_count": 49,
+        "sp_acc": 67.35
+      }
+    },
+    "F4: Integrated Gating Model": {
+      "val": {
+        "accuracy": 50.53,
+        "log_loss": 1.00523,
+        "brier": 0.60224,
+        "sp_count": 57,
+        "sp_acc": 66.67
+      },
+      "holdout": {
+        "accuracy": 48.95,
+        "log_loss": 1.03078,
+        "brier": 0.61961,
+        "sp_count": 44,
+        "sp_acc": 65.91
+      }
+    }
+  },
+  "gw1_retrospective": {
+    "candidate": "F3: V5.1 + Both Improvements",
+    "accuracy": 50.0,
+    "log_loss": 0.93593,
+    "brier": 0.54783,
+    "strong_picks": "100.0% (2 picks)"
+  }
+}

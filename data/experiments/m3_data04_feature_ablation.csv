@@ -1,0 +1,6 @@
+feature_group,val_ll,hold_ll,hold_acc,delta_ll,status
+Full D11 Combined Expert,0.9928,1.02685,49.74,0.0,BEST COMPOSITE
+Remove Empirical League Translations (Revert to 0.75),0.9936,1.0275,49.47,0.00065,HIGH VALUE SIGNAL
+Remove Squad-Derived Observable Talent,0.99385,1.0278,49.47,0.00095,HIGH VALUE SIGNAL
+Remove European Match Form,0.9933,1.0272,49.74,0.00035,MODERATE SIGNAL
+Remove All DATA-04 Features (T7 Base),0.99455,1.02835,49.47,0.0015,BASELINE

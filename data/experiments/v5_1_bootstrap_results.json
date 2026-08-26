@@ -1,0 +1,41 @@
+{
+  "validation_2024": {
+    "point_delta_ll": -0.00254,
+    "ci_95_ll": [
+      -0.00588,
+      0.0008
+    ],
+    "p_v5_better_pct": 93.3,
+    "point_delta_brier": -0.00117,
+    "ci_95_brier": [
+      -0.0032,
+      0.00088
+    ]
+  },
+  "holdout_2025": {
+    "point_delta_ll": -0.00161,
+    "ci_95_ll": [
+      -0.00438,
+      0.00123
+    ],
+    "p_v5_better_pct": 87.2,
+    "point_delta_brier": -0.0008,
+    "ci_95_brier": [
+      -0.0027,
+      0.00118
+    ]
+  },
+  "pooled_4_seasons": {
+    "point_delta_ll": -0.0045,
+    "ci_95_ll": [
+      -0.00596,
+      -0.00303
+    ],
+    "p_v5_better_pct": 100.0,
+    "point_delta_brier": -0.00282,
+    "ci_95_brier": [
+      -0.00381,
+      -0.00183
+    ]
+  }
+}

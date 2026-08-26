@@ -1,0 +1,5 @@
+gap_component,pts_recovered_2023_24,pts_recovered_2025_26,description
+Transfer Heuristic Flaw (15th-Player Sorting Bug),171,42,Resolved by scanning all 15 squad positions for marginal replacement gains
+Autonomous 8-Chip Contribution,100,171,"Full legal deployment of WC1/2, FH1/2, BB1/2, TC1/2 under reservation-value policy"
+Captain Specialist Doubled Contribution,48,82,Haul-weighted utility function prioritizing high-ceiling £14m/£12m talismans
+Residual Single-Transfer Squad Inertia,-72,-72,Natural friction of carrying squad week-to-week vs rebuilding 15 players from scratch

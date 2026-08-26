@@ -1,0 +1,6 @@
+prior_tier,player_seasons_count,pct_of_total,starter_minutes_share,data_nature
+1. Direct Premier League Historical Match Logs (>=270 mins),2180,66.3,82.5,Empirical Domestic Match Logs
+2. Foreign Senior Match Data + Empirical Translation (>=450 mins),540,16.4,11.8,Empirical Foreign Match Logs + Learned Gamma
+3. English Championship Historical Match Data (>=450 mins),320,9.7,4.6,Empirical Championship Logs + Learned Gamma
+4. EA FC26 Position Attribute Z-Score Prior Only,162,4.9,1.0,Official EA FC Telemetry (SHO/PAS/DEF/GK)
+5. Youth Academy / Unrated Deep Reserves,86,2.6,0.1,Position-Mean Prior + Maximum Uncertainty

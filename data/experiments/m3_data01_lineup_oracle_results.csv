@@ -1,0 +1,4 @@
+model,val_ll,val_acc,holdout_ll,holdout_acc,holdout_brier,sp60_acc,sp60_cov
+Candidate F2 (Baseline),1.00326,51.32,1.02999,48.42,0.6192,67.27,14.5
+Candidate M1-D (Baseline),0.99918,51.05,1.0294,48.16,0.6188,64.62,17.1
+LINEUP-ORACLE (Confirmed XI),0.99523,52.37,1.03138,48.42,0.6203,62.96,21.3

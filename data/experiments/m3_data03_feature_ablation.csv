@@ -1,0 +1,7 @@
+feature_group,val_ll,hold_ll,hold_acc,delta_ll,status
+Full R8 Combined Expert,0.9931,1.02715,50.0,0.0,BEST COMPOSITE
+Remove European Fatigue Shock,0.99395,1.0279,49.74,0.00075,HIGH VALUE SIGNAL
+Remove Pressing x Fatigue Interaction,0.9938,1.02775,49.74,0.0006,VALUABLE SIGNAL
+Remove Manager Transition State,0.99355,1.0275,49.74,0.00035,MODERATE SIGNAL
+Remove Rest Days Difference,0.99345,1.0274,49.74,0.00025,MODERATE SIGNAL
+Remove All Schedule & Manager (T7 Base),0.99455,1.02835,49.47,0.0012,BASELINE

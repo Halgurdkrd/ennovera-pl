@@ -1,0 +1,200 @@
+player,team,position,category,price,source_minutes,translated_xg90,translated_xa90,translated_xgi90,expected_minutes_prior,uncertainty,translation_method
+Illan Meslier,Arsenal,GK,Mid-Tier Domestic / European Transfer,5.0,1800,0.061,0.051,0.112,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Fábio Ferreira Vieira,Arsenal,MID,Mid-Tier Domestic / European Transfer,5.5,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Christos Tzolis,Arsenal,MID,Mid-Tier Domestic / European Transfer,6.5,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Kosta Nedeljkovic,Aston Villa,DEF,Academy / Youth Prospect,4.0,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Samuel Iling-Junior,Aston Villa,MID,Mid-Tier Domestic / European Transfer,5.0,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Johan Manzambi,Aston Villa,MID,Mid-Tier Domestic / European Transfer,6.0,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Brian Madjo,Aston Villa,FWD,Mid-Tier Domestic / European Transfer,5.5,1800,0.206,0.101,0.307,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Matteo Ruggeri,Aston Villa,DEF,Academy / Youth Prospect,4.5,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Zion Suzuki,Aston Villa,GK,Mid-Tier Domestic / European Transfer,5.0,1800,0.061,0.051,0.112,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Fraser Forster,Bournemouth,GK,Academy / Youth Prospect,4.0,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Will Dennis,Bournemouth,GK,Academy / Youth Prospect,4.0,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Julián Araujo Zúñiga,Bournemouth,DEF,Academy / Youth Prospect,4.5,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Álvaro Rodríguez,Bournemouth,FWD,Mid-Tier Domestic / European Transfer,6.0,1800,0.206,0.101,0.307,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+António João Pereira de Albuquerque Tavares da Silva,Bournemouth,DEF,Mid-Tier Domestic / European Transfer,5.0,1800,0.061,0.051,0.112,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Juanlu Sánchez,Bournemouth,DEF,Academy / Youth Prospect,4.5,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Kim Ji-soo,Brentford,DEF,Academy / Youth Prospect,4.5,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Jannik Schuster,Brentford,DEF,Academy / Youth Prospect,4.5,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Jaidon Anthony,Brentford,MID,Mid-Tier Domestic / European Transfer,6.0,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Callum Wilson,Brentford,FWD,Mid-Tier Domestic / European Transfer,5.5,1800,0.206,0.101,0.307,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Mamadou Sangaré,Brentford,MID,Mid-Tier Domestic / European Transfer,5.5,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Jason Steele,Brighton and Hove Albion,GK,Academy / Youth Prospect,4.0,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+João Pedro Loureiro da Costa,Brighton and Hove Albion,DEF,Academy / Youth Prospect,4.5,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Michael Svoboda,Brighton and Hove Albion,DEF,Mid-Tier Domestic / European Transfer,5.0,1800,0.061,0.051,0.112,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Zadok Yohanna,Brighton and Hove Albion,MID,Mid-Tier Domestic / European Transfer,5.0,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Evan Ferguson,Brighton and Hove Albion,FWD,Mid-Tier Domestic / European Transfer,5.0,1800,0.206,0.101,0.307,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Luka Vušković,Brighton and Hove Albion,DEF,Mid-Tier Domestic / European Transfer,5.0,1800,0.061,0.051,0.112,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Promise David,Brighton and Hove Albion,FWD,Mid-Tier Domestic / European Transfer,6.0,1800,0.206,0.101,0.307,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Marco Palestra,Chelsea,DEF,Mid-Tier Domestic / European Transfer,5.5,1800,0.061,0.051,0.112,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Axel Disasi,Chelsea,DEF,Academy / Youth Prospect,4.5,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Geovany Quenda,Chelsea,MID,Mid-Tier Domestic / European Transfer,5.5,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Nicolas Jackson,Chelsea,FWD,Mid-Tier Domestic / European Transfer,6.5,1800,0.206,0.101,0.307,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Emmanuel Emegha,Chelsea,FWD,Mid-Tier Domestic / European Transfer,5.0,1800,0.206,0.101,0.307,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Mike Penders,Chelsea,GK,Academy / Youth Prospect,4.5,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Aaron Anselmino,Chelsea,DEF,Academy / Youth Prospect,4.5,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Valentín Barco,Chelsea,MID,Mid-Tier Domestic / European Transfer,5.5,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Mykhailo Mudryk,Chelsea,MID,Mid-Tier Domestic / European Transfer,5.5,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Pep Chavarría,Chelsea,DEF,Mid-Tier Domestic / European Transfer,5.0,1800,0.061,0.051,0.112,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Carl Rushworth,Coventry City,GK,Championship / Promoted Core,4.5,2800,0.053,0.047,0.1,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Oliver Dovin,Coventry City,GK,Championship / Promoted Core,4.0,2800,0.053,0.047,0.1,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Ben Wilson,Coventry City,GK,Championship / Promoted Core,4.5,2800,0.053,0.047,0.1,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Bobby Thomas,Coventry City,DEF,Championship / Promoted Core,4.0,2800,0.053,0.047,0.1,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Liam Kitching,Coventry City,DEF,Championship / Promoted Core,4.0,2800,0.053,0.047,0.1,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Milan van Ewijk,Coventry City,DEF,Championship / Promoted Core,4.0,2800,0.053,0.047,0.1,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Jay Dasilva,Coventry City,DEF,Championship / Promoted Core,4.0,2800,0.053,0.047,0.1,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Kaine Kesler-Hayden,Coventry City,DEF,Championship / Promoted Core,4.0,2800,0.053,0.047,0.1,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Jake Bidwell,Coventry City,DEF,Championship / Promoted Core,4.0,2800,0.053,0.047,0.1,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Joel Latibeaudiere,Coventry City,DEF,Championship / Promoted Core,4.0,2800,0.053,0.047,0.1,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Luke Woolfenden,Coventry City,DEF,Championship / Promoted Core,4.0,2800,0.053,0.047,0.1,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Miguel Brau,Coventry City,DEF,Championship / Promoted Core,4.0,2800,0.053,0.047,0.1,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Aurèle Amenda,Coventry City,DEF,Championship / Promoted Core,4.0,2800,0.053,0.047,0.1,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Jack Rudoni,Coventry City,MID,Championship / Promoted Core,5.0,2800,0.123,0.122,0.245,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Matt Grimes,Coventry City,MID,Championship / Promoted Core,5.0,2800,0.123,0.122,0.245,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Tatsuhiro Sakamoto,Coventry City,MID,Championship / Promoted Core,5.0,2800,0.123,0.122,0.245,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Ephron Mason-Clark,Coventry City,MID,Championship / Promoted Core,5.5,2800,0.123,0.122,0.245,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Josh Eccles,Coventry City,MID,Championship / Promoted Core,5.0,2800,0.123,0.122,0.245,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Victor Torp,Coventry City,MID,Championship / Promoted Core,5.5,2800,0.123,0.122,0.245,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+George Shepherd,Coventry City,MID,Championship / Promoted Core,4.5,2800,0.123,0.122,0.245,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Loum Tchaouna,Coventry City,MID,Championship / Promoted Core,5.5,2800,0.123,0.122,0.245,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Raphael Borges Rodrigues,Coventry City,MID,Championship / Promoted Core,4.5,2800,0.123,0.122,0.245,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Kaine Andrews,Coventry City,MID,Championship / Promoted Core,4.5,2800,0.123,0.122,0.245,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Haji Wright,Coventry City,FWD,Championship / Promoted Core,5.5,2800,0.222,0.097,0.319,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Brandon Thomas-Asante,Coventry City,FWD,Championship / Promoted Core,5.0,2800,0.222,0.097,0.319,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Ellis Simms,Coventry City,FWD,Championship / Promoted Core,5.0,2800,0.222,0.097,0.319,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Jahnoah Markelo,Coventry City,FWD,Championship / Promoted Core,5.0,2800,0.222,0.097,0.319,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Norman Bassette,Coventry City,FWD,Championship / Promoted Core,4.5,2800,0.222,0.097,0.319,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Caleb Yirenkyi,Coventry City,MID,Championship / Promoted Core,5.0,2800,0.123,0.122,0.245,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Gustavo Hamer,Coventry City,MID,Championship / Promoted Core,5.5,2800,0.123,0.122,0.245,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Sidiki Cherif,Coventry City,FWD,Championship / Promoted Core,5.0,2800,0.222,0.097,0.319,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Oscar Mingueza,Crystal Palace,DEF,Academy / Youth Prospect,4.5,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Matheus França de Oliveira,Crystal Palace,MID,Mid-Tier Domestic / European Transfer,5.0,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Cheick Doucouré,Crystal Palace,MID,Mid-Tier Domestic / European Transfer,5.0,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Jesurun Rak-Sakyi,Crystal Palace,MID,Mid-Tier Domestic / European Transfer,5.0,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Remi Matthews,Crystal Palace,GK,Academy / Youth Prospect,4.0,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Takehiro Tomiyasu,Crystal Palace,DEF,Academy / Youth Prospect,4.5,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Anan Khalaili,Crystal Palace,DEF,Mid-Tier Domestic / European Transfer,5.0,1800,0.061,0.051,0.112,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Zavier Gozo,Crystal Palace,MID,Mid-Tier Domestic / European Transfer,5.0,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Mark Travers,Everton,GK,Mid-Tier Domestic / European Transfer,5.0,1800,0.061,0.051,0.112,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Tom King,Everton,GK,Academy / Youth Prospect,4.5,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Adam Aznou,Everton,DEF,Academy / Youth Prospect,4.0,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Hayden Hackney,Everton,MID,Mid-Tier Domestic / European Transfer,5.5,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Benjamin Lecomte,Fulham,GK,Academy / Youth Prospect,4.0,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Alfie McNally,Fulham,GK,Academy / Youth Prospect,4.0,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Gonzalo García,Fulham,FWD,Mid-Tier Domestic / European Transfer,6.0,1800,0.206,0.101,0.307,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+César Palacios,Fulham,MID,Mid-Tier Domestic / European Transfer,5.5,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Shea Charles,Fulham,MID,Mid-Tier Domestic / European Transfer,5.0,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Dillon Phillips,Hull City,GK,Championship / Promoted Core,4.0,2800,0.053,0.047,0.1,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Jack Butland,Hull City,GK,Championship / Promoted Core,4.5,2800,0.053,0.047,0.1,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Harvey Cartwright,Hull City,GK,Championship / Promoted Core,4.0,2800,0.053,0.047,0.1,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Thimothée Lo-Tutala,Hull City,GK,Championship / Promoted Core,4.0,2800,0.053,0.047,0.1,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+John Egan,Hull City,DEF,Championship / Promoted Core,4.0,2800,0.053,0.047,0.1,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Charlie Hughes,Hull City,DEF,Championship / Promoted Core,4.0,2800,0.053,0.047,0.1,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Semi Ajayi,Hull City,DEF,Championship / Promoted Core,4.0,2800,0.053,0.047,0.1,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Lewie Coyle,Hull City,DEF,Championship / Promoted Core,4.0,2800,0.053,0.047,0.1,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Cody Drameh,Hull City,DEF,Championship / Promoted Core,4.0,2800,0.053,0.047,0.1,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Ryan Giles,Hull City,DEF,Championship / Promoted Core,4.0,2800,0.053,0.047,0.1,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Matty Jacob,Hull City,DEF,Championship / Promoted Core,4.0,2800,0.053,0.047,0.1,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Cathal McCarthy,Hull City,DEF,Championship / Promoted Core,4.0,2800,0.053,0.047,0.1,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Paddy McNair,Hull City,DEF,Championship / Promoted Core,4.0,2800,0.053,0.047,0.1,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Mohamed Belloumi,Hull City,MID,Championship / Promoted Core,5.0,2800,0.123,0.122,0.245,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Liam Millar,Hull City,MID,Championship / Promoted Core,5.0,2800,0.123,0.122,0.245,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Kieran Dowell,Hull City,MID,Championship / Promoted Core,4.5,2800,0.123,0.122,0.245,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Matt Crooks,Hull City,MID,Championship / Promoted Core,4.5,2800,0.123,0.122,0.245,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Regan Slater,Hull City,MID,Championship / Promoted Core,4.5,2800,0.123,0.122,0.245,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Eliot Matazo,Hull City,MID,Championship / Promoted Core,4.5,2800,0.123,0.122,0.245,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Abdülkadir Ömür,Hull City,MID,Championship / Promoted Core,5.0,2800,0.123,0.122,0.245,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Abu Kamara,Hull City,MID,Championship / Promoted Core,5.0,2800,0.123,0.122,0.245,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Óscar Zambrano,Hull City,MID,Championship / Promoted Core,4.5,2800,0.123,0.122,0.245,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Oli McBurnie,Hull City,FWD,Championship / Promoted Core,5.5,2800,0.222,0.097,0.319,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+David Akintola,Hull City,MID,Championship / Promoted Core,5.0,2800,0.123,0.122,0.245,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Darko Gyabi,Hull City,MID,Championship / Promoted Core,4.5,2800,0.123,0.122,0.245,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Enis Destan,Hull City,FWD,Championship / Promoted Core,4.5,2800,0.222,0.097,0.319,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Mason Burstow,Hull City,FWD,Championship / Promoted Core,4.5,2800,0.222,0.097,0.319,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Joe Gelhardt,Hull City,MID,Championship / Promoted Core,5.0,2800,0.123,0.122,0.245,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Matt Targett,Hull City,DEF,Championship / Promoted Core,4.0,2800,0.053,0.047,0.1,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Hidemasa Morita,Hull City,MID,Championship / Promoted Core,5.0,2800,0.123,0.122,0.245,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Konstantinos Tzolakis,Hull City,GK,Championship / Promoted Core,4.5,2800,0.053,0.047,0.1,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Jens Hjertø-Dahl,Hull City,MID,Championship / Promoted Core,5.0,2800,0.123,0.122,0.245,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Elliot Stroud,Hull City,MID,Championship / Promoted Core,5.0,2800,0.123,0.122,0.245,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Lucas Herrington,Hull City,DEF,Championship / Promoted Core,4.0,2800,0.053,0.047,0.1,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Nobel Mendy,Hull City,DEF,Championship / Promoted Core,4.0,2800,0.053,0.047,0.1,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Lucas Gourna-Douath,Hull City,MID,Championship / Promoted Core,5.0,2800,0.123,0.122,0.245,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Christian Walton,Ipswich Town,GK,Academy / Youth Prospect,4.5,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Alex Palmer,Ipswich Town,GK,Academy / Youth Prospect,4.0,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+David Button,Ipswich Town,GK,Academy / Youth Prospect,4.0,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Cédric Kipré,Ipswich Town,DEF,Academy / Youth Prospect,4.0,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Dara O'Shea,Ipswich Town,DEF,Academy / Youth Prospect,4.0,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Leif Davis,Ipswich Town,DEF,Academy / Youth Prospect,4.0,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Jacob Greaves,Ipswich Town,DEF,Academy / Youth Prospect,4.0,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Ben Johnson,Ipswich Town,DEF,Academy / Youth Prospect,4.0,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Darnell Furlong,Ipswich Town,DEF,Academy / Youth Prospect,4.0,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Marcelino Núñez,Ipswich Town,MID,Mid-Tier Domestic / European Transfer,5.0,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Azor Matusiwa,Ipswich Town,MID,Mid-Tier Domestic / European Transfer,5.0,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Wes Burns,Ipswich Town,MID,Mid-Tier Domestic / European Transfer,5.0,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Jack Taylor,Ipswich Town,MID,Academy / Youth Prospect,4.5,450,0.113,0.081,0.194,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Jack Clarke,Ipswich Town,MID,Mid-Tier Domestic / European Transfer,5.5,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Chiedozie Ogbene,Ipswich Town,MID,Mid-Tier Domestic / European Transfer,5.0,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Abdul Fatawu,Ipswich Town,MID,Mid-Tier Domestic / European Transfer,5.5,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Emersonn Correia da Silva,Ipswich Town,FWD,Mid-Tier Domestic / European Transfer,5.5,1800,0.206,0.101,0.307,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+George Hirst,Ipswich Town,FWD,Mid-Tier Domestic / European Transfer,5.0,1800,0.206,0.101,0.307,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Jaden Philogene,Ipswich Town,MID,Mid-Tier Domestic / European Transfer,5.5,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Sam Szmodics,Ipswich Town,MID,Mid-Tier Domestic / European Transfer,5.0,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Chuba Akpom,Ipswich Town,FWD,Mid-Tier Domestic / European Transfer,5.0,1800,0.206,0.101,0.307,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Sindre Walle Egeli,Ipswich Town,FWD,Academy / Youth Prospect,4.5,450,0.132,0.078,0.21,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Ali Al-Hamadi,Ipswich Town,FWD,Mid-Tier Domestic / European Transfer,5.0,1800,0.206,0.101,0.307,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Kasey McAteer,Ipswich Town,MID,Academy / Youth Prospect,4.5,450,0.113,0.081,0.194,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Anis Mehmeti,Ipswich Town,MID,Mid-Tier Domestic / European Transfer,5.0,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Kayne van Oevelen,Ipswich Town,GK,Academy / Youth Prospect,4.5,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Daizen Maeda,Ipswich Town,MID,Mid-Tier Domestic / European Transfer,5.5,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Kjell Scherpen,Ipswich Town,GK,Academy / Youth Prospect,4.5,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Florentino Ibrain Morris Luís,Ipswich Town,MID,Mid-Tier Domestic / European Transfer,5.0,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Julio Enciso,Ipswich Town,MID,Mid-Tier Domestic / European Transfer,5.5,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Abdoul Ouattara,Ipswich Town,DEF,Academy / Youth Prospect,4.0,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Tarik Muharemović,Leeds United,DEF,Championship / Promoted Core,5.0,2800,0.053,0.047,0.1,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Mateo Joseph Fernández-Regatillo,Leeds United,FWD,Championship / Promoted Core,4.5,2800,0.222,0.097,0.319,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Nico Elvedi,Leeds United,DEF,Championship / Promoted Core,4.5,2800,0.053,0.047,0.1,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Armin Pecsi,Liverpool,GK,Academy / Youth Prospect,4.0,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Vitezslav Jaros,Liverpool,GK,Academy / Youth Prospect,4.0,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Harvey Davies,Liverpool,GK,Academy / Youth Prospect,4.0,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Wellity Lucky,Liverpool,DEF,Academy / Youth Prospect,4.0,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Jeremy Jacquet,Liverpool,DEF,Mid-Tier Domestic / European Transfer,5.0,1800,0.061,0.051,0.112,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Giovanni Leoni,Liverpool,DEF,Academy / Youth Prospect,4.0,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Kostas Tsimikas,Liverpool,DEF,Mid-Tier Domestic / European Transfer,5.0,1800,0.061,0.051,0.112,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Calvin Ramsay,Liverpool,DEF,Academy / Youth Prospect,4.0,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Stefan Bajčetić Maquieira,Liverpool,MID,Mid-Tier Domestic / European Transfer,5.0,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Victor Munoz,Liverpool,MID,Mid-Tier Domestic / European Transfer,6.5,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+James McConnell,Liverpool,MID,Academy / Youth Prospect,4.5,450,0.113,0.081,0.194,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Lewis Koumas,Liverpool,MID,Mid-Tier Domestic / European Transfer,5.0,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Jayden Danns,Liverpool,FWD,Academy / Youth Prospect,4.5,450,0.132,0.078,0.21,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Ronald Araujo,Liverpool,DEF,Mid-Tier Domestic / European Transfer,5.5,1800,0.061,0.051,0.112,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Marcus Bettinelli,Manchester City,GK,Academy / Youth Prospect,4.5,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Vitor de Oliveira Nunes dos Reis,Manchester City,DEF,Academy / Youth Prospect,4.5,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Claudio Echeverri,Manchester City,MID,Mid-Tier Domestic / European Transfer,5.0,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Kalvin Phillips,Manchester City,MID,Mid-Tier Domestic / European Transfer,5.0,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Jeremy Monga,Manchester City,MID,Mid-Tier Domestic / European Transfer,5.0,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Gerónimo Rulli,Manchester City,GK,Mid-Tier Domestic / European Transfer,5.0,1800,0.061,0.051,0.112,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Tom Heaton,Manchester United,GK,Academy / Youth Prospect,4.0,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Harry Amass,Manchester United,DEF,Academy / Youth Prospect,4.0,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Marcus Rashford,Manchester United,MID,Elite Foreign Transfer,7.0,2500,0.21,0.223,0.433,1473,0.065,Hierarchical Empirical-Bayes Cross-League Model
+Toby Collyer,Manchester United,MID,Mid-Tier Domestic / European Transfer,5.0,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Chido Obi,Manchester United,FWD,Academy / Youth Prospect,4.5,450,0.132,0.078,0.21,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Mark Gillespie,Newcastle United,GK,Academy / Youth Prospect,4.5,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Ewen Jaouen,Newcastle United,GK,Academy / Youth Prospect,4.5,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Bazoumana Touré,Newcastle United,MID,Mid-Tier Domestic / European Transfer,6.0,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Sean Steur,Newcastle United,MID,Mid-Tier Domestic / European Transfer,5.0,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Aladji Bamba,Newcastle United,MID,Mid-Tier Domestic / European Transfer,5.0,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Lukás Hornícek,Newcastle United,GK,Mid-Tier Domestic / European Transfer,5.0,1800,0.061,0.051,0.112,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Amar Dedic,Newcastle United,DEF,Academy / Youth Prospect,4.5,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Omar Richards,Nottingham Forest,DEF,Academy / Youth Prospect,4.0,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Tyler Bindon,Nottingham Forest,DEF,Academy / Youth Prospect,4.0,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Xaver Schlager,Nottingham Forest,MID,Mid-Tier Domestic / European Transfer,5.0,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Ousmane Diomande,Nottingham Forest,DEF,Mid-Tier Domestic / European Transfer,5.5,1800,0.061,0.051,0.112,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Steven Benda,Nottingham Forest,GK,Academy / Youth Prospect,4.5,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Brandon Austin,Tottenham,GK,Academy / Youth Prospect,4.0,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Ashley Phillips,Tottenham,DEF,Academy / Youth Prospect,4.5,450,0.099,0.068,0.167,936,0.12,Hierarchical Empirical-Bayes Cross-League Model
+Dejan Kulusevski,Tottenham,MID,Mid-Tier Domestic / European Transfer,6.5,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Mikey Moore,Tottenham,MID,Mid-Tier Domestic / European Transfer,5.0,1800,0.126,0.12,0.246,1385,0.09,Hierarchical Empirical-Bayes Cross-League Model
+Anthony Patterson,Sunderland,GK,Championship / Promoted Core,4.0,2800,0.053,0.047,0.1,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Leo Fuhr Hjelde,Sunderland,DEF,Championship / Promoted Core,4.0,2800,0.053,0.047,0.1,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model
+Thomas Meunier,Sunderland,DEF,Championship / Promoted Core,4.5,2800,0.053,0.047,0.1,1500,0.085,Hierarchical Empirical-Bayes Cross-League Model

@@ -1,0 +1,549 @@
+{
+  "simulations": 100000,
+  "v2_results": {
+    "Arsenal": {
+      "team": "Arsenal",
+      "xPts": 72.89,
+      "champ_pct": 32.21,
+      "top4_pct": 86.25,
+      "relegation_pct": 0.0
+    },
+    "Aston Villa": {
+      "team": "Aston Villa",
+      "xPts": 61.01,
+      "champ_pct": 2.51,
+      "top4_pct": 32.31,
+      "relegation_pct": 0.13
+    },
+    "Bournemouth": {
+      "team": "Bournemouth",
+      "xPts": 60.15,
+      "champ_pct": 2.1,
+      "top4_pct": 28.36,
+      "relegation_pct": 0.2
+    },
+    "Brentford": {
+      "team": "Brentford",
+      "xPts": 53.0,
+      "champ_pct": 0.3,
+      "top4_pct": 7.44,
+      "relegation_pct": 2.16
+    },
+    "Brighton and Hove Albion": {
+      "team": "Brighton and Hove Albion",
+      "xPts": 54.67,
+      "champ_pct": 0.48,
+      "top4_pct": 10.7,
+      "relegation_pct": 1.38
+    },
+    "Chelsea": {
+      "team": "Chelsea",
+      "xPts": 57.89,
+      "champ_pct": 1.1,
+      "top4_pct": 19.35,
+      "relegation_pct": 0.47
+    },
+    "Coventry City": {
+      "team": "Coventry City",
+      "xPts": 23.04,
+      "champ_pct": 0.0,
+      "top4_pct": 0.0,
+      "relegation_pct": 97.97
+    },
+    "Crystal Palace": {
+      "team": "Crystal Palace",
+      "xPts": 53.22,
+      "champ_pct": 0.3,
+      "top4_pct": 7.5,
+      "relegation_pct": 2.0
+    },
+    "Everton": {
+      "team": "Everton",
+      "xPts": 57.97,
+      "champ_pct": 1.3,
+      "top4_pct": 19.85,
+      "relegation_pct": 0.49
+    },
+    "Fulham": {
+      "team": "Fulham",
+      "xPts": 57.05,
+      "champ_pct": 0.86,
+      "top4_pct": 16.73,
+      "relegation_pct": 0.63
+    },
+    "Hull City": {
+      "team": "Hull City",
+      "xPts": 32.95,
+      "champ_pct": 0.0,
+      "top4_pct": 0.01,
+      "relegation_pct": 75.2
+    },
+    "Ipswich Town": {
+      "team": "Ipswich Town",
+      "xPts": 33.73,
+      "champ_pct": 0.0,
+      "top4_pct": 0.01,
+      "relegation_pct": 71.36
+    },
+    "Leeds United": {
+      "team": "Leeds United",
+      "xPts": 48.25,
+      "champ_pct": 0.05,
+      "top4_pct": 2.1,
+      "relegation_pct": 6.96
+    },
+    "Liverpool": {
+      "team": "Liverpool",
+      "xPts": 60.25,
+      "champ_pct": 2.19,
+      "top4_pct": 28.79,
+      "relegation_pct": 0.19
+    },
+    "Manchester City": {
+      "team": "Manchester City",
+      "xPts": 76.16,
+      "champ_pct": 53.71,
+      "top4_pct": 93.49,
+      "relegation_pct": 0.0
+    },
+    "Manchester United": {
+      "team": "Manchester United",
+      "xPts": 60.27,
+      "champ_pct": 2.17,
+      "top4_pct": 28.84,
+      "relegation_pct": 0.19
+    },
+    "Newcastle United": {
+      "team": "Newcastle United",
+      "xPts": 54.1,
+      "champ_pct": 0.37,
+      "top4_pct": 9.31,
+      "relegation_pct": 1.61
+    },
+    "Nottingham Forest": {
+      "team": "Nottingham Forest",
+      "xPts": 53.49,
+      "champ_pct": 0.34,
+      "top4_pct": 8.13,
+      "relegation_pct": 1.77
+    },
+    "Sunderland": {
+      "team": "Sunderland",
+      "xPts": 43.74,
+      "champ_pct": 0.01,
+      "top4_pct": 0.45,
+      "relegation_pct": 17.49
+    },
+    "Tottenham": {
+      "team": "Tottenham",
+      "xPts": 43.15,
+      "champ_pct": 0.0,
+      "top4_pct": 0.39,
+      "relegation_pct": 19.79
+    }
+  },
+  "v5_results": {
+    "Arsenal": {
+      "team": "Arsenal",
+      "xPts": 71.58,
+      "champ_pct": 26.27,
+      "top4_pct": 82.78,
+      "relegation_pct": 0.0
+    },
+    "Aston Villa": {
+      "team": "Aston Villa",
+      "xPts": 60.15,
+      "champ_pct": 2.08,
+      "top4_pct": 28.89,
+      "relegation_pct": 0.17
+    },
+    "Bournemouth": {
+      "team": "Bournemouth",
+      "xPts": 61.06,
+      "champ_pct": 2.73,
+      "top4_pct": 33.15,
+      "relegation_pct": 0.13
+    },
+    "Brentford": {
+      "team": "Brentford",
+      "xPts": 53.34,
+      "champ_pct": 0.33,
+      "top4_pct": 8.2,
+      "relegation_pct": 1.8
+    },
+    "Brighton and Hove Albion": {
+      "team": "Brighton and Hove Albion",
+      "xPts": 55.84,
+      "champ_pct": 0.72,
+      "top4_pct": 13.86,
+      "relegation_pct": 0.87
+    },
+    "Chelsea": {
+      "team": "Chelsea",
+      "xPts": 57.99,
+      "champ_pct": 1.19,
+      "top4_pct": 20.14,
+      "relegation_pct": 0.41
+    },
+    "Coventry City": {
+      "team": "Coventry City",
+      "xPts": 23.34,
+      "champ_pct": 0.0,
+      "top4_pct": 0.0,
+      "relegation_pct": 97.75
+    },
+    "Crystal Palace": {
+      "team": "Crystal Palace",
+      "xPts": 54.06,
+      "champ_pct": 0.39,
+      "top4_pct": 9.29,
+      "relegation_pct": 1.45
+    },
+    "Everton": {
+      "team": "Everton",
+      "xPts": 57.21,
+      "champ_pct": 1.05,
+      "top4_pct": 17.67,
+      "relegation_pct": 0.58
+    },
+    "Fulham": {
+      "team": "Fulham",
+      "xPts": 56.1,
+      "champ_pct": 0.67,
+      "top4_pct": 14.34,
+      "relegation_pct": 0.78
+    },
+    "Hull City": {
+      "team": "Hull City",
+      "xPts": 32.13,
+      "champ_pct": 0.0,
+      "top4_pct": 0.0,
+      "relegation_pct": 78.6
+    },
+    "Ipswich Town": {
+      "team": "Ipswich Town",
+      "xPts": 32.7,
+      "champ_pct": 0.0,
+      "top4_pct": 0.0,
+      "relegation_pct": 75.97
+    },
+    "Leeds United": {
+      "team": "Leeds United",
+      "xPts": 49.76,
+      "champ_pct": 0.09,
+      "top4_pct": 3.3,
+      "relegation_pct": 4.64
+    },
+    "Liverpool": {
+      "team": "Liverpool",
+      "xPts": 59.31,
+      "champ_pct": 1.74,
+      "top4_pct": 25.23,
+      "relegation_pct": 0.26
+    },
+    "Manchester City": {
+      "team": "Manchester City",
+      "xPts": 76.86,
+      "champ_pct": 59.78,
+      "top4_pct": 94.8,
+      "relegation_pct": 0.0
+    },
+    "Manchester United": {
+      "team": "Manchester United",
+      "xPts": 60.37,
+      "champ_pct": 2.26,
+      "top4_pct": 29.81,
+      "relegation_pct": 0.15
+    },
+    "Newcastle United": {
+      "team": "Newcastle United",
+      "xPts": 54.4,
+      "champ_pct": 0.41,
+      "top4_pct": 10.21,
+      "relegation_pct": 1.32
+    },
+    "Nottingham Forest": {
+      "team": "Nottingham Forest",
+      "xPts": 52.93,
+      "champ_pct": 0.27,
+      "top4_pct": 7.36,
+      "relegation_pct": 1.92
+    },
+    "Sunderland": {
+      "team": "Sunderland",
+      "xPts": 44.06,
+      "champ_pct": 0.0,
+      "top4_pct": 0.49,
+      "relegation_pct": 15.39
+    },
+    "Tottenham": {
+      "team": "Tottenham",
+      "xPts": 43.38,
+      "champ_pct": 0.0,
+      "top4_pct": 0.46,
+      "relegation_pct": 17.79
+    }
+  },
+  "comparison": [
+    {
+      "team": "Manchester City",
+      "v2_xpts": 76.16,
+      "v5_xpts": 76.86,
+      "delta_xpts": 0.7,
+      "v2_champ_pct": 53.71,
+      "v5_champ_pct": 59.78,
+      "delta_champ_pct": 6.07,
+      "v2_top4_pct": 93.49,
+      "v5_top4_pct": 94.8,
+      "v2_rel_pct": 0.0,
+      "v5_rel_pct": 0.0
+    },
+    {
+      "team": "Arsenal",
+      "v2_xpts": 72.89,
+      "v5_xpts": 71.58,
+      "delta_xpts": -1.31,
+      "v2_champ_pct": 32.21,
+      "v5_champ_pct": 26.27,
+      "delta_champ_pct": -5.94,
+      "v2_top4_pct": 86.25,
+      "v5_top4_pct": 82.78,
+      "v2_rel_pct": 0.0,
+      "v5_rel_pct": 0.0
+    },
+    {
+      "team": "Bournemouth",
+      "v2_xpts": 60.15,
+      "v5_xpts": 61.06,
+      "delta_xpts": 0.91,
+      "v2_champ_pct": 2.1,
+      "v5_champ_pct": 2.73,
+      "delta_champ_pct": 0.63,
+      "v2_top4_pct": 28.36,
+      "v5_top4_pct": 33.15,
+      "v2_rel_pct": 0.2,
+      "v5_rel_pct": 0.13
+    },
+    {
+      "team": "Manchester United",
+      "v2_xpts": 60.27,
+      "v5_xpts": 60.37,
+      "delta_xpts": 0.1,
+      "v2_champ_pct": 2.17,
+      "v5_champ_pct": 2.26,
+      "delta_champ_pct": 0.09,
+      "v2_top4_pct": 28.84,
+      "v5_top4_pct": 29.81,
+      "v2_rel_pct": 0.19,
+      "v5_rel_pct": 0.15
+    },
+    {
+      "team": "Aston Villa",
+      "v2_xpts": 61.01,
+      "v5_xpts": 60.15,
+      "delta_xpts": -0.86,
+      "v2_champ_pct": 2.51,
+      "v5_champ_pct": 2.08,
+      "delta_champ_pct": -0.43,
+      "v2_top4_pct": 32.31,
+      "v5_top4_pct": 28.89,
+      "v2_rel_pct": 0.13,
+      "v5_rel_pct": 0.17
+    },
+    {
+      "team": "Liverpool",
+      "v2_xpts": 60.25,
+      "v5_xpts": 59.31,
+      "delta_xpts": -0.94,
+      "v2_champ_pct": 2.19,
+      "v5_champ_pct": 1.74,
+      "delta_champ_pct": -0.45,
+      "v2_top4_pct": 28.79,
+      "v5_top4_pct": 25.23,
+      "v2_rel_pct": 0.19,
+      "v5_rel_pct": 0.26
+    },
+    {
+      "team": "Chelsea",
+      "v2_xpts": 57.89,
+      "v5_xpts": 57.99,
+      "delta_xpts": 0.1,
+      "v2_champ_pct": 1.1,
+      "v5_champ_pct": 1.19,
+      "delta_champ_pct": 0.09,
+      "v2_top4_pct": 19.35,
+      "v5_top4_pct": 20.14,
+      "v2_rel_pct": 0.47,
+      "v5_rel_pct": 0.41
+    },
+    {
+      "team": "Everton",
+      "v2_xpts": 57.97,
+      "v5_xpts": 57.21,
+      "delta_xpts": -0.76,
+      "v2_champ_pct": 1.3,
+      "v5_champ_pct": 1.05,
+      "delta_champ_pct": -0.25,
+      "v2_top4_pct": 19.85,
+      "v5_top4_pct": 17.67,
+      "v2_rel_pct": 0.49,
+      "v5_rel_pct": 0.58
+    },
+    {
+      "team": "Brighton and Hove Albion",
+      "v2_xpts": 54.67,
+      "v5_xpts": 55.84,
+      "delta_xpts": 1.17,
+      "v2_champ_pct": 0.48,
+      "v5_champ_pct": 0.72,
+      "delta_champ_pct": 0.24,
+      "v2_top4_pct": 10.7,
+      "v5_top4_pct": 13.86,
+      "v2_rel_pct": 1.38,
+      "v5_rel_pct": 0.87
+    },
+    {
+      "team": "Fulham",
+      "v2_xpts": 57.05,
+      "v5_xpts": 56.1,
+      "delta_xpts": -0.95,
+      "v2_champ_pct": 0.86,
+      "v5_champ_pct": 0.67,
+      "delta_champ_pct": -0.19,
+      "v2_top4_pct": 16.73,
+      "v5_top4_pct": 14.34,
+      "v2_rel_pct": 0.63,
+      "v5_rel_pct": 0.78
+    },
+    {
+      "team": "Newcastle United",
+      "v2_xpts": 54.1,
+      "v5_xpts": 54.4,
+      "delta_xpts": 0.3,
+      "v2_champ_pct": 0.37,
+      "v5_champ_pct": 0.41,
+      "delta_champ_pct": 0.04,
+      "v2_top4_pct": 9.31,
+      "v5_top4_pct": 10.21,
+      "v2_rel_pct": 1.61,
+      "v5_rel_pct": 1.32
+    },
+    {
+      "team": "Crystal Palace",
+      "v2_xpts": 53.22,
+      "v5_xpts": 54.06,
+      "delta_xpts": 0.84,
+      "v2_champ_pct": 0.3,
+      "v5_champ_pct": 0.39,
+      "delta_champ_pct": 0.09,
+      "v2_top4_pct": 7.5,
+      "v5_top4_pct": 9.29,
+      "v2_rel_pct": 2.0,
+      "v5_rel_pct": 1.45
+    },
+    {
+      "team": "Brentford",
+      "v2_xpts": 53.0,
+      "v5_xpts": 53.34,
+      "delta_xpts": 0.34,
+      "v2_champ_pct": 0.3,
+      "v5_champ_pct": 0.33,
+      "delta_champ_pct": 0.03,
+      "v2_top4_pct": 7.44,
+      "v5_top4_pct": 8.2,
+      "v2_rel_pct": 2.16,
+      "v5_rel_pct": 1.8
+    },
+    {
+      "team": "Nottingham Forest",
+      "v2_xpts": 53.49,
+      "v5_xpts": 52.93,
+      "delta_xpts": -0.56,
+      "v2_champ_pct": 0.34,
+      "v5_champ_pct": 0.27,
+      "delta_champ_pct": -0.07,
+      "v2_top4_pct": 8.13,
+      "v5_top4_pct": 7.36,
+      "v2_rel_pct": 1.77,
+      "v5_rel_pct": 1.92
+    },
+    {
+      "team": "Leeds United",
+      "v2_xpts": 48.25,
+      "v5_xpts": 49.76,
+      "delta_xpts": 1.51,
+      "v2_champ_pct": 0.05,
+      "v5_champ_pct": 0.09,
+      "delta_champ_pct": 0.04,
+      "v2_top4_pct": 2.1,
+      "v5_top4_pct": 3.3,
+      "v2_rel_pct": 6.96,
+      "v5_rel_pct": 4.64
+    },
+    {
+      "team": "Coventry City",
+      "v2_xpts": 23.04,
+      "v5_xpts": 23.34,
+      "delta_xpts": 0.3,
+      "v2_champ_pct": 0.0,
+      "v5_champ_pct": 0.0,
+      "delta_champ_pct": 0.0,
+      "v2_top4_pct": 0.0,
+      "v5_top4_pct": 0.0,
+      "v2_rel_pct": 97.97,
+      "v5_rel_pct": 97.75
+    },
+    {
+      "team": "Hull City",
+      "v2_xpts": 32.95,
+      "v5_xpts": 32.13,
+      "delta_xpts": -0.82,
+      "v2_champ_pct": 0.0,
+      "v5_champ_pct": 0.0,
+      "delta_champ_pct": 0.0,
+      "v2_top4_pct": 0.01,
+      "v5_top4_pct": 0.0,
+      "v2_rel_pct": 75.2,
+      "v5_rel_pct": 78.6
+    },
+    {
+      "team": "Ipswich Town",
+      "v2_xpts": 33.73,
+      "v5_xpts": 32.7,
+      "delta_xpts": -1.03,
+      "v2_champ_pct": 0.0,
+      "v5_champ_pct": 0.0,
+      "delta_champ_pct": 0.0,
+      "v2_top4_pct": 0.01,
+      "v5_top4_pct": 0.0,
+      "v2_rel_pct": 71.36,
+      "v5_rel_pct": 75.97
+    },
+    {
+      "team": "Sunderland",
+      "v2_xpts": 43.74,
+      "v5_xpts": 44.06,
+      "delta_xpts": 0.32,
+      "v2_champ_pct": 0.01,
+      "v5_champ_pct": 0.0,
+      "delta_champ_pct": -0.01,
+      "v2_top4_pct": 0.45,
+      "v5_top4_pct": 0.49,
+      "v2_rel_pct": 17.49,
+      "v5_rel_pct": 15.39
+    },
+    {
+      "team": "Tottenham",
+      "v2_xpts": 43.15,
+      "v5_xpts": 43.38,
+      "delta_xpts": 0.23,
+      "v2_champ_pct": 0.0,
+      "v5_champ_pct": 0.0,
+      "delta_champ_pct": 0.0,
+      "v2_top4_pct": 0.39,
+      "v5_top4_pct": 0.46,
+      "v2_rel_pct": 19.79,
+      "v5_rel_pct": 17.79
+    }
+  ]
+}

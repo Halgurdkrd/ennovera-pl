@@ -1,0 +1,74 @@
+{
+  "2022-23": {
+    "starting_budget": 100.0,
+    "squad_size": 15,
+    "position_quotas": { "GK": 2, "DEF": 5, "MID": 5, "FWD": 3 },
+    "max_players_per_club": 3,
+    "max_banked_free_transfers": 2,
+    "free_transfers_per_gw": 1,
+    "transfer_hit_cost": 4,
+    "selling_price_profit_tax": 0.5,
+    "chips": {
+      "wildcard_1": { "valid_gw_start": 1, "valid_gw_end": 16, "half": 1 },
+      "world_cup_unlimited_transfers": { "valid_gw_start": 17, "valid_gw_end": 17, "half": 1 },
+      "wildcard_2": { "valid_gw_start": 17, "valid_gw_end": 38, "half": 2 },
+      "free_hit": { "valid_gw_start": 1, "valid_gw_end": 38, "uses": 1 },
+      "bench_boost": { "valid_gw_start": 1, "valid_gw_end": 38, "uses": 1 },
+      "triple_captain": { "valid_gw_start": 1, "valid_gw_end": 38, "uses": 1 }
+    }
+  },
+  "2023-24": {
+    "starting_budget": 100.0,
+    "squad_size": 15,
+    "position_quotas": { "GK": 2, "DEF": 5, "MID": 5, "FWD": 3 },
+    "max_players_per_club": 3,
+    "max_banked_free_transfers": 2,
+    "free_transfers_per_gw": 1,
+    "transfer_hit_cost": 4,
+    "selling_price_profit_tax": 0.5,
+    "chips": {
+      "wildcard_1": { "valid_gw_start": 1, "valid_gw_end": 19, "half": 1 },
+      "wildcard_2": { "valid_gw_start": 20, "valid_gw_end": 38, "half": 2 },
+      "free_hit": { "valid_gw_start": 1, "valid_gw_end": 38, "uses": 1 },
+      "bench_boost": { "valid_gw_start": 1, "valid_gw_end": 38, "uses": 1 },
+      "triple_captain": { "valid_gw_start": 1, "valid_gw_end": 38, "uses": 1 }
+    }
+  },
+  "2024-25": {
+    "starting_budget": 100.0,
+    "squad_size": 15,
+    "position_quotas": { "GK": 2, "DEF": 5, "MID": 5, "FWD": 3 },
+    "max_players_per_club": 3,
+    "max_banked_free_transfers": 5,
+    "free_transfers_per_gw": 1,
+    "transfer_hit_cost": 4,
+    "selling_price_profit_tax": 0.5,
+    "chips": {
+      "wildcard_1": { "valid_gw_start": 1, "valid_gw_end": 19, "half": 1 },
+      "wildcard_2": { "valid_gw_start": 20, "valid_gw_end": 38, "half": 2 },
+      "free_hit": { "valid_gw_start": 1, "valid_gw_end": 38, "uses": 1 },
+      "bench_boost": { "valid_gw_start": 1, "valid_gw_end": 38, "uses": 1 },
+      "triple_captain": { "valid_gw_start": 1, "valid_gw_end": 38, "uses": 1 }
+    }
+  },
+  "2025-26": {
+    "starting_budget": 100.0,
+    "squad_size": 15,
+    "position_quotas": { "GK": 2, "DEF": 5, "MID": 5, "FWD": 3 },
+    "max_players_per_club": 3,
+    "max_banked_free_transfers": 5,
+    "free_transfers_per_gw": 1,
+    "transfer_hit_cost": 4,
+    "selling_price_profit_tax": 0.5,
+    "chips": {
+      "wildcard_1": { "valid_gw_start": 1, "valid_gw_end": 19, "half": 1 },
+      "free_hit_1": { "valid_gw_start": 1, "valid_gw_end": 19, "half": 1 },
+      "bench_boost_1": { "valid_gw_start": 1, "valid_gw_end": 19, "half": 1 },
+      "triple_captain_1": { "valid_gw_start": 1, "valid_gw_end": 19, "half": 1 },
+      "wildcard_2": { "valid_gw_start": 20, "valid_gw_end": 38, "half": 2 },
+      "free_hit_2": { "valid_gw_start": 20, "valid_gw_end": 38, "half": 2 },
+      "bench_boost_2": { "valid_gw_start": 20, "valid_gw_end": 38, "half": 2 },
+      "triple_captain_2": { "valid_gw_start": 20, "valid_gw_end": 38, "half": 2 }
+    }
+  }
+}

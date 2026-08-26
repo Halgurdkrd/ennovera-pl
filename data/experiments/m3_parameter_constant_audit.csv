@@ -1,0 +1,15 @@
+parameter,value,classification,source,status
+Historical Base Persistence (phi),0.960,LEARNED,MLE on Dev (2022-24) Innovations,APPROVED
+Home Advantage Intercept (mu_home),0.360,LEARNED,Logistic Intercept Optimization on Dev,APPROVED
+Player Prior Weight (w_player),0.400,LEARNED,L-BFGS-B on Dev Log-Loss,APPROVED
+Draw Regularization Shrinkage (alpha),0.180,LEARNED,Val ECE Grid Optimization,APPROVED
+Dixon-Coles Low-Score Rho (rho),-0.045,LEARNED,Bivariate Low-Score Likelihood on Dev,APPROVED
+Empirical League Draw Base Rate,0.258 (25.8%),EMPIRICAL,Historical 10-season PL draw frequency,APPROVED
+Squad Continuity Gating Slope,1.80,LEARNED,M1-D Gating Network on Dev (2022-24),APPROVED
+Promoted Team Gating Penalty,-1.20,LEARNED,M1-D Gating Network on Dev (2022-24),APPROVED
+Player Uncertainty Gating Penalty,-0.90,LEARNED,M1-D Gating Network on Dev (2022-24),APPROVED
+Gameweek Progression Gating Slope,+0.40,LEARNED,M1-D Gating Network on Dev (2022-24),APPROVED
+Outfield Normalization Minutes,990 mins,EMPIRICAL,11 starters * 90 minutes,APPROVED
+Foreign League Translation Factor,0.75,HEURISTIC,Historical transfer minutes discount (Needs M3 learning),FLAGGED_FOR_M3_LEARNING
+Strong Pick Confidence Threshold,0.60 (60%),EMPIRICAL,Val Precision Grid (37/55 = 67.3% precision),APPROVED
+Latent Season State Noise (sigma),0.080,EMPIRICAL,Calibrated to historical PL points SD (7.2 pts),APPROVED

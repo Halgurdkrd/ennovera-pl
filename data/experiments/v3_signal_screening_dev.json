@@ -1,0 +1,200 @@
+{
+  "baseline_v2": {
+    "acc": 418,
+    "acc_pct": 55.0,
+    "log_loss": 0.98789,
+    "brier": 0.587,
+    "draw_called": 19,
+    "draw_correct": 5,
+    "draw_total": 169
+  },
+  "signals": {
+    "S1_prior_strength": {
+      "description": "Prior-season FPL Strength Composite (lagged S-1)",
+      "column": "s1_strength_diff",
+      "opt_beta": 2.5365,
+      "acc": 414,
+      "acc_pct": 54.47,
+      "log_loss": 0.98518,
+      "delta_ll": -0.00271,
+      "ci_95": [
+        -0.00783,
+        0.00305
+      ],
+      "brier": 0.58501,
+      "delta_brier": -0.00199,
+      "draws_called": 17,
+      "status": "MARGINAL"
+    },
+    "S1_atk_strength": {
+      "description": "Prior-season FPL Attack Strength (lagged S-1)",
+      "column": "s1_atk_diff",
+      "opt_beta": 0.9841,
+      "acc": 416,
+      "acc_pct": 54.74,
+      "log_loss": 0.98229,
+      "delta_ll": -0.0056,
+      "ci_95": [
+        -0.01428,
+        0.00284
+      ],
+      "brier": 0.58247,
+      "delta_brier": -0.00453,
+      "draws_called": 18,
+      "status": "MARGINAL"
+    },
+    "S1_def_strength": {
+      "description": "Prior-season FPL Defence Strength (lagged S-1)",
+      "column": "s1_def_diff",
+      "opt_beta": -0.9066,
+      "acc": 414,
+      "acc_pct": 54.47,
+      "log_loss": 0.98254,
+      "delta_ll": -0.00535,
+      "ci_95": [
+        -0.01388,
+        0.00302
+      ],
+      "brier": 0.58255,
+      "delta_brier": -0.00445,
+      "draws_called": 20,
+      "status": "MARGINAL"
+    },
+    "S2_rolling_xg": {
+      "description": "Rolling Real Team xG Differential (last 5 GWs < N)",
+      "column": "s2_roll_xg_diff",
+      "opt_beta": 0.2583,
+      "acc": 420,
+      "acc_pct": 55.26,
+      "log_loss": 0.97757,
+      "delta_ll": -0.01032,
+      "ci_95": [
+        -0.02061,
+        -0.00016
+      ],
+      "brier": 0.57941,
+      "delta_brier": -0.00759,
+      "draws_called": 19,
+      "status": "PROMISING"
+    },
+    "S3_rolling_xa": {
+      "description": "Rolling Real Team xA Differential (last 5 GWs < N)",
+      "column": "s3_roll_xa_diff",
+      "opt_beta": 0.4224,
+      "acc": 423,
+      "acc_pct": 55.66,
+      "log_loss": 0.97491,
+      "delta_ll": -0.01298,
+      "ci_95": [
+        -0.02447,
+        -0.00102
+      ],
+      "brier": 0.57755,
+      "delta_brier": -0.00945,
+      "draws_called": 21,
+      "status": "PROMISING"
+    },
+    "S4_rolling_xga": {
+      "description": "Rolling Defensive xGA Differential (last 5 GWs < N)",
+      "column": "s4_roll_xga_diff",
+      "opt_beta": 0.1779,
+      "acc": 424,
+      "acc_pct": 55.79,
+      "log_loss": 0.98327,
+      "delta_ll": -0.00462,
+      "ci_95": [
+        -0.00983,
+        0.0011
+      ],
+      "brier": 0.5837,
+      "delta_brier": -0.0033,
+      "draws_called": 20,
+      "status": "MARGINAL"
+    },
+    "S5_squad_value": {
+      "description": "Contemporaneous Squad Value Differential (\u00a3100M units)",
+      "column": "s5_squad_val_diff",
+      "opt_beta": 1.1774,
+      "acc": 411,
+      "acc_pct": 54.08,
+      "log_loss": 0.98013,
+      "delta_ll": -0.00776,
+      "ci_95": [
+        -0.01668,
+        0.00046
+      ],
+      "brier": 0.58075,
+      "delta_brier": -0.00625,
+      "draws_called": 19,
+      "status": "MARGINAL"
+    },
+    "S6_player_dependency": {
+      "description": "Player Dependency Differential (Top-2 xG+xA Share)",
+      "column": "s6_dependency_diff",
+      "opt_beta": -0.1586,
+      "acc": 415,
+      "acc_pct": 54.61,
+      "log_loss": 0.98784,
+      "delta_ll": -5e-05,
+      "ci_95": [
+        -0.00075,
+        0.0007
+      ],
+      "brier": 0.58697,
+      "delta_brier": -3e-05,
+      "draws_called": 20,
+      "status": "NO GAIN"
+    },
+    "S7_rolling_ict": {
+      "description": "Rolling Team ICT Index Differential",
+      "column": "s7_roll_ict_diff",
+      "opt_beta": 0.6015,
+      "acc": 417,
+      "acc_pct": 54.87,
+      "log_loss": 0.97521,
+      "delta_ll": -0.01268,
+      "ci_95": [
+        -0.02372,
+        -0.00123
+      ],
+      "brier": 0.57756,
+      "delta_brier": -0.00944,
+      "draws_called": 22,
+      "status": "PROMISING"
+    },
+    "S8_rolling_clean_sheet": {
+      "description": "Rolling Clean Sheet Rate Differential",
+      "column": "s8_roll_cs_diff",
+      "opt_beta": 0.2633,
+      "acc": 417,
+      "acc_pct": 54.87,
+      "log_loss": 0.98599,
+      "delta_ll": -0.0019,
+      "ci_95": [
+        -0.00647,
+        0.00266
+      ],
+      "brier": 0.58587,
+      "delta_brier": -0.00113,
+      "draws_called": 20,
+      "status": "MARGINAL"
+    },
+    "S_opp_adj_xg": {
+      "description": "Opponent-Adjusted Rolling xG Differential",
+      "column": "s_opp_adj_xg_diff",
+      "opt_beta": 0.1314,
+      "acc": 424,
+      "acc_pct": 55.79,
+      "log_loss": 0.97684,
+      "delta_ll": -0.01105,
+      "ci_95": [
+        -0.02037,
+        -0.00115
+      ],
+      "brier": 0.57899,
+      "delta_brier": -0.00801,
+      "draws_called": 19,
+      "status": "PROMISING"
+    }
+  }
+}

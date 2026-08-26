@@ -1,0 +1,185 @@
+{
+  "fixed_weight_response_curve": [
+    {
+      "hist_weight": 1.0,
+      "player_weight": 0.0,
+      "val_acc": 51.05,
+      "val_log_loss": 1.00277,
+      "val_brier": 0.60068,
+      "hold_acc": 48.16,
+      "hold_log_loss": 1.02979,
+      "hold_brier": 0.619,
+      "hold_sp_acc": 67.16,
+      "hold_sp_count": 67
+    },
+    {
+      "hist_weight": 0.9,
+      "player_weight": 0.1,
+      "val_acc": 50.79,
+      "val_log_loss": 1.00437,
+      "val_brier": 0.60171,
+      "hold_acc": 48.68,
+      "hold_log_loss": 1.03029,
+      "hold_brier": 0.61934,
+      "hold_sp_acc": 67.35,
+      "hold_sp_count": 49
+    },
+    {
+      "hist_weight": 0.8,
+      "player_weight": 0.2,
+      "val_acc": 49.74,
+      "val_log_loss": 1.00808,
+      "val_brier": 0.6038,
+      "hold_acc": 48.16,
+      "hold_log_loss": 1.03291,
+      "hold_brier": 0.62066,
+      "hold_sp_acc": 62.96,
+      "hold_sp_count": 27
+    },
+    {
+      "hist_weight": 0.75,
+      "player_weight": 0.25,
+      "val_acc": 49.74,
+      "val_log_loss": 1.01059,
+      "val_brier": 0.60524,
+      "hold_acc": 48.16,
+      "hold_log_loss": 1.03488,
+      "hold_brier": 0.62168,
+      "hold_sp_acc": 63.16,
+      "hold_sp_count": 19
+    },
+    {
+      "hist_weight": 0.7,
+      "player_weight": 0.3,
+      "val_acc": 49.74,
+      "val_log_loss": 1.01349,
+      "val_brier": 0.60695,
+      "hold_acc": 48.16,
+      "hold_log_loss": 1.03726,
+      "hold_brier": 0.62295,
+      "hold_sp_acc": 83.33,
+      "hold_sp_count": 12
+    },
+    {
+      "hist_weight": 0.6,
+      "player_weight": 0.4,
+      "val_acc": 49.21,
+      "val_log_loss": 1.02041,
+      "val_brier": 0.61116,
+      "hold_acc": 47.63,
+      "hold_log_loss": 1.04312,
+      "hold_brier": 0.6262,
+      "hold_sp_acc": 0.0,
+      "hold_sp_count": 0
+    },
+    {
+      "hist_weight": 0.5,
+      "player_weight": 0.5,
+      "val_acc": 48.95,
+      "val_log_loss": 1.02868,
+      "val_brier": 0.61643,
+      "hold_acc": 47.89,
+      "hold_log_loss": 1.05035,
+      "hold_brier": 0.63043,
+      "hold_sp_acc": 0.0,
+      "hold_sp_count": 0
+    },
+    {
+      "hist_weight": 0.4,
+      "player_weight": 0.6,
+      "val_acc": 47.89,
+      "val_log_loss": 1.03824,
+      "val_brier": 0.62277,
+      "hold_acc": 47.89,
+      "hold_log_loss": 1.05884,
+      "hold_brier": 0.63563,
+      "hold_sp_acc": 0.0,
+      "hold_sp_count": 0
+    },
+    {
+      "hist_weight": 0.3,
+      "player_weight": 0.7,
+      "val_acc": 47.11,
+      "val_log_loss": 1.04904,
+      "val_brier": 0.63016,
+      "hold_acc": 47.63,
+      "hold_log_loss": 1.06856,
+      "hold_brier": 0.6418,
+      "hold_sp_acc": 0.0,
+      "hold_sp_count": 0
+    },
+    {
+      "hist_weight": 0.2,
+      "player_weight": 0.8,
+      "val_acc": 43.95,
+      "val_log_loss": 1.06106,
+      "val_brier": 0.63861,
+      "hold_acc": 43.42,
+      "hold_log_loss": 1.07946,
+      "hold_brier": 0.64894,
+      "hold_sp_acc": 0.0,
+      "hold_sp_count": 0
+    },
+    {
+      "hist_weight": 0.1,
+      "player_weight": 0.9,
+      "val_acc": 40.79,
+      "val_log_loss": 1.07431,
+      "val_brier": 0.64813,
+      "hold_acc": 42.63,
+      "hold_log_loss": 1.09155,
+      "hold_brier": 0.65705,
+      "hold_sp_acc": 0.0,
+      "hold_sp_count": 0
+    },
+    {
+      "hist_weight": 0.0,
+      "player_weight": 1.0,
+      "val_acc": 40.79,
+      "val_log_loss": 1.0888,
+      "val_brier": 0.6587,
+      "hold_acc": 42.63,
+      "hold_log_loss": 1.10482,
+      "hold_brier": 0.66613,
+      "hold_sp_acc": 0.0,
+      "hold_sp_count": 0
+    }
+  ],
+  "b2_transition_conditioned": {
+    "val": {
+      "accuracy": 50.79,
+      "log_loss": 1.00437,
+      "brier": 0.60171,
+      "sp_count": 61,
+      "sp_acc": 67.21
+    },
+    "holdout": {
+      "accuracy": 48.68,
+      "log_loss": 1.03029,
+      "brier": 0.61934,
+      "sp_count": 49,
+      "sp_acc": 67.35
+    },
+    "learned_betas": [
+      0.0,
+      1.5,
+      0.5
+    ]
+  },
+  "b4_mixture_of_experts": {
+    "val": {
+      "accuracy": 49.74,
+      "log_loss": 1.00675,
+      "brier": 0.60303,
+      "sp_count": 43,
+      "sp_acc": 74.42
+    },
+    "holdout": {
+      "accuracy": 48.16,
+      "log_loss": 1.03225,
+      "brier": 0.62032,
+      "sp_count": 30,
+      "sp_acc": 66.67
+    }
+  }
+}

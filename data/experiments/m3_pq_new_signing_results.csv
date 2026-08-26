@@ -1,0 +1,5 @@
+subgroup,f2_ll,m1_d_ll,pq7_ll,delta_ll_vs_f2,verdict
+Promoted Teams (Holdout N=19),0.72748,0.70383,0.7012,-0.02628,SIGNIFICANT GAIN
+High Turnover Squads (Holdout N=13),0.65619,0.62522,0.6219,-0.03429,SIGNIFICANT GAIN
+Foreign Transfer Heavy Matches (Holdout N=22),0.9854,0.9621,0.9578,-0.0276,SIGNIFICANT GAIN
+Stable Top-6 Contenders (Holdout N=155),0.9421,0.9419,0.9416,-0.0005,NEUTRAL / CONSISTENT

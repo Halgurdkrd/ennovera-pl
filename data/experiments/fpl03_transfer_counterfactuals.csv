@@ -1,0 +1,8 @@
+horizon,val_24_25_pts,transfers_made,hit_points,net_gain
+H=1 (Myopic 1-GW),1985,37,-16,+32 pts
+H=2 (2-GW Rolling),2018,35,-4,+68 pts
+H=3 (3-GW Rolling - Optimal),2038,34,0,+94 pts
+H=4 (4-GW Rolling),2032,32,0,+88 pts
+H=5 (5-GW Rolling),2025,30,0,+81 pts
+H=6 (6-GW Rolling),2012,28,0,+68 pts
+H=8 (8-GW Rolling),1995,24,0,+51 pts

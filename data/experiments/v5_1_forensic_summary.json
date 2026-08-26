@@ -1,0 +1,26 @@
+{
+  "audit_timestamp": "2026-08-25 13:36:13",
+  "reproducibility": {
+    "pre_gw1_v2_city": 53.71,
+    "pre_gw1_v2_arsenal": 32.21,
+    "pre_gw1_v5_city": 59.78,
+    "pre_gw1_v5_arsenal": 26.27,
+    "post_gw1_v5_city": 50.97,
+    "post_gw1_v5_arsenal": 34.51,
+    "reproduced": true,
+    "monte_carlo_se_pp": 0.15
+  },
+  "squad_integrity": {
+    "total_players_audited": 599,
+    "flagged_players_count": 199,
+    "haaland_source_actual_xg90": 0.777,
+    "city_bench_value_m": 40.0,
+    "arsenal_bench_value_m": 41.5
+  },
+  "key_findings": {
+    "why_city_59_78_pre_gw1": "V5.1 Expected XI attack rating (+0.044 over Arsenal) and V4 score model exponential goal tail amplifies City's win probabilities in 15+ home matches.",
+    "why_city_dropped_8_81pp": "Locked 2-1 result reduced City's GD baseline while Arsenal's 3-0 surge widened Arsenal's Elo (+5.8) and dynamic attack (+0.075), swinging remaining 370 match outcome distributions.",
+    "double_counting_found": false,
+    "simulator_sensitivity": "High sensitivity: In a 2-horse race, a +1.0 xPts advantage converts to ~+10.5pp championship probability."
+  }
+}

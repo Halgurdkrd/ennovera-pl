@@ -1,0 +1,8 @@
+source_of_advantage,market_gap_count,prob_improved,argmax_winner_corrected
+Foreign Player Translation Shock (e.g. Haaland/Isak debut),4,4,2
+European Form vs Domestic Lag,3,3,1
+Tactical Style Clash (Solved in DATA-02),9,6,2
+Goalkeeper Injury / Lineup (Solved in DATA-01),4,3,1
+European Away Travel Fatigue (Solved in DATA-03),2,2,1
+Unpredicted Draw Parity Entropy,9,5,0
+TOTAL MARKET INFORMATION GAP,31,23,7

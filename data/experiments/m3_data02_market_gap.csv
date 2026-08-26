@@ -1,0 +1,7 @@
+matchup_type,market_gap_count,prob_improved,argmax_winner_corrected
+High-Press vs Vulnerable Buildup (e.g. Brighton vs Palace),5,4,2
+Low-Block Counter Shock (e.g. Forest vs Liverpool),4,3,1
+Tactical Standoff / Midfield Congestion Draw,9,6,0
+Managerial Shift / Morale (Not covered by tactics),7,1,0
+Goalkeeper Injury Shock (Covered by lineups),4,3,1
+TOTAL MARKET INFORMATION GAP,31,17,4

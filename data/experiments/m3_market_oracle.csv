@@ -1,0 +1,5 @@
+category,match_count,percentage,interpretation
+BOTH_WRONG,166,43.7,Unpredictable outcome (draw or major underdog upset) where both model and bookmakers failed
+BOTH_CORRECT,148,38.9,Both model & market correctly picked outcome
+MODEL_CORRECT_MARKET_WRONG,35,9.2,Model outsmarted market consensus
+MODEL_WRONG_MARKET_CORRECT,31,8.2,"Market had extra pre-match information (lineup, tactical, news) that model lacked"

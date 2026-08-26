@@ -1,0 +1,6 @@
+elo_diff_bracket,matches_count,actual_draws,draw_rate_pct,mean_model_draw_prob_pct,draw_opportunity
+0-50 pts,91,24,26.4,25.2,MODERATE
+50-100 pts,90,21,23.3,25.1,MODERATE
+100-200 pts,128,41,32.0,25.0,HIGH
+200-300 pts,56,14,25.0,24.7,MODERATE
+300-600 pts,15,4,26.7,22.3,MODERATE

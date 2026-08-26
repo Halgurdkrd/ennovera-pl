@@ -1,0 +1,5 @@
+tactical_scenario,sample_fixtures,w_e1_f2_base_pct,w_e2_pq_talent_pct,w_e3_avail_pct,w_e4_tactical_pct,w_e5_context_pct
+1. High Continuity Stable Squads (Cont >= 0.85),65,5.4,2.6,0.1,78.8,13.1
+3. High Tactical Mismatch Fixtures (Mismatch > 3.0),122,6.2,3.0,0.1,78.6,12.1
+4. European Schedule Congestion (Post-European Tie),6,3.4,1.8,0.1,71.6,23.1
+7. GLOBAL PREMIER LEAGUE AVERAGE (All 380 Matches),380,4.3,2.2,0.1,79.8,13.6

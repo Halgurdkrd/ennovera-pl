@@ -1,0 +1,4 @@
+objective_formulation,season_24_25_val_pts,season_25_26_holdout_pts,notes
+O1: Maximize 15-Man Squad Total xP,2023,1961,FPL-01 Default Implementation
+O2: Maximize Starting XI xP directly,2048,1982,Allocates more budget to starting XI (+21 pts)
+O3: Maximize Starting XI xP + Captaincy Bonus (x2),2075,2005,Mathematically justifies £14m Haaland/Salah (+44 pts)

@@ -1,0 +1,5 @@
+system,holdout_correct,holdout_acc,net_vs_core,overrides,wrong_to_correct,correct_to_wrong,routing_efficiency_pct
+Baseline Reference (M3 Peak),189,49.74,-2,0,0,0,0.0
+CORE_BASE (R0 Consensus M3+S2+PL),191,50.26,0,0,0,0,0.0
+R4: Tactical Selective Router,182,47.89473684210526,-9,75,22,31,-45.0
+R5: Final Specialist Router (Tactical + Hybrid),177,46.578947368421055,-14,161,41,55,-37.8

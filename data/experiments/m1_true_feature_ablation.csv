@@ -1,0 +1,16 @@
+experiment,features,dev_ll,val_ll,hold_ll,hold_acc,hold_brier
+A0: Baseline (Intercept Only),[],1.05081,1.08604,1.08717,42.63,0.6581
+A1: + Continuity Only,['diff_cont'],1.02423,1.06417,1.06509,43.16,0.6417
+A2: + XI Attack Only,['diff_xi_att'],0.95108,0.99407,1.0347,48.42,0.6225
+A3: + XI Creativity Only,['diff_xi_cre'],0.95229,0.99477,1.03384,48.68,0.6218
+A4: + XI Defence Only,['diff_xi_def'],0.96266,1.00173,1.0344,48.42,0.6212
+A5: + XI GK Only,['diff_xi_gk'],0.97009,1.00816,1.0371,47.37,0.6225
+A6: + Bench Depth Only,['diff_depth'],0.95657,0.99732,1.03326,48.95,0.6209
+A7: + Uncertainty Only,['diff_unc'],1.04546,1.08147,1.08259,42.63,0.6546
+B1: Attack + Creativity,"['diff_xi_att', 'diff_xi_cre']",0.95009,0.99393,1.03609,48.68,0.6235
+B2: Attack + Creativity + Continuity,"['diff_xi_att', 'diff_xi_cre', 'diff_cont']",0.94917,0.99459,1.03531,48.16,0.623
+B3: Continuity + Uncertainty + Promoted,"['diff_cont', 'diff_unc', 'is_promoted']",1.02154,1.05828,1.06493,43.42,0.6412
+B4: Full Player Model WITHOUT Continuity,"['diff_xi_att', 'diff_xi_cre', 'diff_xi_def', 'diff_xi_gk', 'diff_xi_xgi', 'diff_depth', 'diff_unc', 'inter_att_cre', 'inter_opp_att_def']",0.94953,0.9939,1.03849,47.63,0.6252
+B5: Full Player Model WITH Continuity,"['diff_xi_att', 'diff_xi_cre', 'diff_xi_def', 'diff_xi_gk', 'diff_xi_xgi', 'diff_depth', 'diff_unc', 'inter_att_cre', 'inter_opp_att_def', 'diff_cont', 'inter_cont_att']",0.94878,0.99448,1.03783,48.16,0.6247
+B6: Full Player WITHOUT Attack,"['diff_xi_cre', 'diff_xi_def', 'diff_xi_gk', 'diff_xi_xgi', 'diff_depth', 'diff_unc', 'inter_att_cre', 'inter_opp_att_def', 'diff_cont', 'inter_cont_att']",0.94883,0.9944,1.0377,48.16,0.6247
+B7: Full Player WITHOUT Defence & GK,"['diff_xi_att', 'diff_xi_cre', 'diff_xi_xgi', 'diff_depth', 'diff_unc', 'inter_att_cre', 'inter_opp_att_def', 'diff_cont', 'inter_cont_att']",0.94877,0.9945,1.03783,48.16,0.6247

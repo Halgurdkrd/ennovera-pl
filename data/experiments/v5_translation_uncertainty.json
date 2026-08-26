@@ -1,0 +1,82 @@
+[
+  {
+    "league": "Bundesliga",
+    "n_transfers": 8,
+    "xg_factor": 0.892,
+    "xg_95_ci": [
+      0.641,
+      1.007
+    ],
+    "xa_factor": 0.721,
+    "xa_95_ci": [
+      0.503,
+      0.835
+    ],
+    "mae": 0.066,
+    "rmse": 0.093
+  },
+  {
+    "league": "Championship",
+    "n_transfers": 8,
+    "xg_factor": 0.938,
+    "xg_95_ci": [
+      0.807,
+      1.292
+    ],
+    "xa_factor": 0.86,
+    "xa_95_ci": [
+      0.736,
+      0.899
+    ],
+    "mae": 0.061,
+    "rmse": 0.074
+  },
+  {
+    "league": "La Liga",
+    "n_transfers": 8,
+    "xg_factor": 1.002,
+    "xg_95_ci": [
+      0.805,
+      1.203
+    ],
+    "xa_factor": 0.912,
+    "xa_95_ci": [
+      0.825,
+      1.023
+    ],
+    "mae": 0.037,
+    "rmse": 0.054
+  },
+  {
+    "league": "Ligue 1",
+    "n_transfers": 6,
+    "xg_factor": 0.846,
+    "xg_95_ci": [
+      0.74,
+      1.012
+    ],
+    "xa_factor": 0.793,
+    "xa_95_ci": [
+      0.65,
+      0.923
+    ],
+    "mae": 0.005,
+    "rmse": 0.006
+  },
+  {
+    "league": "Serie A",
+    "n_transfers": 8,
+    "xg_factor": 0.892,
+    "xg_95_ci": [
+      0.774,
+      1.179
+    ],
+    "xa_factor": 0.865,
+    "xa_95_ci": [
+      0.631,
+      1.152
+    ],
+    "mae": 0.029,
+    "rmse": 0.04
+  }
+]

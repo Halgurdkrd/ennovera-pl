@@ -1,0 +1,9 @@
+feature,category,ablation_log_loss_penalty,importance_rank
+Elo Rating Differential (elo_diff),Historical Foundation,0.0385,1
+Expected XI Attack (diff_xg),Current Player State,0.0084,2
+Dynamic Team Attack (dyn_att_h/a),Dynamic Latent State,0.0051,3
+Expected XI Creativity (diff_xgchain),Current Player State,0.0032,4
+Dynamic Team Defence (dyn_def_h/a),Dynamic Latent State,0.0028,5
+Squad Continuity / Promoted Status,Transition Shock,0.0019,6
+Rest Days / European Congestion,Tactical Fatigue,0.0008,7
+Cross-League New-Player Priors,Player Transition,-0.00011,8

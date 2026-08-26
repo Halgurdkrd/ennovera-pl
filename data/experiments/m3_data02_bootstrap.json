@@ -1,0 +1,34 @@
+{
+  "t5_vs_f2_validation": {
+    "mean_delta_ll": -0.00789,
+    "ci_95": [
+      -0.01643,
+      0.0003
+    ],
+    "p_better_pct": 97.0
+  },
+  "t5_vs_f2_holdout": {
+    "mean_delta_ll": 0.00153,
+    "ci_95": [
+      -0.00646,
+      0.00952
+    ],
+    "p_better_pct": 36.3
+  },
+  "t5_vs_pq7_validation": {
+    "mean_delta_ll": 0.0008,
+    "ci_95": [
+      -0.00158,
+      0.00313
+    ],
+    "p_better_pct": 24.5
+  },
+  "t5_vs_pq7_holdout": {
+    "mean_delta_ll": 0.00175,
+    "ci_95": [
+      -0.00054,
+      0.00417
+    ],
+    "p_better_pct": 7.3
+  }
+}

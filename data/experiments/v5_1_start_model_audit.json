@@ -1,0 +1,98 @@
+{
+  "total_evaluations": 113582,
+  "starter_prevalence_pct": 26.81,
+  "naive_baselines": {
+    "all_non_start": 73.19,
+    "all_start": 26.81,
+    "prev_match_start": 88.8,
+    "recent_start_rate": 86.57
+  },
+  "model_performance": {
+    "accuracy": 86.64,
+    "balanced_accuracy": 81.38,
+    "precision": 77.87,
+    "recall": 70.05,
+    "f1": 0.7376,
+    "roc_auc": 0.9175,
+    "pr_auc": 0.7947,
+    "brier": 0.09618,
+    "log_loss": 0.32019
+  },
+  "calibration_table": [
+    {
+      "bin": "0-10%",
+      "count": 62610,
+      "mean_p": 5.13,
+      "act_rate": 2.75,
+      "diff": -2.38
+    },
+    {
+      "bin": "10-20%",
+      "count": 7639,
+      "mean_p": 14.06,
+      "act_rate": 18.9,
+      "diff": 4.85
+    },
+    {
+      "bin": "20-30%",
+      "count": 4834,
+      "mean_p": 24.99,
+      "act_rate": 32.31,
+      "diff": 7.32
+    },
+    {
+      "bin": "30-40%",
+      "count": 7328,
+      "mean_p": 32.66,
+      "act_rate": 32.14,
+      "diff": -0.52
+    },
+    {
+      "bin": "40-50%",
+      "count": 3779,
+      "mean_p": 45.16,
+      "act_rate": 53.8,
+      "diff": 8.63
+    },
+    {
+      "bin": "50-60%",
+      "count": 3911,
+      "mean_p": 55.08,
+      "act_rate": 61.52,
+      "diff": 6.44
+    },
+    {
+      "bin": "60-70%",
+      "count": 3923,
+      "mean_p": 65.13,
+      "act_rate": 65.94,
+      "diff": 0.81
+    },
+    {
+      "bin": "70-80%",
+      "count": 4214,
+      "mean_p": 75.03,
+      "act_rate": 72.97,
+      "diff": -2.06
+    },
+    {
+      "bin": "80-90%",
+      "count": 5080,
+      "mean_p": 84.88,
+      "act_rate": 80.75,
+      "diff": -4.14
+    },
+    {
+      "bin": "90-101%",
+      "count": 10264,
+      "mean_p": 96.53,
+      "act_rate": 89.24,
+      "diff": -7.29
+    }
+  ],
+  "expected_minutes": {
+    "mae": 17.46,
+    "med_ae": 7.27,
+    "rmse": 26.48
+  }
+}

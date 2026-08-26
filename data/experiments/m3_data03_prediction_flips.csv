@@ -1,0 +1,2 @@
+total_holdout_matches,total_predictions_flipped,flipped_pct,wrong_to_correct,correct_to_wrong,net_winner_gain,holdout_acc_t7,holdout_acc_r8
+380,17,4.5,8,8,0,49.47,49.47

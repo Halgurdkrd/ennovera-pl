@@ -1,0 +1,13 @@
+{
+  "audit_status": "PASS (10/10)",
+  "timestamp_verification": "All routing and expert features computed at T_kickoff - 1h or earlier",
+  "prohibited_features_checked": {
+    "betting_odds": "None",
+    "post_match_xg": "None",
+    "post_match_player_minutes": "None",
+    "future_league_position": "None",
+    "future_elo": "None",
+    "future_manager_data": "None"
+  },
+  "split_isolation": "Dev (2022-24) -> Val (2024-25) -> Holdout (2025-26) strictly chronological"
+}

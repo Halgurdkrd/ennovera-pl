@@ -1,0 +1,4 @@
+system_candidate,pl_accuracy_pct,pl_correct_count,pl_log_loss,fpl_avg_gw_pts,fpl_2025_26_season_pts,fpl_xp_mae,fpl_capt_top1_pct
+Ennovera Integrated (CORE_BASE + Component xP),50.26,191 / 380,1.03098,52.29,1961,1.588,18.5
+Pure xGI / Statistical Baseline,48.42,184 / 380,1.04244,51.0,1865,1.612,48.2
+Rolling Form Baseline,47.63,181 / 380,1.05834,53.09,1974,2.315,44.5

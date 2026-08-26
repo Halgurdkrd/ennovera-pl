@@ -1,0 +1,6 @@
+{
+  "classification": "H1 \u2014 TEMPORALLY CLEAN BUT RESEARCH-EXPOSED",
+  "description": "Predictions strictly use only pre-deadline information (zero temporal leakage), but 2025-26 results have been inspected during previous PL and FPL research rounds. For future work, 2026-27 prospective locked predictions must serve as the pristine benchmark.",
+  "temporal_leakage_detected": false,
+  "research_exposure_detected": true
+}

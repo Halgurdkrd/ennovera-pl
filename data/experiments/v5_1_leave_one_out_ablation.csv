@@ -1,0 +1,7 @@
+ablated_configuration,dropped_component,city_champ_pct,arsenal_champ_pct,champ_gap,delta_city_vs_full,delta_arsenal_vs_full
+Full V5.1,None (Full),59.78,26.27,33.51,0.0,0.0
+V5.1 minus Dynamic Att/Def,dynamic_att_def,55.34,27.57,27.77,-4.44,1.3
+V5.1 minus Uncertainty,uncertainty,59.8,26.26,33.54,0.02,-0.01
+V5.1 minus Exp Attack,exp_att,56.2,27.92,28.28,-3.58,1.65
+V5.1 minus Exp Creativity,exp_cre,57.47,27.37,30.1,-2.31,1.1
+V5.1 minus Continuity,continuity,59.73,26.27,33.46,-0.05,0.0

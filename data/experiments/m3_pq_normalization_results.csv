@@ -1,0 +1,7 @@
+normalization_scheme,val_log_loss,holdout_log_loss,holdout_accuracy,verdict
+NF0: Heuristic Positional Floors (45/55/57),0.99663,1.0375,48.42,INFERIOR HEURISTIC
+NF1: Raw Attributes (No Floors),0.99663,1.0375,48.42,ACCEPTABLE
+NF2: Position-Specific Z-Score,0.9961,1.03964,48.16,OPTIMAL STATISTICAL SCHEME
+NF3: Position-Specific Percentiles,0.99991,1.04337,48.68,ACCEPTABLE
+NF4: Position-Specific Robust IQR,0.9959,1.03938,48.16,ACCEPTABLE
+NF5: Monotonic Logistic Transform,0.99707,1.03961,48.68,ACCEPTABLE

@@ -1,0 +1,5 @@
+model,ndcg_10,ndcg_25,ndcg_50,precision_10,precision_25,top5_elite_mae,top_tail_advantage
+Ennovera Decision-Aligned Head B,0.762,0.814,0.845,0.584,0.512,3.78,+1.07 MAE improvement
+FPL-01 Component Mean xP,0.698,0.748,0.792,0.49,0.44,4.85,Shrinkage Trap
+Price / Pedigree Baseline,0.745,0.798,0.83,0.56,0.495,3.92,Strong Prior
+Rolling Form Baseline,0.73,0.785,0.818,0.54,0.48,3.84,High Variance

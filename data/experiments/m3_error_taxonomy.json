@@ -1,0 +1,49 @@
+{
+  "total_holdout_matches": 380,
+  "total_correct_predictions": 183,
+  "holdout_accuracy_pct": 48.16,
+  "total_errors": 197,
+  "error_taxonomy": {
+    "unpredicted_draws": {
+      "count": 104,
+      "share_of_errors_pct": 52.8,
+      "recoverability": "IRRECOVERABLE_FOR_1X2_ARGMAX (Draws rarely exceed 33% probability)"
+    },
+    "parity_coin_flips": {
+      "count": 33,
+      "share_of_errors_pct": 16.8,
+      "recoverability": "IRRECOVERABLE_NOISE (True match probabilities are near 40/30/30)"
+    },
+    "unexpected_favorite_losses": {
+      "count": 14,
+      "share_of_errors_pct": 7.1,
+      "recoverability": "PARTIALLY_RECOVERABLE (Tactical matchups, rest congestion, pressing vulnerability)"
+    },
+    "lineup_rotation_uncertainty": {
+      "count": 0,
+      "share_of_errors_pct": 0.0,
+      "recoverability": "HIGHLY_RECOVERABLE (1-Hour Pre-Match Confirmed Lineups & Confirmed Absences)"
+    },
+    "promoted_transition_shocks": {
+      "count": 1,
+      "share_of_errors_pct": 0.5,
+      "recoverability": "RECOVERABLE (Cross-league player ratings, transfer integration tracking)"
+    },
+    "finishing_xg_divergence": {
+      "count": 45,
+      "share_of_errors_pct": 22.8,
+      "recoverability": "IRRECOVERABLE_IN_MATCH_VARIANCE (Single-shot finishing luck)"
+    }
+  },
+  "recoverability_aggregation": {
+    "pure_irreducible_randomness_and_draws": {
+      "count": 182,
+      "share_of_total_errors_pct": 92.4
+    },
+    "potentially_recoverable_with_new_prematch_data": {
+      "count": 15,
+      "share_of_total_errors_pct": 7.6,
+      "estimated_recoverable_matches_count": 15
+    }
+  }
+}

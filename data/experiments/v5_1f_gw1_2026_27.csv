@@ -1,0 +1,11 @@
+home,away,actual,hybrid_probs,pred,conf,correct
+Arsenal,Coventry City,H,"[0.765, 0.155, 0.08]",H,0.765,True
+Hull City,Manchester United,H,"[0.31, 0.26, 0.43]",A,0.43,False
+Everton,Crystal Palace,H,"[0.406, 0.239, 0.355]",H,0.406,True
+Ipswich Town,Sunderland,H,"[0.36, 0.27, 0.37]",A,0.37,False
+Nottingham Forest,Leeds United,A,"[0.419, 0.306, 0.275]",H,0.419,False
+Brentford,Tottenham,H,"[0.598, 0.212, 0.19]",H,0.598,True
+Brighton and Hove Albion,Aston Villa,H,"[0.53, 0.27, 0.2]",H,0.53,True
+Manchester City,Bournemouth,H,"[0.72, 0.19, 0.09]",H,0.72,True
+Newcastle United,Liverpool,D,"[0.47, 0.239, 0.291]",H,0.47,False
+Fulham,Chelsea,A,"[0.536, 0.264, 0.199]",H,0.536,False

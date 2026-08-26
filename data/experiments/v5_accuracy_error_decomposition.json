@@ -1,0 +1,32 @@
+[
+  {
+    "category": "Draw Misclassification (Predicted Home/Away Win, Ended Draw)",
+    "error_count": 98,
+    "pct_total_errors": 50.3,
+    "addressable_by": "Dynamic Dixon-Coles / Score Model"
+  },
+  {
+    "category": "Favorite Upsets (P(Win) > 55%, Underdog Won/Drew)",
+    "error_count": 42,
+    "pct_total_errors": 21.5,
+    "addressable_by": "1-Hour Confirmed Lineup / Injury Absence"
+  },
+  {
+    "category": "Promoted Club High Uncertainty (Early Season)",
+    "error_count": 24,
+    "pct_total_errors": 12.3,
+    "addressable_by": "Championship Translation / Glicko Uncertainty"
+  },
+  {
+    "category": "Manager Change Tactical Shift",
+    "error_count": 16,
+    "pct_total_errors": 8.2,
+    "addressable_by": "Manager Arrival Feature"
+  },
+  {
+    "category": "Red Card / Random In-Match Variance",
+    "error_count": 15,
+    "pct_total_errors": 7.7,
+    "addressable_by": "Unaddressable In-Game Stochasticity"
+  }
+]

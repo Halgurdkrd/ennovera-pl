@@ -1,0 +1,5 @@
+season,total_gws,ennovera_total_pts,ennovera_avg_gw,baseline_form_pts,baseline_xgi_pts,baseline_price_pts,best_baseline_pts,best_baseline_name,advantage_vs_best_baseline,hindsight_oracle_pts,captain_total_pts,captain_top1_pct,captain_top3_pct,avg_bench_pts,avg_squad_regret,best_gw_pts,worst_gw_pts
+2022-23,37,1868,50.49,1919,1798,1982,1982,Price,-114,5508,352,13.5,32.4,12.8,98.4,79,27
+2023-24,38,2044,53.79,1946,2032,2055,2055,Price,-11,5909,516,21.1,50.0,9.8,101.7,86,26
+2024-25,38,2023,53.24,2178,2006,2068,2178,Form,-155,5943,518,23.7,60.5,12.4,103.2,97,21
+2025-26,38,1961,51.61,1974,1865,1997,1997,Price,-36,5832,392,15.8,36.8,12.8,101.9,91,33

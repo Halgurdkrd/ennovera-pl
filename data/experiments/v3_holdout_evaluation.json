@@ -1,0 +1,690 @@
+{
+  "benchmarks": [
+    {
+      "name": "Random (Uniform)",
+      "acc": 162,
+      "acc_pct": 42.63,
+      "log_loss": 1.09861,
+      "brier": 0.66667,
+      "ece": 0.0,
+      "draw_called": 0,
+      "draw_correct": 0,
+      "draw_total": 104,
+      "calib_table": [
+        {
+          "bin": "40-50%",
+          "count": 0,
+          "confidence": 0,
+          "actual_acc": 0,
+          "diff": 0
+        },
+        {
+          "bin": "50-60%",
+          "count": 0,
+          "confidence": 0,
+          "actual_acc": 0,
+          "diff": 0
+        },
+        {
+          "bin": "60-70%",
+          "count": 0,
+          "confidence": 0,
+          "actual_acc": 0,
+          "diff": 0
+        },
+        {
+          "bin": "70-80%",
+          "count": 0,
+          "confidence": 0,
+          "actual_acc": 0,
+          "diff": 0
+        },
+        {
+          "bin": "80-101%",
+          "count": 0,
+          "confidence": 0,
+          "actual_acc": 0,
+          "diff": 0
+        }
+      ],
+      "confusion_matrix": [
+        [
+          162,
+          0,
+          0
+        ],
+        [
+          104,
+          0,
+          0
+        ],
+        [
+          114,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "Home-Majority Baseline",
+      "acc": 162,
+      "acc_pct": 42.63,
+      "log_loss": 1.08164,
+      "brier": 0.65465,
+      "ece": 0.0087,
+      "draw_called": 0,
+      "draw_correct": 0,
+      "draw_total": 104,
+      "calib_table": [
+        {
+          "bin": "40-50%",
+          "count": 380,
+          "confidence": 43.5,
+          "actual_acc": 42.6,
+          "diff": -0.9
+        },
+        {
+          "bin": "50-60%",
+          "count": 0,
+          "confidence": 0,
+          "actual_acc": 0,
+          "diff": 0
+        },
+        {
+          "bin": "60-70%",
+          "count": 0,
+          "confidence": 0,
+          "actual_acc": 0,
+          "diff": 0
+        },
+        {
+          "bin": "70-80%",
+          "count": 0,
+          "confidence": 0,
+          "actual_acc": 0,
+          "diff": 0
+        },
+        {
+          "bin": "80-101%",
+          "count": 0,
+          "confidence": 0,
+          "actual_acc": 0,
+          "diff": 0
+        }
+      ],
+      "confusion_matrix": [
+        [
+          162,
+          0,
+          0
+        ],
+        [
+          104,
+          0,
+          0
+        ],
+        [
+          114,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "Raw Elo (M0)",
+      "acc": 183,
+      "acc_pct": 48.16,
+      "log_loss": 1.0298,
+      "brier": 0.619,
+      "ece": 0.036,
+      "draw_called": 0,
+      "draw_correct": 0,
+      "draw_total": 104,
+      "calib_table": [
+        {
+          "bin": "40-50%",
+          "count": 150,
+          "confidence": 44.7,
+          "actual_acc": 42.0,
+          "diff": -2.7
+        },
+        {
+          "bin": "50-60%",
+          "count": 125,
+          "confidence": 54.6,
+          "actual_acc": 48.8,
+          "diff": -5.8
+        },
+        {
+          "bin": "60-70%",
+          "count": 67,
+          "confidence": 63.7,
+          "actual_acc": 67.2,
+          "diff": 3.5
+        },
+        {
+          "bin": "70-80%",
+          "count": 0,
+          "confidence": 0,
+          "actual_acc": 0,
+          "diff": 0
+        },
+        {
+          "bin": "80-101%",
+          "count": 0,
+          "confidence": 0,
+          "actual_acc": 0,
+          "diff": 0
+        }
+      ],
+      "confusion_matrix": [
+        [
+          139,
+          0,
+          23
+        ],
+        [
+          68,
+          0,
+          36
+        ],
+        [
+          70,
+          0,
+          44
+        ]
+      ]
+    },
+    {
+      "name": "Walk-Forward V2 (M7+Platt)",
+      "acc": 187,
+      "acc_pct": 49.21,
+      "log_loss": 1.03673,
+      "brier": 0.62492,
+      "ece": 0.0332,
+      "draw_called": 1,
+      "draw_correct": 0,
+      "draw_total": 104,
+      "calib_table": [
+        {
+          "bin": "40-50%",
+          "count": 130,
+          "confidence": 45.2,
+          "actual_acc": 45.4,
+          "diff": 0.2
+        },
+        {
+          "bin": "50-60%",
+          "count": 136,
+          "confidence": 55.3,
+          "actual_acc": 47.1,
+          "diff": -8.3
+        },
+        {
+          "bin": "60-70%",
+          "count": 74,
+          "confidence": 63.7,
+          "actual_acc": 62.2,
+          "diff": -1.5
+        },
+        {
+          "bin": "70-80%",
+          "count": 0,
+          "confidence": 0,
+          "actual_acc": 0,
+          "diff": 0
+        },
+        {
+          "bin": "80-101%",
+          "count": 0,
+          "confidence": 0,
+          "actual_acc": 0,
+          "diff": 0
+        }
+      ],
+      "confusion_matrix": [
+        [
+          125,
+          0,
+          37
+        ],
+        [
+          59,
+          0,
+          45
+        ],
+        [
+          51,
+          1,
+          62
+        ]
+      ]
+    },
+    {
+      "name": "Frozen V3 Candidate",
+      "acc": 185,
+      "acc_pct": 48.68,
+      "log_loss": 1.04278,
+      "brier": 0.63038,
+      "ece": 0.0586,
+      "draw_called": 2,
+      "draw_correct": 1,
+      "draw_total": 104,
+      "calib_table": [
+        {
+          "bin": "40-50%",
+          "count": 118,
+          "confidence": 45.3,
+          "actual_acc": 44.1,
+          "diff": -1.2
+        },
+        {
+          "bin": "50-60%",
+          "count": 107,
+          "confidence": 55.3,
+          "actual_acc": 44.9,
+          "diff": -10.5
+        },
+        {
+          "bin": "60-70%",
+          "count": 100,
+          "confidence": 64.4,
+          "actual_acc": 57.0,
+          "diff": -7.4
+        },
+        {
+          "bin": "70-80%",
+          "count": 22,
+          "confidence": 73.7,
+          "actual_acc": 63.6,
+          "diff": -10.1
+        },
+        {
+          "bin": "80-101%",
+          "count": 0,
+          "confidence": 0,
+          "actual_acc": 0,
+          "diff": 0
+        }
+      ],
+      "confusion_matrix": [
+        [
+          122,
+          0,
+          40
+        ],
+        [
+          55,
+          1,
+          48
+        ],
+        [
+          51,
+          1,
+          62
+        ]
+      ]
+    }
+  ],
+  "bet365": {
+    "name": "Bet365 (Market Implied)",
+    "acc": 186,
+    "acc_pct": 48.95,
+    "log_loss": 1.0185,
+    "brier": 0.612,
+    "draw_called": 0,
+    "draw_correct": 0,
+    "draw_total": 104
+  },
+  "explainability": {
+    "mean_abs_shift_pp": 3.31,
+    "team_shifts": {
+      "Liverpool": 2.4067065015873497,
+      "Bournemouth": 0.8638620584393921,
+      "Tottenham": -1.46518548044949,
+      "Burnley": -3.5573660249907135,
+      "Sunderland": -1.575267212939725,
+      "West Ham United": -1.875822393796784,
+      "Wolverhampton Wanderers": -2.649018895315587,
+      "Manchester City": 4.719448230920938,
+      "Aston Villa": -0.5886553698384854,
+      "Newcastle United": 0.7591625756810686,
+      "Brighton and Hove Albion": 1.2456565936869315,
+      "Fulham": -0.37284024350092587,
+      "Chelsea": 2.978422106939176,
+      "Crystal Palace": 0.4635259715049579,
+      "Nottingham Forest": -0.3262591862807175,
+      "Brentford": 1.034139932345331,
+      "Manchester United": 2.0299686431731025,
+      "Arsenal": 4.189093605026755,
+      "Leeds United": 0.045202420122187954,
+      "Everton": -1.3981195690752244
+    }
+  },
+  "simulation": {
+    "v2": {
+      "Arsenal": {
+        "team": "Arsenal",
+        "champ_pct": 34.63,
+        "top4_pct": 86.99,
+        "releg_pct": 0.0,
+        "exp_pts": 72.9,
+        "exp_pos": 2.6
+      },
+      "Manchester City": {
+        "team": "Manchester City",
+        "champ_pct": 31.37,
+        "top4_pct": 85.99,
+        "releg_pct": 0.0,
+        "exp_pts": 72.4,
+        "exp_pos": 2.7
+      },
+      "Liverpool": {
+        "team": "Liverpool",
+        "champ_pct": 23.85,
+        "top4_pct": 79.67,
+        "releg_pct": 0.01,
+        "exp_pts": 70.6,
+        "exp_pos": 3.2
+      },
+      "Aston Villa": {
+        "team": "Aston Villa",
+        "champ_pct": 5.15,
+        "top4_pct": 46.42,
+        "releg_pct": 0.13,
+        "exp_pts": 63.7,
+        "exp_pos": 5.4
+      },
+      "Chelsea": {
+        "team": "Chelsea",
+        "champ_pct": 1.0,
+        "top4_pct": 17.89,
+        "releg_pct": 0.58,
+        "exp_pts": 57.4,
+        "exp_pos": 8.0
+      },
+      "Newcastle United": {
+        "team": "Newcastle United",
+        "champ_pct": 0.95,
+        "top4_pct": 15.72,
+        "releg_pct": 0.62,
+        "exp_pts": 56.8,
+        "exp_pos": 8.3
+      },
+      "Manchester United": {
+        "team": "Manchester United",
+        "champ_pct": 0.84,
+        "top4_pct": 15.61,
+        "releg_pct": 0.81,
+        "exp_pts": 56.7,
+        "exp_pos": 8.3
+      },
+      "Brighton and Hove Albion": {
+        "team": "Brighton and Hove Albion",
+        "champ_pct": 0.7,
+        "top4_pct": 13.14,
+        "releg_pct": 1.01,
+        "exp_pts": 55.8,
+        "exp_pos": 8.7
+      },
+      "Crystal Palace": {
+        "team": "Crystal Palace",
+        "champ_pct": 0.56,
+        "top4_pct": 11.22,
+        "releg_pct": 1.39,
+        "exp_pts": 55.0,
+        "exp_pos": 9.1
+      },
+      "Everton": {
+        "team": "Everton",
+        "champ_pct": 0.5,
+        "top4_pct": 10.52,
+        "releg_pct": 1.43,
+        "exp_pts": 54.6,
+        "exp_pos": 9.3
+      },
+      "Brentford": {
+        "team": "Brentford",
+        "champ_pct": 0.14,
+        "top4_pct": 4.92,
+        "releg_pct": 3.88,
+        "exp_pts": 51.2,
+        "exp_pos": 11.0
+      },
+      "Bournemouth": {
+        "team": "Bournemouth",
+        "champ_pct": 0.11,
+        "top4_pct": 4.6,
+        "releg_pct": 3.85,
+        "exp_pts": 51.1,
+        "exp_pos": 11.0
+      },
+      "Fulham": {
+        "team": "Fulham",
+        "champ_pct": 0.18,
+        "top4_pct": 4.65,
+        "releg_pct": 3.82,
+        "exp_pts": 50.9,
+        "exp_pos": 11.1
+      },
+      "Nottingham Forest": {
+        "team": "Nottingham Forest",
+        "champ_pct": 0.0,
+        "top4_pct": 1.42,
+        "releg_pct": 9.67,
+        "exp_pts": 47.1,
+        "exp_pos": 13.0
+      },
+      "Tottenham": {
+        "team": "Tottenham",
+        "champ_pct": 0.01,
+        "top4_pct": 0.75,
+        "releg_pct": 18.46,
+        "exp_pts": 44.1,
+        "exp_pos": 14.3
+      },
+      "Wolverhampton Wanderers": {
+        "team": "Wolverhampton Wanderers",
+        "champ_pct": 0.0,
+        "top4_pct": 0.18,
+        "releg_pct": 27.78,
+        "exp_pts": 41.7,
+        "exp_pos": 15.3
+      },
+      "West Ham United": {
+        "team": "West Ham United",
+        "champ_pct": 0.01,
+        "top4_pct": 0.26,
+        "releg_pct": 29.4,
+        "exp_pts": 41.3,
+        "exp_pos": 15.5
+      },
+      "Leeds United": {
+        "team": "Leeds United",
+        "champ_pct": 0.0,
+        "top4_pct": 0.03,
+        "releg_pct": 49.69,
+        "exp_pts": 37.5,
+        "exp_pos": 16.9
+      },
+      "Sunderland": {
+        "team": "Sunderland",
+        "champ_pct": 0.0,
+        "top4_pct": 0.02,
+        "releg_pct": 63.94,
+        "exp_pts": 35.1,
+        "exp_pos": 17.7
+      },
+      "Burnley": {
+        "team": "Burnley",
+        "champ_pct": 0.0,
+        "top4_pct": 0.0,
+        "releg_pct": 83.53,
+        "exp_pts": 30.7,
+        "exp_pos": 18.8
+      }
+    },
+    "v3": {
+      "Manchester City": {
+        "team": "Manchester City",
+        "champ_pct": 38.99,
+        "top4_pct": 94.05,
+        "releg_pct": 0.0,
+        "exp_pts": 77.2,
+        "exp_pos": 2.2
+      },
+      "Arsenal": {
+        "team": "Arsenal",
+        "champ_pct": 38.28,
+        "top4_pct": 94.04,
+        "releg_pct": 0.0,
+        "exp_pts": 77.1,
+        "exp_pos": 2.2
+      },
+      "Liverpool": {
+        "team": "Liverpool",
+        "champ_pct": 18.55,
+        "top4_pct": 83.6,
+        "releg_pct": 0.0,
+        "exp_pts": 73.0,
+        "exp_pos": 3.0
+      },
+      "Aston Villa": {
+        "team": "Aston Villa",
+        "champ_pct": 1.45,
+        "top4_pct": 35.08,
+        "releg_pct": 0.08,
+        "exp_pts": 62.8,
+        "exp_pos": 6.1
+      },
+      "Chelsea": {
+        "team": "Chelsea",
+        "champ_pct": 0.98,
+        "top4_pct": 23.97,
+        "releg_pct": 0.02,
+        "exp_pts": 60.5,
+        "exp_pos": 6.9
+      },
+      "Manchester United": {
+        "team": "Manchester United",
+        "champ_pct": 0.69,
+        "top4_pct": 18.0,
+        "releg_pct": 0.16,
+        "exp_pts": 58.9,
+        "exp_pos": 7.6
+      },
+      "Newcastle United": {
+        "team": "Newcastle United",
+        "champ_pct": 0.35,
+        "top4_pct": 13.42,
+        "releg_pct": 0.27,
+        "exp_pts": 57.4,
+        "exp_pos": 8.2
+      },
+      "Brighton and Hove Albion": {
+        "team": "Brighton and Hove Albion",
+        "champ_pct": 0.31,
+        "top4_pct": 12.29,
+        "releg_pct": 0.38,
+        "exp_pts": 57.0,
+        "exp_pos": 8.4
+      },
+      "Crystal Palace": {
+        "team": "Crystal Palace",
+        "champ_pct": 0.21,
+        "top4_pct": 8.99,
+        "releg_pct": 0.57,
+        "exp_pts": 55.4,
+        "exp_pos": 9.1
+      },
+      "Everton": {
+        "team": "Everton",
+        "champ_pct": 0.1,
+        "top4_pct": 5.12,
+        "releg_pct": 1.24,
+        "exp_pts": 52.9,
+        "exp_pos": 10.2
+      },
+      "Brentford": {
+        "team": "Brentford",
+        "champ_pct": 0.02,
+        "top4_pct": 4.28,
+        "releg_pct": 1.57,
+        "exp_pts": 52.1,
+        "exp_pos": 10.5
+      },
+      "Bournemouth": {
+        "team": "Bournemouth",
+        "champ_pct": 0.05,
+        "top4_pct": 3.6,
+        "releg_pct": 1.8,
+        "exp_pts": 51.9,
+        "exp_pos": 10.6
+      },
+      "Fulham": {
+        "team": "Fulham",
+        "champ_pct": 0.02,
+        "top4_pct": 2.56,
+        "releg_pct": 2.57,
+        "exp_pts": 50.4,
+        "exp_pos": 11.3
+      },
+      "Nottingham Forest": {
+        "team": "Nottingham Forest",
+        "champ_pct": 0.0,
+        "top4_pct": 0.78,
+        "releg_pct": 7.07,
+        "exp_pts": 46.6,
+        "exp_pos": 13.0
+      },
+      "Tottenham": {
+        "team": "Tottenham",
+        "champ_pct": 0.0,
+        "top4_pct": 0.14,
+        "releg_pct": 18.04,
+        "exp_pts": 42.1,
+        "exp_pos": 14.8
+      },
+      "West Ham United": {
+        "team": "West Ham United",
+        "champ_pct": 0.0,
+        "top4_pct": 0.05,
+        "releg_pct": 32.48,
+        "exp_pts": 38.9,
+        "exp_pos": 16.0
+      },
+      "Wolverhampton Wanderers": {
+        "team": "Wolverhampton Wanderers",
+        "champ_pct": 0.0,
+        "top4_pct": 0.03,
+        "releg_pct": 34.46,
+        "exp_pts": 38.4,
+        "exp_pos": 16.1
+      },
+      "Leeds United": {
+        "team": "Leeds United",
+        "champ_pct": 0.0,
+        "top4_pct": 0.0,
+        "releg_pct": 40.4,
+        "exp_pts": 37.4,
+        "exp_pos": 16.5
+      },
+      "Sunderland": {
+        "team": "Sunderland",
+        "champ_pct": 0.0,
+        "top4_pct": 0.0,
+        "releg_pct": 66.46,
+        "exp_pts": 32.9,
+        "exp_pos": 17.8
+      },
+      "Burnley": {
+        "team": "Burnley",
+        "champ_pct": 0.0,
+        "top4_pct": 0.0,
+        "releg_pct": 92.43,
+        "exp_pts": 26.0,
+        "exp_pos": 19.3
+      }
+    }
+  }
+}

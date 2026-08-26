@@ -1,0 +1,94 @@
+{
+  "champion_name": "Candidate 3: Multi-Signal Regularized Overlay (5 signals)",
+  "fitted_on": "2022-23 + 2023-24 (760 matches)",
+  "selected_on": "2024-25 (380 matches)",
+  "frozen_parameters": {
+    "s1_strength_diff": 0.0095,
+    "s_opp_adj_xg_diff": 0.0908,
+    "s3_roll_xa_diff": 0.1306,
+    "s4_roll_xga_diff": -0.0023,
+    "s5_squad_val_diff": 0.0518
+  },
+  "validation_metrics": {
+    "acc": 200,
+    "acc_pct": 52.63,
+    "log_loss": 1.00268,
+    "brier": 0.5982,
+    "draw_called": 1,
+    "draw_correct": 0,
+    "draw_total": 93
+  },
+  "all_candidates": {
+    "Candidate 1: Rolling xA Overlay": {
+      "params": {
+        "beta_xa": 0.42242187500000006
+      },
+      "val_metrics": {
+        "acc": 199,
+        "acc_pct": 52.37,
+        "log_loss": 1.00794,
+        "brier": 0.60113,
+        "draw_called": 1,
+        "draw_correct": 0,
+        "draw_total": 93
+      },
+      "delta_ll_val": -0.00011
+    },
+    "Candidate 2: Opp-Adj xG + xA Composite": {
+      "params": {
+        "beta_opp_adj_xg": 0.0622414233430755,
+        "beta_xa": 0.2871916455694011
+      },
+      "val_metrics": {
+        "acc": 202,
+        "acc_pct": 53.16,
+        "log_loss": 1.00483,
+        "brier": 0.59933,
+        "draw_called": 1,
+        "draw_correct": 0,
+        "draw_total": 93
+      },
+      "delta_ll_val": -0.00322
+    },
+    "Candidate 3: Multi-Signal Regularized Overlay (5 signals)": {
+      "params": {
+        "s1_strength_diff": 0.0095,
+        "s_opp_adj_xg_diff": 0.0908,
+        "s3_roll_xa_diff": 0.1306,
+        "s4_roll_xga_diff": -0.0023,
+        "s5_squad_val_diff": 0.0518
+      },
+      "val_metrics": {
+        "acc": 200,
+        "acc_pct": 52.63,
+        "log_loss": 1.00268,
+        "brier": 0.5982,
+        "draw_called": 1,
+        "draw_correct": 0,
+        "draw_total": 93
+      },
+      "delta_ll_val": -0.00537
+    },
+    "Candidate 4: Multinomial H/D/A Logit Overlay": {
+      "params": {
+        "home_weights": {
+          "s1_strength_diff": 0.0093,
+          "s_opp_adj_xg_diff": 0.0911,
+          "s3_roll_xa_diff": 0.1312,
+          "s5_squad_val_diff": 0.0513
+        },
+        "draw_closeness_beta": -0.0563
+      },
+      "val_metrics": {
+        "acc": 200,
+        "acc_pct": 52.63,
+        "log_loss": 1.00361,
+        "brier": 0.59879,
+        "draw_called": 0,
+        "draw_correct": 0,
+        "draw_total": 93
+      },
+      "delta_ll_val": -0.00444
+    }
+  }
+}

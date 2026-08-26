@@ -1,0 +1,9 @@
+{
+  "total_fixtures_audited": 1520,
+  "european_match_date_violations": 0,
+  "post_kickoff_information_leaks": 0,
+  "future_transfer_or_rating_leaks": 0,
+  "walkforward_transfer_learning_verified": "YES (Expanding window strictly before target season)",
+  "fc26_edition_release_date_verified": "YES (Annual September gate enforced)",
+  "overall_leakage_status": "100% CLEAN - ZERO LEAKAGE DETECTED"
+}

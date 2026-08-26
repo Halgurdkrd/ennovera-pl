@@ -1,0 +1,118 @@
+[
+  {
+    "signal": "Signal A: Expected XI Attack",
+    "features": [
+      "diff_exp_xi_att"
+    ],
+    "dev_ll": 0.98065,
+    "delta_dev_ll": -0.0063,
+    "val_ll": 1.00281,
+    "delta_val_ll": -0.00203,
+    "val_acc": 199,
+    "val_brier": 0.59927
+  },
+  {
+    "signal": "Signal B: Expected XI Creativity",
+    "features": [
+      "diff_exp_xi_creativity"
+    ],
+    "dev_ll": 0.98133,
+    "delta_dev_ll": -0.00562,
+    "val_ll": 1.00309,
+    "delta_val_ll": -0.00175,
+    "val_acc": 201,
+    "val_brier": 0.59945
+  },
+  {
+    "signal": "Signal C: Expected XI Total xGI",
+    "features": [
+      "diff_exp_xi_xgi"
+    ],
+    "dev_ll": 0.97985,
+    "delta_dev_ll": -0.0071,
+    "val_ll": 1.00251,
+    "delta_val_ll": -0.00233,
+    "val_acc": 199,
+    "val_brier": 0.59904
+  },
+  {
+    "signal": "Signal D: Expected XI Squad Value",
+    "features": [
+      "diff_exp_xi_value"
+    ],
+    "dev_ll": 0.97995,
+    "delta_dev_ll": -0.007,
+    "val_ll": 1.00311,
+    "delta_val_ll": -0.00173,
+    "val_acc": 200,
+    "val_brier": 0.59967
+  },
+  {
+    "signal": "Signal E: XI Continuity Differential",
+    "features": [
+      "home_xi_continuity",
+      "away_xi_continuity"
+    ],
+    "dev_ll": 0.98274,
+    "delta_dev_ll": -0.00421,
+    "val_ll": 1.00331,
+    "delta_val_ll": -0.00153,
+    "val_acc": 201,
+    "val_brier": 0.59961
+  },
+  {
+    "signal": "Signal F: Bench Depth Differential",
+    "features": [
+      "home_exp_bench_value",
+      "away_exp_bench_value"
+    ],
+    "dev_ll": 0.98203,
+    "delta_dev_ll": -0.00492,
+    "val_ll": 1.00383,
+    "delta_val_ll": -0.00101,
+    "val_acc": 202,
+    "val_brier": 0.59991
+  },
+  {
+    "signal": "Signal G: Top-Creator Dependency",
+    "features": [
+      "home_top_creator_dep",
+      "away_top_creator_dep"
+    ],
+    "dev_ll": 0.98299,
+    "delta_dev_ll": -0.00396,
+    "val_ll": 1.00362,
+    "delta_val_ll": -0.00122,
+    "val_acc": 201,
+    "val_brier": 0.59982
+  },
+  {
+    "signal": "Signal H: Combined XI Attack & Creativity",
+    "features": [
+      "diff_exp_xi_att",
+      "diff_exp_xi_creativity"
+    ],
+    "dev_ll": 0.98016,
+    "delta_dev_ll": -0.00679,
+    "val_ll": 1.00261,
+    "delta_val_ll": -0.00223,
+    "val_acc": 198,
+    "val_brier": 0.59914
+  },
+  {
+    "signal": "Signal I: Combined XI Attack, Depth & Continuity",
+    "features": [
+      "diff_exp_xi_att",
+      "diff_exp_xi_creativity",
+      "diff_exp_xi_value",
+      "home_xi_continuity",
+      "away_xi_continuity"
+    ],
+    "dev_ll": 0.97866,
+    "delta_dev_ll": -0.00829,
+    "val_ll": 1.00217,
+    "delta_val_ll": -0.00267,
+    "val_acc": 198,
+    "val_brier": 0.59903
+  }
+]

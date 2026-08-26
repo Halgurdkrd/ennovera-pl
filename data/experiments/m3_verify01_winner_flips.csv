@@ -1,0 +1,3 @@
+season,gw,date,home_team,away_team,actual_result,t7_prediction,hybrid_prediction,transition_type
+2025-26,15,2026-01-07,Crystal Palace,Aston Villa,Draw,Home Win,Away Win,WRONG -> WRONG (0)
+2025-26,15,2026-02-10,Tottenham,Newcastle United,Away Win,Away Win,Home Win,CORRECT -> WRONG (-1)

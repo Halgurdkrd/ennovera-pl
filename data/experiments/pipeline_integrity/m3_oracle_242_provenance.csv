@@ -1,0 +1,381 @@
+fixture_idx,gw,home,away,actual_result,correct_in_5_base_experts,correct_in_all_tournament_models,provenance_category,valid_for_true_5_expert_oracle
+0,15,Liverpool,Bournemouth,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+1,15,Tottenham,Burnley,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+2,15,Sunderland,West Ham United,0,NONE,NONE,None,False
+3,15,Wolverhampton Wanderers,Manchester City,2,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+4,15,Aston Villa,Newcastle United,1,NONE,NONE,None,False
+5,15,Brighton and Hove Albion,Fulham,1,NONE,NONE,None,False
+6,15,Chelsea,Crystal Palace,1,NONE,NONE,None,False
+7,15,Nottingham Forest,Brentford,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+8,15,Manchester United,Arsenal,2,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+9,15,Leeds United,Everton,0,Availability,Availability,5_Base_Experts,True
+10,15,West Ham United,Chelsea,2,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+11,15,Burnley,Sunderland,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+12,15,Manchester City,Tottenham,2,NONE,NONE,None,False
+13,15,Bournemouth,Wolverhampton Wanderers,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+14,15,Brentford,Aston Villa,0,"F2, PQ7, Availability, Tactical_T7","F2, M1-D, PQ7, Availability, Tactical_T7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+15,15,Arsenal,Leeds United,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+16,15,Everton,Brighton and Hove Albion,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+17,15,Crystal Palace,Nottingham Forest,1,NONE,NONE,None,False
+18,15,Fulham,Manchester United,1,NONE,NONE,None,False
+19,15,Newcastle United,Liverpool,2,"F2, PQ7, Tactical_T7, Context_D7","F2, M1-D, PQ7, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+20,15,Chelsea,Fulham,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+21,15,Manchester United,Burnley,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+22,15,Sunderland,Brentford,0,NONE,NONE,None,False
+23,15,Tottenham,Bournemouth,2,NONE,NONE,None,False
+24,15,Wolverhampton Wanderers,Everton,2,NONE,NONE,None,False
+25,15,Leeds United,Newcastle United,1,NONE,NONE,None,False
+26,15,Brighton and Hove Albion,Manchester City,0,NONE,NONE,None,False
+27,15,Nottingham Forest,West Ham United,2,NONE,NONE,None,False
+28,15,Liverpool,Arsenal,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+29,15,Aston Villa,Crystal Palace,2,NONE,NONE,None,False
+30,15,Brentford,Chelsea,1,NONE,NONE,None,False
+31,15,West Ham United,Tottenham,2,NONE,NONE,None,False
+32,15,Newcastle United,Wolverhampton Wanderers,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+33,15,Fulham,Leeds United,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+34,15,Everton,Aston Villa,1,NONE,NONE,None,False
+35,15,Crystal Palace,Sunderland,1,NONE,NONE,None,False
+36,15,Bournemouth,Brighton and Hove Albion,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+37,15,Arsenal,Nottingham Forest,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+38,15,Burnley,Liverpool,2,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+39,15,Manchester City,Manchester United,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+40,15,Liverpool,Everton,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+41,15,Brighton and Hove Albion,Tottenham,1,NONE,NONE,None,False
+42,15,Burnley,Nottingham Forest,1,NONE,NONE,None,False
+43,15,West Ham United,Crystal Palace,2,"F2, PQ7, Tactical_T7, Context_D7","F2, M1-D, PQ7, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+44,15,Wolverhampton Wanderers,Leeds United,2,NONE,NONE,None,False
+45,15,Manchester United,Chelsea,0,Availability,Availability,5_Base_Experts,True
+46,15,Fulham,Brentford,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+47,15,Arsenal,Manchester City,1,NONE,NONE,None,False
+48,15,Sunderland,Aston Villa,1,NONE,NONE,None,False
+49,15,Bournemouth,Newcastle United,1,NONE,NONE,None,False
+50,15,Brentford,Manchester United,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+51,15,Chelsea,Brighton and Hove Albion,2,NONE,NONE,None,False
+52,15,Crystal Palace,Liverpool,0,NONE,NONE,None,False
+53,15,Leeds United,Bournemouth,1,NONE,NONE,None,False
+54,15,Manchester City,Burnley,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+55,15,Nottingham Forest,Sunderland,2,NONE,NONE,None,False
+56,15,Tottenham,Wolverhampton Wanderers,1,NONE,NONE,None,False
+57,15,Aston Villa,Fulham,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+58,15,Newcastle United,Arsenal,2,"F2, PQ7, Tactical_T7, Context_D7","F2, M1-D, PQ7, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+59,15,Everton,West Ham United,1,NONE,NONE,None,False
+60,15,Bournemouth,Fulham,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+61,15,Chelsea,Liverpool,0,Availability,Availability,5_Base_Experts,True
+62,15,Manchester United,Sunderland,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+63,15,Leeds United,Tottenham,2,NONE,NONE,None,False
+64,15,Arsenal,West Ham United,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+65,15,Aston Villa,Burnley,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+66,15,Everton,Crystal Palace,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+67,15,Newcastle United,Nottingham Forest,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+68,15,Wolverhampton Wanderers,Brighton and Hove Albion,1,NONE,NONE,None,False
+69,15,Brentford,Manchester City,2,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+70,15,Fulham,Arsenal,2,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+71,15,Nottingham Forest,Chelsea,2,"F2, PQ7, Tactical_T7, Context_D7","F2, M1-D, PQ7, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+72,15,Brighton and Hove Albion,Newcastle United,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+73,15,Burnley,Leeds United,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+74,15,Crystal Palace,Bournemouth,1,NONE,NONE,None,False
+75,15,Manchester City,Everton,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+76,15,Sunderland,Wolverhampton Wanderers,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+77,15,Liverpool,Manchester United,2,NONE,NONE,None,False
+78,15,Tottenham,Aston Villa,2,"PQ7, Tactical_T7, Context_D7","PQ7, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+79,15,West Ham United,Brentford,2,NONE,NONE,None,False
+80,15,Leeds United,West Ham United,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+81,15,Chelsea,Sunderland,2,NONE,NONE,None,False
+82,15,Newcastle United,Fulham,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+83,15,Manchester United,Brighton and Hove Albion,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+84,15,Brentford,Liverpool,0,NONE,NONE,None,False
+85,15,Arsenal,Crystal Palace,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+86,15,Aston Villa,Manchester City,0,Availability,Availability,5_Base_Experts,True
+87,15,Bournemouth,Nottingham Forest,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+88,15,Wolverhampton Wanderers,Burnley,2,NONE,NONE,None,False
+89,15,Everton,Tottenham,2,NONE,NONE,None,False
+90,15,Liverpool,Aston Villa,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+91,15,Tottenham,Chelsea,2,"F2, PQ7, Tactical_T7, Context_D7","F2, M1-D, PQ7, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+92,15,Nottingham Forest,Manchester United,1,NONE,NONE,None,False
+93,15,Crystal Palace,Brentford,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+94,15,Burnley,Arsenal,2,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+95,15,Brighton and Hove Albion,Leeds United,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+96,15,Fulham,Wolverhampton Wanderers,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+97,15,West Ham United,Newcastle United,0,NONE,NONE,None,False
+98,15,Manchester City,Bournemouth,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+99,15,Sunderland,Everton,1,NONE,NONE,None,False
+100,15,Tottenham,Manchester United,1,NONE,NONE,None,False
+101,15,Everton,Fulham,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+102,15,West Ham United,Burnley,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+103,15,Sunderland,Arsenal,1,NONE,NONE,None,False
+104,15,Chelsea,Wolverhampton Wanderers,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+105,15,Manchester City,Liverpool,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+106,15,Nottingham Forest,Leeds United,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+107,15,Brentford,Newcastle United,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+108,15,Aston Villa,Bournemouth,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+109,15,Crystal Palace,Brighton and Hove Albion,1,NONE,NONE,None,False
+110,15,Burnley,Chelsea,2,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+111,15,Bournemouth,West Ham United,1,NONE,NONE,None,False
+112,15,Brighton and Hove Albion,Brentford,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+113,15,Fulham,Sunderland,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+114,15,Liverpool,Nottingham Forest,2,NONE,NONE,None,False
+115,15,Wolverhampton Wanderers,Crystal Palace,2,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+116,15,Newcastle United,Manchester City,0,NONE,NONE,None,False
+117,15,Leeds United,Aston Villa,2,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+118,15,Arsenal,Tottenham,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+119,15,Manchester United,Everton,2,NONE,NONE,None,False
+120,15,Manchester City,Leeds United,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+121,15,Tottenham,Fulham,2,NONE,NONE,None,False
+122,15,Everton,Newcastle United,2,NONE,NONE,None,False
+123,15,Brentford,Burnley,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+124,15,Sunderland,Bournemouth,0,NONE,NONE,None,False
+125,15,Crystal Palace,Manchester United,2,NONE,NONE,None,False
+126,15,Aston Villa,Wolverhampton Wanderers,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+127,15,Nottingham Forest,Brighton and Hove Albion,2,Context_D7,"Context_D7, M3-E, R7_Tree_Disagreement",5_Base_Experts,True
+128,15,West Ham United,Liverpool,2,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+129,15,Chelsea,Arsenal,1,NONE,NONE,None,False
+130,15,Fulham,Manchester City,2,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+131,15,Bournemouth,Everton,2,NONE,NONE,None,False
+132,15,Newcastle United,Tottenham,1,NONE,NONE,None,False
+133,15,Leeds United,Chelsea,0,NONE,NONE,None,False
+134,15,Wolverhampton Wanderers,Nottingham Forest,2,"F2, PQ7, Tactical_T7, Context_D7","F2, M1-D, PQ7, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+135,15,Liverpool,Sunderland,1,NONE,NONE,None,False
+136,15,Brighton and Hove Albion,Aston Villa,2,NONE,NONE,None,False
+137,15,Arsenal,Brentford,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+138,15,Burnley,Crystal Palace,2,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+139,15,Manchester United,West Ham United,1,NONE,NONE,None,False
+140,15,Aston Villa,Arsenal,0,"F2, Availability, Tactical_T7, Context_D7","F2, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+141,15,Bournemouth,Chelsea,1,NONE,NONE,None,False
+142,15,Everton,Nottingham Forest,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+143,15,Manchester City,Sunderland,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+144,15,Newcastle United,Burnley,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+145,15,Tottenham,Brentford,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+146,15,Leeds United,Liverpool,1,NONE,NONE,None,False
+147,15,Brighton and Hove Albion,West Ham United,1,NONE,NONE,None,False
+148,15,Fulham,Crystal Palace,2,NONE,NONE,None,False
+149,15,Wolverhampton Wanderers,Manchester United,2,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+150,15,Chelsea,Everton,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+151,15,Liverpool,Brighton and Hove Albion,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+152,15,Burnley,Fulham,2,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+153,15,Arsenal,Wolverhampton Wanderers,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+154,15,Crystal Palace,Manchester City,2,"F2, PQ7, Tactical_T7, Context_D7","F2, M1-D, PQ7, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+155,15,Nottingham Forest,Tottenham,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+156,15,Sunderland,Newcastle United,0,NONE,NONE,None,False
+157,15,West Ham United,Aston Villa,2,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+158,15,Brentford,Leeds United,1,NONE,NONE,None,False
+159,15,Manchester United,Bournemouth,1,NONE,NONE,None,False
+160,15,Leeds United,Crystal Palace,0,NONE,NONE,None,False
+161,15,Tottenham,Liverpool,2,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+162,15,Wolverhampton Wanderers,Brentford,2,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+163,15,Everton,Arsenal,2,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+164,15,Brighton and Hove Albion,Sunderland,1,NONE,NONE,None,False
+165,15,Bournemouth,Burnley,1,NONE,NONE,None,False
+166,15,Newcastle United,Chelsea,1,NONE,NONE,None,False
+167,15,Manchester City,West Ham United,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+168,15,Aston Villa,Manchester United,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+169,15,Fulham,Nottingham Forest,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+170,15,Manchester United,Newcastle United,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+171,15,Chelsea,Aston Villa,2,NONE,NONE,None,False
+172,15,West Ham United,Fulham,2,NONE,NONE,None,False
+173,15,Liverpool,Wolverhampton Wanderers,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+174,15,Brentford,Bournemouth,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+175,15,Arsenal,Brighton and Hove Albion,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+176,15,Nottingham Forest,Manchester City,2,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+177,15,Burnley,Everton,1,NONE,NONE,None,False
+178,15,Sunderland,Leeds United,1,NONE,NONE,None,False
+179,15,Crystal Palace,Tottenham,2,NONE,NONE,None,False
+180,15,Arsenal,Aston Villa,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+181,15,Manchester United,Wolverhampton Wanderers,1,NONE,NONE,None,False
+182,15,West Ham United,Brighton and Hove Albion,1,NONE,NONE,None,False
+183,15,Burnley,Newcastle United,2,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+184,15,Chelsea,Bournemouth,1,NONE,NONE,None,False
+185,15,Nottingham Forest,Everton,2,NONE,NONE,None,False
+186,15,Crystal Palace,Fulham,1,NONE,NONE,None,False
+187,15,Liverpool,Leeds United,1,NONE,NONE,None,False
+188,15,Brentford,Tottenham,1,NONE,NONE,None,False
+189,15,Sunderland,Manchester City,1,NONE,NONE,None,False
+190,15,Aston Villa,Nottingham Forest,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+191,15,Brighton and Hove Albion,Burnley,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+192,15,Wolverhampton Wanderers,West Ham United,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+193,15,Bournemouth,Arsenal,2,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+194,15,Manchester City,Chelsea,1,NONE,NONE,None,False
+195,15,Fulham,Liverpool,1,NONE,NONE,None,False
+196,15,Tottenham,Sunderland,1,NONE,NONE,None,False
+197,15,Everton,Brentford,2,NONE,NONE,None,False
+198,15,Leeds United,Manchester United,1,NONE,NONE,None,False
+199,15,Newcastle United,Crystal Palace,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+200,15,West Ham United,Nottingham Forest,2,NONE,NONE,None,False
+201,15,Bournemouth,Tottenham,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+202,15,Brentford,Sunderland,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+203,15,Crystal Palace,Aston Villa,1,NONE,NONE,None,False
+204,15,Everton,Wolverhampton Wanderers,1,NONE,NONE,None,False
+205,15,Fulham,Chelsea,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+206,15,Manchester City,Brighton and Hove Albion,1,NONE,NONE,None,False
+207,15,Burnley,Manchester United,1,NONE,NONE,None,False
+208,15,Newcastle United,Leeds United,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+209,15,Arsenal,Liverpool,1,NONE,NONE,None,False
+210,15,Nottingham Forest,Arsenal,1,NONE,NONE,None,False
+211,15,Tottenham,West Ham United,2,NONE,NONE,None,False
+212,15,Sunderland,Crystal Palace,0,"Availability, Tactical_T7, Context_D7","Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+213,15,Liverpool,Burnley,1,NONE,NONE,None,False
+214,15,Chelsea,Brentford,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+215,15,Manchester United,Manchester City,0,NONE,NONE,None,False
+216,15,Leeds United,Fulham,0,Availability,Availability,5_Base_Experts,True
+217,15,Wolverhampton Wanderers,Newcastle United,1,NONE,NONE,None,False
+218,15,Aston Villa,Everton,2,NONE,NONE,None,False
+219,15,Brighton and Hove Albion,Bournemouth,1,NONE,NONE,None,False
+220,15,West Ham United,Sunderland,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+221,15,Burnley,Tottenham,1,NONE,NONE,None,False
+222,15,Fulham,Brighton and Hove Albion,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+223,15,Manchester City,Wolverhampton Wanderers,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+224,15,Bournemouth,Liverpool,0,NONE,NONE,None,False
+225,15,Newcastle United,Aston Villa,2,NONE,NONE,None,False
+226,15,Arsenal,Manchester United,2,NONE,NONE,None,False
+227,15,Crystal Palace,Chelsea,2,NONE,NONE,None,False
+228,15,Brentford,Nottingham Forest,2,NONE,NONE,None,False
+229,15,Everton,Leeds United,1,NONE,NONE,None,False
+230,15,Brighton and Hove Albion,Everton,1,NONE,NONE,None,False
+231,15,Leeds United,Arsenal,2,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+232,15,Wolverhampton Wanderers,Bournemouth,2,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+233,15,Chelsea,West Ham United,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+234,15,Liverpool,Newcastle United,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+235,15,Aston Villa,Brentford,2,NONE,NONE,None,False
+236,15,Manchester United,Fulham,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+237,15,Nottingham Forest,Crystal Palace,1,NONE,NONE,None,False
+238,15,Tottenham,Manchester City,1,NONE,NONE,None,False
+239,15,Sunderland,Burnley,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+240,15,Leeds United,Nottingham Forest,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+241,15,Newcastle United,Brentford,2,NONE,NONE,None,False
+242,15,Wolverhampton Wanderers,Chelsea,2,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+243,15,Fulham,Everton,2,NONE,NONE,None,False
+244,15,Manchester United,Tottenham,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+245,15,Bournemouth,Aston Villa,1,NONE,NONE,None,False
+246,15,Arsenal,Sunderland,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+247,15,Burnley,West Ham United,2,"PQ7, Tactical_T7, Context_D7","PQ7, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+248,15,Brighton and Hove Albion,Crystal Palace,2,NONE,NONE,None,False
+249,15,Liverpool,Manchester City,2,NONE,NONE,None,False
+250,15,Tottenham,Newcastle United,2,Tactical_T7,"Tactical_T7, M3-E, M3-G, R7_Tree_Disagreement",5_Base_Experts,True
+251,15,Chelsea,Leeds United,1,NONE,NONE,None,False
+252,15,Everton,Bournemouth,2,NONE,NONE,None,False
+253,15,West Ham United,Manchester United,1,NONE,NONE,None,False
+254,15,Sunderland,Liverpool,2,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+255,15,Nottingham Forest,Wolverhampton Wanderers,1,NONE,NONE,None,False
+256,15,Aston Villa,Brighton and Hove Albion,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+257,15,Crystal Palace,Burnley,2,NONE,NONE,None,False
+258,15,Manchester City,Fulham,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+259,15,Brentford,Arsenal,1,NONE,NONE,None,False
+260,15,Wolverhampton Wanderers,Arsenal,1,NONE,NONE,None,False
+261,15,Aston Villa,Leeds United,1,NONE,NONE,None,False
+262,15,Brentford,Brighton and Hove Albion,2,NONE,NONE,None,False
+263,15,Chelsea,Burnley,1,NONE,NONE,None,False
+264,15,West Ham United,Bournemouth,1,NONE,NONE,None,False
+265,15,Manchester City,Newcastle United,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+266,15,Crystal Palace,Wolverhampton Wanderers,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+267,15,Nottingham Forest,Liverpool,2,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+268,15,Sunderland,Fulham,2,NONE,NONE,None,False
+269,15,Tottenham,Arsenal,2,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+270,15,Everton,Manchester United,2,NONE,NONE,None,False
+271,15,Wolverhampton Wanderers,Aston Villa,0,NONE,NONE,None,False
+272,15,Leeds United,Manchester City,2,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+273,15,Newcastle United,Everton,2,NONE,NONE,None,False
+274,15,Bournemouth,Sunderland,1,NONE,NONE,None,False
+275,15,Burnley,Brentford,2,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+276,15,Liverpool,West Ham United,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+277,15,Brighton and Hove Albion,Nottingham Forest,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+278,15,Fulham,Tottenham,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+279,15,Manchester United,Crystal Palace,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+280,15,Arsenal,Chelsea,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+281,15,Bournemouth,Brentford,1,NONE,NONE,None,False
+282,15,Everton,Burnley,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+283,15,Leeds United,Sunderland,2,NONE,NONE,None,False
+284,15,Wolverhampton Wanderers,Liverpool,0,NONE,NONE,None,False
+285,15,Newcastle United,Manchester United,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+286,15,Manchester City,Nottingham Forest,1,NONE,NONE,None,False
+287,15,Fulham,West Ham United,2,NONE,NONE,None,False
+288,15,Brighton and Hove Albion,Arsenal,2,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+289,15,Aston Villa,Chelsea,2,NONE,NONE,None,False
+290,15,Tottenham,Crystal Palace,2,"Tactical_T7, Context_D7","Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+291,15,Burnley,Bournemouth,1,NONE,NONE,None,False
+292,15,Sunderland,Brighton and Hove Albion,2,"F2, PQ7, Tactical_T7, Context_D7","F2, M1-D, PQ7, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+293,15,Arsenal,Everton,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+294,15,Chelsea,Newcastle United,2,NONE,NONE,None,False
+295,15,West Ham United,Manchester City,1,NONE,NONE,None,False
+296,15,Crystal Palace,Leeds United,1,NONE,NONE,None,False
+297,15,Manchester United,Aston Villa,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+298,15,Nottingham Forest,Fulham,1,NONE,NONE,None,False
+299,15,Liverpool,Tottenham,1,NONE,NONE,None,False
+300,15,Brentford,Wolverhampton Wanderers,1,NONE,NONE,None,False
+301,15,Bournemouth,Manchester United,1,NONE,NONE,None,False
+302,15,Brighton and Hove Albion,Liverpool,0,"F2, Availability, Tactical_T7, Context_D7","F2, M1-D, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+303,15,Fulham,Burnley,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+304,15,Everton,Chelsea,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+305,15,Leeds United,Brentford,1,NONE,NONE,None,False
+306,15,Newcastle United,Sunderland,2,NONE,NONE,None,False
+307,15,Aston Villa,West Ham United,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+308,15,Tottenham,Nottingham Forest,2,NONE,NONE,None,False
+309,15,West Ham United,Wolverhampton Wanderers,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+310,15,Arsenal,Bournemouth,2,NONE,NONE,None,False
+311,15,Brentford,Everton,1,NONE,NONE,None,False
+312,15,Burnley,Brighton and Hove Albion,2,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+313,15,Liverpool,Fulham,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+314,15,Chelsea,Manchester City,2,"F2, PQ7, Tactical_T7, Context_D7","F2, M1-D, PQ7, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+315,15,Sunderland,Tottenham,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+316,15,Nottingham Forest,Aston Villa,1,NONE,NONE,None,False
+317,15,Crystal Palace,Newcastle United,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+318,15,Manchester United,Leeds United,2,NONE,NONE,None,False
+319,15,Brentford,Fulham,1,NONE,NONE,None,False
+320,15,Leeds United,Wolverhampton Wanderers,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+321,15,Newcastle United,Bournemouth,2,NONE,NONE,None,False
+322,15,Tottenham,Brighton and Hove Albion,1,NONE,NONE,None,False
+323,15,Chelsea,Manchester United,2,NONE,NONE,None,False
+324,15,Aston Villa,Sunderland,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+325,15,Everton,Liverpool,2,"PQ7, Context_D7","PQ7, Context_D7",5_Base_Experts,True
+326,15,Nottingham Forest,Burnley,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+327,15,Manchester City,Arsenal,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+328,15,Crystal Palace,West Ham United,1,NONE,NONE,None,False
+329,15,Brighton and Hove Albion,Chelsea,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+330,15,Burnley,Manchester City,2,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+331,15,Bournemouth,Leeds United,1,NONE,NONE,None,False
+332,15,Sunderland,Nottingham Forest,2,NONE,NONE,None,False
+333,15,Fulham,Aston Villa,0,"F2, Availability","F2, M1-D, Availability",5_Base_Experts,True
+334,15,Liverpool,Crystal Palace,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+335,15,West Ham United,Everton,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+336,15,Wolverhampton Wanderers,Tottenham,2,NONE,NONE,None,False
+337,15,Arsenal,Newcastle United,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+338,15,Manchester United,Brentford,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+339,15,Leeds United,Burnley,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+340,15,Brentford,West Ham United,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+341,15,Newcastle United,Brighton and Hove Albion,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+342,15,Wolverhampton Wanderers,Sunderland,1,NONE,NONE,None,False
+343,15,Arsenal,Fulham,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+344,15,Aston Villa,Tottenham,2,NONE,NONE,None,False
+345,15,Manchester United,Liverpool,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+346,15,Bournemouth,Crystal Palace,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+347,15,Chelsea,Nottingham Forest,2,NONE,NONE,None,False
+348,15,Everton,Manchester City,1,NONE,NONE,None,False
+349,15,Liverpool,Chelsea,1,NONE,NONE,None,False
+350,15,Brighton and Hove Albion,Wolverhampton Wanderers,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+351,15,Fulham,Bournemouth,2,NONE,NONE,None,False
+352,15,Sunderland,Manchester United,1,NONE,NONE,None,False
+353,15,Manchester City,Brentford,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+354,15,Nottingham Forest,Newcastle United,1,NONE,NONE,None,False
+355,15,Burnley,Aston Villa,1,NONE,NONE,None,False
+356,15,Crystal Palace,Everton,1,NONE,NONE,None,False
+357,15,West Ham United,Arsenal,2,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+358,15,Tottenham,Leeds United,1,NONE,NONE,None,False
+359,15,Manchester City,Crystal Palace,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+360,15,Aston Villa,Liverpool,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+361,15,Manchester United,Nottingham Forest,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+362,15,Brentford,Crystal Palace,1,NONE,NONE,None,False
+363,15,Everton,Sunderland,2,NONE,NONE,None,False
+364,15,Leeds United,Brighton and Hove Albion,0,"F2, Availability, Tactical_T7, Context_D7","F2, M1-D, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+365,15,Wolverhampton Wanderers,Fulham,1,NONE,NONE,None,False
+366,15,Newcastle United,West Ham United,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+367,15,Arsenal,Burnley,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+368,15,Chelsea,Tottenham,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+369,15,Bournemouth,Manchester City,1,NONE,NONE,None,False
+370,15,Nottingham Forest,Bournemouth,1,NONE,NONE,None,False
+371,15,Manchester City,Aston Villa,2,NONE,NONE,None,False
+372,15,Sunderland,Chelsea,0,Availability,Availability,5_Base_Experts,True
+373,15,Liverpool,Brentford,1,NONE,NONE,None,False
+374,15,Tottenham,Everton,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+375,15,Crystal Palace,Arsenal,2,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+376,15,Burnley,Wolverhampton Wanderers,1,NONE,NONE,None,False
+377,15,Brighton and Hove Albion,Manchester United,2,NONE,NONE,None,False
+378,15,Fulham,Newcastle United,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
+379,15,West Ham United,Leeds United,0,"F2, PQ7, Availability, Tactical_T7, Context_D7","F2, M1-D, PQ7, Availability, Tactical_T7, Context_D7, DATA04_Hybrid, M3-E, M3-G, R6_Hierarchical, R7_Tree_Disagreement",5_Base_Experts,True
