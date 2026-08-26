@@ -1,0 +1,1 @@
+fixture_id,season,gameweek,home_team,away_team,actual_result,home_goals,away_goals,v2_correct,v4_correct,v2_match_logloss,v4_match_logloss,v2_match_brier,v4_match_brier,result_logged_timestamp

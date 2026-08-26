@@ -297,3 +297,4 @@ location /health {
    ```bash
    nginx -t && systemctl reload nginx
    ```
+

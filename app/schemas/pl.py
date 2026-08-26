@@ -25,3 +25,4 @@ class PLHealthResponse(BaseModel):
     fpl_model_loaded: bool
     version: str
     model_architecture: str
+

@@ -44,3 +44,4 @@
    - **Half 2 (GW20–38):** First-half chips expire if unused by GW19; second-half chips unlock.
 3. **Information Cutoff Guarantee:**
    - Zero future match outcomes, post-match bonus points, or retrospective starting lineups are visible to the inference engine.
+

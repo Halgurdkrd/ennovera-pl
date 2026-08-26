@@ -63,3 +63,4 @@ def get_season_rules(
 ):
     """Retrieve official season regulations and chip inventories."""
     return fpl_service.get_season_rules(season=season)
+

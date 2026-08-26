@@ -267,3 +267,4 @@ Data-driven chip status reading season rules from `config/fpl_rules_by_season.js
 
 - **Personal User FPL Team Syncing:** The current production API exposes Ennovera's **Canonical Optimal Recommended Team**. Syncing a user's personal FPL team ID via cookie/entry ID is scheduled for Phase 4.
 - **WC2026 Regression Guarantee:** All existing World Cup 2026 simulation and prediction endpoints (`/api/v1/simulation/*`, `/api/v1/predictions/*`, etc.) remain **100% untouched and functional**.
+

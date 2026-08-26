@@ -66,3 +66,4 @@ class FPLChipStatusItem(BaseModel):
     target_gw: Optional[int]
     expected_incremental_value: float
     reason: str
+

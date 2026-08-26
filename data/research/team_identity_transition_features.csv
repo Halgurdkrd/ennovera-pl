@@ -1,0 +1,21 @@
+team,is_promoted,pct_mins_lost,pct_xg_lost,top_scorer_lost,new_manager,identity_change_score,trust_history_weight
+Hull City,1,0.55,0.5,1,0,0.67,0.766
+Coventry City,1,0.55,0.5,1,0,0.67,0.766
+Leeds United,1,0.55,0.5,1,0,0.67,0.766
+Ipswich Town,1,0.55,0.5,1,0,0.67,0.766
+Sunderland,1,0.55,0.5,1,0,0.67,0.766
+Tottenham,0,0.28,0.35,1,0,0.367,0.872
+Chelsea,0,0.28,0.1,0,1,0.142,0.95
+Liverpool,0,0.28,0.1,0,1,0.142,0.95
+Brighton and Hove Albion,0,0.12,0.1,0,1,0.078,0.973
+Crystal Palace,0,0.12,0.1,0,0,0.078,0.973
+Everton,0,0.12,0.1,0,0,0.078,0.973
+Fulham,0,0.12,0.1,0,0,0.078,0.973
+Aston Villa,0,0.12,0.1,0,0,0.078,0.973
+Brentford,0,0.12,0.1,0,0,0.078,0.973
+Bournemouth,0,0.12,0.1,0,0,0.078,0.973
+Manchester City,0,0.12,0.1,0,0,0.078,0.973
+Manchester United,0,0.12,0.1,0,0,0.078,0.973
+Newcastle United,0,0.12,0.1,0,0,0.078,0.973
+Nottingham Forest,0,0.12,0.1,0,0,0.078,0.973
+Arsenal,0,0.12,0.1,0,0,0.078,0.973

@@ -25,3 +25,4 @@ def predict_fixture(
     if not home or not away or home.strip().lower() == away.strip().lower():
         raise HTTPException(status_code=400, detail="Home and away teams must be distinct clubs.")
     return pl_service.predict_match(home, away, season=season, gw=gw)
+

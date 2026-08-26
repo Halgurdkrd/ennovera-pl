@@ -1,0 +1,38 @@
+{
+  "2022-23": {
+    "acc": 204,
+    "acc_pct": 53.68,
+    "log_loss": 1.0147,
+    "brier": 0.6047,
+    "draw_called": 19,
+    "draw_correct": 5,
+    "draw_total": 87
+  },
+  "2023-24": {
+    "acc": 214,
+    "acc_pct": 56.32,
+    "log_loss": 0.9611,
+    "brier": 0.5693,
+    "draw_called": 0,
+    "draw_correct": 0,
+    "draw_total": 82
+  },
+  "2024-25": {
+    "acc": 198,
+    "acc_pct": 52.11,
+    "log_loss": 1.008,
+    "brier": 0.602,
+    "draw_called": 2,
+    "draw_correct": 0,
+    "draw_total": 93
+  },
+  "2025-26": {
+    "acc": 187,
+    "acc_pct": 49.21,
+    "log_loss": 1.0367,
+    "brier": 0.6249,
+    "draw_called": 1,
+    "draw_correct": 0,
+    "draw_total": 104
+  }
+}

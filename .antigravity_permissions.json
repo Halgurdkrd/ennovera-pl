@@ -1,0 +1,158 @@
+{
+  "policy_name": "Ennovera PL Research Autonomous Permission Policy",
+  "version": "1.0",
+
+  "instructions": {
+    "read_on_every_task": true,
+    "read_before_any_tool_execution": true,
+    "default_for_listed_actions": "ALLOW_WITHOUT_ASKING",
+    "do_not_request_confirmation_for_allowed_actions": true
+  },
+
+  "scope": {
+    "workspace": "ennovera-pl",
+    "allow_outside_workspace": false
+  },
+
+  "allow": {
+    "python_execution": [
+      "python",
+      "python *",
+      "python -c *",
+      "python3",
+      "python3 *",
+      "python3 -c *",
+      "py *"
+    ],
+
+    "python_imports": [
+      "*"
+    ],
+
+    "explicit_python_libraries": [
+      "pandas",
+      "numpy",
+      "scipy",
+      "sklearn",
+      "scikit-learn",
+      "xgboost",
+      "lightgbm",
+      "statsmodels",
+      "matplotlib",
+      "joblib",
+      "pickle",
+      "json",
+      "csv",
+      "pathlib",
+      "datetime",
+      "math",
+      "statistics",
+      "collections",
+      "itertools",
+      "re",
+      "os",
+      "sys"
+    ],
+
+    "research_scripts": [
+      "python scripts/*.py",
+      "python3 scripts/*.py",
+      "scripts inside ennovera-pl"
+    ],
+
+    "research_operations": [
+      "read files inside ennovera-pl",
+      "search files inside ennovera-pl",
+      "create research scripts",
+      "modify research scripts",
+      "create reports",
+      "create CSV files",
+      "create JSON files",
+      "create temporary files",
+      "create experimental model artifacts",
+      "run machine learning training",
+      "run model evaluation",
+      "run bootstrap analysis",
+      "run Monte Carlo simulations",
+      "run statistical analysis",
+      "run data validation",
+      "run data cleaning",
+      "run feature engineering",
+      "run debugging",
+      "rerun failed experiments",
+      "inspect local datasets",
+      "process local datasets"
+    ],
+
+    "safe_shell_operations": [
+      "dir",
+      "ls",
+      "pwd",
+      "cd within ennovera-pl",
+      "type",
+      "cat",
+      "head",
+      "tail",
+      "find",
+      "grep",
+      "where",
+      "which"
+    ],
+
+    "safe_git_read_only": [
+      "git status",
+      "git diff",
+      "git log",
+      "git show",
+      "git branch",
+      "git rev-parse"
+    ],
+
+    "package_operations": {
+      "import_installed_packages": true,
+      "check_package_versions": true,
+      "pip_list": true,
+      "pip_show": true
+    }
+  },
+
+  "ask_first": {
+    "operations": [
+      "installing a new package from the internet",
+      "accessing a paid API",
+      "using credentials",
+      "changing environment variables",
+      "writing outside ennovera-pl",
+      "changing production files",
+      "deployment",
+      "git commit",
+      "git push",
+      "git merge",
+      "git rebase",
+      "deleting important files"
+    ]
+  },
+
+  "deny": {
+    "operations": [
+      "git push without explicit user request",
+      "git reset --hard",
+      "git clean -fd",
+      "force push",
+      "delete repository",
+      "delete production model",
+      "overwrite pl_v2_final.pkl",
+      "overwrite frozen V4 model",
+      "overwrite frozen V5.1 model",
+      "modify innovera-wc2026-backend",
+      "modify frontend repository",
+      "deploy production services",
+      "modify credentials",
+      "expose secrets",
+      "rm -rf repository",
+      "format disk",
+      "system destructive commands"
+    ]
+  }
+}
+
