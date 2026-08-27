@@ -1,0 +1,1 @@
+snapshot_id,fixture_id,season,gameweek,home_team,away_team,kickoff_utc,freeze_time_utc,p_home,p_draw,p_away,predicted_class,exp_home_goals,exp_away_goals,cs_prob_home,cs_prob_away,score_matrix_hash,explanation_hash,prospective_valid

@@ -1,0 +1,45 @@
+{
+  "program": "ENNOVERA_2026_27_PROSPECTIVE_VALIDATION_V1",
+  "season": "2026-27",
+  "fpl_model": {
+    "name": "ENNOVERA_FPL_FINAL_RESEARCH_V1",
+    "version": "1.0.0-research-final",
+    "historical_mean_pts": 2179.5,
+    "artifact_hash": "7d4bac2af06b06c13bf81d5036a403cb3173266f5dca0c16011440f47c71af5d",
+    "status": "FROZEN_READ_ONLY"
+  },
+  "pl_model": {
+    "name": "ENNOVERA_PL_FINAL_RESEARCH_V1",
+    "version": "1.0.0-research-final",
+    "historical_accuracy": 0.584,
+    "historical_rps": 0.1748,
+    "historical_log_loss": 0.868,
+    "historical_draw_recall": 0.338,
+    "historical_ece": 0.009,
+    "artifact_hash": "2e1f294dbf47cd70088342ae16ad8a50b579ba728cf9b9f64c551c51f799ee5f",
+    "status": "FROZEN_READ_ONLY"
+  },
+  "shared_football_core": {
+    "version": "1.0.0-core",
+    "modules": [
+      "ExpectedXIEngine",
+      "PlayerAttackEngine",
+      "DefensiveActionEngine",
+      "SetPieceAerialEngine",
+      "CongestionFatigueEngine"
+    ],
+    "status": "FROZEN_READ_ONLY"
+  },
+  "frozen_gw2_snapshot": {
+    "file": "data/live_snapshots/2026-27/GW02/plan_frozen.json",
+    "sha256": "a4f87e16b805d8fbfb956bc371d5aea45695d5b1b8493f9e362e114a378e1c2e",
+    "status": "IMMUTABLE_PROSPECTIVE_BENCHMARK"
+  },
+  "temporal_contract": {
+    "pl_freeze_cutoff": "T - 60 minutes before fixture kickoff",
+    "fpl_freeze_cutoff": "Before official FPL deadline",
+    "leakage_tolerance": 0
+  },
+  "created_timestamp": "2026-08-27T21:45:22.382648+00:00",
+  "git_branch": "feature/2026-27-prospective-validation"
+}

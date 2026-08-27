@@ -1,0 +1,13 @@
+source_family,coverage,latency,type,timestamp_support,automation_readiness,fallback
+PL Fixture Schedule & Kickoff,100%,<1s,Live API,YES,AUTOMATABLE,Pre-season Official Calendar
+FPL Deadlines & Rulebook,100%,<1s,Live API,YES,AUTOMATABLE,Official FPL Snapshot
+FPL Prices & Ownership,100%,<5m,Live API,YES,AUTOMATABLE,Previous GW Price Table
+Confirmed Injuries & Bans,98%,<15m,Club Statements,YES,AUTOMATABLE,Pre-match Presser NLP
+Pre-match Expected XI,100%,<30m (T-60),Internal Core,YES,AUTOMATABLE,Squad Continuity Prior
+Underlying Shot Quality & xG,100%,<2h Post,Opta Feed,YES,AUTOMATABLE,Rolling Historical Rate
+Player Match Actions & DefCon,100%,<2h Post,Opta Feed,YES,AUTOMATABLE,Role-based Prior
+Tactical Style & Pressing,100%,<4h Post,Event Aggregator,YES,AUTOMATABLE,Historical Style Vector
+European Calendar & Travel,100%,<1s,UEFA Feed,YES,AUTOMATABLE,Official UEFA Fixture List
+Domestic Cup Extra Time,100%,<1h Post,FA/EFL Feed,YES,AUTOMATABLE,Match Scorecard Archive
+Manager Changes,100%,<10m,Official Statement,YES,AUTOMATABLE,Confirmed Sacking Log
+Set-Piece & Penalty Roles,100%,<12h Post,Internal Tracker,YES,AUTOMATABLE,Club Hierarchy Order
