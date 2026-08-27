@@ -1,5 +1,5 @@
-"""Live FPL Data Ingestor & Real-Time Feature Extractor.
-Fetches and caches live player elements, fixtures, and gameweek event metadata from official FPL API.
+"""Live FPL Data Ingestor & Real-Time Feature Extractor with Strict Temporal Governance.
+Fetches, caches, and archives pre-deadline player elements and enforces point-in-time constraints.
 """
 from __future__ import annotations
 import os
@@ -19,16 +19,20 @@ _SCRIPTS_DIR = _REPO_ROOT / "scripts"
 sys.path.insert(0, str(_SCRIPTS_DIR))
 
 from team_aliases import canonicalize, PL_2026_27
+from app.services.temporal_governance import TemporalLeakageError, FPLMode, assert_predeadline_integrity
 
 CACHE_DIR = _REPO_ROOT / "data" / "processed"
+SNAPSHOTS_DIR = _REPO_ROOT / "data" / "live_snapshots"
 CACHE_DIR.mkdir(parents=True, exist_ok=True)
+SNAPSHOTS_DIR.mkdir(parents=True, exist_ok=True)
+
 BOOTSTRAP_CACHE = CACHE_DIR / "fpl_live_bootstrap.json"
 FIXTURES_CACHE = CACHE_DIR / "fpl_live_fixtures.json"
 CACHE_TTL_SECONDS = 900  # 15 minutes
 
 
 class FPLDataIngestor:
-    """Ingests, caches, and parses live FPL data."""
+    """Ingests, caches, archives, and parses FPL data under strict temporal governance."""
     
     BOOTSTRAP_URL = "https://fantasy.premierleague.com/api/bootstrap-static/"
     FIXTURES_URL = "https://fantasy.premierleague.com/api/fixtures/"
@@ -87,23 +91,18 @@ class FPLDataIngestor:
                 pass
             return True
             
-        # Fallback to local raw file if offline
-        raw_local = _REPO_ROOT / "data" / "raw" / "fpl_full" / "data" / "2026-27" / "players_raw.csv"
-        if raw_local.exists():
-            return True
-            
         return False
 
     def get_current_gameweek_info(self) -> Dict[str, Any]:
         """Returns the active/upcoming gameweek, deadline, and finished status."""
         self.refresh()
         if not self._bootstrap_data:
-            return {"current_gw": 1, "next_gw": 2, "deadline": "2026-08-29T11:00:00Z", "is_finished": False}
+            return {"current_gw": 1, "next_gw": 2, "deadline": "2026-08-28T17:30:00Z", "is_finished": False}
             
         events = self._bootstrap_data.get("events", [])
         current_gw = 1
         next_gw = 2
-        deadline = "2026-08-29T11:00:00Z"
+        deadline = "2026-08-28T17:30:00Z"
         
         for ev in events:
             if ev.get("is_current"):
@@ -119,20 +118,50 @@ class FPLDataIngestor:
             "total_events": len(events)
         }
 
-    def get_all_players(self) -> List[Dict[str, Any]]:
-        """Parses all 600+ players with live prices, positions, availability, and multi-head xP."""
-        self.refresh()
-        if not self._bootstrap_data:
-            return []
+    def get_all_players(self, target_gw: Optional[int] = None, mode: str = FPLMode.LIVE_PROSPECTIVE) -> List[Dict[str, Any]]:
+        """Parses all players with strict point-in-time temporal verification."""
+        gw_info = self.get_current_gameweek_info()
+        live_next_gw = gw_info["next_gw"]
+        deadline = gw_info["deadline"]
+        
+        # Determine target gameweek context
+        gw = target_gw if target_gw is not None else live_next_gw
+        
+        # TEMPORAL SAFETY CHECK: If mode is HISTORICAL_REPLAY or past GW is requested
+        if mode == FPLMode.HISTORICAL_REPLAY or gw < live_next_gw:
+            if gw < live_next_gw and mode == FPLMode.LIVE_PROSPECTIVE:
+                raise TemporalLeakageError(
+                    f"TemporalLeakageError: Cannot use LIVE_PROSPECTIVE mode with current bootstrap for past Gameweek {gw}. "
+                    f"Historical replay requires an archived pre-deadline point-in-time snapshot."
+                )
+            
+            # Check for archived historical snapshot
+            snapshot_dir = SNAPSHOTS_DIR / "2026-27" / f"GW{gw:02d}"
+            snap_bootstrap = snapshot_dir / "bootstrap_predeadline.json"
+            if not snap_bootstrap.exists():
+                raise TemporalLeakageError(
+                    f"HISTORICAL_SNAPSHOT_UNAVAILABLE: No pre-deadline point-in-time snapshot exists for Gameweek {gw}. "
+                    f"Reconstruction failed closed to prevent temporal data leakage."
+                )
+            with open(snap_bootstrap, "r", encoding="utf-8") as f:
+                bootstrap_source = json.load(f)
+        else:
+            self.refresh()
+            bootstrap_source = self._bootstrap_data
+
+        if not bootstrap_source:
+            raise RuntimeError("FPL bootstrap data unavailable.")
             
         teams_map = {}
-        for t in self._bootstrap_data.get("teams", []):
+        for t in bootstrap_source.get("teams", []):
             teams_map[t["id"]] = canonicalize(t["name"])
             
         pos_map = {1: "GK", 2: "DEF", 3: "MID", 4: "FWD"}
         
         players = []
-        for p in self._bootstrap_data.get("elements", []):
+        now_iso = datetime.now(timezone.utc).isoformat()
+        
+        for p in bootstrap_source.get("elements", []):
             club = teams_map.get(p.get("team"), "Unknown")
             pos = pos_map.get(p.get("element_type"), "MID")
             price = round(float(p.get("now_cost", 50)) / 10.0, 1)
@@ -180,10 +209,53 @@ class FPLDataIngestor:
                 "haul_prob": haul_prob,
                 "form": form_val,
                 "total_points": int(total_pts),
-                "selected_by_percent": float(p.get("selected_by_percent", 0) or 0)
+                "selected_by_percent": float(p.get("selected_by_percent", 0) or 0),
+                "temporal_metadata": {
+                    "gameweek_context": gw,
+                    "mode": mode,
+                    "deadline": deadline,
+                    "fetched_at": now_iso,
+                    "source": "official_fpl_bootstrap"
+                }
             })
             
         return players
+
+    def archive_predeadline_snapshot(self, season: str, gw: int, deadline: str, plan: Dict[str, Any]) -> Path:
+        """Archives immutable point-in-time snapshots before gameweek deadline."""
+        self.refresh()
+        gw_dir = SNAPSHOTS_DIR / season / f"GW{gw:02d}"
+        gw_dir.mkdir(parents=True, exist_ok=True)
+        
+        # 1. bootstrap_predeadline.json
+        if self._bootstrap_data:
+            with open(gw_dir / "bootstrap_predeadline.json", "w", encoding="utf-8") as f:
+                json.dump(self._bootstrap_data, f, indent=2)
+                
+        # 2. fixtures_predeadline.json
+        if self._fixtures_data:
+            with open(gw_dir / "fixtures_predeadline.json", "w", encoding="utf-8") as f:
+                json.dump(self._fixtures_data, f, indent=2)
+                
+        # 3. plan_frozen.json
+        with open(gw_dir / "plan_frozen.json", "w", encoding="utf-8") as f:
+            json.dump(plan, f, indent=2)
+            
+        # 4. metadata.json
+        meta = {
+            "season": season,
+            "gameweek": gw,
+            "deadline": deadline,
+            "archived_at": datetime.now(timezone.utc).isoformat(),
+            "status": "FROZEN_PREDEADLINE",
+            "captain": plan.get("captain", {}).get("name"),
+            "vice_captain": plan.get("vice_captain", {}).get("name"),
+            "expected_points": plan.get("expected_total_points")
+        }
+        with open(gw_dir / "metadata.json", "w", encoding="utf-8") as f:
+            json.dump(meta, f, indent=2)
+            
+        return gw_dir
 
 
 fpl_ingestor = FPLDataIngestor()

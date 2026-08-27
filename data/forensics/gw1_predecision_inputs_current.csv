@@ -1,0 +1,16 @@
+player_id,name,web_name,club,position,price,expected_points,haul_prob,starting_prob,expected_minutes,form,total_points,selected_by_percent,is_starter,is_captain,is_vice_captain,bench_order
+10,Benjamin White,White,Arsenal,DEF,5.5,7.4,0.49,0.95,85.5,11.0,11,6.2,True,False,False,
+88,Michael Kayode,Kayode,Brentford,DEF,4.6,8.7,0.6,0.95,85.5,13.0,13,6.8,True,False,False,
+565,Mamadou Sangaré,M.Sangaré,Brentford,MID,5.6,9.4,0.65,0.95,85.5,14.0,14,7.5,True,False,False,
+115,Maxim De Cuyper,De Cuyper,Brighton and Hove Albion,DEF,4.6,11.4,0.65,0.95,85.5,17.0,17,6.8,True,True,False,
+123,Jack Hinshelwood,Hinshelwood,Brighton and Hove Albion,MID,6.0,10.8,0.65,0.95,85.5,16.0,16,2.4,True,False,True,
+154,Cole Palmer,Palmer,Chelsea,MID,9.5,8.7,0.6,0.95,85.5,13.0,13,14.5,True,False,False,
+165,João Pedro Junqueira de Jesus,João Pedro,Chelsea,FWD,7.6,7.4,0.49,0.95,85.5,11.0,11,67.1,True,False,False,
+249,Thierno Barry,Barry,Everton,FWD,5.5,5.4,0.33,0.95,85.5,8.0,8,2.7,False,False,False,4
+572,Konstantinos Tzolakis,Tzolakis,Hull City,GK,4.5,6.7,0.44,0.95,85.5,10.0,10,2.4,True,False,False,
+586,Nobel Mendy,Mendy,Hull City,DEF,4.0,10.1,0.65,0.95,85.5,15.0,15,3.0,True,False,False,
+316,Emersonn Correia da Silva,Emersonn,Ipswich Town,FWD,5.5,6.1,0.39,0.95,85.5,9.0,9,1.5,False,False,False,3
+335,Anton Stach,Stach,Leeds United,MID,6.0,8.7,0.6,0.95,85.5,13.0,13,2.0,True,False,False,
+385,James Trafford,Trafford,Leeds United,GK,5.0,6.1,0.39,0.95,85.5,9.0,9,4.0,False,False,False,1
+367,Cody Gakpo,Gakpo,Liverpool,MID,7.0,8.1,0.55,0.95,85.5,12.0,12,5.7,True,False,False,
+388,Marc Guéhi,Guéhi,Manchester City,DEF,6.0,6.7,0.44,0.95,85.5,10.0,10,19.1,False,False,False,2

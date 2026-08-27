@@ -1,0 +1,16 @@
+player_id,name,club,position,selected,is_starter,is_captain,is_vice_captain,predeadline_price,leaked_xP,leaked_haul_prob,actual_gw1_points,leaked_form_value,contains_post_deadline_leakage
+10,Benjamin White,Arsenal,DEF,True,True,False,False,5.5,7.4,0.49,11,11.0,YES
+88,Michael Kayode,Brentford,DEF,True,True,False,False,4.6,8.7,0.6,13,13.0,YES
+565,Mamadou Sangaré,Brentford,MID,True,True,False,False,5.6,9.4,0.65,14,14.0,YES
+115,Maxim De Cuyper,Brighton and Hove Albion,DEF,True,True,True,False,4.6,11.4,0.65,17,17.0,YES
+123,Jack Hinshelwood,Brighton and Hove Albion,MID,True,True,False,True,6.0,10.8,0.65,16,16.0,YES
+154,Cole Palmer,Chelsea,MID,True,True,False,False,9.5,8.7,0.6,13,13.0,YES
+165,João Pedro Junqueira de Jesus,Chelsea,FWD,True,True,False,False,7.6,7.4,0.49,11,11.0,YES
+249,Thierno Barry,Everton,FWD,True,False,False,False,5.5,5.4,0.33,8,8.0,YES
+572,Konstantinos Tzolakis,Hull City,GK,True,True,False,False,4.5,6.7,0.44,10,10.0,YES
+586,Nobel Mendy,Hull City,DEF,True,True,False,False,4.0,10.1,0.65,15,15.0,YES
+316,Emersonn Correia da Silva,Ipswich Town,FWD,True,False,False,False,5.5,6.1,0.39,9,9.0,YES
+335,Anton Stach,Leeds United,MID,True,True,False,False,6.0,8.7,0.6,13,13.0,YES
+385,James Trafford,Leeds United,GK,True,False,False,False,5.0,6.1,0.39,9,9.0,YES
+367,Cody Gakpo,Liverpool,MID,True,True,False,False,7.0,8.1,0.55,12,12.0,YES
+388,Marc Guéhi,Manchester City,DEF,True,False,False,False,6.0,6.7,0.44,10,10.0,YES

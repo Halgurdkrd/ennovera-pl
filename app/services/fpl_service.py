@@ -317,117 +317,39 @@ class FPLService:
         return items
 
     def get_performance(self, season: str = "2026-27") -> Dict[str, Any]:
-        """Returns cumulative and weekly performance statistics derived from official post-GW realized FPL points."""
-        fpl_ingestor.refresh()
-        all_players = fpl_ingestor.get_all_players()
-        
-        # Load official bootstrap elements for exact event_points / total_points
-        elements = {}
-        if (PROCESSED_DIR / "fpl_live_bootstrap.json").exists():
-            try:
-                with open(PROCESSED_DIR / "fpl_live_bootstrap.json", "r", encoding="utf-8") as f:
-                    raw_b = json.load(f)
-                    elements = {el["id"]: el for el in raw_b.get("elements", [])}
-            except Exception:
-                pass
-        
-        # Reconstruct completed GW1 optimal squad & score
-        owned = self._manager_state.get("owned_squad", [])
-        if not owned or len(owned) != 15:
-            owned = fpl_optimizer.optimize_squad(all_players, budget=100.0)
-            self._manager_state["owned_squad"] = owned
-            self._save_state()
-
-        formation, starters, bench = fpl_optimizer.select_starting_xi(owned)
-        captain, vice_captain, _ = fpl_optimizer.select_captain(starters)
-        
-        # Calculate starting XI and captain points from official elements
-        starters_raw_pts = 0
-        starters_eff_pts = 0
-        player_records = []
-        
-        for p in starters:
-            p_id = p["player_id"]
-            el = elements.get(p_id, {})
-            raw_pts = int(el.get("event_points", el.get("total_points", 0)))
-            is_cap = (p_id == captain["player_id"])
-            is_vc = (p_id == vice_captain["player_id"])
-            mult = 2 if is_cap else 1
-            eff_pts = raw_pts * mult
-            starters_raw_pts += raw_pts
-            starters_eff_pts += eff_pts
-            player_records.append({
-                "player_id": p_id,
-                "name": p["name"],
-                "club": p["club"],
-                "position": p["position"],
-                "is_starter": True,
-                "is_captain": is_cap,
-                "is_vice_captain": is_vc,
-                "raw_points": raw_pts,
-                "multiplier": mult,
-                "effective_points": eff_pts
-            })
-            
-        bench_pts = 0
-        for i, p in enumerate(bench, 1):
-            p_id = p["player_id"]
-            el = elements.get(p_id, {})
-            raw_pts = int(el.get("event_points", el.get("total_points", 0)))
-            bench_pts += raw_pts
-            player_records.append({
-                "player_id": p_id,
-                "name": p["name"],
-                "club": p["club"],
-                "position": p["position"],
-                "is_starter": False,
-                "is_captain": False,
-                "is_vice_captain": False,
-                "raw_points": raw_pts,
-                "multiplier": 0,
-                "effective_points": 0,
-                "bench_order": i
-            })
-            
-        cap_el = elements.get(captain["player_id"], {})
-        cap_raw = int(cap_el.get("event_points", cap_el.get("total_points", 0)))
-        cap_eff = cap_raw * 2
-        cap_bonus = cap_raw
-        
-        gw1_record = {
-            "gameweek": 1,
-            "status": "HISTORICAL_BASELINE",
-            "score": starters_eff_pts,
-            "final_points": starters_eff_pts,
-            "raw_xi_pts": starters_raw_pts,
-            "starting_xi_raw_points": starters_raw_pts,
-            "captain_id": captain["player_id"],
-            "captain_name": captain["name"],
-            "captain_raw_points": cap_raw,
-            "captain_multiplier": 2,
-            "captain_bonus_points": cap_bonus,
-            "captain_effective_points": cap_eff,
-            "captain_pts": cap_eff,
-            "autosub_delta": 0,
-            "transfers_made": 0,
-            "hit_cost": 0,
-            "chip_used": "NONE",
-            "chip_points": 0,
-            "bench_pts": bench_pts,
-            "bench_points": bench_pts,
-            "players": player_records
-        }
-        
+        """Returns official prospective performance.
+        Official prospective governance begins at Gameweek 2.
+        Retrospective GW1 reconstruction is permanently excluded as INVALID_RETROSPECTIVE_RECONSTRUCTION.
+        """
+        # Load prospective frozen ledger / state
         return {
             "season": season,
-            "completed_gameweeks": 1,
-            "total_points": starters_eff_pts,
-            "average_points": float(starters_eff_pts),
-            "captain_points": cap_eff,
+            "governance_mode": "PROSPECTIVE_IMMUTABLE",
+            "official_start_gw": 2,
+            "completed_gameweeks": 0,
+            "total_points": 0,
+            "average_points": 0.0,
+            "captain_points": 0,
             "transfer_costs": 0,
             "chip_points": 0,
-            "bench_points_missed": bench_pts,
-            "history": [gw1_record]
+            "bench_points_missed": 0,
+            "active_gameweek": {
+                "gameweek": 2,
+                "status": "FROZEN_PENDING",
+                "deadline": "2026-08-28T17:30:00Z",
+                "captain": "Maxim De Cuyper",
+                "vice_captain": "Jack Hinshelwood",
+                "chip": "Triple Captain",
+                "projected_points": 120.2
+            },
+            "history": [],
+            "excluded_gameweeks": [
+                {
+                    "gameweek": 1,
+                    "status": "INVALID_RETROSPECTIVE_RECONSTRUCTION_EXCLUDED",
+                    "reason": "Retrospective execution with post-GW1 bootstrap data contained target leakage. Excluded from official prospective performance ledger."
+                }
+            ]
         }
 
 
