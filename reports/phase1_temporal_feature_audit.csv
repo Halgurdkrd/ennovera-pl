@@ -1,0 +1,9 @@
+feature,raw_source,source_timestamp,prediction_cutoff,lag_shift,historical_avail,live_avail,leakage_status,notes
+long_term_prior,fpl_full/data/{season-1}/gws,Pre-season snapshot,GW deadline,Shift 1 season,YES,YES,CLEAN,Career/prior season historical points and price anchor
+roll_pts_5,fpl_full/data/{season}/gws/gw*.csv,t-1 GW final whistle,GW deadline,.shift(1).rolling(5),YES,YES,CLEAN,Strictly shifted rolling realized points
+roll_xg_5,fpl_full/data/{season}/gws/gw*.csv,t-1 GW final whistle,GW deadline,.shift(1).rolling(5),YES,YES,CLEAN,Underlying expected goals rate
+roll_xa_5,fpl_full/data/{season}/gws/gw*.csv,t-1 GW final whistle,GW deadline,.shift(1).rolling(5),YES,YES,CLEAN,Underlying expected assists rate
+roll_cs_5,fpl_full/data/{season}/gws/gw*.csv,t-1 GW final whistle,GW deadline,.shift(1).rolling(5),YES,YES,CLEAN,Underlying clean sheet rate
+expected_minutes,fpl_full/data/{season}/gws/gw*.csv,t-1 GW final whistle,GW deadline,.shift(1) EWMA,YES,YES,CLEAN,Minutes model blended with starting probability
+recency_weight_w,completed_gameweeks count,Point-in-time integer,GW deadline,N/A,YES,YES,CLEAN,Bayesian shrinkage parameter w(n) = n / (n + 4)
+fixture_factor,fpl_live_fixtures.json,Published schedule,GW deadline,N/A,YES,YES,CLEAN,Official fixture difficulty ranking (FDR)

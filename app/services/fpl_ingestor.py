@@ -237,9 +237,10 @@ class FPLDataIngestor:
             with open(gw_dir / "fixtures_predeadline.json", "w", encoding="utf-8") as f:
                 json.dump(self._fixtures_data, f, indent=2)
                 
-        # 3. plan_frozen.json
-        with open(gw_dir / "plan_frozen.json", "w", encoding="utf-8") as f:
-            json.dump(plan, f, indent=2)
+        # 3. plan_frozen.json (Immutable pre-deadline record)
+        if not (gw_dir / "plan_frozen.json").exists():
+            with open(gw_dir / "plan_frozen.json", "w", encoding="utf-8") as f:
+                json.dump(plan, f, indent=2)
             
         # 4. metadata.json
         meta = {
