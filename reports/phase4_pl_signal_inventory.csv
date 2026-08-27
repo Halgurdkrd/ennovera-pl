@@ -1,0 +1,5 @@
+signal,source,granularity,coverage,availability,treatment
+pl_lambda_team,V5.1 Match Engine,Fixture,100%,AVAILABLE,UNIQUE REPLACEMENT
+pl_cs_prob,V5.1 Match Engine,Fixture,100%,AVAILABLE,UNIQUE REPLACEMENT
+pl_p_win,V5.1 Match Engine,Fixture,100%,AVAILABLE,UNIQUE
+pl_exp_xi_att,V5.1 Lineup Model,Matchweek,100%,AVAILABLE,UNIQUE

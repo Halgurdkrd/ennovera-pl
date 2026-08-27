@@ -1,0 +1,3 @@
+bridge,pl_cutoff,fpl_deadline,validity,status
+PL Team xG -> Player Goal xP,t-24h,t-1.5h,STRICT PRE-DEADLINE,VERIFIED
+PL Clean Sheet -> Player CS xP,t-24h,t-1.5h,STRICT PRE-DEADLINE,VERIFIED
