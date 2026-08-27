@@ -1,0 +1,8 @@
+metric,phase7,phase8,delta
+Transfers Made (Annual),32.0,34.0,+2.0
+Free Transfers Banked (Annual),6.0,12.0,+6.0 (Doubled flexibility)
+Hits Taken (Annual),4.0,3.0,-1.0 hit (-4 pts)
+Gross Transfer Gain (Annual),80.0,94.0,+14.0 pts
+Net Transfer Gain (Annual),64.0,82.0,+18.0 pts net edge
+Transfer Regret,38.0,22.0,-16.0 pts reduction
+% Transfers Positive After 5 GWs,62.5,78.4,+15.9%

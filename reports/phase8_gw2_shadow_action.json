@@ -1,0 +1,11 @@
+{
+  "action": "BANK FREE TRANSFER",
+  "reason": "Current squad 5-GW projection (298.5 xP) is strong; marginal single-transfer gain (+0.4 GW1 / +1.8 5-GW) is dominated by 2-FT banking flexibility value (+3.5 pts).",
+  "current_bank": "\u00a30.5m",
+  "fts_available": 1,
+  "fts_next_gw": 2,
+  "wildcard_decision": "HOLD (24th percentile opportunity)",
+  "free_hit_decision": "HOLD (12th percentile opportunity)",
+  "triple_captain_decision": "HOLD (72nd percentile opportunity)",
+  "bench_boost_decision": "HOLD (38th percentile opportunity)"
+}
