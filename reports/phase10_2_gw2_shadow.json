@@ -1,0 +1,49 @@
+{
+  "data_cutoff": "2026-08-28T17:30:00Z",
+  "action": "BANK FREE TRANSFER",
+  "reason": "Phase 10.1 confirms optimal attacking process alignment across Haaland, Saka, and Palmer; holding 1 FT rolls over to 2 FTs for GW3.",
+  "captain": "Haaland",
+  "vice_captain": "Saka",
+  "triple_captain": "HOLD (65th percentile)",
+  "bench_boost": "HOLD (32nd percentile)",
+  "wildcard": "HOLD (20th percentile)",
+  "free_hit": "HOLD (8th percentile)",
+  "player_attributions": [
+    {
+      "player": "Haaland",
+      "xp": 9.23,
+      "breakdown": {
+        "base_attack": 5.42,
+        "minutes": 2.15,
+        "fixture": 0.85,
+        "matchup": 0.43,
+        "penalty_role": 0.38
+      },
+      "selected": "YES (Captain)"
+    },
+    {
+      "player": "Saka",
+      "xp": 7.47,
+      "breakdown": {
+        "base_attack": 4.15,
+        "minutes": 1.95,
+        "fixture": 0.65,
+        "matchup": 0.4,
+        "corner_role": 0.32
+      },
+      "selected": "YES (Vice)"
+    },
+    {
+      "player": "Palmer",
+      "xp": 7.45,
+      "breakdown": {
+        "base_attack": 4.1,
+        "minutes": 1.9,
+        "fixture": 0.7,
+        "matchup": 0.4,
+        "penalty_role": 0.35
+      },
+      "selected": "YES (XI)"
+    }
+  ]
+}

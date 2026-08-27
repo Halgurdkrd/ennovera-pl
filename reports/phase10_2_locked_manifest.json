@@ -1,0 +1,19 @@
+{
+  "model_name": "PHASE10_1_ATTACKING_ROLE_INTELLIGENCE",
+  "base_commit": "2ddafb2ab4054cffe8129cdac9241ae684ca0079",
+  "status": "LOCKED_PRE_PRODUCTION_CANDIDATE",
+  "historical_mean_score": 2163.5,
+  "modules": {
+    "Phase1_1_Shrinkage": "LOCKED",
+    "Phase3_Expected_Minutes": "LOCKED",
+    "Phase4_PL_Integration": "LOCKED (V5.1)",
+    "Phase5_Cross_Comp": "LOCKED",
+    "Phase6_Distributions": "LOCKED (Dual-Head MC)",
+    "Phase7_Captain_Chips": "LOCKED (CAP-G + TC/BB percentiles)",
+    "Phase8_MultiGW_Planning": "LOCKED (H=5, gamma=0.90, Transfer Banking)",
+    "Phase9_Lineup_Tactical": "LOCKED (P9-A 9.42m MAE + P9-E Matchups)",
+    "Phase10_1_Attack_Role": "LOCKED (P10.1-A Decomposed Shot Conversion + P10.1-B Dynamic Roles)"
+  },
+  "frozen_gw2_plan_sha256": "a4f87e16b805d8fbfb956bc371d5aea45695d5b1b8493f9e362e114a378e1c2e",
+  "timestamp_created": "2026-08-27T19:37:12.726479Z"
+}
