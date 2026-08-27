@@ -24,7 +24,7 @@ COMPETITION = "PL2026-27"
 SEASON = "2026-27"
 MODEL_PUBLIC_VERSION = "ennovera-pl-v1.0"
 MODEL_INTERNAL_VERSION = "pl_v2_final"
-DATA_CUTOFF = "Pre-match lineup confirmation / 1 hour before kickoff"
+DATA_CUTOFF = "Expected pre-match information (lineup probabilities)"
 
 
 class PLService:
