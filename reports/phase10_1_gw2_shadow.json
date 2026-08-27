@@ -1,0 +1,33 @@
+{
+  "action": "BANK FREE TRANSFER",
+  "reason": "Phase 10.1 confirms optimal attacking coverage across Haaland, Saka, and Palmer; holding 1 FT preserves 2 FTs for GW3.",
+  "captain": "Haaland",
+  "vice_captain": "Saka",
+  "triple_captain": "HOLD",
+  "bench_boost": "HOLD",
+  "wildcard": "HOLD",
+  "free_hit": "HOLD",
+  "material_xp_changes": [
+    {
+      "player": "Haaland",
+      "phase9_xp": 8.85,
+      "phase10_1_xp": 9.23,
+      "delta": "+0.38",
+      "reason": "P10.1-A elite shot volume (4.8 shots/90) + primary penalty role"
+    },
+    {
+      "player": "Saka",
+      "phase9_xp": 7.15,
+      "phase10_1_xp": 7.47,
+      "delta": "+0.32",
+      "reason": "P10.1-B right-corner duty (68% share) + inside forward shot generation"
+    },
+    {
+      "player": "Palmer",
+      "phase9_xp": 7.1,
+      "phase10_1_xp": 7.45,
+      "delta": "+0.35",
+      "reason": "P10.1-B primary penalty taker (95% prob) + central playmaking xA"
+    }
+  ]
+}
