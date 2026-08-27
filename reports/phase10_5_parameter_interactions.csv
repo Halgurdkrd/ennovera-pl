@@ -1,0 +1,4 @@
+pair,nested_val_score,delta_over_additive,stability
+k=4.0 x alpha=0.40,2172.0,+0.00 pts,HIGH
+alpha=0.40 x r_goal=1.95,2172.5,+0.00 pts,HIGH
+H=5/gamma=0.90 x tau=0.82,2172.5,+0.00 pts,HIGH
