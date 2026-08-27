@@ -1,0 +1,6 @@
+rank,player,mean_xp,median,p10,p15,p20,p90,p95,p_0_mins,exp_mins,confidence,capt_utility,decision
+1,Erling Haaland (MCI - FWD vs IPS),8.82,8.0,0.442,0.228,0.085,17.0,21.0,0.02,86.5,0.92,9.45,CAPTAIN
+2,Cole Palmer (CHE - MID @ WOL),7.18,6.0,0.315,0.142,0.048,14.0,17.0,0.04,84.0,0.88,7.62,VICE-CAPTAIN
+3,Bukayo Saka (ARS - MID @ AVL),6.85,6.0,0.285,0.125,0.038,13.0,16.0,0.03,85.0,0.9,7.24,STARTING XI
+4,Alexander Isak (NEW - FWD @ BOU),6.5,6.0,0.26,0.11,0.032,12.0,15.0,0.05,80.0,0.86,6.85,STARTING XI
+5,Maxim De Cuyper (BHA - DEF vs MUN),3.68,2.0,0.082,0.021,0.004,7.0,9.0,0.12,72.0,0.65,3.42,STARTING XI (DEF)

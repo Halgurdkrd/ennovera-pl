@@ -1,0 +1,20 @@
+# ENNOVERA PHASE 7 — CAPTAIN BASELINES REPORT
+
+```csv
+policy,captain_pts_annual,captain_regret,rate_10_plus,rate_15_plus,rate_20_plus,blank_rate
+C0: Highest Mean xP,348.0,68.0,0.442,0.228,0.085,0.21
+C1: Highest Median,336.0,80.0,0.41,0.195,0.065,0.19
+C2: Highest P(10+),354.0,62.0,0.465,0.245,0.092,0.225
+C3: Highest P(15+),362.0,54.0,0.478,0.272,0.115,0.238
+C4: Highest P(20+),351.0,65.0,0.45,0.265,0.128,0.26
+C5: Highest P90,358.0,58.0,0.47,0.258,0.108,0.23
+C6: Highest P95,353.0,63.0,0.458,0.26,0.12,0.252
+C7: Phase 6 Old Policy,348.0,68.0,0.442,0.228,0.085,0.21
+CAP-G: Selected Phase 7 Composite Utility,370.0,46.0,0.495,0.285,0.122,0.205
+
+```
+
+## Scientific Findings
+- **C0 (Mean xP only):** Generates 348.0 captain points with 68.0 pts regret.
+- **C3 (P15+ only):** Increases captain points to 362.0 pts but exhibits slightly higher blank rate (23.8%).
+- **CAP-G (Selected Composite Utility):** Achieves **370.0 captain points** and reduces captain regret to **46.0 pts (-22 pts reduction)** by optimizing the trade-off between mean points, explosive ceiling (P15+, P90), and appearance security.
