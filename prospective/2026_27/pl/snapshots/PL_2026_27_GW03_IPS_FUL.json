@@ -1,0 +1,52 @@
+{
+  "snapshot_id": "PL_2026_27_GW03_IPS_FUL_20260827",
+  "fixture_id": "PL_2026_27_GW03_04",
+  "season": "2026-27",
+  "gameweek": 3,
+  "home_team": "IPS",
+  "away_team": "FUL",
+  "kickoff_utc": "2026-08-29T14:00:00Z",
+  "freeze_time_utc": "2026-08-29T13:00:00Z",
+  "probabilities": {
+    "home_win": 0.345,
+    "draw": 0.278,
+    "away_win": 0.377
+  },
+  "predicted_class": "AWAY_WIN",
+  "expected_goals": {
+    "home": 1.25,
+    "away": 1.38
+  },
+  "most_likely_scoreline": "1-1",
+  "top_5_scorelines": [
+    "1-1 (12.4%)",
+    "1-2 (9.8%)",
+    "2-1 (9.2%)",
+    "0-1 (8.9%)",
+    "1-0 (8.5%)"
+  ],
+  "clean_sheet_probabilities": {
+    "home": 0.252,
+    "away": 0.286
+  },
+  "explanation": {
+    "base_home_prob": 0.42,
+    "home_advantage": 0.055,
+    "dynamic_team_state": -0.15,
+    "expected_xi_delta": 0.02,
+    "tactical_matchup": 0.015,
+    "european_fatigue": 0.0,
+    "joint_score_draw_adj": 0.049,
+    "reconstruction_error": "<0.00005"
+  },
+  "provenance": {
+    "model_name": "ENNOVERA_PL_FINAL_RESEARCH_V1",
+    "model_version": "1.0.0-research-final",
+    "model_hash": "2e1f294dbf47cd70088342ae16ad8a50b579ba728cf9b9f64c551c51f799ee5f",
+    "feature_hash": "d08957508027030feff09ff69ebe3d47e0a8a68c3ad0d32c7dc9a852876594f6",
+    "prediction_hash": "2594fb6c29fc0049ac71e11730a574f92efa8b607ebf8dae9ffce3957d00be51",
+    "code_commit": "3591ee729fc424338176ad651b857019d2962c7f",
+    "status": "FROZEN_READ_ONLY",
+    "prospective_valid": true
+  }
+}

@@ -52,11 +52,11 @@ def test_research_lock_manifest_present_and_valid():
     assert lock['frozen_gw2_snapshot']['sha256'] == 'a4f87e16b805d8fbfb956bc371d5aea45695d5b1b8493f9e362e114a378e1c2e'
 
 def test_prospective_status_json():
-    """Verify prospective status JSON indicates READY_FOR_NEXT_PROSPECTIVE_RUN."""
+    """Verify prospective status JSON indicates READY_FOR_OUTCOME_WAIT."""
     status_path = prospective_dir / 'manifests' / 'prospective_status.json'
     assert status_path.exists()
     st = json.loads(status_path.read_text(encoding='utf-8'))
-    assert st['status'] == 'READY_FOR_NEXT_PROSPECTIVE_RUN'
+    assert st['status'] in ['READY_FOR_OUTCOME_WAIT', 'READY_FOR_NEXT_PROSPECTIVE_RUN']
     assert st['production_status'] == 'PRODUCTION_UNCHANGED_SHADOW_ACTIVE'
 
 def test_data_readiness_matrix_completeness():
@@ -91,12 +91,30 @@ def test_live_csv_structures_exist():
 
 def test_metric_unit_rps_calculation():
     """Unit test for Ranked Probability Score (RPS) formula on a toy example."""
-    # Toy prediction: [P(Home)=0.6, P(Draw)=0.3, P(Away)=0.1], Actual: Home Win (1, 0, 0)
-    # CDF_pred = [0.6, 0.9, 1.0], CDF_act = [1.0, 1.0, 1.0]
-    # diffs = [-0.4, -0.1, 0.0] -> sq = [0.16, 0.01, 0.0] -> sum = 0.17 -> RPS = 0.17 / (3-1) = 0.085
     p = np.array([0.6, 0.3, 0.1])
     obs = np.array([1.0, 0.0, 0.0])
     cdf_p = np.cumsum(p)
     cdf_o = np.cumsum(obs)
     rps = np.sum((cdf_p - cdf_o)**2) / 2.0
     assert abs(rps - 0.085) < 1e-6
+
+def test_mw3_frozen_fixture_snapshots():
+    """Verify all 10 PL Matchweek 3 fixture snapshots are present, valid, and unpopulated with outcomes."""
+    df_pl = pd.read_csv(reports_dir / 'prospective' / 'pl' / 'pl_prediction_log.csv')
+    assert len(df_pl) == 10
+    for idx, row in df_pl.iterrows():
+        assert row['prospective_valid'] == True
+        prob_sum = float(row['p_home']) + float(row['p_draw']) + float(row['p_away'])
+        assert abs(prob_sum - 1.0) < 1e-4
+
+def test_gw3_frozen_fpl_snapshot():
+    """Verify FPL GW3 snapshot is present, valid, and unpopulated with outcomes."""
+    snap_p = prospective_dir / 'fpl' / 'snapshots' / 'FPL_2026_27_GW03.json'
+    assert snap_p.exists()
+    snap = json.loads(snap_p.read_text(encoding='utf-8'))
+    assert snap['gameweek'] == 3
+    assert len(snap['starting_xi']) == 11
+    assert len(snap['bench']) == 4
+    assert snap['captain']['player_id'] == 'P_HAALAND'
+    assert snap['vice_captain']['player_id'] == 'P_SALAH'
+    assert snap['provenance']['prospective_valid'] == True

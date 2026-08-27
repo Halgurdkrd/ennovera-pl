@@ -1,18 +1,19 @@
 {
   "program": "ENNOVERA_2026_27_PROSPECTIVE_VALIDATION_V1",
   "season": "2026-27",
-  "status": "READY_FOR_NEXT_PROSPECTIVE_RUN",
+  "status": "READY_FOR_OUTCOME_WAIT",
+  "last_run_id": "PROSPECTIVE_RUN_2026_08_28_001",
   "fpl_model": "ENNOVERA_FPL_FINAL_RESEARCH_V1",
   "pl_model": "ENNOVERA_PL_FINAL_RESEARCH_V1",
-  "pl_valid_predictions": 0,
-  "fpl_valid_gws": 1,
-  "last_fpl_snapshot": "FPL_2026_27_GW02_FROZEN",
-  "last_pl_snapshot": "NONE_PENDING_NEXT_FIXTURE",
-  "next_pl_checkpoint": "PL_50_FIXTURES",
-  "next_fpl_checkpoint": "FPL_GW5",
+  "pl_valid_predictions_frozen": 10,
+  "fpl_valid_gws_frozen": 2,
+  "last_fpl_snapshot": "FPL_2026_27_GW03_20260827",
+  "last_pl_snapshot": "PL_2026_27_GW03_MUN_LIV",
+  "next_pl_checkpoint": "PL_50_FIXTURES (10 / 50 queued)",
+  "next_fpl_checkpoint": "FPL_GW5 (2 / 5 queued)",
   "drift_status": "MONITORING_ACTIVE_ZERO_DRIFT",
   "integrity_status": "ALL_SYSTEMS_IMMUTABLE_PASS",
   "production_status": "PRODUCTION_UNCHANGED_SHADOW_ACTIVE",
   "human_review_status": "APPROVED_TO_CONTINUE_SHADOW",
-  "timestamp_updated": "2026-08-27T21:45:22.384708+00:00"
+  "timestamp_updated": "2026-08-27T21:54:18.222874+00:00"
 }

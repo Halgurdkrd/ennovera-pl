@@ -1,1 +1,2 @@
 simulation_checkpoint,simulations_count,spearman_rank,points_mae,champion_favorite,top4_probs_json,relegation_probs_json
+GW03_PRE_MATCH,10000,0.916,4.41,MCI (48.5%) / ARS (32.4%) / LIV (14.2%),"{""MCI"": 0.96, ""ARS"": 0.91, ""LIV"": 0.82, ""CHE"": 0.48, ""NEW"": 0.42, ""TOT"": 0.35, ""AVL"": 0.32, ""MUN"": 0.28}","{""SOU"": 0.62, ""IPS"": 0.58, ""LEI"": 0.46, ""EVE"": 0.28, ""WOL"": 0.24, ""BOU"": 0.2, ""NFO"": 0.18}"

@@ -1,1 +1,16 @@
 gameweek,player_id,player_name,team,pos,price,p_start,exp_mins,xp_mean,p_5plus,p_10plus,p_15plus,p_20plus,goal_prob,assist_prob,cs_prob,defcon_prob,bonus_exp
+3,P_RAYA,David Raya,ARS,GKP,5.5,0.98,90,5.2,0.57,0.18,0.08,0.03,0.08,0.18,0.39,0.45,0.4
+3,P_GABRIEL,Gabriel Magalhães,ARS,DEF,6.0,0.95,90,5.6,0.62,0.22,0.1,0.03,0.08,0.18,0.39,0.45,0.4
+3,P_SALIBA,William Saliba,ARS,DEF,6.0,0.98,90,5.4,0.59,0.19,0.09,0.03,0.08,0.18,0.39,0.45,0.4
+3,P_GVARDIOL,Joško Gvardiol,MCI,DEF,6.0,0.92,88,5.1,0.56,0.2,0.09,0.03,0.08,0.18,0.4,0.45,0.4
+3,P_SAKA,Bukayo Saka,ARS,MID,10.0,0.96,88,7.8,0.86,0.36,0.16,0.05,0.35,0.3,0.39,0.15,1.2
+3,P_PALMER,Cole Palmer,CHE,MID,10.5,0.95,88,7.6,0.84,0.35,0.16,0.05,0.35,0.3,0.35,0.15,1.2
+3,P_SALAH,Mohamed Salah (V),LIV,MID,12.5,0.98,90,8.1,0.89,0.38,0.17,0.06,0.35,0.3,0.25,0.15,1.2
+3,P_EZE,Eberechi Eze,CRY,MID,7.0,0.95,88,5.5,0.6,0.24,0.11,0.04,0.35,0.3,0.14,0.15,0.4
+3,P_ROGERS,Morgan Rogers,AVL,MID,5.0,0.9,82,4.8,0.53,0.16,0.07,0.02,0.35,0.3,0.32,0.15,0.4
+3,P_HAALAND,Erling Haaland (C),MCI,FWD,15.0,0.98,90,9.4,1.03,0.48,0.22,0.07,0.55,0.18,0.4,0.15,1.2
+3,P_ISAK,Alexander Isak,NEW,FWD,8.5,0.94,86,6.8,0.75,0.31,0.14,0.05,0.55,0.18,0.2,0.15,0.4
+3,P_FABIANSKI,Łukasz Fabiański,WHU,GKP,4.0,0.1,15,1.2,0.13,0.05,0.02,0.01,0.08,0.18,0.2,0.45,0.4
+3,P_ROBINSON,Antonee Robinson,FUL,DEF,4.6,0.1,15,3.8,0.42,0.05,0.02,0.01,0.08,0.18,0.2,0.45,0.4
+3,P_MYKOLENKO,Vitalii Mykolenko,EVE,DEF,4.5,0.1,15,3.4,0.37,0.05,0.02,0.01,0.08,0.18,0.2,0.45,0.4
+3,P_ARMSTRONG,Adam Armstrong,SOU,FWD,5.5,0.1,15,3.6,0.4,0.05,0.02,0.01,0.55,0.18,0.2,0.15,0.4

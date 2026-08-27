@@ -1,0 +1,220 @@
+{
+  "snapshot_id": "FPL_2026_27_GW03_20260827",
+  "season": "2026-27",
+  "gameweek": 3,
+  "deadline_utc": "2026-08-29T10:00:00Z",
+  "freeze_time_utc": "2026-08-27T21:54:00Z",
+  "formation": "3-5-2",
+  "starting_xi": [
+    {
+      "player_id": "P_RAYA",
+      "name": "David Raya",
+      "team": "ARS",
+      "pos": "GKP",
+      "price": 5.5,
+      "p_start": 0.98,
+      "exp_mins": 90,
+      "xp": 5.2,
+      "p_10plus": 0.18,
+      "cs_prob": 0.39
+    },
+    {
+      "player_id": "P_GABRIEL",
+      "name": "Gabriel Magalh\u00e3es",
+      "team": "ARS",
+      "pos": "DEF",
+      "price": 6.0,
+      "p_start": 0.95,
+      "exp_mins": 90,
+      "xp": 5.6,
+      "p_10plus": 0.22,
+      "cs_prob": 0.39
+    },
+    {
+      "player_id": "P_SALIBA",
+      "name": "William Saliba",
+      "team": "ARS",
+      "pos": "DEF",
+      "price": 6.0,
+      "p_start": 0.98,
+      "exp_mins": 90,
+      "xp": 5.4,
+      "p_10plus": 0.19,
+      "cs_prob": 0.39
+    },
+    {
+      "player_id": "P_GVARDIOL",
+      "name": "Jo\u0161ko Gvardiol",
+      "team": "MCI",
+      "pos": "DEF",
+      "price": 6.0,
+      "p_start": 0.92,
+      "exp_mins": 88,
+      "xp": 5.1,
+      "p_10plus": 0.2,
+      "cs_prob": 0.4
+    },
+    {
+      "player_id": "P_SAKA",
+      "name": "Bukayo Saka",
+      "team": "ARS",
+      "pos": "MID",
+      "price": 10.0,
+      "p_start": 0.96,
+      "exp_mins": 88,
+      "xp": 7.8,
+      "p_10plus": 0.36,
+      "cs_prob": 0.39
+    },
+    {
+      "player_id": "P_PALMER",
+      "name": "Cole Palmer",
+      "team": "CHE",
+      "pos": "MID",
+      "price": 10.5,
+      "p_start": 0.95,
+      "exp_mins": 88,
+      "xp": 7.6,
+      "p_10plus": 0.35,
+      "cs_prob": 0.35
+    },
+    {
+      "player_id": "P_SALAH",
+      "name": "Mohamed Salah (V)",
+      "team": "LIV",
+      "pos": "MID",
+      "price": 12.5,
+      "p_start": 0.98,
+      "exp_mins": 90,
+      "xp": 8.1,
+      "p_10plus": 0.38,
+      "cs_prob": 0.25
+    },
+    {
+      "player_id": "P_EZE",
+      "name": "Eberechi Eze",
+      "team": "CRY",
+      "pos": "MID",
+      "price": 7.0,
+      "p_start": 0.95,
+      "exp_mins": 88,
+      "xp": 5.5,
+      "p_10plus": 0.24,
+      "cs_prob": 0.14
+    },
+    {
+      "player_id": "P_ROGERS",
+      "name": "Morgan Rogers",
+      "team": "AVL",
+      "pos": "MID",
+      "price": 5.0,
+      "p_start": 0.9,
+      "exp_mins": 82,
+      "xp": 4.8,
+      "p_10plus": 0.16,
+      "cs_prob": 0.32
+    },
+    {
+      "player_id": "P_HAALAND",
+      "name": "Erling Haaland (C)",
+      "team": "MCI",
+      "pos": "FWD",
+      "price": 15.0,
+      "p_start": 0.98,
+      "exp_mins": 90,
+      "xp": 9.4,
+      "p_10plus": 0.48,
+      "cs_prob": 0.4
+    },
+    {
+      "player_id": "P_ISAK",
+      "name": "Alexander Isak",
+      "team": "NEW",
+      "pos": "FWD",
+      "price": 8.5,
+      "p_start": 0.94,
+      "exp_mins": 86,
+      "xp": 6.8,
+      "p_10plus": 0.31,
+      "cs_prob": 0.2
+    }
+  ],
+  "bench": [
+    {
+      "order": 1,
+      "player_id": "P_FABIANSKI",
+      "name": "\u0141ukasz Fabia\u0144ski",
+      "team": "WHU",
+      "pos": "GKP",
+      "price": 4.0,
+      "xp": 1.2
+    },
+    {
+      "order": 2,
+      "player_id": "P_ROBINSON",
+      "name": "Antonee Robinson",
+      "team": "FUL",
+      "pos": "DEF",
+      "price": 4.6,
+      "xp": 3.8
+    },
+    {
+      "order": 3,
+      "player_id": "P_MYKOLENKO",
+      "name": "Vitalii Mykolenko",
+      "team": "EVE",
+      "pos": "DEF",
+      "price": 4.5,
+      "xp": 3.4
+    },
+    {
+      "order": 4,
+      "player_id": "P_ARMSTRONG",
+      "name": "Adam Armstrong",
+      "team": "SOU",
+      "pos": "FWD",
+      "price": 5.5,
+      "xp": 3.6
+    }
+  ],
+  "captain": {
+    "player_id": "P_HAALAND",
+    "name": "Erling Haaland",
+    "xp_mean": 9.4,
+    "multiplier": 2,
+    "p_15plus": 0.32,
+    "p_20plus": 0.18,
+    "rationale": "Elite goal generation vs West Ham (xG 1.28 individual expectation); 90m security"
+  },
+  "vice_captain": {
+    "player_id": "P_SALAH",
+    "name": "Mohamed Salah",
+    "xp_mean": 8.1,
+    "rationale": "High historical conversion vs Manchester United"
+  },
+  "transfer_decision": {
+    "transfer_out": "NONE",
+    "transfer_in": "NONE",
+    "transfers_made": 0,
+    "bank_remaining": 1.5,
+    "free_transfers_available": 2,
+    "planned_banking_rationale": "Bank 1 FT to accumulate 2 FTs for targeted GW4 fixture swing"
+  },
+  "chip_decision": {
+    "chip_used": "NONE",
+    "chip_rationale": "Preserve Wildcard, Free Hit, Bench Boost, and Triple Captain for dense spring Double Gameweeks"
+  },
+  "projections": {
+    "starting_xi_xp": 71.2,
+    "captain_boosted_xp": 80.6,
+    "squad_total_xp": 83.2
+  },
+  "provenance": {
+    "model_name": "ENNOVERA_FPL_FINAL_RESEARCH_V1",
+    "model_version": "1.0.0-research-final",
+    "model_hash": "7d4bac2af06b06c13bf81d5036a403cb3173266f5dca0c16011440f47c71af5d",
+    "code_commit": "3591ee729fc424338176ad651b857019d2962c7f",
+    "status": "FROZEN_READ_ONLY",
+    "prospective_valid": true
+  }
+}

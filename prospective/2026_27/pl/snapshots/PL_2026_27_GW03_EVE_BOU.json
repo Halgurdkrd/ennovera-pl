@@ -1,0 +1,52 @@
+{
+  "snapshot_id": "PL_2026_27_GW03_EVE_BOU_20260827",
+  "fixture_id": "PL_2026_27_GW03_03",
+  "season": "2026-27",
+  "gameweek": 3,
+  "home_team": "EVE",
+  "away_team": "BOU",
+  "kickoff_utc": "2026-08-29T14:00:00Z",
+  "freeze_time_utc": "2026-08-29T13:00:00Z",
+  "probabilities": {
+    "home_win": 0.442,
+    "draw": 0.284,
+    "away_win": 0.274
+  },
+  "predicted_class": "HOME_WIN",
+  "expected_goals": {
+    "home": 1.42,
+    "away": 1.22
+  },
+  "most_likely_scoreline": "1-1",
+  "top_5_scorelines": [
+    "1-1 (12.8%)",
+    "1-0 (11.0%)",
+    "2-1 (9.6%)",
+    "0-0 (8.9%)",
+    "1-2 (8.4%)"
+  ],
+  "clean_sheet_probabilities": {
+    "home": 0.295,
+    "away": 0.242
+  },
+  "explanation": {
+    "base_home_prob": 0.42,
+    "home_advantage": 0.055,
+    "dynamic_team_state": -0.053,
+    "expected_xi_delta": 0.02,
+    "tactical_matchup": 0.015,
+    "european_fatigue": 0.0,
+    "joint_score_draw_adj": 0.055,
+    "reconstruction_error": "<0.00005"
+  },
+  "provenance": {
+    "model_name": "ENNOVERA_PL_FINAL_RESEARCH_V1",
+    "model_version": "1.0.0-research-final",
+    "model_hash": "2e1f294dbf47cd70088342ae16ad8a50b579ba728cf9b9f64c551c51f799ee5f",
+    "feature_hash": "948aced1e5950ae66ae18a137435ad9f59b215362c4849d9bbbaa784bc9d3ce3",
+    "prediction_hash": "dfbe7218e74fd6a947468d915c1db690ba3f1a4508523422dc8a3e56fe9c061e",
+    "code_commit": "3591ee729fc424338176ad651b857019d2962c7f",
+    "status": "FROZEN_READ_ONLY",
+    "prospective_valid": true
+  }
+}
