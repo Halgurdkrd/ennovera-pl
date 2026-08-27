@@ -1,0 +1,4 @@
+# ENNOVERA PL PHASE 11.1 — CANONICAL TARGET DEFINITIONS
+- **3-Class Outcome:** `HOME_WIN` (HG > AG), `DRAW` (HG == AG), `AWAY_WIN` (HG < AG).
+- **Exact Counts:** `HOME_GOALS`, `AWAY_GOALS`, `JOINT_SCORELINE` ($P(H=h, A=a)$).
+- **Defensive Targets:** `TEAM_CLEAN_SHEET_HOME`, `TEAM_CLEAN_SHEET_AWAY`.

@@ -1,0 +1,3 @@
+# ENNOVERA PL PHASE 11.1 — DATA MISSINGNESS POLICY
+- **Allowed Policies:** NEUTRAL_PRIOR, HISTORICAL_PRIOR, FAIL_CLOSED.
+- **Prohibited:** CURRENT_DATA_FALLBACK is strictly prohibited.

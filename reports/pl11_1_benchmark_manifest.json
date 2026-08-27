@@ -1,0 +1,38 @@
+{
+  "benchmark_name": "ENNOVERA_PL_BENCHMARK_V1",
+  "status": "CANONICAL_FROZEN_BENCHMARK",
+  "total_seasons": 4,
+  "seasons": [
+    "2022-23",
+    "2023-24",
+    "2024-25",
+    "2025-26"
+  ],
+  "total_fixtures": 1520,
+  "fixtures_per_season": 380,
+  "prediction_cutoff": "T - 60 minutes before fixture kickoff",
+  "targets": [
+    "HOME_WIN",
+    "DRAW",
+    "AWAY_WIN",
+    "HOME_GOALS",
+    "AWAY_GOALS",
+    "TEAM_CLEAN_SHEET_HOME",
+    "TEAM_CLEAN_SHEET_AWAY",
+    "JOINT_SCORELINE"
+  ],
+  "primary_metrics": [
+    "RPS",
+    "Multiclass Log Loss",
+    "Multiclass Brier",
+    "3-Class Accuracy",
+    "Draw Recall"
+  ],
+  "missingness_policies": [
+    "NEUTRAL_PRIOR",
+    "HISTORICAL_PRIOR",
+    "FAIL_CLOSED"
+  ],
+  "temporal_violations": 0,
+  "created_at": "2026-08-27T21:15:35.703624+00:00"
+}

@@ -1,0 +1,4 @@
+model,accuracy,log_loss,brier,rps,draw_recall,goals_mae,scoreline_ll,cs_brier
+Production V5.1 (Control),54.8%,0.942,0.554,0.1975,24.2%,0.795,-3.125,0.188
+Best Baseline PL-B8,54.8%,0.942,0.554,0.1975,24.2%,0.795,-3.125,0.188
+PL11_3_FPL_INTELLIGENCE_CANDIDATE,56.2%,0.918,0.538,0.1895,28.4%,0.755,-2.985,0.1365

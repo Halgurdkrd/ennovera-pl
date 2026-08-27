@@ -1,0 +1,6 @@
+source_module,transferred_feature,pl_target,priority,classification
+Expected Defensive XI (Phase 10.5A),Expected Clean Sheet Resistance & Tackle/Block Volume,xGA & Clean Sheet Probability,HIGH,PROMOTE_TO_PL_CORE
+Set-Piece Aerial Hierarchy (Phase 10.5C),Corner/FK Delivery Quality x Aerial Target Win Rate,Set-Piece Expected Goals,HIGH,PROMOTE_TO_PL_CORE
+Shot Conversion & Attacking Quality (Phase 10.1),Shrunk Non-Penalty Shot Quality Multiplier,Open Play Expected Goals,HIGH,PROMOTE_TO_PL_CORE
+Cross-Competition Congestion (Phase 5),Midweek Travel & European Workload Index,Fatigue Attenuation Factor,HIGH,PROMOTE_TO_PL_CORE
+Expected Minutes Engine (Phase 9),Pre-Match P(start) & Minutes Weighting,Expected Lineup Composition,HIGH,PROMOTE_TO_PL_CORE

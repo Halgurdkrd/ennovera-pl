@@ -1,0 +1,6 @@
+variant,accuracy,log_loss,rps,delta_rps
+Full Production V5.1,54.8%,0.942,0.1975,0.0
+V5.1 without Expected XI,53.6%,0.952,0.2,0.0025
+V5.1 without Elo,53.9%,0.949,0.1992,0.0017
+V5.1 without xG,51.8%,0.982,0.208,0.0105
+V5.1 without Home Factor,49.8%,1.005,0.2135,0.016

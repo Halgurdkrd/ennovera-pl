@@ -1,0 +1,9 @@
+module_id,module_name,accuracy,log_loss,brier,rps,draw_recall,goals_mae,cs_brier,decision
+F0,Best Baseline (Production V5.1),54.8%,0.942,0.554,0.1975,24.2%,0.795,0.188,Control Baseline
+F1,+ Enhanced Expected XI & Lineup Probability,55.4%,0.934,0.548,0.194,25.1%,0.785,0.179,PROMOTE_TO_PL_CORE
+F2,+ Decomposed Attacking Shot Conversion,55.2%,0.936,0.5495,0.195,24.8%,0.778,0.185,PROMOTE_TO_PL_CORE
+F3,+ Defensive Action Process (DefCon / CBA),55.3%,0.935,0.549,0.1945,25.4%,0.782,0.173,PROMOTE_TO_PL_CORE
+F4,+ Set-Piece Aerial Delivery & Target Model,55.1%,0.938,0.551,0.1955,24.6%,0.775,0.182,PROMOTE_TO_PL_CORE
+F5,+ Cross-Competition Workload & Fatigue,55.2%,0.937,0.5505,0.195,25.2%,0.788,0.184,PROMOTE_TO_PL_CORE
+F6,+ Role Hierarchy & Penalty Taker Model,54.9%,0.941,0.553,0.197,24.4%,0.792,0.187,EXPERIMENTAL
+F7,+ Manager Regime & Rotation Adaptation,54.9%,0.9415,0.5535,0.197,24.3%,0.793,0.1875,EXPERIMENTAL
