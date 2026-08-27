@@ -1,0 +1,4 @@
+r_assist,nll,crps,brier_2plus,tail_coverage,decision
+1.5,0.384,0.282,0.0485,94.2%,OVERDISPERSED
+1.65,0.376,0.276,0.0472,95.6%,PROMOTE_NEW_VALUE (Analytic ML Estimate)
+1.85,0.382,0.28,0.048,95.0%,CURRENT CONTROL (Goal Shared Proxy)

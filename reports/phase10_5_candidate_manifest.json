@@ -1,0 +1,45 @@
+{
+  "model_name": "PHASE10_5_PARAMETER_OPTIMIZED",
+  "base_commit": "b1c773c325a1148dfb4ceba4611b1b70b7f0f00b",
+  "status": "VALIDATED_RESEARCH_BASELINE",
+  "historical_mean_score": 2172.5,
+  "parameter_changes": {
+    "bayesian_k": {
+      "old": 4.0,
+      "new": 4.0,
+      "decision": "KEEP_CURRENT"
+    },
+    "haul_blend_alpha": {
+      "old": 0.5,
+      "new": 0.4,
+      "decision": "PROMOTE_NEW_VALUE"
+    },
+    "horizon_H": {
+      "old": 5,
+      "new": 5,
+      "decision": "KEEP_CURRENT"
+    },
+    "discount_gamma": {
+      "old": 0.9,
+      "new": 0.9,
+      "decision": "KEEP_CURRENT"
+    },
+    "goal_dispersion_r": {
+      "old": 1.85,
+      "new": 1.95,
+      "decision": "PROMOTE_NEW_VALUE"
+    },
+    "assist_dispersion_r": {
+      "old": 1.85,
+      "new": 1.65,
+      "decision": "PROMOTE_NEW_VALUE"
+    },
+    "role_decay_tau": {
+      "old": 0.82,
+      "new": 0.82,
+      "decision": "KEEP_CURRENT"
+    }
+  },
+  "frozen_gw2_plan_sha256": "a4f87e16b805d8fbfb956bc371d5aea45695d5b1b8493f9e362e114a378e1c2e",
+  "timestamp_created": "2026-08-27T20:34:08.885416+00:00"
+}

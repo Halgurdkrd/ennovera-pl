@@ -1,0 +1,7 @@
+parameter_name,module,current_value,original_phase,original_reason,candidate_range,sample_size,overfitting_risk
+bayesian_shrinkage_k,Phase 1.1 / Player Priors,4.0,Phase 1.1,Prevent single-match overreaction,3.0 - 6.0,"1,520 matches",LOW
+robust_haul_blend_alpha,Phase 1.1 / Haul Engine,0.50,Phase 1.1,Blend realized pts with underlying process,0.35 - 0.65,"1,520 matches",LOW
+multi_gw_horizon_H,Phase 8 / MILP Optimizer,5,Phase 8,Rolling planning horizon,"3, 5, 8",152 GWs,LOW
+discount_gamma,Phase 8 / MILP Optimizer,0.90,Phase 8,Uncertainty decay across future GWs,0.85 - 0.95,152 GWs,LOW
+goal_count_dispersion_r,Phase 10.1 / Multi-Goal Head,1.85,Phase 10.1,Negative Binomial overdispersion,1.50 - 2.20,"1,520 matches",LOW
+role_decay_tau,Phase 10.1 / Role Detector,0.82,Phase 10.1,Point-in-time hierarchy update memory,0.70 - 0.92,152 GWs,LOW

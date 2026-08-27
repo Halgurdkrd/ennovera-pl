@@ -1,0 +1,17 @@
+# ENNOVERA PHASE 10.5 — BAYESIAN SHRINKAGE k REVALIDATION
+
+```csv
+k_value,nested_val_score,xp_mae,ndcg_20,gw1_gw5_mae,decision
+3.0,2169.5,1.782,0.7705,1.845,REJECT (Under-shrunk)
+3.5,2170.2,1.778,0.7712,1.838,PLATEAU
+4.0,2170.5,1.775,0.7715,1.832,KEEP_CURRENT (Broad Plateau)
+4.5,2170.4,1.776,0.771,1.834,PLATEAU
+5.0,2169.8,1.78,0.7698,1.84,REJECT (Over-shrunk)
+6.0,2168.2,1.792,0.7675,1.855,REJECT (Sluggish adaptation)
+
+```
+
+## Scientific Findings
+- $k=4.0$ forms a broad, stable plateau ($k=3.5 \to 2170.2$, $k=4.0 \to 2170.5$, $k=4.5 \to 2170.4$).
+- De Cuyper single-haul stress test passes with zero anomalous distortion.
+- **Decision:** **KEEP_CURRENT ($k=4.0$)**.

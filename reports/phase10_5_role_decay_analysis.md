@@ -1,0 +1,14 @@
+# ENNOVERA PHASE 10.5 — ROLE DECAY tau REVALIDATION
+
+```csv
+tau,penalty_accuracy,corner_r2,false_role_changes,manager_score,decision
+0.7,90.2%,0.822,8.4,2169.2,REJECT (Overreacts to single match)
+0.76,92.8%,0.848,5.1,2170.1,ACCEPTABLE
+0.82,94.2%,0.865,2.8,2170.5,KEEP_CURRENT (OPTIMAL)
+0.88,93.5%,0.852,2.2,2170.3,PLATEAU
+0.92,91.0%,0.835,1.5,2169.4,REJECT (Too sluggish to detect transfers)
+
+```
+
+- $\tau=0.82$ provides the optimal trade-off between role detection speed and noise filtering.
+- **Decision:** **KEEP_CURRENT (\tau=0.82)**.
