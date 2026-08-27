@@ -1,0 +1,10 @@
+candidate_id,name,historical_mean,features,complexity,decision
+T0,Phase 10.5 Parameter Optimized Baseline,2172.5,Control Parameters,Low,Control Baseline
+T1,+ R1 Defensive Contributions only,2175.5,+ DefCon Head,Medium,Strong Contender
+T2,+ R2 Match-Relative BPS only,2175.0,+ BPS Simulation,Medium,Strong Contender
+T3,+ R1 DefCon + R2 BPS,2178.0,+ DefCon + BPS,Medium,Synergistic
+T4,+ R3 Set-Piece Micro-Model,2179.5,+ DefCon + BPS + Set-Piece,Medium-High,Optimal Balance
+T5,+ R4 Penalty Generation Model,2179.9,+ Penalty Gen,High,Penalized (Noise Risk)
+T6,+ R8 Sub-Timing Residual,2180.0,+ Sub-Timing,High,Penalized (Marginal)
+T7,All Candidates Combined (Kitchen Sink),2180.4,All Candidates,Very High,Rejected (Over-complex)
+T8,ENNOVERA_FPL_FINAL_RESEARCH_V1 (Optimal Pruned),2179.5,Params + DefCon + BPS + Set-Piece,Balanced,WINNER / PROMOTED FINAL BASELINE

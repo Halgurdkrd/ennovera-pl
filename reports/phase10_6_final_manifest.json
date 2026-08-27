@@ -1,0 +1,26 @@
+{
+  "model_name": "ENNOVERA_FPL_FINAL_RESEARCH_V1",
+  "base_commit": "435c3890e9d0de0567f779a81afaac22c88404a0",
+  "status": "HISTORICALLY_VALIDATED_FINAL_RESEARCH_BASELINE",
+  "historical_mean_score": 2179.5,
+  "historical_seasons": {
+    "2022-23": 2091.0,
+    "2023-24": 2120.0,
+    "2024-25": 2199.0,
+    "2025-26": 2308.0
+  },
+  "advantage_over_fpl03": 150.0,
+  "total_regret": 219.0,
+  "promoted_modules": [
+    "Phase 10.5 Parameter Optimization (alpha=0.40, r_goal=1.95, r_assist=1.65)",
+    "Phase 10.5A Defensive Contribution Intelligence (CBA thresholds)",
+    "Phase 10.5B Match-Relative 22-Player BPS Simulation Engine",
+    "Phase 10.5C Set-Piece Delivery & Aerial Target Micro-Model"
+  ],
+  "rejected_modules": [
+    "Phase 10.5C Penalty Generation Fixture Model (+0.4 pts < 1.5 threshold)",
+    "Phase 10.5D Sub-60 Timing Residual (+0.5 pts < 1.5 threshold)"
+  ],
+  "frozen_gw2_plan_sha256": "a4f87e16b805d8fbfb956bc371d5aea45695d5b1b8493f9e362e114a378e1c2e",
+  "timestamp_created": "2026-08-27T20:47:26.826837+00:00"
+}
