@@ -1,0 +1,8 @@
+removed_module,accuracy,log_loss,rps,delta_rps
+None (Full Certified Candidate),58.4%,0.868,0.1748,0.0
+Remove Dirichlet Calibration,58.2%,0.875,0.1765,0.0017
+Remove Joint Score (Dixon-Coles / Copula),57.8%,0.887,0.1805,0.0057
+Remove Dynamic Bayesian State,57.5%,0.883,0.1795,0.0047
+Remove Expected-XI / Replacement Quality,57.6%,0.882,0.179,0.0042
+Remove Tactical Matchups,57.9%,0.879,0.1782,0.0034
+Remove Context / European Fatigue,58.0%,0.878,0.1778,0.003

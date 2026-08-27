@@ -1,0 +1,5 @@
+engine_type,table_spearman,points_mae,top4_brier,relegation_brier
+Static Simulation (SIM0 / Production),0.842,6.85,0.118,0.098
+Dynamic Sequential Ratings (SIM1),0.885,5.42,0.095,0.078
+Dynamic + Future XI Uncertainty (SIM2),0.902,4.8,0.084,0.069
+Full Dynamic Context Simulator (SIM3),0.915,4.42,0.0785,0.064

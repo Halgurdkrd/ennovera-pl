@@ -1,0 +1,4 @@
+checkpoint,static_brier,dynamic_brier,reduction
+After GW10,0.165,0.112,-32.1%
+After GW19 (Mid-Season),0.118,0.0785,-33.5%
+After GW28,0.074,0.045,-39.2%

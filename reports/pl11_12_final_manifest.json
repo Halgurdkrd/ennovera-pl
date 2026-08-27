@@ -1,0 +1,48 @@
+{
+  "model_name": "ENNOVERA_PL_FINAL_RESEARCH_V1",
+  "version": "1.0.0-research-final",
+  "status": "HISTORICALLY_VALIDATED_RESEARCH_BASELINE",
+  "benchmark": "ENNOVERA_PL_BENCHMARK_V1",
+  "metrics": {
+    "accuracy_3class": 0.584,
+    "ranked_probability_score": 0.1748,
+    "multiclass_log_loss": 0.868,
+    "multiclass_brier": 0.502,
+    "draw_recall": 0.338,
+    "home_recall": 0.702,
+    "away_recall": 0.594,
+    "goals_mae": 0.712,
+    "clean_sheet_brier": 0.122,
+    "ece": 0.009,
+    "scoreline_log_likelihood": -2.745
+  },
+  "historical_seasons": {
+    "2022-23": {
+      "accuracy": 0.579,
+      "rps": 0.1762
+    },
+    "2023-24": {
+      "accuracy": 0.582,
+      "rps": 0.175
+    },
+    "2024-25": {
+      "accuracy": 0.586,
+      "rps": 0.1742
+    },
+    "2025-26": {
+      "accuracy": 0.589,
+      "rps": 0.1738
+    }
+  },
+  "promoted_modules": [
+    "Dynamic Bayesian Team State (Decoupled Attack/Defence)",
+    "Player-Level Expected XI & Replacement Quality Delta",
+    "Tactical Matchup Interactions (Low block, high press, transition)",
+    "European Context & Weighted Midweek Travel Fatigue",
+    "Joint Score Distribution (Dixon-Coles / Copula Bivariate)",
+    "Dirichlet Probability Calibration"
+  ],
+  "production_status": "PRODUCTION_UNCHANGED",
+  "prospective_shadow_required": true,
+  "timestamp_created": "2026-08-27T21:30:40.088538+00:00"
+}

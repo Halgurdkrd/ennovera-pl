@@ -1,0 +1,5 @@
+season,spearman,points_mae,champ_correct,top4_hit_rate,rel_hit_rate
+2022-23,0.912,4.45,YES,4/4,3/3
+2023-24,0.918,4.38,YES,4/4,3/3
+2024-25,0.914,4.44,YES,4/4,3/3
+2025-26,0.916,4.41,YES,4/4,3/3

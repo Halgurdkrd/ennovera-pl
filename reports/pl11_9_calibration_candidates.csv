@@ -1,0 +1,6 @@
+candidate_id,name,ece,log_loss,brier,rps,accuracy,draw_recall,decision
+CAL0,Uncalibrated Sprint B Control,1.8%,0.875,0.508,0.1765,58.2%,33.6%,Control Baseline
+CAL1,Temperature Scaling (T=1.042),1.4%,0.872,0.505,0.1758,58.2%,33.6%,Improved Calibration
+CAL2,Vector Scaling (Diagonal),1.2%,0.87,0.5035,0.1752,58.3%,33.7%,Strong
+CAL3,Dirichlet Calibration with Regularization,0.9%,0.868,0.502,0.1748,58.4%,33.8%,WINNER / PROMOTE
+CAL4,Classwise Isotonic Regression,1.1%,0.871,0.504,0.1755,58.3%,33.6%,Non-smooth Step

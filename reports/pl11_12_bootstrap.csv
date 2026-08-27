@@ -1,0 +1,5 @@
+comparison,metric,mean_delta,ci_95,pct_favoring
+Final Candidate vs Production V5.1,RPS,-0.0227,"[-0.0275, -0.0180]",99.9%
+Final Candidate vs Production V5.1,Log Loss,-0.074,"[-0.0890, -0.0590]",99.9%
+Final Candidate vs Production V5.1,Accuracy,0.036,"[+0.0220, +0.0500]",99.8%
+Final Candidate vs Sprint B Control,RPS,-0.0017,"[-0.0028, -0.0006]",98.5%

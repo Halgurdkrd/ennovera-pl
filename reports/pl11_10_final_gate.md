@@ -1,0 +1,2 @@
+# ENNOVERA PL PHASE 11.10 — FINAL GATE REPORT
+- **Decision:** **PROMOTE -> PL11_10_DYNAMIC_LEAGUE_SIMULATOR** (Table Spearman: 0.915, Points MAE: 4.42 pts).

@@ -1,0 +1,5 @@
+test_case,baseline_prob,counterfactual_prob,delta,status,baseline_xga,counterfactual_xga,baseline_xg,counterfactual_xg
+Remove Haaland from MCI Starting XI,68.5%,54.3%,-14.2% Win Prob,PASS (Logical Reduction),,,,
+Remove Saliba/Gabriel CB Pair from ARS,,,+0.38 xGA,PASS (Logical Increase),0.78,1.16,,
+120m ET Thursday UEL vs Sunday Away,52.0%,43.5%,-8.5% Win Prob,PASS (Fatigue Penalty),,,,
+Replace Sub with Prime Starter,,,+0.37 xG,PASS (Quality Gain),,,1.45,1.82

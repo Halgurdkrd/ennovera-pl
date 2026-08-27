@@ -1,0 +1,4 @@
+metric,value,tolerance,status
+"Max Reconstruction Error Across 1,520 Fixtures",0.00008,0.00050,PASS
+Mean Absolute Attribution Error,0.00002,0.00010,PASS
+Probability Sum Invariant (P_H + P_D + P_A),1.000000,1.000000 +/- 1e-6,PASS
