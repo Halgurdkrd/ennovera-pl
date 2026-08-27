@@ -1,0 +1,6 @@
+rank,module_code,name,recoverable_regret,est_manager_gain,data_availability,temporal_safety,engineering_effort,recommendation
+1,P9-A,"Expected Minutes, Lineup Probability & Press Conference NLP Engine",38–52 pts,+14.0 to +18.0 pts/season,"High (Press transcripts, early team news)",100% Pre-deadline verifiable,Medium,PRIMARY PHASE 9 FOCUS
+2,P9-E,Opponent Tactical Style & Matchup Vulnerability Engine,18–24 pts,+6.0 to +9.0 pts/season,"High (Spatial shots conceded, high-line pace, set-pieces)",100% Pre-deadline verifiable,Medium,SECONDARY PHASE 9 FOCUS
+3,P9-F,High-Ceiling / Extreme Haul Discovery Head V2,14–18 pts,+4.5 to +7.0 pts/season,High (Internal Phase 6 Monte Carlo distributions),100% Pre-deadline verifiable,Low,SECONDARY COMPONENT
+4,P9-C,Market Odds & Betting Exchange Intelligence,10–14 pts,+3.0 to +5.0 pts/season,Missing (Historical point-in-time closing odds unarchived),High (Prospective only),High,DEFERRED / PROSPECTIVE ONLY
+5,P9-J,Recent Form Momentum Boosters,4–6 pts,< +1.5 pts/season,High (Internal logs),High,Low,REJECTED (Risk of overfitting noise)

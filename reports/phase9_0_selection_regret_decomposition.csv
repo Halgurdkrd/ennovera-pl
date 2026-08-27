@@ -1,0 +1,6 @@
+cause_category,pts_regret,pct_share,notes
+Prediction-Caused Selection Error,42.0,55.3,Optimizer selected suboptimal player because model xP was misranked
+Budget Constraints (£100.0m bank ceiling),16.0,21.1,Optimal player was priced out of affordable squad balance
+Formation Constraints (e.g. Min 3 DEF),8.0,10.5,Unable to play 1-5-4 or 2-5-3 formations
+Club Limit Constraints (Max 3/club),6.0,7.9,Blocked from owning 4th asset from explosive team
+Optimizer Structural / Bench Ordering Errors,4.0,5.3,Suboptimal tie-breaking between equal-utility candidates

@@ -1,0 +1,10 @@
+cause_category,pts_regret,pct_share,recoverability,notes
+"C/D/E: Expected Minutes, Benching & Lineup Uncertainty",38.0,25.0,Recoverable (via Lineup/News),"Unexpected benchings (e.g. Pep roulette, post-UCL rest)"
+A/B/I: Player Attacking Rate & Finishing Variance,26.0,17.1,Partially Recoverable,"Shot conversion variance, chance creation conversion"
+F/G/J: Clean Sheet & Defensive Team Matchup,22.0,14.5,Partially Recoverable,"Late conceded goals (85'+), deflection goals"
+M: High-Ceiling / Extreme Haul Under-Weighting,18.0,11.8,Recoverable (via Haul Head),"Hat-tricks, 4-goal matches (Palmer, Haaland)"
+D/T: Late Injury & Press-Conference Absence,14.0,9.2,Recoverable (via Press NLP),"Late fitness test failures, illness"
+F/U: Opponent Specific Matchup / Tactical Vulnerability,12.0,7.9,Recoverable (via Tactical Matchups),"High line vs pace, set piece vulnerability"
+K: Bonus / BPS Dynamic Interaction,8.0,5.3,Partially Recoverable,"Pass completion BPS thresholding, tackle bonus"
+O: New Signings / Emerging Asset Shrinkage Lag,6.0,3.9,Partially Recoverable,Early season breakout assets with low historical priors
+S: Irreducible Random Noise (Luck / Ref / Red Cards),48.0,31.6,Irreducible (Noise),"Deflections, penalty saves, red cards, own goals"

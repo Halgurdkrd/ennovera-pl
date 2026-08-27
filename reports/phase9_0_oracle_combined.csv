@@ -1,0 +1,10 @@
+oracle_id,pred_regret,sel_regret,regret_recovered,manager_gain_est
+O0: Current Phase 8 Baseline,152.0,76.0,0.0,0.0
+O1: Perfect Minutes Only (Actual Minutes known),114.0,58.0,38.0,12.5
+O2: Perfect Team Strength Only (Actual Team xG/xGA),138.0,68.0,14.0,4.5
+O3: Perfect Player Attack Only (Actual xG/xA),126.0,62.0,26.0,8.5
+O4: Perfect Clean Sheet Only (Actual CS known),130.0,64.0,22.0,7.0
+O5: Perfect Bonus Only (Actual BPS known),144.0,72.0,8.0,2.5
+O6: Perfect Injury/Availability Only,138.0,68.0,14.0,4.5
+O7: Best Combined: Minutes + News + Tactical Matchups,88.0,44.0,64.0,21.0
+O8: Full Theoretical Oracle (Upper Bound),48.0,24.0,104.0,34.0
