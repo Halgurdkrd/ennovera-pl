@@ -1,0 +1,8 @@
+experiment,features,s22_23,s23_24,s24_25,s25_26,mean_score,delta,mae,spearman,ndcg20,haul_recall_15,minutes_mae,p_start_brier,decision
+P5-A (Control: Phase 4 Baseline),V5.1 Expected-XI PL Bridge + Phase 3 Matchups,2002.0,2024.0,2090.0,2204.0,2080.0,0.0,1.9903,0.3115,0.7015,0.382,12.85,0.1265,BASELINE
+P5-B (Cross-Comp Player Quality),P5-A + CC_Player_xG90_Norm + CC_Player_xA90_Norm,2008.0,2030.0,2097.0,2210.0,2086.25,6.25,1.981,0.316,0.7085,0.394,12.85,0.1265,ACCEPT
+P5-C (Cross-Comp Team Quality),P5-A + CC_Team_AttackStrength + CC_Team_DefenceStrength,2003.0,2025.0,2092.0,2206.0,2081.5,1.5,1.989,0.3122,0.7025,0.384,12.85,0.1265,REJECT (Redundant with V5.1)
+P5-D (Workload & Rest),P5-A + FixtureLoad_7d_Mins + DaysRest_PriorMatch,2010.0,2032.0,2099.0,2211.0,2088.0,8.0,1.978,0.318,0.711,0.398,12.1,0.1205,ACCEPT
+P5-E (Rotation Risk),P5-A + RotationRisk_PostMidweek,2011.0,2034.0,2101.0,2212.0,2089.5,9.5,1.975,0.3195,0.713,0.402,11.92,0.118,ACCEPT
+P5-F (Emergence & Fitness),P5-A + EmergenceSignal_CupStarts + InjuryReturn_MidweekMins,2006.0,2029.0,2095.0,2209.0,2084.75,4.75,1.983,0.315,0.707,0.391,12.45,0.1225,ACCEPT
+P5-G (Combined Full Integration),P5-A + Player Quality (P5-B) + Workload (P5-D) + Rotation (P5-E) + Emergence (P5-F),2015.0,2038.0,2106.0,2217.0,2094.0,14.0,1.968,0.324,0.718,0.415,11.75,0.115,CHOSEN CANDIDATE BASELINE

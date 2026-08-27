@@ -1,0 +1,9 @@
+competition_subset,manager_mean,delta_vs_p4,key_value
+PL + UCL,2088.5,8.5,Elite player attacking quality & rotation risk
+PL + UEL,2084.25,4.25,Thursday-Sunday fixture congestion & rotation
+PL + UECL,2082.0,2.0,Rotation & fringe player emergence
+PL + FA Cup,2085.0,5.0,Domestic cup starters & injury fitness returns
+PL + League Cup,2083.5,3.5,Early-season fringe emergence & fitness verification
+All Europe (UCL+UEL+UECL),2090.75,10.75,Combined continental quality & workload
+All Domestic Cups (FA+EFL),2086.5,6.5,Combined domestic workload & emergence
+All Cross-Competition (P5-G),2094.0,14.0,Complete 10-layer normalized intelligence
