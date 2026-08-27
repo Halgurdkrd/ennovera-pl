@@ -1,0 +1,8 @@
+fpl_team_id,fpl_team_name,fbref_name,uefa_name,canonical_id,status
+1,Arsenal,Arsenal,Arsenal FC,ARS,EXACT
+2,Aston Villa,Aston Villa,Aston Villa FC,AVL,EXACT
+4,Brighton,Brighton,Brighton & Hove Albion FC,BHA,EXACT
+6,Chelsea,Chelsea,Chelsea FC,CHE,EXACT
+11,Liverpool,Liverpool,Liverpool FC,LIV,EXACT
+12,Man City,Manchester City,Manchester City FC,MCI,EXACT
+13,Man Utd,Manchester Utd,Manchester United FC,MUN,EXACT

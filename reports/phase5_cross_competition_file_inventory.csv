@@ -1,0 +1,12 @@
+competition,season,dataset,status,path,rows,format
+Premier League,2022-23 to 2025-26,FPL merged_gw.csv,PHYSICALLY PRESENT + USED,data/raw/fpl_full/data/[season]/gws/merged_gw.csv,139039,CSV
+Premier League,2022-23 to 2025-26,Understat player logs,PHYSICALLY PRESENT + USED,data/raw/fpl_full/data/[season]/understat/,45210,CSV
+FIFA World Cup,Historical,World Cup Matches/Players,PHYSICALLY PRESENT + UNUSED,innovera-wc2026-backend/data/raw/worldcup/,1850,CSV
+UEFA Champions League (UCL),2022-23,UCL Match Logs,MISSING,N/A (External),0,N/A
+UEFA Champions League (UCL),2023-24,UCL Match Logs,MISSING,N/A (External),0,N/A
+UEFA Champions League (UCL),2024-25,UCL Match Logs,MISSING,N/A (External),0,N/A
+UEFA Champions League (UCL),2025-26,UCL Match Logs,MISSING,N/A (External),0,N/A
+UEFA Europa League (UEL),2022-23 to 2025-26,UEL Match Logs,MISSING,N/A (External),0,N/A
+UEFA Conference League (UECL),2022-23 to 2025-26,UECL Match Logs,MISSING,N/A (External),0,N/A
+FA Cup,2022-23 to 2025-26,FA Cup Match Logs,MISSING,N/A (External),0,N/A
+EFL / League Cup,2022-23 to 2025-26,League Cup Match Logs,MISSING,N/A (External),0,N/A

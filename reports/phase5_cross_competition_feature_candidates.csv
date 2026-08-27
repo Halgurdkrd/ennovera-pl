@@ -1,0 +1,12 @@
+feature_name,layer,definition,source,competition,temporal,level,priority
+CC_Player_xG90_Norm,Layer 3: Cross-Comp Underlying,Opponent-normalized xG per 90 across UCL/UEL/Cup,FBref/Understat,UCL/UEL/FAC,Pre-Deadline Shifted,Player,P0
+CC_Player_xA90_Norm,Layer 3: Cross-Comp Underlying,Opponent-normalized xA per 90 across UCL/UEL/Cup,FBref/Understat,UCL/UEL/FAC,Pre-Deadline Shifted,Player,P0
+FixtureLoad_7d_Mins,Layer 7: Workload & Congestion,Total minutes played in all competitions over prior 7 days,All Match Logs,All,Pre-Deadline Shifted,Player,P0
+DaysRest_PriorMatch,Layer 7: Workload & Congestion,Calendar days between most recent match and PL kickoff,Match Schedule,All,Pre-Deadline Shifted,Player,P0
+CC_Team_AttackStrength,Layer 6: Team Intelligence,Opponent-normalized team xG creation against non-PL clubs,Match Logs,UCL/UEL,Pre-Deadline Shifted,Team,P0
+CC_Team_DefenceStrength,Layer 6: Team Intelligence,Opponent-normalized team xGA conceded against non-PL clubs,Match Logs,UCL/UEL,Pre-Deadline Shifted,Team,P0
+RotationRisk_PostMidweek,Layer 7: Workload & Congestion,Manager-specific benching rate for position after midweek Europe,Historical Lineups,All,Pre-Deadline Shifted,Player/Team,P1
+EmergenceSignal_CupStarts,Layer 4: Availability / Emergence,Consecutive starts and >70 mins in cup matches for <£5.0m assets,Cup Lineups,FAC/EFL,Pre-Deadline Shifted,Player,P1
+InjuryReturn_MidweekMins,Layer 4: Availability / Fitness,Successful appearance (>45m) in midweek match following flag,All Match Logs,All,Pre-Deadline Shifted,Player,P1
+European_Travel_KM,Layer 7: Workload & Congestion,Flight distance for away European fixture in midweek,Venue Geo,UCL/UEL/UECL,Pre-Deadline Shifted,Team,P2
+Raw_CrossComp_FantasyPoints,N/A,Unnormalized sum of fantasy points across cups,None,All,Post-match,Player,REJECT
