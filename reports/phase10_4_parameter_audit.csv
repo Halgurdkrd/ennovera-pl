@@ -1,0 +1,7 @@
+parameter,module,current_value,scientific_basis,last_optimized,dev_data,val_data,heuristic,candidate_10_5,risk
+bayesian_shrinkage_k,Phase 1.1 / Player Priors,k = 4.0,Empirical Bayes sample weighting,Phase 1.1,2022-24,2024-25,NO,YES (HIGH PRIORITY),LOW
+robust_haul_blend_alpha,Phase 1.1 / Haul Engine,alpha = 0.50,50/50 points vs underlying xP blend,Phase 1.1,2022-24,2024-25,YES,YES (HIGH PRIORITY),LOW
+multi_gw_horizon_H,Phase 8 / MILP Optimizer,H = 5,Rolling transfer planning horizon,Phase 8,2022-24,2024-25,NO,YES (MEDIUM PRIORITY),LOW
+multi_gw_discount_gamma,Phase 8 / MILP Optimizer,gamma = 0.90,Exponential uncertainty decay,Phase 8,2022-24,2024-25,NO,YES (MEDIUM PRIORITY),LOW
+goal_count_dispersion_r,Phase 10.1 / Multi-Goal,r = 1.85,Negative Binomial overdispersion,Phase 10.1,2022-24,2024-25,NO,YES (HIGH PRIORITY),LOW
+role_update_memory_tau,Phase 10.1 / Role Hierarchy,tau = 0.82,Bayesian state memory decay,Phase 10.1,2022-24,2024-25,NO,YES (MEDIUM PRIORITY),LOW

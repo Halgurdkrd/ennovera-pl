@@ -1,0 +1,6 @@
+candidate,oracle_bound,realistic_recoverable,expected_manager_gain
+R1 — Defensive Contribution Model,14.0,4.0 – 6.0 pts/season,+4.8 pts/season
+R2 — Full BPS & Bonus Simulation,10.0,3.0 – 5.0 pts/season,+3.6 pts/season
+R3 — Set-Piece Delivery & Target Micro-Model,8.0,2.0 – 3.5 pts/season,+2.5 pts/season
+R4 — Penalty Generation Model,6.0,1.5 – 2.5 pts/season,+1.8 pts/season
+R8 — Substitution Timing & Sub-60 Risk,6.0,1.5 – 2.5 pts/season,+1.6 pts/season

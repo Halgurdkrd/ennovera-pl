@@ -1,0 +1,9 @@
+feature_family,feature,source,competition,seasons,level,time_horizon,cutoff,model,target,shared_pl,redundant
+PLAYER QUALITY,shrunk_multiseason_npxg90,understat/opta,PL,2022-26,player,multi-season,deadline,Phase 10.1,NPxG,YES,NO
+PLAYER ATTACK,shot_volume_quality_decomp,opta,PL,2022-26,player,trailing 5/10,deadline,Phase 10.1,Goals,YES,NO
+EXPECTED MINUTES,p9a_lineup_minutes_engine,rotowire/fpl/press,PL+CC,2022-26,player,point-in-time,deadline,Phase 9,Minutes (9.42m MAE),YES,NO
+CLEAN SHEETS,p10_2_defensive_xi_xga,understat/fbref,PL+CC,2022-26,team+match,trailing 10,deadline,Phase 10.2,P(CS) (0.1385 Brier),YES,NO
+DYNAMIC ROLES,p10_1_b_penalty_setpiece_hierarchy,fpl/opta,PL,2022-26,player,point-in-time,deadline,Phase 10.1,Role Shares,NO,NO
+CROSS-COMPETITION,cc_player_npxg_xga_norm,uefa/cups,UCL+UEL+UECL+Cups,2022-26,player+team,trailing,deadline,Phase 5,Workload/Quality,YES,NO
+TACTICAL MATCHUPS,p9e_tactical_vulnerability,understat,PL,2022-26,match,trailing 10,deadline,Phase 9,Haul Probabilities,YES,NO
+MULTI-GW PLANNING,rolling_5gw_milp_solver,fpl_fixtures,PL,2022-26,squad,"H=5, gamma=0.90",deadline,Phase 8,Transfers/Chips,NO,NO
