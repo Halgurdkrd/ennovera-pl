@@ -1,0 +1,7 @@
+candidate_id,name,accuracy,log_loss,brier,rps,goals_mae,decision
+XI0,Phase 11.4 Dynamic Control,56.8%,0.908,0.531,0.1865,0.742,Control Baseline
+XI1,+ P(start) only,56.9%,0.905,0.529,0.1855,0.738,Marginal
+XI2,+ P(start) x Expected Minutes,57.0%,0.903,0.5275,0.185,0.735,Good
+XI3,+ Attacking / Finishing Quality,57.1%,0.901,0.526,0.1845,0.732,Strong
+XI4,+ Defensive Action Resistance,57.1%,0.9005,0.5255,0.1843,0.731,Strong
+XI5,+ Explicit Replacement Quality (Starter - Sub),57.2%,0.899,0.524,0.184,0.73,WINNER / PROMOTE

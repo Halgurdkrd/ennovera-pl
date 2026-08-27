@@ -1,0 +1,5 @@
+model_id,name,accuracy,log_loss,brier,rps,draw_recall,draw_precision,draw_f1,scoreline_ll,decision
+S0,Independent Double Poisson (Control),57.8%,0.887,0.518,0.1805,28.8%,29.4%,29.1%,-2.94,Control Baseline
+S1,Dixon-Coles Low-Score Corrected,58.0%,0.881,0.512,0.1782,32.8%,32.0%,32.4%,-2.825,Substantial Draw Gain
+S2,Bivariate Poisson with Shared Shock,58.1%,0.878,0.51,0.1774,33.2%,32.5%,32.8%,-2.805,Strong
+S3,Dynamic Dixon-Coles + Copula Joint Model,58.2%,0.875,0.508,0.1765,33.6%,32.8%,33.2%,-2.785,WINNER / PROMOTE

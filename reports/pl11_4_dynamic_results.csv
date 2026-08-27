@@ -1,0 +1,6 @@
+candidate_id,name,accuracy,log_loss,brier,rps,draw_recall,goals_mae,decision
+DYN0,Rolling-Strength Control (PL11.3),56.2%,0.918,0.538,0.1895,28.4%,0.755,Control Baseline
+DYN1,Dynamic Scalar Elo,56.4%,0.914,0.535,0.1882,28.6%,0.748,Step Forward
+DYN2,Attack/Defence Dynamic Elo,56.6%,0.911,0.533,0.1872,28.9%,0.745,Better
+DYN3,Glicko State with Volatility,56.5%,0.9125,0.534,0.1878,28.7%,0.746,Competitive
+DYN4,Bayesian State-Space Att/Def Model,56.8%,0.908,0.531,0.1865,29.2%,0.742,WINNER / PROMOTE

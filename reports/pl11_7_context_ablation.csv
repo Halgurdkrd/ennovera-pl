@@ -1,0 +1,5 @@
+variant,accuracy,log_loss,rps,delta_rps
+Phase 11.6 Control,57.6%,0.892,0.182,0.0
++ Rest Hours & Days Differential,57.7%,0.8895,0.1812,-0.0008
++ Player-Weighted European Workload,57.8%,0.8875,0.1807,-0.0013
++ Thursday-Sunday UEL/UECL Penalty,57.8%,0.887,0.1805,-0.0015

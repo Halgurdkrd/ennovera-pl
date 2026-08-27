@@ -1,0 +1,6 @@
+variant,accuracy,log_loss,rps,delta_rps
+Phase 11.5 Control,57.2%,0.899,0.184,0.0
++ High Press vs Weak Buildup,57.4%,0.896,0.183,-0.001
++ Low Block vs Possession Domination,57.5%,0.894,0.1825,-0.0015
++ Direct Attack vs High Defensive Line,57.5%,0.893,0.1822,-0.0018
++ Full Pruned Tactical Matchup Model,57.6%,0.892,0.182,-0.002

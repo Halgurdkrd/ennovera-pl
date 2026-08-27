@@ -1,0 +1,7 @@
+feature,classification,source,pit_safe
+possession_share,AVAILABLE,Opta,YES
+ppda_pressing_intensity,DERIVABLE,Opta Events,YES
+field_tilt,DERIVABLE,Opta Events,YES
+direct_attack_speed,DERIVABLE,Opta Events,YES
+box_entries_open_play,AVAILABLE,Opta,YES
+defensive_line_height,PROXY,Average Action Distance,YES
