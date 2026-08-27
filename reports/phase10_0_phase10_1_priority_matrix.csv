@@ -1,0 +1,5 @@
+rank,module_code,name,recoverable_regret,est_manager_gain,data_availability,temporal_safety,recommendation
+1,P10.1-A,Midfielder & Forward Attacking Quality & Shot Conversion Model (xG/xA Finishing),18–22 pts,+8.0 to +11.0 pts/season,"High (FBref shot distance, shot angle, on-target quality)",100% Pre-deadline verifiable,PRIMARY PHASE 10.1 FOCUS
+2,P10.1-B,Live In-Game Role Tracking & Dynamic Set-Piece / Penalty Duty Detector,6–10 pts,+3.5 to +5.5 pts/season,"High (Corner taker logs, penalty taker records)",100% Pre-deadline verifiable,SECONDARY PHASE 10.1 FOCUS
+3,P10.1-C,Full Online In-Season Parameter Retraining,< 4 pts,< +1.5 pts/season,High,Moderate (Risk of mid-season volatility & overfitting),REJECTED / UNNECESSARY
+4,P10.1-D,Market Odds Integration,6–8 pts,+2.0 to +3.5 pts/season,Missing historically (Prospective only),Prospective only,DEFERRED / PROSPECTIVE VALIDATION ONLY
