@@ -1,0 +1,3 @@
+venue,n_matches,observed_cs_rate,brier_p10_1,brier_p10_2,delta_brier,ece_p10_2
+Home Matches,1520,32.4%,0.171,0.144,-0.027,1.9%
+Away Matches,1520,24.6%,0.157,0.133,-0.024,2.3%

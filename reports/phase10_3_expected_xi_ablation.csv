@@ -1,0 +1,7 @@
+configuration,brier,log_loss,manager_score,delta_pts
+P10.2 FULL (with Complete Expected Defensive XI),0.1385,0.4215,2170.5,+7.00
+P10.2 minus Goalkeeper Quality (FBRef PSxG),0.1415,0.4305,2169.25,-1.25
+P10.2 minus Central Defender Pairing Rating,0.1438,0.438,2168.1,-2.40
+P10.2 minus Fullback Defensive Coverage Rating,0.1402,0.4265,2169.6,-0.90
+P10.2 minus Defensive Midfield Protection,0.1418,0.4312,2169.15,-1.35
+P10.2 minus Entire Expected XI (Generic Club Defence),0.1485,0.452,2166.25,-4.25

@@ -1,0 +1,9 @@
+model_id,description,brier,log_loss,ece,slope,auc_roc
+CS-B0,Historical League Frequency (Prior: 28.5%),0.2038,0.5982,12.4%,0.0,0.5
+CS-B1,Team Trailing Clean-Sheet Rate (10m),0.1942,0.5694,9.8%,0.65,0.582
+CS-B2,Opponent Trailing Fail-to-Score Rate,0.1915,0.561,9.2%,0.68,0.591
+CS-B3,Elo / Team-Strength Matchup Model,0.1785,0.528,7.5%,0.79,0.648
+CS-B4,Poisson Goal Expectation Model,0.172,0.5115,6.4%,0.84,0.672
+CS-B5,Expected-Goals Poisson Model,0.1685,0.502,5.8%,0.88,0.689
+CS-B6,Phase 10.1 Control Clean-Sheet Model,0.164,0.492,5.2%,0.91,0.704
+CS-B7,Phase 10.2 Clean-Sheet Challenger (FULL),0.1385,0.4215,2.1%,0.98,0.768

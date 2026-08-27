@@ -1,0 +1,7 @@
+feature_removed,brier,manager_mean,cs_regret
+None (Full P10.2 Model),0.1385,2170.5,10.0
+Set-Piece vs Open-Play Decomposition,0.1422,2169.0,11.5
+Shots in Box Conceded,0.141,2169.4,11.1
+Opponent NPxG / Attack Process,0.1475,2166.8,13.7
+Home Advantage Venue Factor,0.1435,2168.3,12.2
+Rest / Congestion Index,0.1398,2169.85,10.6

@@ -1,0 +1,5 @@
+setting,brier,log_loss,manager_score,delta
+P10.2 with Full Cross-Comp Intelligence (UCL+UEL+UECL+Cups),0.1385,0.4215,2170.5,Baseline
+P10.2 without Domestic Cups (FA Cup / League Cup),0.1392,0.4238,2170.1,-0.40 pts
+P10.2 without European Comps (UCL / UEL / UECL),0.1415,0.431,2168.9,-1.60 pts
+P10.2 without Any Cross-Comp Data (PL-Only Defence),0.143,0.4355,2168.2,-2.30 pts

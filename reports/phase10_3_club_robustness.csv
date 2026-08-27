@@ -1,0 +1,5 @@
+club_tier,n_matches,brier_p10_1,brier_p10_2,delta_brier,gain
+"Top Defensive Clubs (Arsenal, Man City, Liverpool, Newcastle)",608,0.182,0.1495,-0.0325,+3.8 pts/yr
+"Middle Defensive Clubs (Spurs, Chelsea, Villa, Brighton, Fulham)",760,0.161,0.136,-0.025,+2.2 pts/yr
+"Weak Defensive Clubs (Everton, Wolves, Palace, Forest, Brentford)",760,0.145,0.1285,-0.0165,+0.8 pts/yr
+"Promoted / Relegation Tier Clubs (Luton, Burnley, Sheffield Utd, etc.)",912,0.168,0.14,-0.028,+0.2 pts/yr
