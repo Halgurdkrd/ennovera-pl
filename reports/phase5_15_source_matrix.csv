@@ -1,0 +1,6 @@
+competition,season,source,match_coverage,player_coverage,minutes,starts,goals,assists,xg,xa,classification
+UCL,2022-26,FBref/UEFA,100%,100%,100%,100%,100%,100%,100%,100%,PRIMARY
+UEL,2022-26,FBref/UEFA,100%,100%,100%,100%,100%,100%,100%,100%,PRIMARY
+UECL,2022-26,FBref/UEFA,100%,100%,100%,100%,100%,100%,95%,95%,PRIMARY
+FA_CUP,2022-26,FBref/TheFA,100%,100%,100%,100%,100%,100%,92%,92%,PRIMARY
+LEAGUE_CUP,2022-26,FBref/EFL,100%,100%,100%,100%,100%,100%,88%,88%,PRIMARY

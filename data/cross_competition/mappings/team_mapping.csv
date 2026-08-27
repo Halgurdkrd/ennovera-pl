@@ -1,0 +1,20 @@
+source,source_team_id,source_team_name,canonical_team_id,canonical_name,country,domestic_league,tier_if_known
+FBref,822bd0ba,Liverpool,LIV,Liverpool FC,ENG,Premier League,1
+FBref,b8fd03ef,Manchester City,MCI,Manchester City FC,ENG,Premier League,1
+FBref,18bb7c10,Arsenal,ARS,Arsenal FC,ENG,Premier League,1
+FBref,cff3d9bb,Chelsea,CHE,Chelsea FC,ENG,Premier League,1
+FBref,19538871,Manchester United,MUN,Manchester United FC,ENG,Premier League,1
+FBref,8602292d,Aston Villa,AVL,Aston Villa FC,ENG,Premier League,1
+FBref,b2b47a98,Newcastle United,NEW,Newcastle United FC,ENG,Premier League,1
+FBref,361ca564,Tottenham Hotspur,TOT,Tottenham Hotspur FC,ENG,Premier League,1
+FBref,d07537b9,Brighton,BHA,Brighton & Hove Albion FC,ENG,Premier League,1
+FBref,7c21e445,West Ham,WHU,West Ham United FC,ENG,Premier League,1
+UEFA,50051,Real Madrid,RMA,Real Madrid CF,ESP,La Liga,1
+UEFA,50037,Bayern Munich,BAY,FC Bayern München,GER,Bundesliga,1
+UEFA,52747,Paris Saint-Germain,PSG,Paris Saint-Germain FC,FRA,Ligue 1,1
+UEFA,50138,Inter Milan,INT,FC Internazionale Milano,ITA,Serie A,1
+UEFA,50080,Barcelona,BAR,FC Barcelona,ESP,La Liga,1
+FA,FA_IPS,Ipswich Town,IPS,Ipswich Town FC,ENG,Championship / PL,2
+FA,FA_LUT,Luton Town,LUT,Luton Town FC,ENG,Championship / PL,2
+FA,FA_PLY,Plymouth Argyle,PLY,Plymouth Argyle FC,ENG,Championship,2
+FA,FA_SHW,Shrewsbury Town,SHW,Shrewsbury Town FC,ENG,League One,3

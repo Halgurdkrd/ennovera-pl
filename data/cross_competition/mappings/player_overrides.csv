@@ -1,0 +1,6 @@
+source,source_player_id,source_name,source_team,canonical_player_id,reason,verified
+FBref,c5ee523b,Erling Haaland,Manchester City,PL_HAALAND_411,Standardized canonical ID,True
+FBref,dc7f8a28,Cole Palmer,Chelsea,PL_PALMER_154,Standardized canonical ID,True
+FBref,bc7dc64d,Bukayo Saka,Arsenal,PL_SAKA_19,Standardized canonical ID,True
+FBref,4e7498c0,Maxim De Cuyper,Brighton,PL_DECUYPER_115,Club Brugge to Brighton lineage mapped,True
+FBref,72697b0a,James Trafford,Burnley/Leeds,PL_TRAFFORD_312,Goalkeeper mapping,True
