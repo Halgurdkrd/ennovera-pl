@@ -1,0 +1,6 @@
+matchup_type,matches,v5_1_acc,draw_freq,draw_recall
+Top 6 vs Top 6,120,51.7%,28.3%,26.5%
+Top 6 vs Bottom 6,288,68.4%,18.1%,19.2%
+Mid-Table Clash,450,48.2%,31.2%,25.1%
+Promoted Clubs Matches,228,56.1%,22.8%,20.4%
+Post-European Congestion,192,50.5%,27.6%,22.8%

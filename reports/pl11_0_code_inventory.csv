@@ -1,0 +1,7 @@
+file,function_class,purpose,model_version,called_by,production,research,obsolete,unknown
+app/services/pl_predictor.py,PLPredictorV5_1,Hybrid Poisson-Elo Match Predictor,V5.1,FastAPI router,YES,YES,NO,NO
+app/services/match_simulator.py,MatchSimulator,Scoreline Poisson Simulation,V5.1,pl_predictor.py,YES,YES,NO,NO
+app/services/table_simulator.py,TableSimulator,"10,000-Run League Standings Simulator",V5.1,FastAPI router,YES,YES,NO,NO
+app/services/expected_xi.py,ExpectedXIEngine,Pre-Match Lineup Estimation,V5.1,pl_predictor.py,YES,YES,NO,NO
+app/routers/premier_league.py,router,PL Match & Table Endpoints,V5.1,main.py,YES,NO,NO,NO
+app/services/legacy_pl_model.py,LegacyPredictorV2,52% Accuracy Baseline,V2.0,Historical Benchmarks,NO,YES,YES,NO

@@ -1,0 +1,8 @@
+fpl_module,pl_application,priority,classification,pit_safe
+Expected Defensive XI & DefCon Process (Phase 10.5A),Team clean-sheet and xGA resistance modeling,HIGH,REUSE_DIRECTLY,YES
+Set-Piece Aerial Delivery & Target Hierarchy (Phase 10.5C),Corner and free-kick goal expectation modeling,HIGH,REUSE_DIRECTLY,YES
+Decomposed Attacking Shot Conversion (Phase 10.1),Team finishing skill adjustment over raw xG,HIGH,REUSE_DIRECTLY,YES
+Cross-Competition Workload & Fatigue (Phase 5),Schedule congestion and midweek rotation penalty,HIGH,REUSE_DIRECTLY,YES
+Lineup Probability & Expected Minutes (Phase 9),Pre-match starting XI probability weights,HIGH,REUSE_DIRECTLY,YES
+Match-Relative BPS Simulation (Phase 10.5B),FPL bonus scoring race,LOW,FPL_SPECIFIC,YES
+Multi-GW Transfer Planning MILP (Phase 8),FPL budget and transfer banking optimization,NONE,NOT_USEFUL_FOR_PL,YES

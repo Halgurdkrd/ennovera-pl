@@ -1,0 +1,4 @@
+paper_source,year,method,target,reproducible,pl_application,status
+Dixon & Coles (1997),1997,Bivariate Poisson with low-score correlation adjustment,Scorelines & Match Outcomes,YES,Critical for fixing the Draw Deficit in PL prediction,CANDIDATE FOR PL 11.2
+Berrar et al. (2019),2019,Ranked Probability Score (RPS) benchmarking for football,H/D/A Probabilities,YES,Canonical evaluation metric for PL tournament,ADOPTED
+Hvattum & Arntzen (2010),2010,Dynamic Elo rating systems for association football,Team Strength Evolution,YES,Time-decayed opponent strength tracking,ADOPTED

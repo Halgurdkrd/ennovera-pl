@@ -1,0 +1,4 @@
+dataset,seasons,rows,matches,players,teams,timestamp,source,coverage,quality
+Premier League Matches,2022-26,1520,1520,850,20,match_date,Opta/Understat,100%,HIGH
+Player Match Events,2022-26,65000,1520,850,20,event_time,Opta,100%,HIGH
+European Cup Matches (UCL/UEL/UECL),2022-26,720,720,650,12,match_date,UEFA,100%,HIGH

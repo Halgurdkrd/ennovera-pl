@@ -1,0 +1,6 @@
+feature,family,source,timestamp,granularity,window,pit_safe,missing_behavior
+elo_rating,TEAM STRENGTH,historical_pl,pre-kickoff,team,rolling,YES,default 1500
+attack_strength_xg,ATTACK,understat,pre-kickoff,team,trailing 10,YES,league average
+defence_strength_xga,DEFENCE,understat,pre-kickoff,team,trailing 10,YES,league average
+home_advantage_bias,HOME/AWAY,historical_pl,pre-kickoff,league,season,YES,+0.28 goals
+expected_xi_delta,EXPECTED XI,fpl_lineups,pre-kickoff,team,point-in-time,YES,neutral 0.0
