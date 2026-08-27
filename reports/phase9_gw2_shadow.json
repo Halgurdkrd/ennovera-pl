@@ -1,0 +1,33 @@
+{
+  "action": "BANK FREE TRANSFER",
+  "reason": "Phase 9 lineup & tactical intelligence confirms squad stability; holding 1 FT rolls over to 2 FTs for GW3.",
+  "captain": "Haaland",
+  "vice_captain": "Saka",
+  "triple_captain": "HOLD (68th percentile)",
+  "bench_boost": "HOLD (35th percentile)",
+  "wildcard": "HOLD (22nd percentile)",
+  "free_hit": "HOLD (10th percentile)",
+  "material_xp_changes": [
+    {
+      "player": "Haaland",
+      "phase8_xp": 8.42,
+      "phase9_xp": 8.85,
+      "delta": "+0.43",
+      "reason": "P9-A confirmed 88m start prob + P9-E Ipswich central box vulnerability"
+    },
+    {
+      "player": "Saka",
+      "phase8_xp": 6.85,
+      "phase9_xp": 7.15,
+      "delta": "+0.30",
+      "reason": "P9-E Aston Villa high-line space on counter"
+    },
+    {
+      "player": "Saliba",
+      "phase8_xp": 4.65,
+      "phase9_xp": 4.92,
+      "delta": "+0.27",
+      "reason": "P9-E set-piece aerial superiority vs Villa set-piece xGA"
+    }
+  ]
+}
