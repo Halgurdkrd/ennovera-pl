@@ -1,0 +1,5 @@
+feature,raw_source,source_timestamp,prediction_cutoff,lag_shift,historical_avail,live_avail,leakage_status,notes
+prior_ewma_pts_90,fpl_full/data/{season-1..3},Pre-season snapshot,GW deadline,Shift 1-3 seasons,YES,YES,CLEAN,Multi-season EWMA quality prior
+exp_mins_v2,fpl_full/data/{season}/gws,t-1 GW final whistle,GW deadline,.shift(1) EWMA,YES,YES,CLEAN,Logistic P(start) + substitute minutes
+process_component_xp,fpl_full/data/{season}/gws,t-1 GW final whistle,GW deadline,.shift(1) rates,YES,YES,CLEAN,Pure process-based xP component sum
+recency_weight_w,completed_gameweeks count,Point-in-time integer,GW deadline,N/A,YES,YES,CLEAN,Bayesian shrinkage w(n) = n / (n + 4)

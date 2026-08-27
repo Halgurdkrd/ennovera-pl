@@ -1,0 +1,9 @@
+feature,source,seasons,granularity,coverage,timestamp,historical_avail,live_avail,missingness,Phase2_usability,notes
+total_points,fpl_full/data,2021-26,Matchweek,100%,t-1 GW final whistle,AVAILABLE,AVAILABLE,0%,HIGH,Shifted realized points
+minutes,fpl_full/data,2021-26,Matchweek,100%,t-1 GW final whistle,AVAILABLE,AVAILABLE,0%,HIGH,Shifted minutes played
+expected_goals,fpl_full/data,2021-26,Matchweek,100%,t-1 GW final whistle,AVAILABLE,AVAILABLE,0%,HIGH,Underlying xG process
+expected_assists,fpl_full/data,2021-26,Matchweek,100%,t-1 GW final whistle,AVAILABLE,AVAILABLE,0%,HIGH,Underlying xA process
+clean_sheets,fpl_full/data,2021-26,Matchweek,100%,t-1 GW final whistle,AVAILABLE,AVAILABLE,0%,HIGH,Clean sheet milestones
+saves,fpl_full/data,2021-26,Matchweek,100%,t-1 GW final whistle,AVAILABLE,AVAILABLE,0%,HIGH,Goalkeeper save counts
+bps,fpl_full/data,2021-26,Matchweek,100%,t-1 GW final whistle,AVAILABLE,AVAILABLE,0%,HIGH,Bonus point system base score
+penalties_order,fpl_live_bootstrap.json,2026-27,Static,80%,Pre-deadline snapshot,DERIVABLE,AVAILABLE,20%,MEDIUM,Penalty taker responsibility
