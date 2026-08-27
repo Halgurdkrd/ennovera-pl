@@ -1,0 +1,6 @@
+feature,source,granularity,coverage,timestamp,avail,notes
+roll_xga_5,fpl_full/data,Matchweek,100%,t-1 GW final whistle,AVAILABLE,Shifted opponent expected goals conceded
+roll_fwd_conc_5,fpl_full/data,Matchweek,100%,t-1 GW final whistle,AVAILABLE,Shifted opponent concession to forwards
+roll_mid_conc_5,fpl_full/data,Matchweek,100%,t-1 GW final whistle,AVAILABLE,Shifted opponent concession to midfielders
+roll_def_conc_5,fpl_full/data,Matchweek,100%,t-1 GW final whistle,AVAILABLE,Shifted opponent concession to defenders
+was_home,fpl_full/data,Fixture,100%,Pre-season schedule,AVAILABLE,Home / away venue indicator

@@ -1,0 +1,4 @@
+feature,source,timestamp,cutoff,lag,leakage
+roll_xga_5,team_gw_stats,t-1 GW final whistle,GW deadline,.shift(1),CLEAN
+roll_fwd_conc_5,team_gw_stats,t-1 GW final whistle,GW deadline,.shift(1),CLEAN
+phase3_final_xp,phase3_engine,Pre-deadline snapshot,GW deadline,Point-in-time blend,CLEAN
