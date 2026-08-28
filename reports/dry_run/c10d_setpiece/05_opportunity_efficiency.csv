@@ -1,0 +1,3 @@
+component,metrics,correlation_with_possession,unique_setpiece_variance
+Set-Piece Opportunity (Volume),"Corners earned, Free kicks in final third",0.52,48.0%
+Set-Piece Execution (Efficiency),"xG per corner delivery, First contact %, Aerial duel win %",0.14,86.0%

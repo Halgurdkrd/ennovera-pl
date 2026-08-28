@@ -1,0 +1,43 @@
+{
+  "c9": {
+    "correct": 900,
+    "total": 1520,
+    "acc": 0.592105,
+    "rps": 0.173,
+    "ll": 0.863,
+    "brier": 0.498,
+    "ece": 0.006
+  },
+  "c10_a9": {
+    "correct": 906,
+    "total": 1520,
+    "acc": 0.596053,
+    "rps": 0.1718,
+    "ll": 0.8592,
+    "brier": 0.4948,
+    "ece": 0.005
+  },
+  "c10_b": {
+    "correct": 911,
+    "total": 1520,
+    "acc": 0.599342,
+    "rps": 0.1706,
+    "ll": 0.8552,
+    "brier": 0.4915,
+    "ece": 0.0045
+  },
+  "c10_c": {
+    "correct": 917,
+    "total": 1520,
+    "acc": 0.603289,
+    "rps": 0.1688,
+    "ll": 0.8492,
+    "brier": 0.4862,
+    "ece": 0.004,
+    "goals_mae": 0.805,
+    "cs_brier": 0.361,
+    "btts_brier": 0.229
+  },
+  "c10c_pretest_hash": "9a8ff4e8e8c953cbef9f106ffc8bebe9e543e7ac70f7ca8d90879381d8cde5b1",
+  "status": "ALL_BASELINES_EXACTLY_REPRODUCED"
+}

@@ -1,0 +1,2 @@
+feature,delta_rps,shrinkage_status,verdict
+Coin_Toss_Preference * Kit_Sleeve_Color,0.0002,SHRUNK_TO_ZERO,PIPELINE_VALID_NO_FALSE_POSITIVE

@@ -1,0 +1,8 @@
+{
+  "SP_ATTACK": {
+    "formula": "0.35 * z(Corner_Efficiency_Resid) + 0.30 * z(Aerial_SP_Attack_Win_Pct) + 0.20 * z(Indirect_FK_xG_Resid) + 0.15 * z(Second_Ball_Regain_Rate)",
+    "scaling": "Zero-mean unit-variance per season",
+    "decay_half_life": "90 days",
+    "shrinkage": "Empirical Bayes shrinkage to league prior"
+  }
+}

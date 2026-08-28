@@ -1,0 +1,3 @@
+experiment,delta_rps_vs_c10c,percentile,status
+Real C10-D Model,-0.0018,99.9%,AUTHENTIC_SIGNAL_CONFIRMED
+Random Set-Piece Pairing Permutation (1000 trials),0.0001,"50.0% (Mean = +0.0001, SD = 0.0004)",NOISE_BASELINE

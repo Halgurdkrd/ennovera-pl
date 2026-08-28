@@ -1,0 +1,11 @@
+{
+  "CORNER_ATTACK": "Corner opportunity (corners won) + Corner efficiency (xG per corner delivery + first contact rate)",
+  "CORNER_DEFENCE": "Corner suppression (corners conceded) + Corner defensive efficiency (xGA per corner conceded)",
+  "INDIRECT_FK_ATTACK": "Wide & deep free kick delivery threat and 18-yard box aerial entries",
+  "INDIRECT_FK_DEFENCE": "Suppression of dangerous FK concessions and aerial clearance rate",
+  "DIRECT_FK_ATTACK": "Direct specialist shooting threat",
+  "AERIAL_SETPIECE_ATTACK": "Aerial duel success on offensive set pieces in 18-yard box",
+  "AERIAL_SETPIECE_DEFENCE": "Defensive aerial clearance rate in 18-yard box",
+  "SECOND_BALL_ATTACK": "Turnover regain rate within 5s of set-piece delivery into penalty area",
+  "SECOND_BALL_DEFENCE": "Defensive clearance recovery and transition breakout prevention"
+}

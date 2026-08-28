@@ -1,0 +1,22 @@
+{
+  "program": "ENNOVERA_C10D_SETPIECE_MATCHUP_V1",
+  "freeze_timestamp": "2026-08-28T14:03:19.126613+00:00",
+  "training_seasons": [
+    "2019-20",
+    "2020-21",
+    "2021-22"
+  ],
+  "validation_seasons": [
+    "2022-23",
+    "2023-24"
+  ],
+  "test_seasons": [
+    "2024-25",
+    "2025-26"
+  ],
+  "decay_half_life": "90 days",
+  "manager_reset": "40% shrinkage on transition",
+  "regularization": "L2 Ridge (alpha = 18.0)",
+  "pretest_sha256": "4b9821a8e990c74f51e038db4901cb5287f3941a87e35b7190d65bca83120194",
+  "status": "FROZEN_BEFORE_TEST_EVALUATION"
+}

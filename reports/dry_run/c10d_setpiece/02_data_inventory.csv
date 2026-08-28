@@ -1,0 +1,12 @@
+feature,source,observed_derived,coverage_2019_2026,missing,imputed,synthetic,prematch_safe
+corners_won_pm,Canonical PL Feed,OBSERVED,100% (2660/2660),0,0,0,True
+corners_conceded_pm,Canonical PL Feed,OBSERVED,100% (2660/2660),0,0,0,True
+corner_xg_pm,Authenticated Event Feed,OBSERVED,100% (2660/2660),0,0,0,True
+corner_xga_pm,Authenticated Event Feed,OBSERVED,100% (2660/2660),0,0,0,True
+indirect_fk_xg_pm,Authenticated Event Feed,OBSERVED,100% (2660/2660),0,0,0,True
+indirect_fk_xga_pm,Authenticated Event Feed,OBSERVED,100% (2660/2660),0,0,0,True
+direct_fk_xg_pm,Authenticated Event Feed,OBSERVED,100% (2660/2660),0,0,0,True
+setpiece_aerial_duels_win_pct,Derived Event Table,DERIVED_FROM_REAL,100% (2660/2660),0,0,0,True
+first_contact_win_pct,Authenticated Event Feed,OBSERVED,100% (2660/2660),0,0,0,True
+second_ball_recovery_pct,Authenticated Event Feed,OBSERVED,100% (2660/2660),0,0,0,True
+penalty_conversion_pm,Canonical PL Feed,OBSERVED,100% (2660/2660),0,0,0,True

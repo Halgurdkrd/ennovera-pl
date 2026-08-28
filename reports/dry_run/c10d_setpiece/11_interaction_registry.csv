@@ -1,0 +1,6 @@
+interaction_id,name,formula,scaling,val_t_stat,raw_p,bh_q
+D1_D2,Corner Attack vs Defence Matchup,CORNER_ATTACK_A * (1 - CORNER_DEFENCE_B),Standardized Z,3.24,0.0012,0.0048
+D3_D4,Aerial SP Attack vs Defence Matchup,AERIAL_SP_ATTACK_A * (1 - AERIAL_SP_DEFENCE_B),Standardized Z,3.52,0.0006,0.0036
+D5_D6,Indirect FK Attack vs Defence Matchup,INDIRECT_FK_ATTACK_A * (1 - INDIRECT_FK_DEFENCE_B),Standardized Z,2.45,0.014,0.028
+D7_D8,Second Ball Attack vs Defence Matchup,SECOND_BALL_ATTACK_A * (1 - SECOND_BALL_DEFENCE_B),Standardized Z,2.62,0.009,0.021
+D9,Opportunity-Weighted Efficiency Mismatch,SP_OPPORTUNITY_A * SP_EFFICIENCY_A * (1 - SP_DEFENCE_B),Standardized Z,3.68,0.0004,0.0032

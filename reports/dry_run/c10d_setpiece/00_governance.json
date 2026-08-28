@@ -1,0 +1,12 @@
+{
+  "program": "ENNOVERA_C10D_SETPIECE_MATCHUP_V1",
+  "mode": "DRY_RUN",
+  "research_only": true,
+  "isolated_challenger": true,
+  "primary_control": "CORRECTED_C9_ME",
+  "c10_c_control": "C10_C9_TEAM_STYLE_MATCHUP",
+  "c10_e_started": false,
+  "gw2_prospective_locked": true,
+  "fpl_gw2_locked": true,
+  "production_changes": false
+}

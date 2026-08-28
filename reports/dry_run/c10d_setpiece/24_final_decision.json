@@ -1,0 +1,26 @@
+{
+  "program": "ENNOVERA_C10D_SETPIECE_MATCHUP_V1",
+  "final_status": "C10_D_HISTORICAL_CHALLENGER_SUPPORTED",
+  "improves_c10c": "YES",
+  "setpiece_signal_incrementally_genuine": "YES",
+  "c10_e_combination_gate": "PASS",
+  "metrics_vs_c10c": {
+    "delta_accuracy": "+0.39% (+6 picks: 923/1520 vs 917/1520; +23 vs C9)",
+    "delta_rps": "-0.0018 (0.1670 vs 0.1688)",
+    "delta_log_loss": "-0.0050 (0.8442 vs 0.8492)",
+    "delta_goals_mae": "-0.0200 (0.785 vs 0.805)",
+    "delta_sp_goal_brier": "-0.0230 (0.195 vs 0.218)",
+    "bootstrap_support_rps": "1996 / 2000 (99.80%)"
+  },
+  "governance_invariants": {
+    "c9_me_modified": false,
+    "c10_a9_modified": false,
+    "c10_b_modified": false,
+    "c10_c_modified": false,
+    "c10_d_modified": false,
+    "gw2_prospective_snapshot_modified": false,
+    "fpl_gw2_modified": false,
+    "production_modified": false,
+    "deployment": false
+  }
+}

@@ -1,0 +1,6 @@
+half_life,val_rps,val_sp_goal_brier,status
+60 days,0.1691,0.214,TESTED
+90 days,0.1685,0.208,WINNER_SELECTED
+120 days,0.1686,0.209,TESTED
+180 days,0.1688,0.211,TESTED
+365 days,0.1692,0.216,TESTED

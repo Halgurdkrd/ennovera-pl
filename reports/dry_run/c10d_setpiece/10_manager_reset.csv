@@ -1,0 +1,3 @@
+treatment,val_rps,status
+NO_RESET,0.1688,TESTED
+PARTIAL_RESET (40% shrinkage to prior on new coach/manager),0.1685,WINNER_SELECTED

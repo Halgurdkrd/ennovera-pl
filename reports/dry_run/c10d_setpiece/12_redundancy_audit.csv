@@ -1,0 +1,5 @@
+feature_pair,pearson_r,shared_variance,vif
+SP_ATTACK vs C9 Attack Strength,0.32,10.2%,1.18
+SP_DEFENCE vs C9 Defence Strength,0.29,8.4%,1.14
+SP_ATTACK vs C10-B MID_PROGRESSION,0.18,3.2%,1.08
+SP_MATCHUP vs C10-C ATTACK_ENVIRONMENT,0.24,5.8%,1.12

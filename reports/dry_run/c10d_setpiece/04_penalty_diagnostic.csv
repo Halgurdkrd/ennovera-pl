@@ -1,0 +1,3 @@
+metric,autocorr_season_to_season,repeatability_verdict,quarantine_decision
+Penalty Conversion Rate,0.04,LOW_REPEATABILITY_STOCHASTIC,EXCLUDED_FROM_PRIMARY_SP_STATE
+Penalties Won per Match,0.18,MODERATE_OPPORTUNITY_CORRELATION,CAPTURED_IN_OPEN_PLAY_BOX_ENTRIES

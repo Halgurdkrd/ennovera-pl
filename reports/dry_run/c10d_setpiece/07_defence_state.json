@@ -1,0 +1,8 @@
+{
+  "SP_DEFENCE": {
+    "formula": "0.40 * z(Corner_xGA_Suppression_Resid) + 0.30 * z(Aerial_Defensive_Clearance_Pct) + 0.20 * z(Indirect_FK_xGA_Suppression) + 0.10 * z(Second_Ball_Clearance_Rate)",
+    "scaling": "Zero-mean unit-variance per season",
+    "decay_half_life": "90 days",
+    "shrinkage": "Empirical Bayes shrinkage to league prior"
+  }
+}

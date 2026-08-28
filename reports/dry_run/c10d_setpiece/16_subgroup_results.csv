@@ -1,0 +1,7 @@
+subgroup,n,c10c_rps,c10d_rps,actual_sp_goals,actual_tot_goals,cs_rate
+STRONG_SP_ATTACK vs WEAK_SP_DEFENCE,234,0.1742,0.1695,0.94 / match,3.12 / match,18.4%
+STRONG_AERIAL_ATTACK vs WEAK_AERIAL_DEFENCE,218,0.1755,0.1702,0.88 / match,2.95 / match,21.1%
+HIGH_CORNER_OPPORTUNITY,310,0.1698,0.167,0.72 / match,2.84 / match,27.4%
+HIGH_SP_DEFENCE vs LOW_SP_ATTACK,262,0.1645,0.1622,0.18 / match,2.04 / match,48.5%
+OPEN_PLAY_WEAK_BUT_SP_STRONG,146,0.178,0.1728,0.78 / match,2.42 / match,24.7%
+OPEN_PLAY_STRONG_BUT_SP_WEAK,168,0.1672,0.1648,0.22 / match,2.68 / match,38.1%

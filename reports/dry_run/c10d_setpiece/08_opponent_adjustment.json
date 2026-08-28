@@ -1,0 +1,5 @@
+{
+  "methodology": "Pre-match residualization against opponent aerial height and historical set-piece concession quality",
+  "formula": "Resid(SP_i) = SP_i - E[SP | Opponent_SP_Quality_t-1, Venue]",
+  "lookahead_leakage": "ZERO (Conditioned strictly on t-1 pre-match data)"
+}
