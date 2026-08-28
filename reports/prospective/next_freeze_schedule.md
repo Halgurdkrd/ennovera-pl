@@ -1,0 +1,22 @@
+# ENNOVERA PROSPECTIVE NEXT FREEZE SCHEDULE
+
+## Premier League Matchweek 3 (10 Fixtures)
+
+| Fixture | Kickoff (UTC) | Window Start (T-75) | Preferred Target (T-70) | Hard Cutoff (T-60) | Operational Status |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **ARS vs BHA** | 2026-08-29 11:30 | 2026-08-29 10:15 | 2026-08-29 10:20 | 2026-08-29 10:30 | `WAITING_FOR_T60_WINDOW` |
+| **BRE vs SOU** | 2026-08-29 14:00 | 2026-08-29 12:45 | 2026-08-29 12:50 | 2026-08-29 13:00 | `WAITING_FOR_T60_WINDOW` |
+| **EVE vs BOU** | 2026-08-29 14:00 | 2026-08-29 12:45 | 2026-08-29 12:50 | 2026-08-29 13:00 | `WAITING_FOR_T60_WINDOW` |
+| **IPS vs FUL** | 2026-08-29 14:00 | 2026-08-29 12:45 | 2026-08-29 12:50 | 2026-08-29 13:00 | `WAITING_FOR_T60_WINDOW` |
+| **LEI vs AVL** | 2026-08-29 14:00 | 2026-08-29 12:45 | 2026-08-29 12:50 | 2026-08-29 13:00 | `WAITING_FOR_T60_WINDOW` |
+| **NFO vs WOL** | 2026-08-29 14:00 | 2026-08-29 12:45 | 2026-08-29 12:50 | 2026-08-29 13:00 | `WAITING_FOR_T60_WINDOW` |
+| **WHU vs MCI** | 2026-08-29 16:30 | 2026-08-29 15:15 | 2026-08-29 15:20 | 2026-08-29 15:30 | `WAITING_FOR_T60_WINDOW` |
+| **CHE vs CRY** | 2026-08-30 12:30 | 2026-08-30 11:15 | 2026-08-30 11:20 | 2026-08-30 11:30 | `WAITING_FOR_T60_WINDOW` |
+| **NEW vs TOT** | 2026-08-30 12:30 | 2026-08-30 11:15 | 2026-08-30 11:20 | 2026-08-30 11:30 | `WAITING_FOR_T60_WINDOW` |
+| **MUN vs LIV** | 2026-08-30 15:00 | 2026-08-30 13:45 | 2026-08-30 13:50 | 2026-08-30 14:00 | `WAITING_FOR_T60_WINDOW` |
+
+## Fantasy Premier League Gameweek 3
+
+| Gameweek | Deadline (UTC) | Window Start (T-90) | Preferred Target (T-60) | Hard Cutoff (T-30) | Operational Status |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **FPL GW3** | 2026-08-29 10:00 | 2026-08-29 08:30 | 2026-08-29 09:00 | 2026-08-29 09:30 | `WAITING_FOR_PRE_DEADLINE_WINDOW` |

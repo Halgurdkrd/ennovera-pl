@@ -1,0 +1,49 @@
+{
+  "program": "ENNOVERA_2026_27_PROSPECTIVE_VALIDATION_V1",
+  "lock_version": "v2_hash_reconciliation",
+  "season": "2026-27",
+  "fpl_model": {
+    "name": "ENNOVERA_FPL_FINAL_RESEARCH_V1",
+    "version": "1.0.0-research-final",
+    "historical_mean_pts": 2179.5,
+    "artifact_path": "reports/phase10_6_final_manifest.json",
+    "canonical_artifact_sha256": "7d4bac2af06b06c13bf81d5036a403cb3173266f5dca0c16011440f47c71af5d",
+    "status": "FROZEN_READ_ONLY",
+    "reconciliation_notes": "Prompt template string discrepancy resolved to physical manifest byte SHA256. Model weights and logic unmodified."
+  },
+  "pl_model": {
+    "name": "ENNOVERA_PL_FINAL_RESEARCH_V1",
+    "version": "1.0.0-research-final",
+    "historical_accuracy": 0.584,
+    "historical_rps": 0.1748,
+    "historical_log_loss": 0.868,
+    "historical_draw_recall": 0.338,
+    "historical_ece": 0.009,
+    "artifact_path": "reports/pl11_12_final_manifest.json",
+    "canonical_artifact_sha256": "2e1f294dbf47cd70088342ae16ad8a50b579ba728cf9b9f64c551c51f799ee5f",
+    "status": "FROZEN_READ_ONLY",
+    "reconciliation_notes": "Prompt template string discrepancy resolved to physical manifest byte SHA256. Model weights and logic unmodified."
+  },
+  "shared_football_core": {
+    "version": "1.0.0-core",
+    "modules": [
+      "ExpectedXIEngine",
+      "PlayerAttackEngine",
+      "DefensiveActionEngine",
+      "SetPieceAerialEngine",
+      "CongestionFatigueEngine"
+    ],
+    "status": "FROZEN_READ_ONLY"
+  },
+  "timing_semantics": {
+    "generated_at": "Time prediction computation completed",
+    "snapshot_created_at": "Time immutable snapshot object was serialized",
+    "official_freeze_at": "Actual timestamp at which prediction became official prospective prediction",
+    "planned_cutoff_at": "Target future cutoff (e.g. Kickoff - 60m / FPL deadline)",
+    "pl_official_window": "T - 75m to T - 60m before kickoff (preferred T - 70m)",
+    "fpl_official_window": "T - 90m to T - 30m before deadline (preferred T - 60m)",
+    "future_freeze_invariant": "official_freeze_at <= current_actual_time_at_snapshot_creation"
+  },
+  "reconciliation_timestamp": "2026-08-28T06:39:17.070709+00:00",
+  "git_branch": "feature/2026-27-prospective-validation"
+}

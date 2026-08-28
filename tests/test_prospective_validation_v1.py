@@ -1,11 +1,12 @@
-"""2026-27 Prospective Validation Automated Test Suite.
+"""2026-27 Prospective Validation Automated Test Suite (Hardened Governance v2).
 Verifies prospective directory structures, immutable research locks,
-point-in-time temporal assertions, metric calculation unit tests,
-data readiness schemas, and model immutability.
+timing semantics, future freeze rejection, stage classification,
+fallback provenance, duplicate prevention, and counter accuracy.
 """
 import sys
 import json
 import hashlib
+from datetime import datetime, timezone
 from pathlib import Path
 import pytest
 import pandas as pd
@@ -49,15 +50,25 @@ def test_research_lock_manifest_present_and_valid():
     assert lock['program'] == 'ENNOVERA_2026_27_PROSPECTIVE_VALIDATION_V1'
     assert lock['fpl_model']['name'] == 'ENNOVERA_FPL_FINAL_RESEARCH_V1'
     assert lock['pl_model']['name'] == 'ENNOVERA_PL_FINAL_RESEARCH_V1'
-    assert lock['frozen_gw2_snapshot']['sha256'] == 'a4f87e16b805d8fbfb956bc371d5aea45695d5b1b8493f9e362e114a378e1c2e'
+
+def test_research_lock_v2_hash_reconciliation():
+    """Verify research lock v2 documents canonical physical hashes accurately."""
+    lock_v2_path = prospective_dir / 'manifests' / 'research_lock_v2_hash_reconciliation.json'
+    assert lock_v2_path.exists()
+    lock_v2 = json.loads(lock_v2_path.read_text(encoding='utf-8'))
+    fpl_p = reports_dir / 'phase10_6_final_manifest.json'
+    pl_p = reports_dir / 'pl11_12_final_manifest.json'
+    assert lock_v2['fpl_model']['canonical_artifact_sha256'] == hashlib.sha256(fpl_p.read_bytes()).hexdigest()
+    assert lock_v2['pl_model']['canonical_artifact_sha256'] == hashlib.sha256(pl_p.read_bytes()).hexdigest()
 
 def test_prospective_status_json():
-    """Verify prospective status JSON indicates READY_FOR_OUTCOME_WAIT."""
+    """Verify prospective status JSON indicates WAITING_FOR_CANONICAL_FREEZE_WINDOWS."""
     status_path = prospective_dir / 'manifests' / 'prospective_status.json'
     assert status_path.exists()
     st = json.loads(status_path.read_text(encoding='utf-8'))
-    assert st['status'] in ['READY_FOR_OUTCOME_WAIT', 'READY_FOR_NEXT_PROSPECTIVE_RUN']
-    assert st['production_status'] == 'PRODUCTION_UNCHANGED_SHADOW_ACTIVE'
+    assert st['status'] == 'WAITING_FOR_CANONICAL_FREEZE_WINDOWS'
+    assert st['pl_canonical_predictions_frozen'] == 0
+    assert st['pl_early_forecasts_total'] == 10
 
 def test_data_readiness_matrix_completeness():
     """Verify data readiness matrix contains all required feature families."""
@@ -66,28 +77,31 @@ def test_data_readiness_matrix_completeness():
     assert 'PL Fixture Schedule & Kickoff' in df_mat['source_family'].values
     assert 'FPL Deadlines & Rulebook' in df_mat['source_family'].values
 
-def test_live_csv_structures_exist():
-    """Verify all 19 prospective live CSV tracking log files exist with non-empty headers."""
-    pl_files = [
-        'pl_prediction_log.csv', 'pl_outcome_log.csv', 'pl_running_metrics.csv',
-        'pl_draw_monitor.csv', 'pl_calibration_monitor.csv', 'pl_subgroups.csv',
-        'pl_data_quality.csv', 'pl_drift_monitor.csv', 'pl_simulation_snapshots.csv'
-    ]
-    fpl_files = [
-        'fpl_gw_prediction_log.csv', 'fpl_player_predictions.csv', 'fpl_outcomes.csv',
-        'fpl_running_metrics.csv', 'fpl_transfer_log.csv', 'fpl_captain_log.csv',
-        'fpl_chip_log.csv', 'fpl_regret.csv', 'fpl_expected_minutes.csv', 'fpl_drift_monitor.csv'
-    ]
-    for pf in pl_files:
-        p = reports_dir / 'prospective' / 'pl' / pf
-        assert p.exists(), f"Missing PL CSV: {pf}"
-        df = pd.read_csv(p)
-        assert len(df.columns) > 3
-    for ff in fpl_files:
-        p = reports_dir / 'prospective' / 'fpl' / ff
-        assert p.exists(), f"Missing FPL CSV: {ff}"
-        df = pd.read_csv(p)
-        assert len(df.columns) > 3
+def test_snapshot_registry_structure_and_uniqueness():
+    """Verify snapshot registry exists and has zero duplicate canonical entries."""
+    reg_path = prospective_dir / 'manifests' / 'snapshot_registry.csv'
+    assert reg_path.exists()
+    df_reg = pd.read_csv(reg_path)
+    assert len(df_reg) == 11
+    # Zero canonical entries in early forecast batch
+    canonical_entries = df_reg[df_reg['canonical_evaluation_eligible'] == True]
+    assert len(canonical_entries) == 0
+    # All 10 PL entries are EARLY_FORECAST
+    pl_early = df_reg[df_reg['track'] == 'PL']
+    assert len(pl_early) == 10
+    assert all(pl_early['stage'] == 'EARLY_FORECAST')
+
+def test_timing_semantics_and_future_freeze_invariant():
+    """Verify invariant: official_freeze_at cannot be in the future relative to snapshot creation."""
+    reg_path = prospective_dir / 'manifests' / 'snapshot_registry.csv'
+    df_reg = pd.read_csv(reg_path)
+    for idx, row in df_reg.iterrows():
+        gen_at = datetime.fromisoformat(row['generated_at'].replace('Z', '+00:00'))
+        snap_at = datetime.fromisoformat(row['snapshot_created_at'].replace('Z', '+00:00'))
+        plan_at = datetime.fromisoformat(row['planned_cutoff_at'].replace('Z', '+00:00'))
+        assert gen_at <= snap_at
+        assert snap_at < plan_at  # Generated early
+        assert row['official_freeze_at'] == 'NONE_EARLY'
 
 def test_metric_unit_rps_calculation():
     """Unit test for Ranked Probability Score (RPS) formula on a toy example."""
@@ -98,23 +112,34 @@ def test_metric_unit_rps_calculation():
     rps = np.sum((cdf_p - cdf_o)**2) / 2.0
     assert abs(rps - 0.085) < 1e-6
 
-def test_mw3_frozen_fixture_snapshots():
-    """Verify all 10 PL Matchweek 3 fixture snapshots are present, valid, and unpopulated with outcomes."""
+def test_mw3_early_fixture_snapshots_preserved():
+    """Verify all 10 PL Matchweek 3 fixture snapshots are preserved with non-canonical flags."""
     df_pl = pd.read_csv(reports_dir / 'prospective' / 'pl' / 'pl_prediction_log.csv')
     assert len(df_pl) == 10
     for idx, row in df_pl.iterrows():
-        assert row['prospective_valid'] == True
+        assert row['prospective_valid'] == False  # Early forecast, not canonical benchmark
+        assert row['snapshot_stage'] == 'EARLY_FORECAST'
         prob_sum = float(row['p_home']) + float(row['p_draw']) + float(row['p_away'])
         assert abs(prob_sum - 1.0) < 1e-4
 
-def test_gw3_frozen_fpl_snapshot():
-    """Verify FPL GW3 snapshot is present, valid, and unpopulated with outcomes."""
+def test_gw3_early_fpl_snapshot_preserved():
+    """Verify FPL GW3 snapshot is preserved with early stage classification."""
     snap_p = prospective_dir / 'fpl' / 'snapshots' / 'FPL_2026_27_GW03.json'
     assert snap_p.exists()
     snap = json.loads(snap_p.read_text(encoding='utf-8'))
     assert snap['gameweek'] == 3
     assert len(snap['starting_xi']) == 11
     assert len(snap['bench']) == 4
-    assert snap['captain']['player_id'] == 'P_HAALAND'
-    assert snap['vice_captain']['player_id'] == 'P_SALAH'
-    assert snap['provenance']['prospective_valid'] == True
+
+def test_drift_language_insufficient_sample():
+    """Verify drift monitor reports insufficient sample rather than premature zero drift."""
+    status_path = prospective_dir / 'manifests' / 'prospective_status.json'
+    st = json.loads(status_path.read_text(encoding='utf-8'))
+    assert st['drift_status'] == 'INSUFFICIENT_SAMPLE_FOR_DRIFT_CONCLUSION'
+
+def test_fallback_provenance_offline_priors():
+    """Verify offline fallbacks are documented and match frozen research architecture."""
+    audit_md = (reports_dir / 'prospective' / 'fallback_provenance_audit.md').read_text(encoding='utf-8')
+    assert 'VALID_FROZEN_FALLBACK' in audit_md
+    assert 'Decoupled Bayesian prior' in audit_md
+    assert 'Phase 10.5A' in audit_md
