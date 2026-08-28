@@ -1,0 +1,30 @@
+{
+  "starters_individual_points": {
+    "White": 11,
+    "Saka": 9,
+    "Evanilson": 4,
+    "Kayode": 13,
+    "De Cuyper": 17,
+    "Palmer": 13,
+    "Tzolakis": 10,
+    "Stach": 13,
+    "Gakpo": 12,
+    "Isak": 2,
+    "Haaland": 2
+  },
+  "starters_sum_string": "White(11) + Saka(9) + Evanilson(4) + Kayode(13) + De Cuyper(17) + Palmer(13) + Tzolakis(10) + Stach(13) + Gakpo(12) + Isak(2) + Haaland(2)",
+  "xi_base_actual": 106,
+  "captain_base": 2,
+  "captain_extra": 2,
+  "final_manager_actual": 108,
+  "bench_individual_points": {
+    "M.Sangar\u00e9": 14,
+    "Steele": 0,
+    "Robinson": 1,
+    "Mendy": 15
+  },
+  "bench_sum_string": "M.Sangar\u00e9(14) + Steele(0) + Robinson(1) + Mendy(15)",
+  "bench_total": 30,
+  "all_15_total": 136,
+  "claim_68_points_status": "REJECTED (68 was an unauthenticated placeholder; true official actual is 108 pts)"
+}

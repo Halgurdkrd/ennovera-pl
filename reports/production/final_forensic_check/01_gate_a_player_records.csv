@@ -1,0 +1,16 @@
+player_id,player,web_name,club,pos,gw1_xp,official_actual_points,minutes,goals,assists,clean_sheets,goals_conceded,own_goals,pen_missed,pen_saved,yellow,red,saves,bonus,bps,lineup_status,captain_status
+10,Benjamin White,White,Arsenal,DEF,5.3,11,90,0,1,1,0,0,0,0,0,0,0,2,37,STARTING_XI,-
+12,Bukayo Saka,Saka,Arsenal,MID,7.4,9,67,1,0,1,0,0,0,0,0,0,0,1,36,STARTING_XI,VICE_CAPTAIN
+79,Francisco Evanilson de Lima Barbosa,Evanilson,Bournemouth,FWD,4.5,4,74,0,1,1,0,0,0,0,1,0,0,0,17,STARTING_XI,-
+88,Michael Kayode,Kayode,Brentford,DEF,4.8,13,75,1,0,1,0,0,0,0,0,0,0,1,36,STARTING_XI,-
+565,Mamadou Sangaré,M.Sangaré,Brentford,MID,4.9,14,75,0,2,1,0,0,0,0,0,0,0,3,41,BENCH_1,-
+111,Jason Steele,Steele,Brighton,GK,0.15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,BENCH_4,-
+115,Maxim De Cuyper,De Cuyper,Brighton,DEF,5.8,17,77,1,1,1,0,0,0,0,0,0,0,2,46,STARTING_XI,-
+154,Cole Palmer,Palmer,Chelsea,MID,7.6,13,82,1,1,0,2,0,0,0,0,0,0,3,60,STARTING_XI,-
+254,Antonee Robinson,Robinson,Fulham,DEF,4.3,1,81,0,0,0,3,0,0,0,0,0,0,0,4,BENCH_2,-
+572,Konstantinos Tzolakis,Tzolakis,Hull City,GK,4.6,10,90,0,0,1,0,0,0,0,0,0,5,3,41,STARTING_XI,-
+586,Nobel Mendy,Mendy,Hull City,DEF,4.2,15,63,1,0,1,0,0,0,0,0,0,0,1,35,BENCH_3,-
+335,Anton Stach,Stach,Leeds,MID,5.1,13,90,1,0,1,0,0,0,0,0,0,0,3,37,STARTING_XI,-
+367,Cody Gakpo,Gakpo,Liverpool,MID,6.5,12,90,1,0,0,2,0,0,0,0,0,0,3,33,STARTING_XI,-
+379,Alexander Isak,Isak,Liverpool,FWD,7.2,2,90,0,0,0,2,0,0,0,0,0,0,0,6,STARTING_XI,-
+411,Erling Haaland,Haaland,Man City,FWD,8.1,2,90,0,0,0,1,0,0,0,0,0,0,0,6,STARTING_XI,CAPTAIN
