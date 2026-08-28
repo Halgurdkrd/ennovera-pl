@@ -1,0 +1,7 @@
+subgroup,sample_size,control_rps,w_o_expected_xi_rps,delta_rps,importance,w_o_context_rps,w_o_priors_rps,w_o_regime_rps
+Major Injuries (>2 Starters Missing),284,0.1795,0.2045,-0.025,CRITICAL,,,
+Rotated Teams (Midweek Fixtures),196,0.1812,0.208,-0.0268,CRITICAL,,,
+Post-European Travel Matches,142,0.1765,,-0.0085,HIGH,0.185,,
+Promoted Clubs (First 10 Matches),120,0.178,,-0.0135,HIGH,,0.1915,
+Manager Changes (<5 Matches),68,0.182,,-0.007,MODERATE,,,0.189
+High Lineup Entropy,210,0.184,0.211,-0.027,CRITICAL,,,

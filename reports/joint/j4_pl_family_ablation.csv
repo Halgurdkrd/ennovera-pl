@@ -1,0 +1,14 @@
+ablation_id,removed_family,accuracy,rps,log_loss,delta_rps,classification
+PL-A0,NONE (Full Final Model),0.584,0.1748,0.868,0.0,FULL_FROZEN_CONTROL
+PL-A1,Expected XI,0.562,0.1895,0.918,0.0147,CRITICAL_CORE
+PL-A2,Player Attack Intelligence,0.573,0.181,0.889,0.0062,CRITICAL_CORE
+PL-A3,Defensive Intelligence (DefCon),0.578,0.1782,0.879,0.0034,HIGH_VALUE
+PL-A4,Set-Piece Intelligence,0.582,0.1755,0.871,0.0007,LOW_VALUE_CONTEXT
+PL-A5,Tactical Matchup Intelligence,0.581,0.1762,0.8735,0.0014,MODERATE_VALUE
+PL-A6,Cross-Competition / UEFA,0.583,0.1752,0.87,0.0004,LOW_VALUE_CONTEXT
+PL-A7,Fatigue / Rest Days,0.582,0.1756,0.8712,0.0008,LOW_VALUE_CONTEXT
+PL-A8,Manager / Role Context,0.583,0.1751,0.8695,0.0003,LOW_VALUE_CONTEXT
+PL-A9,Dynamic Team State,0.57,0.1835,0.895,0.0087,CRITICAL_CORE
+PL-A10,Joint Score Correlation (Dixon-Coles),0.576,0.1798,0.884,0.005,HIGH_VALUE
+PL-A11,Calibration Layer,0.584,0.1765,0.875,0.0017,HIGH_VALUE
+PL-A12,Home Advantage,0.565,0.187,0.908,0.0122,CRITICAL_CORE

@@ -1,0 +1,15 @@
+ablation_id,removed_family,mean_season_pts,delta_pts,classification
+FPL-A0,NONE (Full Final Model),2179.5,0.0,FULL_FROZEN_CONTROL
+FPL-A1,Expected XI Intelligence,2142.0,-37.5,CRITICAL_CORE
+FPL-A2,Expected Minutes Model,2154.5,-25.0,CRITICAL_CORE
+FPL-A3,Attacking Quality / NPxG,2148.0,-31.5,CRITICAL_CORE
+FPL-A4,Finishing Decomposition,2177.0,-2.5,LOW_VALUE
+FPL-A5,DefCon Defensive Points,2172.5,-7.0,HIGH_VALUE
+FPL-A6,BPS / Bonus Simulation,2173.0,-6.5,HIGH_VALUE
+FPL-A7,Set-Piece Intelligence,2175.5,-4.0,MODERATE_VALUE
+FPL-A8,Cross-Competition Workload,2178.2,-1.3,LOW_VALUE_CONTEXT
+FPL-A9,Tactical Matchup,2177.8,-1.7,LOW_VALUE
+FPL-A10,Role / Position Context,2176.0,-3.5,MODERATE_VALUE
+FPL-A11,Clean-Sheet Intelligence,2168.0,-11.5,HIGH_VALUE
+FPL-A12,Haul / Uncertainty Layer,2171.0,-8.5,HIGH_VALUE
+FPL-A13,Multi-GW Planning Horizon,2162.0,-17.5,CRITICAL_CORE

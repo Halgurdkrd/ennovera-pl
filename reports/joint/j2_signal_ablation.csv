@@ -1,0 +1,8 @@
+candidate_id,description,accuracy,rps,log_loss,brier,draw_recall,goals_mae,cs_brier,decision
+PL_CONTROL,PL Frozen Control (ENNOVERA_PL_FINAL_RESEARCH_V1),0.584,0.1748,0.868,0.502,0.338,0.712,0.122,FROZEN_CONTROL
+J2-A,Leave-out Expected XI,0.562,0.1895,0.918,0.538,0.284,0.755,0.134,ESSENTIAL
+J2-B,Leave-out Player Attack Quality,0.573,0.181,0.889,0.518,0.312,0.732,0.128,ESSENTIAL
+J2-C,Leave-out Defensive Contribution (DefCon),0.578,0.1782,0.879,0.511,0.324,0.724,0.1265,STRONG_INCREMENTAL
+J2-D,Leave-out Replacement Quality,0.579,0.1775,0.876,0.509,0.33,0.72,0.1245,MODEST_INCREMENTAL
+J2-E,Leave-out Set-Piece Micro-Model,0.582,0.1755,0.871,0.504,0.335,0.715,0.123,CONTEXT_SPECIFIC
+J2-F,Leave-out Tactical Matchup,0.581,0.1762,0.8735,0.506,0.332,0.717,0.1238,MODEST_INCREMENTAL

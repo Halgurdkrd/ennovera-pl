@@ -1,0 +1,7 @@
+candidate_id,description,mean_season_points,xp_mae,spearman,ndcg_20,p10_recall,p15_recall,p20_recall,captain_regret,transfer_regret,decision
+CONTROL,FPL Frozen Control (ENNOVERA_FPL_FINAL_RESEARCH_V1),2179.5,1.412,0.684,0.812,0.384,0.218,0.092,38.4,24.2,FROZEN_CONTROL
+J1-A,FPL + PL Calibrated Team xG,2181.2,1.408,0.688,0.815,0.389,0.221,0.094,37.8,23.9,USE_AS_FPL_DERIVED_INPUT
+J1-B,FPL + PL Clean-Sheet Distribution,2180.8,1.409,0.686,0.814,0.386,0.22,0.093,38.1,24.0,USE_AS_FPL_DERIVED_INPUT
+J1-C,FPL + PL Joint Scoreline Matrix,2182.1,1.405,0.69,0.818,0.392,0.224,0.096,37.2,23.5,PROMOTE_TO_SHARED_CORE
+J1-D,FPL + PL Tactical/Context State,2179.8,1.411,0.685,0.813,0.385,0.219,0.092,38.3,24.1,REDUNDANT
+J1-E,FPL + Full Non-Redundant PL Bridge (J1-C + J1-A),2183.0,1.403,0.692,0.82,0.395,0.226,0.098,36.9,23.2,RESEARCH_CHALLENGER_ONLY

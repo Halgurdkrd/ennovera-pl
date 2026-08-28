@@ -1,0 +1,5 @@
+cluster_id,cluster_name,features,vif,overlap_pct,redundancy_verdict
+C01,Attacking Power,"Team Attack Strength, Rolling xG, Expected XI Attacking Sum",2.84,38%,COMPLEMENTARY_VALID
+C02,Defensive Solidity,"DefCon Resistance, Clean-Sheet Prior, Opponent xGA",2.45,32%,COMPLEMENTARY_VALID
+C03,Match Congestion,"Calendar Rest Days, UEFA Minutes, Rotation Risk",3.12,44%,MODEST_REDUNDANCY_SAFE
+C04,Set-Piece Threat,"Taker Hierarchy, Corner Volume, Aerial Dominance",1.95,26%,COMPLEMENTARY_VALID

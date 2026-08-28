@@ -1,0 +1,15 @@
+feature_id,feature_name,family,raw_source,derived_from,consumed_by_PL,consumed_by_FPL,temporal_cutoff,risk_level,shared_core
+F01,player_npxg_rolling,Player Attack,Match Event Feeds,Shot Location & Context,True,True,T-60 Pre-Kickoff,LOW,True
+F02,player_xa_rolling,Player Attack,Match Event Feeds,Key Passes & Shot Assist xG,True,True,T-60 Pre-Kickoff,LOW,True
+F03,expected_xi_probability,Expected XI,Club Pressers / Squad DB,Starter Frequency Model,True,True,T-60 Pre-Kickoff,LOW,True
+F04,expected_minutes,Expected Minutes,Historical Sub Times,P(start) x Role Curve,True,True,T-60 Pre-Kickoff,LOW,True
+F05,defcon_role_resistance,Player Defence,Defensive Action Logs,Tackles/Ints per 90 Prior,True,True,T-60 Pre-Kickoff,LOW,True
+F06,replacement_quality_gap,Expected XI,Squad Depth Matrix,Starter vs Sub Rating,True,False,T-60 Pre-Kickoff,LOW,False
+F07,set_piece_hierarchy,Set Pieces,Role Assignment DB,Historical Taker Share,True,True,T-60 Pre-Kickoff,LOW,True
+F08,tactical_style_vectors,Tactical Matchup,Aggregated Event Vectors,PPDA & Directness Cluster,True,True,T-60 Pre-Kickoff,LOW,True
+F09,calendar_rest_days,Fatigue / Context,Competition Calendars,Days Since Last Match,True,True,Pre-Deadline,LOW,True
+F10,uefa_cup_workload,European Workload,UEFA Registry,European Travel & Minutes,True,True,Pre-Deadline,LOW,True
+F11,dynamic_latent_team_state,Dynamic Team State,Sequential Scorelines,Decoupled Bayesian Poisson,True,True,Post-Match (Previous),LOW,True
+F12,joint_score_dixon_coles,Joint Score State,Bivariate Poisson Prior,Scoreline Copula Model,True,True,T-60 Pre-Kickoff,LOW,True
+F13,fpl_xp_distribution,FPL Target State,FPL Scoring Simulator,Points Monte Carlo,False,True,Pre-Deadline,FORBIDDEN_FOR_PL,False
+F14,fpl_captain_ranking,FPL Strategy,High-Ceiling Evaluator,Haul Probability & xP,False,True,Pre-Deadline,FORBIDDEN_FOR_PL,False

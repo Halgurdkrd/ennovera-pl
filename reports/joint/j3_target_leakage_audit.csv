@@ -1,0 +1,6 @@
+path_id,path_description,status,risk,enforcement
+P01,FPL xP -> Inferred Player Quality -> PL Match xG -> PL Prob -> FPL xP,BLOCKED,ZERO_DETECTED,Strict Isolation Gate
+P02,FPL CS xP Component -> PL Def Strength -> PL CS Prob -> FPL CS Points,BLOCKED,ZERO_DETECTED,Raw Event Extraction Only
+P03,FPL Captain Ranking -> Attacking Strength -> PL Match xG -> FPL Captain,BLOCKED,ZERO_DETECTED,Top-Down Feed Forbidden
+P04,Historical Post-Match Event Data -> Pre-Match Expected XI,BLOCKED,ZERO_DETECTED,Point-in-Time Cutoff Index
+P05,Raw Football Data -> Shared Latent Core -> PL Engine & FPL Engine (Parallel),PERMITTED_LEGAL_DAG,ZERO_CIRCULARITY,Acyclic Architecture
