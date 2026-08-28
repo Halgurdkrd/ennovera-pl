@@ -1,0 +1,8 @@
+metric_name,canonical_phase10_6_label,canonical_phase10_6_value,reconciled_canonical_j1_challenger_value,reconciled_delta
+MAE,Top-20 Selection Pool MAE,1.745,1.732,-0.013
+Spearman,Top-20 Selection Pool Spearman,0.7845,0.7892,0.0047
+NDCG@20,Top-20 Ranking NDCG@20,0.7915,0.796,0.0045
+10+ Recall@20,Top-20 Haul (10+) Recall@20,61.8%,62.9%,+1.1%
+15+ Recall@20,Top-20 Mega-Haul (15+) Recall@20,54.2%,55.4%,+1.2%
+20+ Recall@20,Top-20 Historic (20+) Recall@20,48.5%,49.6%,+1.1%
+Top Scorer Recall@20,GW Top Scorer Recall@20,82.5%,83.2%,+0.7%

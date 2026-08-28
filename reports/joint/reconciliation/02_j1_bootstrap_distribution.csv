@@ -1,0 +1,2 @@
+resample_unit,n_resamples,observed_mean_delta,bootstrap_mean_delta,bootstrap_median_delta,bootstrap_std,p1,p2_5,p5,p10,p25,p50,p75,p90,p95,p97_5,p99,prop_gt_0_pct,prop_lt_0_pct
+Gameweek (N=152),10000,3.5,3.47,3.44,2.8,-3.0,-1.93,-1.09,-0.09,1.58,3.44,5.36,7.08,8.05,8.98,9.99,89.3,10.7

@@ -1,0 +1,9 @@
+system,parameter_id,parameter_name,module,dimension
+PL,MIN_PL_01_20,team_latent_attack_priors,Dynamic Team State,20
+PL,MIN_PL_21_40,team_latent_defence_priors,Dynamic Team State,20
+PL,MIN_PL_41,home_advantage_scalar,Home Advantage,1
+PL,MIN_PL_42,dixon_coles_rho_correlation,Score Copula,1
+FPL,MIN_FPL_01_15,position_xp_multipliers,Player xP Engine,15
+FPL,MIN_FPL_16_25,defcon_threshold_weights,DefCon Engine,10
+FPL,MIN_FPL_26_35,minutes_decay_curve_params,Expected Minutes,10
+FPL,MIN_FPL_36,multi_gw_discount_factor,Multi-GW Planning,1

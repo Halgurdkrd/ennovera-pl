@@ -1,0 +1,18 @@
+system,parameter_id,parameter_name,module,parameter_type,learned_or_fixed,dimension,minimal_core_status,removal_reason
+PL,PL_P01_20,team_latent_attack_priors,Dynamic Team State,LATENT_STATE_PARAMETER,LEARNED,20,RETAINED,N/A
+PL,PL_P21_40,team_latent_defence_priors,Dynamic Team State,LATENT_STATE_PARAMETER,LEARNED,20,RETAINED,N/A
+PL,PL_P41,home_advantage_scalar,Home Advantage,LEARNED_COEFFICIENT,LEARNED,1,RETAINED,N/A
+PL,PL_P42,dixon_coles_rho_correlation,Score Copula,LEARNED_COEFFICIENT,LEARNED,1,RETAINED,N/A
+PL,PL_P43_50,tactical_style_coefficients,Tactical Matchup,LEARNED_COEFFICIENT,LEARNED,8,PRUNED,High complexity / low incremental gain (+0.0014 RPS)
+PL,PL_P51_60,manager_regime_scalars,Manager Context,LATENT_STATE_PARAMETER,LEARNED,10,PRUNED,Limited sample size / risk of overfit
+PL,PL_P61_70,set_piece_aerial_weights,Set Pieces,FIXED_WEIGHT,FIXED,10,PRUNED,Context specific / negligible global gain (+0.0007 RPS)
+PL,PL_P71_80,european_fatigue_weights,Congestion Context,FIXED_WEIGHT,FIXED,10,PRUNED,Subgroup only / negligible global gain
+PL,PL_P81_88,dirichlet_calibration_params,Calibration Layer,CALIBRATION_PARAMETER,LEARNED,8,PRUNED_TO_ISOTONIC_4,Simplified to 4-parameter isotonic calibration
+FPL,FPL_P01_15,position_xp_multipliers,Player xP Engine,LEARNED_COEFFICIENT,LEARNED,15,RETAINED,N/A
+FPL,FPL_P16_25,defcon_threshold_weights,DefCon Engine,FIXED_THRESHOLD,FIXED,10,RETAINED,N/A
+FPL,FPL_P26_35,minutes_decay_curve_params,Expected Minutes,LEARNED_COEFFICIENT,LEARNED,10,RETAINED,N/A
+FPL,FPL_P36,multi_gw_discount_factor,Multi-GW Planning,HYPERPARAMETER,FIXED,1,RETAINED,N/A
+FPL,FPL_P37_48,bps_simulation_priors,BPS Head,DISTRIBUTION_PARAMETER,LEARNED,12,PRUNED_TO_HEURISTIC_4,Simplified to role-based heuristic table
+FPL,FPL_P49_58,penalty_generation_rates,Penalty Micro-Model,LEARNED_COEFFICIENT,LEARNED,10,PRUNED,High noise / low event frequency
+FPL,FPL_P59_68,finishing_streak_factors,Finishing Decomposition,LEARNED_COEFFICIENT,LEARNED,10,PRUNED,Regression to mean / noise hazard
+FPL,FPL_P69_74,tactical_style_fpl_weights,Tactical Matchup,FIXED_WEIGHT,FIXED,6,PRUNED,Low incremental gain (+0.3 pts/season)

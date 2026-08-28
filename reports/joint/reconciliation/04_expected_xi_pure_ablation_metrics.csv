@@ -1,0 +1,2 @@
+model_name,benchmark_fixtures,accuracy_3class,ranked_probability_score,multiclass_log_loss,multiclass_brier,draw_recall,home_recall,away_recall,goals_mae,clean_sheet_brier,ece,delta_rps_vs_control,delta_acc_vs_control
+FINAL_PL_PURE_ABLATION_MINUS_EXPECTED_XI,1520,0.571,0.1824,0.887,0.521,0.312,0.685,0.568,0.73,0.1275,0.012,0.0076,-0.013

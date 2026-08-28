@@ -1,0 +1,5 @@
+fixture_id,home,away,control_p_home,control_p_draw,control_p_away,ablated_p_home,ablated_p_draw,ablated_p_away,delta_p_home,lineup_entropy
+2022_GW05_MUN_ARS,MUN,ARS,0.442,0.284,0.274,0.408,0.292,0.3,-0.034,HIGH
+2023_GW12_CHE_MCI,CHE,MCI,0.215,0.298,0.487,0.245,0.288,0.467,0.03,MODERATE
+2024_GW08_LIV_CHE,LIV,CHE,0.584,0.236,0.18,0.54,0.252,0.208,-0.044,HIGH_ABSENCE
+2025_GW20_NEW_TOT,NEW,TOT,0.468,0.272,0.26,0.435,0.28,0.285,-0.033,ROTATION

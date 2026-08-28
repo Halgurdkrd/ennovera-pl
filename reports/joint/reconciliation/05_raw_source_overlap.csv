@@ -1,0 +1,5 @@
+cluster,raw_source_overlap,transformation_overlap,target_overlap,classification
+Attacking Power,High (Match event shot & pass logs),Medium (Decoupled Poisson vs Player-level NPxG/xA),Low (Match Scoreline vs Individual FPL Points),COMPLEMENTARY
+Defensive Solidity,Medium (Defensive actions & match clean sheets),Low (DefCon Role Resistance vs Match CS Prob),Low (Match CS Probability vs FPL Defensive Score),COMPLEMENTARY
+Match Congestion,High (Official Competition Schedule Calendars),Medium (Days Rest vs European Flight Distance),Medium (Squad Rotation vs Player Minutes),PARTIALLY_REDUNDANT
+Set Pieces,Medium (Dead-ball logs & set-piece xG),Low (Hierarchy Role Share vs Team Set-Piece Prior),Low (Match Goal Source vs Individual Assist/Goal),COMPLEMENTARY

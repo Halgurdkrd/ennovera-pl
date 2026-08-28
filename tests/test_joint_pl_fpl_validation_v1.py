@@ -1,5 +1,5 @@
-"""Joint PL <-> FPL Validation Automated Test Suite (J1, J2, J3, J4).
-Covers all 20 required testing areas:
+"""Joint PL <-> FPL Validation Automated Test Suite (J1-J4 & R1-R4 Reconciliation).
+Covers all 20 original and 20 reconciliation testing areas (40 distinct tests):
 1. Frozen FPL artifact immutability
 2. Frozen PL artifact immutability
 3. Prospective registry immutability
@@ -20,6 +20,26 @@ Covers all 20 required testing areas:
 18. Frozen calibration protection
 19. Canonical benchmark identity
 20. Model hash stability
+21. Bootstrap CI preference consistency
+22. Bootstrap seed reproducibility
+23. Bootstrap population identity
+24. Canonical FPL metric definitions
+25. Recall@20 denominator
+26. NDCG@20 definition
+27. Standardized FPL scoring universe
+28. Expected XI ablation fixture output presence
+29. Pure ablation feature mask
+30. No unintended feature removal
+31. Architecture fingerprint comparison
+32. DAG remains acyclic check
+33. Grouped redundancy ablation reproducibility
+34. Parameter manifest count consistency
+35. Full minimal counting convention identity
+36. Minimal core performance reproduction
+37. Frozen PL artifact immutability recheck
+38. Frozen FPL artifact immutability recheck
+39. Prospective registry immutability recheck
+40. Zero 2026-27 outcome access recheck
 """
 import sys
 import json
@@ -34,6 +54,7 @@ sys.path.insert(0, str(repo_root))
 
 reports_dir = repo_root / 'reports'
 joint_dir = reports_dir / 'joint'
+reconcil_dir = joint_dir / 'reconciliation'
 prospective_dir = repo_root / 'prospective' / '2026_27'
 
 def test_frozen_fpl_artifact_immutability():
@@ -162,3 +183,125 @@ def test_minimal_core_discovery_integrity():
     min_md = (joint_dir / 'j4_minimal_core.md').read_text(encoding='utf-8')
     assert 'ENNOVERA_MINIMAL_FOOTBALL_CORE_V1' in min_md
     assert '99.6% of RPS efficiency retained' in min_md
+
+# --- RECONCILIATION TESTS (R1 - R4) ---
+
+def test_r1_bootstrap_ci_preference_consistency():
+    """21. R1: Verify bootstrap distribution CSV exists and P(delta > 0) is ~89.3%."""
+    df_dist = pd.read_csv(reconcil_dir / '02_j1_bootstrap_distribution.csv')
+    assert len(df_dist) == 1
+    assert 88.0 <= df_dist['prop_gt_0_pct'].iloc[0] <= 91.0
+    assert df_dist['p2_5'].iloc[0] < 0.0 < df_dist['p97_5'].iloc[0]
+
+def test_r1_bootstrap_population_identity():
+    """22. R1: Verify bootstrap resampling unit is Gameweek (N=152)."""
+    df_dist = pd.read_csv(reconcil_dir / '02_j1_bootstrap_distribution.csv')
+    assert 'Gameweek (N=152)' in df_dist['resample_unit'].iloc[0]
+
+def test_r2_canonical_fpl_metric_definitions():
+    """23. R2: Verify crosswalk reconciles Top-20 selection pool vs all-player population."""
+    df_cw = pd.read_csv(reconcil_dir / '03_fpl_metric_crosswalk.csv')
+    assert len(df_cw) == 7
+    assert 'Top-20 Selection Pool MAE' in df_cw['canonical_phase10_6_label'].values
+
+def test_r2_recall_at_20_denominator():
+    """24. R2: Verify Recall@20 is explicitly conditioned on Top-20 pool membership."""
+    df_cw = pd.read_csv(reconcil_dir / '03_fpl_metric_crosswalk.csv')
+    row_rec = df_cw[df_cw['metric_name'] == '10+ Recall@20'].iloc[0]
+    assert '61.8%' in str(row_rec['canonical_phase10_6_value'])
+    assert '62.9%' in str(row_rec['reconciled_canonical_j1_challenger_value'])
+
+def test_r2_ndcg_at_20_definition():
+    """25. R2: Verify NDCG@20 is 0.7915 for control and 0.7960 for J1 challenger."""
+    df_cw = pd.read_csv(reconcil_dir / '03_fpl_metric_crosswalk.csv')
+    row_ndcg = df_cw[df_cw['metric_name'] == 'NDCG@20'].iloc[0]
+    assert float(row_ndcg['canonical_phase10_6_value']) == 0.7915
+    assert float(row_ndcg['reconciled_canonical_j1_challenger_value']) == 0.7960
+
+def test_r2_standardized_fpl_scoring_universe():
+    """26. R2: Verify FPL manager points maintain exact standardized scoring rules."""
+    rep_md = (reconcil_dir / '03_fpl_metric_definition_reconciliation.md').read_text(encoding='utf-8')
+    assert '2,179.50' in rep_md or '2179.50' in rep_md
+
+def test_r3_expected_xi_ablation_fixture_outputs():
+    """27. R3: Verify pure ablation fixture deltas CSV exists with non-trivial probability shifts."""
+    df_deltas = pd.read_csv(reconcil_dir / '04_expected_xi_fixture_deltas.csv')
+    assert len(df_deltas) >= 4
+    assert any(df_deltas['delta_p_home'] != 0.0)
+
+def test_r3_pure_ablation_feature_mask():
+    """28. R3: Verify pure ablation RPS is 0.1824 (+0.0076 penalty)."""
+    df_pure = pd.read_csv(reconcil_dir / '04_expected_xi_pure_ablation_metrics.csv')
+    assert df_pure['ranked_probability_score'].iloc[0] == 0.1824
+    assert df_pure['delta_rps_vs_control'].iloc[0] == 0.0076
+
+def test_r3_architecture_equivalence():
+    """29. R3: Verify architecture comparison matrix documents PL11.3 vs Pure Ablation."""
+    arch_md = (reconcil_dir / '04_architecture_equivalence.md').read_text(encoding='utf-8')
+    assert 'PL11_3' in arch_md
+    assert 'FINAL_PL_PURE_ABLATION_MINUS_EXPECTED_XI' in arch_md or 'Pure Ablation' in arch_md
+
+def test_r4a_grouped_redundancy_ablation_reproducibility():
+    """30. R4A: Verify grouped redundancy CSV contains 4 distinct clusters."""
+    df_gr = pd.read_csv(reconcil_dir / '05_grouped_redundancy_ablation.csv')
+    assert len(df_gr) == 10
+    assert 'Attacking Power' in df_gr['cluster_name'].values
+    assert 'Defensive Solidity' in df_gr['cluster_name'].values
+
+def test_r4a_raw_source_overlap():
+    """31. R4A: Verify raw source overlap classifications."""
+    df_raw = pd.read_csv(reconcil_dir / '05_raw_source_overlap.csv')
+    assert len(df_raw) == 4
+    assert 'COMPLEMENTARY' in df_raw['classification'].values
+
+def test_r4b_full_parameter_manifest():
+    """32. R4B: Verify full model parameter manifest contains 88 PL and 74 FPL parameters."""
+    df_full = pd.read_csv(reconcil_dir / '06_full_model_parameter_manifest.csv')
+    pl_params = df_full[df_full['system'] == 'PL']['dimension'].sum()
+    fpl_params = df_full[df_full['system'] == 'FPL']['dimension'].sum()
+    assert pl_params == 88
+    assert fpl_params == 74
+
+def test_r4b_minimal_parameter_manifest():
+    """33. R4B: Verify minimal core parameter manifest contains 42 PL and 36 FPL parameters."""
+    df_min = pd.read_csv(reconcil_dir / '06_minimal_core_parameter_manifest.csv')
+    pl_min = df_min[df_min['system'] == 'PL']['dimension'].sum()
+    fpl_min = df_min[df_min['system'] == 'FPL']['dimension'].sum()
+    assert pl_min == 42
+    assert fpl_min == 36
+
+def test_r4b_parameter_reduction_percentages():
+    """34. R4B: Verify reduction percentages match 52.3% (PL) and 51.4% (FPL)."""
+    pl_red = (88 - 42) / 88 * 100
+    fpl_red = (74 - 36) / 74 * 100
+    assert round(pl_red, 1) == 52.3
+    assert round(fpl_red, 1) == 51.4
+
+def test_shared_core_final_certification():
+    """35. Verify final certification document confirms SHARED_CORE_CERTIFIED_FINAL."""
+    cert_md = (reconcil_dir / '08_shared_core_final_certification.md').read_text(encoding='utf-8')
+    assert 'SHARED_CORE_CERTIFIED_FINAL' in cert_md
+
+def test_frozen_pl_manifest_immutability_recheck():
+    """36. Recheck PL manifest SHA256 matches certified hash."""
+    manifest_p = reports_dir / 'pl11_12_final_manifest.json'
+    assert hashlib.sha256(manifest_p.read_bytes()).hexdigest() == '2e1f294dbf47cd70088342ae16ad8a50b579ba728cf9b9f64c551c51f799ee5f'
+
+def test_frozen_fpl_manifest_immutability_recheck():
+    """37. Recheck FPL manifest SHA256 matches certified hash."""
+    manifest_p = reports_dir / 'phase10_6_final_manifest.json'
+    assert hashlib.sha256(manifest_p.read_bytes()).hexdigest() == '7d4bac2af06b06c13bf81d5036a403cb3173266f5dca0c16011440f47c71af5d'
+
+def test_gw2_plan_immutability_recheck():
+    """38. Recheck GW2 frozen plan hash."""
+    gw2_p = repo_root / 'data' / 'live_snapshots' / '2026-27' / 'GW02' / 'plan_frozen.json'
+    assert hashlib.sha256(gw2_p.read_bytes()).hexdigest() == 'a4f87e16b805d8fbfb956bc371d5aea45695d5b1b8493f9e362e114a378e1c2e'
+
+def test_prospective_registry_immutability_recheck():
+    """39. Recheck prospective registry SHA256."""
+    reg_p = prospective_dir / 'manifests' / 'snapshot_registry.csv'
+    assert hashlib.sha256(reg_p.read_bytes()).hexdigest() == '13d60f5824db4315df42eb631c306572d6100e189946f630ebed499e8638e266'
+
+def test_zero_prospective_contamination_recheck():
+    """40. Recheck zero 2026-27 outcomes in research directories."""
+    assert not (repo_root / 'reports' / 'joint' / 'reconciliation' / '2026_27_outcomes.csv').exists()

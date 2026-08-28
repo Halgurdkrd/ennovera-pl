@@ -3459,3 +3459,219 @@ Immutable pre-deadline record of Ennovera AI weekly fantasy manager decisions.
 - **Expected Total Points:** `116.1 pts`
 - **Recommended Transfers:** `1 transfer(s)`
 ---
+
+### Gameweek 2 Freeze Record
+- **Freeze Timestamp:** `2026-08-28T07:44:59.478117+00:00`
+- **Official Deadline:** `2026-08-28T17:30:00Z`
+- **Formation:** `5-4-1`
+- **Starting XI:** Konstantinos Tzolakis, Maxim De Cuyper, Nobel Mendy, Michael Kayode, Benjamin White, Marc Guéhi, Mamadou Sangaré, Cole Palmer, Anton Stach, Cody Gakpo, João Pedro Junqueira de Jesus
+- **Bench:** James Trafford (1), Emersonn Correia da Silva (2), Jack Hinshelwood (3), Thierno Barry (4)
+- **Captain:** **Maxim De Cuyper** | **Vice-Captain:** Nobel Mendy
+- **Chip Guidance:** `USE (Triple Captain)`
+- **Expected Total Points:** `116.1 pts`
+- **Recommended Transfers:** `1 transfer(s)`
+---
+
+### Gameweek 2 Freeze Record
+- **Freeze Timestamp:** `2026-08-28T07:45:29.994030+00:00`
+- **Official Deadline:** `2026-08-28T17:30:00Z`
+- **Formation:** `5-4-1`
+- **Starting XI:** Konstantinos Tzolakis, Maxim De Cuyper, Nobel Mendy, Michael Kayode, Benjamin White, Marc Guéhi, Mamadou Sangaré, Cole Palmer, Anton Stach, Cody Gakpo, João Pedro Junqueira de Jesus
+- **Bench:** James Trafford (1), Emersonn Correia da Silva (2), Jack Hinshelwood (3), Thierno Barry (4)
+- **Captain:** **Maxim De Cuyper** | **Vice-Captain:** Nobel Mendy
+- **Chip Guidance:** `USE (Triple Captain)`
+- **Expected Total Points:** `116.1 pts`
+- **Recommended Transfers:** `1 transfer(s)`
+---
+
+### Gameweek 2 Freeze Record
+- **Freeze Timestamp:** `2026-08-28T07:45:30.098975+00:00`
+- **Official Deadline:** `2026-08-28T17:30:00Z`
+- **Formation:** `5-4-1`
+- **Starting XI:** Konstantinos Tzolakis, Maxim De Cuyper, Nobel Mendy, Michael Kayode, Benjamin White, Marc Guéhi, Mamadou Sangaré, Cole Palmer, Anton Stach, Cody Gakpo, João Pedro Junqueira de Jesus
+- **Bench:** James Trafford (1), Emersonn Correia da Silva (2), Jack Hinshelwood (3), Thierno Barry (4)
+- **Captain:** **Maxim De Cuyper** | **Vice-Captain:** Nobel Mendy
+- **Chip Guidance:** `USE (Triple Captain)`
+- **Expected Total Points:** `116.1 pts`
+- **Recommended Transfers:** `1 transfer(s)`
+---
+
+### Gameweek 2 Freeze Record
+- **Freeze Timestamp:** `2026-08-28T07:45:30.158937+00:00`
+- **Official Deadline:** `2026-08-28T17:30:00Z`
+- **Formation:** `5-4-1`
+- **Starting XI:** Konstantinos Tzolakis, Maxim De Cuyper, Nobel Mendy, Michael Kayode, Benjamin White, Marc Guéhi, Mamadou Sangaré, Cole Palmer, Anton Stach, Cody Gakpo, João Pedro Junqueira de Jesus
+- **Bench:** James Trafford (1), Emersonn Correia da Silva (2), Jack Hinshelwood (3), Thierno Barry (4)
+- **Captain:** **Maxim De Cuyper** | **Vice-Captain:** Nobel Mendy
+- **Chip Guidance:** `USE (Triple Captain)`
+- **Expected Total Points:** `116.1 pts`
+- **Recommended Transfers:** `1 transfer(s)`
+---
+
+### Gameweek 2 Freeze Record
+- **Freeze Timestamp:** `2026-08-28T07:45:30.212856+00:00`
+- **Official Deadline:** `2026-08-28T17:30:00Z`
+- **Formation:** `5-4-1`
+- **Starting XI:** Konstantinos Tzolakis, Maxim De Cuyper, Nobel Mendy, Michael Kayode, Benjamin White, Marc Guéhi, Mamadou Sangaré, Cole Palmer, Anton Stach, Cody Gakpo, João Pedro Junqueira de Jesus
+- **Bench:** James Trafford (1), Emersonn Correia da Silva (2), Jack Hinshelwood (3), Thierno Barry (4)
+- **Captain:** **Maxim De Cuyper** | **Vice-Captain:** Nobel Mendy
+- **Chip Guidance:** `USE (Triple Captain)`
+- **Expected Total Points:** `116.1 pts`
+- **Recommended Transfers:** `1 transfer(s)`
+---
+
+### Gameweek 2 Freeze Record
+- **Freeze Timestamp:** `2026-08-28T07:45:30.268171+00:00`
+- **Official Deadline:** `2026-08-28T17:30:00Z`
+- **Formation:** `5-4-1`
+- **Starting XI:** Konstantinos Tzolakis, Maxim De Cuyper, Nobel Mendy, Michael Kayode, Benjamin White, Marc Guéhi, Mamadou Sangaré, Cole Palmer, Anton Stach, Cody Gakpo, João Pedro Junqueira de Jesus
+- **Bench:** James Trafford (1), Emersonn Correia da Silva (2), Jack Hinshelwood (3), Thierno Barry (4)
+- **Captain:** **Maxim De Cuyper** | **Vice-Captain:** Nobel Mendy
+- **Chip Guidance:** `USE (Triple Captain)`
+- **Expected Total Points:** `116.1 pts`
+- **Recommended Transfers:** `1 transfer(s)`
+---
+
+### Gameweek 2 Freeze Record
+- **Freeze Timestamp:** `2026-08-28T07:46:56.620216+00:00`
+- **Official Deadline:** `2026-08-28T17:30:00Z`
+- **Formation:** `5-4-1`
+- **Starting XI:** Konstantinos Tzolakis, Maxim De Cuyper, Nobel Mendy, Michael Kayode, Benjamin White, Marc Guéhi, Mamadou Sangaré, Cole Palmer, Anton Stach, Cody Gakpo, João Pedro Junqueira de Jesus
+- **Bench:** James Trafford (1), Emersonn Correia da Silva (2), Jack Hinshelwood (3), Thierno Barry (4)
+- **Captain:** **Maxim De Cuyper** | **Vice-Captain:** Nobel Mendy
+- **Chip Guidance:** `USE (Triple Captain)`
+- **Expected Total Points:** `116.1 pts`
+- **Recommended Transfers:** `1 transfer(s)`
+---
+
+### Gameweek 2 Freeze Record
+- **Freeze Timestamp:** `2026-08-28T07:47:16.200782+00:00`
+- **Official Deadline:** `2026-08-28T17:30:00Z`
+- **Formation:** `5-4-1`
+- **Starting XI:** Konstantinos Tzolakis, Maxim De Cuyper, Nobel Mendy, Michael Kayode, Benjamin White, Marc Guéhi, Mamadou Sangaré, Cole Palmer, Anton Stach, Cody Gakpo, João Pedro Junqueira de Jesus
+- **Bench:** James Trafford (1), Emersonn Correia da Silva (2), Jack Hinshelwood (3), Thierno Barry (4)
+- **Captain:** **Maxim De Cuyper** | **Vice-Captain:** Nobel Mendy
+- **Chip Guidance:** `USE (Triple Captain)`
+- **Expected Total Points:** `116.1 pts`
+- **Recommended Transfers:** `1 transfer(s)`
+---
+
+### Gameweek 2 Freeze Record
+- **Freeze Timestamp:** `2026-08-28T07:47:16.257644+00:00`
+- **Official Deadline:** `2026-08-28T17:30:00Z`
+- **Formation:** `5-4-1`
+- **Starting XI:** Konstantinos Tzolakis, Maxim De Cuyper, Nobel Mendy, Michael Kayode, Benjamin White, Marc Guéhi, Mamadou Sangaré, Cole Palmer, Anton Stach, Cody Gakpo, João Pedro Junqueira de Jesus
+- **Bench:** James Trafford (1), Emersonn Correia da Silva (2), Jack Hinshelwood (3), Thierno Barry (4)
+- **Captain:** **Maxim De Cuyper** | **Vice-Captain:** Nobel Mendy
+- **Chip Guidance:** `USE (Triple Captain)`
+- **Expected Total Points:** `116.1 pts`
+- **Recommended Transfers:** `1 transfer(s)`
+---
+
+### Gameweek 2 Freeze Record
+- **Freeze Timestamp:** `2026-08-28T07:47:16.314857+00:00`
+- **Official Deadline:** `2026-08-28T17:30:00Z`
+- **Formation:** `5-4-1`
+- **Starting XI:** Konstantinos Tzolakis, Maxim De Cuyper, Nobel Mendy, Michael Kayode, Benjamin White, Marc Guéhi, Mamadou Sangaré, Cole Palmer, Anton Stach, Cody Gakpo, João Pedro Junqueira de Jesus
+- **Bench:** James Trafford (1), Emersonn Correia da Silva (2), Jack Hinshelwood (3), Thierno Barry (4)
+- **Captain:** **Maxim De Cuyper** | **Vice-Captain:** Nobel Mendy
+- **Chip Guidance:** `USE (Triple Captain)`
+- **Expected Total Points:** `116.1 pts`
+- **Recommended Transfers:** `1 transfer(s)`
+---
+
+### Gameweek 2 Freeze Record
+- **Freeze Timestamp:** `2026-08-28T07:47:16.369538+00:00`
+- **Official Deadline:** `2026-08-28T17:30:00Z`
+- **Formation:** `5-4-1`
+- **Starting XI:** Konstantinos Tzolakis, Maxim De Cuyper, Nobel Mendy, Michael Kayode, Benjamin White, Marc Guéhi, Mamadou Sangaré, Cole Palmer, Anton Stach, Cody Gakpo, João Pedro Junqueira de Jesus
+- **Bench:** James Trafford (1), Emersonn Correia da Silva (2), Jack Hinshelwood (3), Thierno Barry (4)
+- **Captain:** **Maxim De Cuyper** | **Vice-Captain:** Nobel Mendy
+- **Chip Guidance:** `USE (Triple Captain)`
+- **Expected Total Points:** `116.1 pts`
+- **Recommended Transfers:** `1 transfer(s)`
+---
+
+### Gameweek 2 Freeze Record
+- **Freeze Timestamp:** `2026-08-28T07:47:16.426159+00:00`
+- **Official Deadline:** `2026-08-28T17:30:00Z`
+- **Formation:** `5-4-1`
+- **Starting XI:** Konstantinos Tzolakis, Maxim De Cuyper, Nobel Mendy, Michael Kayode, Benjamin White, Marc Guéhi, Mamadou Sangaré, Cole Palmer, Anton Stach, Cody Gakpo, João Pedro Junqueira de Jesus
+- **Bench:** James Trafford (1), Emersonn Correia da Silva (2), Jack Hinshelwood (3), Thierno Barry (4)
+- **Captain:** **Maxim De Cuyper** | **Vice-Captain:** Nobel Mendy
+- **Chip Guidance:** `USE (Triple Captain)`
+- **Expected Total Points:** `116.1 pts`
+- **Recommended Transfers:** `1 transfer(s)`
+---
+
+### Gameweek 2 Freeze Record
+- **Freeze Timestamp:** `2026-08-28T07:47:49.664641+00:00`
+- **Official Deadline:** `2026-08-28T17:30:00Z`
+- **Formation:** `5-4-1`
+- **Starting XI:** Konstantinos Tzolakis, Maxim De Cuyper, Nobel Mendy, Michael Kayode, Benjamin White, Marc Guéhi, Mamadou Sangaré, Cole Palmer, Anton Stach, Cody Gakpo, João Pedro Junqueira de Jesus
+- **Bench:** James Trafford (1), Emersonn Correia da Silva (2), Jack Hinshelwood (3), Thierno Barry (4)
+- **Captain:** **Maxim De Cuyper** | **Vice-Captain:** Nobel Mendy
+- **Chip Guidance:** `USE (Triple Captain)`
+- **Expected Total Points:** `116.1 pts`
+- **Recommended Transfers:** `1 transfer(s)`
+---
+
+### Gameweek 2 Freeze Record
+- **Freeze Timestamp:** `2026-08-28T07:48:19.198108+00:00`
+- **Official Deadline:** `2026-08-28T17:30:00Z`
+- **Formation:** `5-4-1`
+- **Starting XI:** Konstantinos Tzolakis, Maxim De Cuyper, Nobel Mendy, Michael Kayode, Benjamin White, Marc Guéhi, Mamadou Sangaré, Cole Palmer, Anton Stach, Cody Gakpo, João Pedro Junqueira de Jesus
+- **Bench:** James Trafford (1), Emersonn Correia da Silva (2), Jack Hinshelwood (3), Thierno Barry (4)
+- **Captain:** **Maxim De Cuyper** | **Vice-Captain:** Nobel Mendy
+- **Chip Guidance:** `USE (Triple Captain)`
+- **Expected Total Points:** `116.1 pts`
+- **Recommended Transfers:** `1 transfer(s)`
+---
+
+### Gameweek 2 Freeze Record
+- **Freeze Timestamp:** `2026-08-28T07:48:19.259825+00:00`
+- **Official Deadline:** `2026-08-28T17:30:00Z`
+- **Formation:** `5-4-1`
+- **Starting XI:** Konstantinos Tzolakis, Maxim De Cuyper, Nobel Mendy, Michael Kayode, Benjamin White, Marc Guéhi, Mamadou Sangaré, Cole Palmer, Anton Stach, Cody Gakpo, João Pedro Junqueira de Jesus
+- **Bench:** James Trafford (1), Emersonn Correia da Silva (2), Jack Hinshelwood (3), Thierno Barry (4)
+- **Captain:** **Maxim De Cuyper** | **Vice-Captain:** Nobel Mendy
+- **Chip Guidance:** `USE (Triple Captain)`
+- **Expected Total Points:** `116.1 pts`
+- **Recommended Transfers:** `1 transfer(s)`
+---
+
+### Gameweek 2 Freeze Record
+- **Freeze Timestamp:** `2026-08-28T07:48:19.318377+00:00`
+- **Official Deadline:** `2026-08-28T17:30:00Z`
+- **Formation:** `5-4-1`
+- **Starting XI:** Konstantinos Tzolakis, Maxim De Cuyper, Nobel Mendy, Michael Kayode, Benjamin White, Marc Guéhi, Mamadou Sangaré, Cole Palmer, Anton Stach, Cody Gakpo, João Pedro Junqueira de Jesus
+- **Bench:** James Trafford (1), Emersonn Correia da Silva (2), Jack Hinshelwood (3), Thierno Barry (4)
+- **Captain:** **Maxim De Cuyper** | **Vice-Captain:** Nobel Mendy
+- **Chip Guidance:** `USE (Triple Captain)`
+- **Expected Total Points:** `116.1 pts`
+- **Recommended Transfers:** `1 transfer(s)`
+---
+
+### Gameweek 2 Freeze Record
+- **Freeze Timestamp:** `2026-08-28T07:48:19.377136+00:00`
+- **Official Deadline:** `2026-08-28T17:30:00Z`
+- **Formation:** `5-4-1`
+- **Starting XI:** Konstantinos Tzolakis, Maxim De Cuyper, Nobel Mendy, Michael Kayode, Benjamin White, Marc Guéhi, Mamadou Sangaré, Cole Palmer, Anton Stach, Cody Gakpo, João Pedro Junqueira de Jesus
+- **Bench:** James Trafford (1), Emersonn Correia da Silva (2), Jack Hinshelwood (3), Thierno Barry (4)
+- **Captain:** **Maxim De Cuyper** | **Vice-Captain:** Nobel Mendy
+- **Chip Guidance:** `USE (Triple Captain)`
+- **Expected Total Points:** `116.1 pts`
+- **Recommended Transfers:** `1 transfer(s)`
+---
+
+### Gameweek 2 Freeze Record
+- **Freeze Timestamp:** `2026-08-28T07:48:19.433898+00:00`
+- **Official Deadline:** `2026-08-28T17:30:00Z`
+- **Formation:** `5-4-1`
+- **Starting XI:** Konstantinos Tzolakis, Maxim De Cuyper, Nobel Mendy, Michael Kayode, Benjamin White, Marc Guéhi, Mamadou Sangaré, Cole Palmer, Anton Stach, Cody Gakpo, João Pedro Junqueira de Jesus
+- **Bench:** James Trafford (1), Emersonn Correia da Silva (2), Jack Hinshelwood (3), Thierno Barry (4)
+- **Captain:** **Maxim De Cuyper** | **Vice-Captain:** Nobel Mendy
+- **Chip Guidance:** `USE (Triple Captain)`
+- **Expected Total Points:** `116.1 pts`
+- **Recommended Transfers:** `1 transfer(s)`
+---

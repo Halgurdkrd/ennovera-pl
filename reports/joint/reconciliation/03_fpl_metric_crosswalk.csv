@@ -1,0 +1,8 @@
+metric_name,canonical_phase10_6_label,canonical_phase10_6_value,canonical_population,j1_previous_label,j1_previous_value,j1_previous_population,reconciled_canonical_j1_challenger_value,reconciled_delta,apples_to_apples
+MAE,Top-20 Selection Pool MAE,1.745,"Top-20 projected players per GW (N=3,040)",All-Starting Population MAE,1.412,"All starting 220 players per GW (N=33,440)",1.732,-0.013,True
+Spearman,Top-20 Selection Pool Spearman,0.7845,"Top-20 projected players per GW (N=3,040)",All-Starting Population Spearman,0.684,"All starting 220 players per GW (N=33,440)",0.7892,0.0047,True
+NDCG@20,Top-20 Ranking NDCG@20,0.7915,"Top-20 projected players per GW (N=3,040)",Full-Pool NDCG@20,0.812,"All starting 220 players per GW (N=33,440)",0.796,0.0045,True
+10+ Recall@20,Top-20 Haul (10+) Recall@20,61.8%,Hauls captured inside top-20 selection pool,Overall 10+ Event Recall,38.4%,Hauls captured across all starting players,62.9%,+1.1%,True
+15+ Recall@20,Top-20 Mega-Haul (15+) Recall@20,54.2%,Mega-hauls captured inside top-20 pool,Overall 15+ Event Recall,21.8%,Mega-hauls captured across all starting players,55.4%,+1.2%,True
+20+ Recall@20,Top-20 Historic (20+) Recall@20,48.5%,Historic hauls captured inside top-20 pool,Overall 20+ Event Recall,9.2%,Historic hauls captured across all starting players,49.6%,+1.1%,True
+Top Scorer Recall@20,GW Top Scorer Recall@20,82.5%,Gameweek highest scorer in top-20 pool,Not Reported,N/A,N/A,83.2%,+0.7%,True

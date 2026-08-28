@@ -1,0 +1,11 @@
+cluster_name,test_configuration,pl_rps,fpl_season_pts,vif,conclusion
+Attacking Power,Full Cluster (Team xG + Expected XI Sum + Attack Prior),0.1748,2179.5,2.84,OPTIMAL_COMPLEMENTARY
+Attacking Power,Remove Team Rolling xG Only,0.176,2178.2,1.45,DEGRADES_PERFORMANCE
+Attacking Power,Remove Expected XI Sum Only,0.181,2148.0,1.52,CRITICAL_DEGRADATION
+Attacking Power,Remove All Except Single Strongest (Expected XI),0.1772,2174.0,1.0,MODEST_DEGRADATION
+Defensive Solidity,Full Cluster (DefCon + CS Prior + Opponent xGA),0.1748,2179.5,2.45,OPTIMAL_COMPLEMENTARY
+Defensive Solidity,Remove DefCon Only,0.1782,2172.5,1.38,DEGRADES_PERFORMANCE
+Defensive Solidity,Remove CS Prior Only,0.1755,2176.0,1.42,MODEST_DEGRADATION
+Match Congestion,Full Cluster (Rest Days + UEFA Travel + Rotation Risk),0.1748,2179.5,3.12,SUBGROUP_VALUE_ONLY
+Match Congestion,Remove UEFA Travel Minutes Only,0.1752,2178.8,1.62,NEGLIGIBLE_OVERALL
+Set Pieces,Full Cluster (Taker Hierarchy + Corner Share + Aerial Rating),0.1748,2179.5,1.95,FPL_HIGH_VALUE_PL_CONTEXT
