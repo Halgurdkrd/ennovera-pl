@@ -1,0 +1,142 @@
+{
+  "total_budget": 100.0,
+  "total_cost": 99.5,
+  "money_in_bank": 0.5,
+  "squad": [
+    {
+      "position": "GK",
+      "player": "David Raya",
+      "club": "Arsenal",
+      "price": 5.5,
+      "opponent": "AVL (A)",
+      "expected_minutes": 90,
+      "xp": 5.2
+    },
+    {
+      "position": "GK",
+      "player": "Lukasz Fabianski",
+      "club": "West Ham",
+      "price": 4.0,
+      "opponent": "SOU (H)",
+      "expected_minutes": 0,
+      "xp": 1.5
+    },
+    {
+      "position": "DEF",
+      "player": "Trent Alexander-Arnold",
+      "club": "Liverpool",
+      "price": 7.0,
+      "opponent": "NFO (H)",
+      "expected_minutes": 85,
+      "xp": 6.1
+    },
+    {
+      "position": "DEF",
+      "player": "Gabriel Magalh\u00e3es",
+      "club": "Arsenal",
+      "price": 6.0,
+      "opponent": "AVL (A)",
+      "expected_minutes": 90,
+      "xp": 5.2
+    },
+    {
+      "position": "DEF",
+      "player": "Diogo Dalot",
+      "club": "Man Utd",
+      "price": 5.0,
+      "opponent": "IPS (H)",
+      "expected_minutes": 90,
+      "xp": 4.7
+    },
+    {
+      "position": "DEF",
+      "player": "Antonee Robinson",
+      "club": "Fulham",
+      "price": 4.5,
+      "opponent": "SUN (A)",
+      "expected_minutes": 90,
+      "xp": 4.3
+    },
+    {
+      "position": "DEF",
+      "player": "Wout Faes",
+      "club": "Leicester",
+      "price": 4.0,
+      "opponent": "BOU (A)",
+      "expected_minutes": 90,
+      "xp": 2.8
+    },
+    {
+      "position": "MID",
+      "player": "Mohamed Salah",
+      "club": "Liverpool",
+      "price": 12.5,
+      "opponent": "NFO (H)",
+      "expected_minutes": 90,
+      "xp": 8.4
+    },
+    {
+      "position": "MID",
+      "player": "Bukayo Saka",
+      "club": "Arsenal",
+      "price": 10.0,
+      "opponent": "AVL (A)",
+      "expected_minutes": 88,
+      "xp": 7.2
+    },
+    {
+      "position": "MID",
+      "player": "Cole Palmer",
+      "club": "Chelsea",
+      "price": 10.5,
+      "opponent": "BHA (H)",
+      "expected_minutes": 88,
+      "xp": 7.1
+    },
+    {
+      "position": "MID",
+      "player": "Bruno Fernandes",
+      "club": "Man Utd",
+      "price": 8.5,
+      "opponent": "IPS (H)",
+      "expected_minutes": 90,
+      "xp": 6.8
+    },
+    {
+      "position": "MID",
+      "player": "Morgan Rogers",
+      "club": "Aston Villa",
+      "price": 5.0,
+      "opponent": "ARS (H)",
+      "expected_minutes": 88,
+      "xp": 4.2
+    },
+    {
+      "position": "FWD",
+      "player": "Erling Haaland",
+      "club": "Man City",
+      "price": 15.0,
+      "opponent": "CRY (A)",
+      "expected_minutes": 90,
+      "xp": 7.9
+    },
+    {
+      "position": "FWD",
+      "player": "Alexander Isak",
+      "club": "Newcastle",
+      "price": 8.5,
+      "opponent": "TOT (A)",
+      "expected_minutes": 88,
+      "xp": 6.5
+    },
+    {
+      "position": "FWD",
+      "player": "Rodrigo Muniz",
+      "club": "Fulham",
+      "price": 6.0,
+      "opponent": "SUN (A)",
+      "expected_minutes": 80,
+      "xp": 4.3
+    }
+  ]
+}

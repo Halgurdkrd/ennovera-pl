@@ -1,0 +1,31 @@
+rank,player,club,pos,price,opponent,is_home,exp_min,goal_prob,assist_prob,cs_prob,xp,uncertainty
+1,Mohamed Salah,Liverpool,MID,12.5,NFO,True,90,0.52,0.38,0.51,8.4,1.2
+2,Erling Haaland,Man City,FWD,15.0,CRY,False,90,0.62,0.22,0.0,7.9,1.4
+3,Bukayo Saka,Arsenal,MID,10.0,AVL,False,88,0.44,0.4,0.39,7.2,1.1
+4,Cole Palmer,Chelsea,MID,10.5,BHA,True,88,0.46,0.36,0.3,7.1,1.2
+5,Bruno Fernandes,Man Utd,MID,8.5,IPS,True,90,0.38,0.42,0.46,6.8,1.1
+6,Alexander Isak,Newcastle,FWD,8.5,TOT,False,88,0.48,0.18,0.0,6.5,1.3
+7,Cody Gakpo,Liverpool,MID,7.5,NFO,True,80,0.4,0.3,0.51,6.3,1.2
+8,Dominic Solanke,Spurs,FWD,7.5,NEW,True,88,0.44,0.2,0.0,6.2,1.2
+9,Trent Alexander-Arnold,Liverpool,DEF,7.0,NFO,True,85,0.12,0.36,0.51,6.1,1.0
+10,Son Heung-min,Spurs,MID,10.0,NEW,True,88,0.42,0.32,0.26,6.0,1.2
+11,Alisson Becker,Liverpool,GKP,5.5,NFO,True,90,0.0,0.0,0.51,5.4,0.7
+12,Virgil van Dijk,Liverpool,DEF,6.0,NFO,True,90,0.1,0.06,0.51,5.3,0.8
+13,David Raya,Arsenal,GKP,5.5,AVL,False,90,0.0,0.0,0.39,5.2,0.8
+14,Gabriel Magalhães,Arsenal,DEF,6.0,AVL,False,90,0.12,0.04,0.39,5.2,0.9
+15,William Saliba,Arsenal,DEF,6.0,AVL,False,90,0.06,0.02,0.39,4.9,0.8
+16,Kai Havertz,Arsenal,FWD,8.0,AVL,False,88,0.38,0.2,0.0,4.9,1.1
+17,Kaoru Mitoma,Brighton,MID,6.5,CHE,False,85,0.28,0.28,0.18,4.8,1.1
+18,Bryan Mbeumo,Brentford,MID,7.0,LEE,False,90,0.34,0.24,0.22,4.8,1.1
+19,André Onana,Man Utd,GKP,5.0,IPS,True,90,0.0,0.0,0.46,4.8,0.8
+20,Yoane Wissa,Brentford,FWD,6.0,LEE,False,85,0.36,0.18,0.0,4.7,1.2
+21,Diogo Dalot,Man Utd,DEF,5.0,IPS,True,90,0.06,0.18,0.46,4.7,0.8
+22,Josko Gvardiol,Man City,DEF,6.0,CRY,False,88,0.1,0.08,0.38,4.6,0.9
+23,Anthony Gordon,Newcastle,MID,7.5,TOT,False,88,0.32,0.26,0.18,4.6,1.1
+24,Danny Welbeck,Brighton,FWD,5.5,CHE,False,75,0.32,0.16,0.0,4.4,1.1
+25,Antonee Robinson,Fulham,DEF,4.5,SUN,False,90,0.04,0.2,0.33,4.3,0.8
+26,Rodrigo Muniz,Fulham,FWD,6.0,SUN,False,80,0.36,0.12,0.0,4.3,1.1
+27,Morgan Rogers,Aston Villa,MID,5.0,ARS,True,88,0.22,0.22,0.18,4.2,1.0
+28,Eberechi Eze,Crystal Palace,MID,7.0,MCI,True,90,0.26,0.26,0.14,4.2,1.1
+29,Jean-Philippe Mateta,Crystal Palace,FWD,7.5,MCI,True,85,0.32,0.12,0.0,4.1,1.2
+30,Lewis Dunk,Brighton,DEF,4.5,CHE,False,90,0.08,0.04,0.18,3.2,0.8

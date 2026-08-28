@@ -1,0 +1,12 @@
+{
+  "gameweek": 2,
+  "season": "2026-27",
+  "created_at": "2026-08-28T15:10:00Z",
+  "prediction_cutoff": "2026-08-28T15:10:00Z",
+  "fpl_deadline": "2026-08-28T17:30:00Z",
+  "fixtures_verified": 10,
+  "clubs_verified": 20,
+  "source": "Official Premier League and FPL Registries",
+  "gw1_outcomes_ingested": true,
+  "gw2_outcomes_used": false
+}

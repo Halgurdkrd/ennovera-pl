@@ -1,0 +1,12 @@
+{
+  "snapshot_id": "GW02_PREDEADLINE_20260828_151000",
+  "timestamp": "2026-08-28T15:10:00Z",
+  "fpl_deadline": "2026-08-28T17:30:00Z",
+  "pl_model_hash": "2e1f294dbf47cd70088342ae16ad8a50b579ba728cf9b9f64c551c51f799ee5f",
+  "fpl_model_hash": "7d4bac2af06b06c13bf81d5036a403cb3173266f5dca0c16011440f47c71af5d",
+  "gw2_frozen_plan_hash": "a4f87e16b805d8fbfb956bc371d5aea45695d5b1b8493f9e362e114a378e1c2e",
+  "prospective_registry_hash": "13d60f5824db4315df42eb631c306572d6100e189946f630ebed499e8638e266",
+  "c9_architecture_hash": "c72e6ee...",
+  "state_shrinkage_weight_gw1": 0.08,
+  "state_prior_weight": 0.92
+}

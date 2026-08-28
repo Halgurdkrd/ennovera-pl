@@ -1,0 +1,3 @@
+decision_type,recommendation,free_transfers_available,transfers_out,transfers_in,expected_gain,reason,opportunity_cost_eval
+Transfer,ROLL TRANSFER,1.0,None,None,+0.85 xP (2 FTs for GW3),Existing squad well positioned; banking transfer maximizes flexibility,
+Chip,NO CHIP,,,,,Single GW expected gain does not justify burning chips with high DGW option value,Wildcard / Bench Boost / Triple Captain reserved for future Double Gameweeks

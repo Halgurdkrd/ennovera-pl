@@ -1,0 +1,17 @@
+{
+  "program": "ENNOVERA_C9_FPL_GW2_TRUE_PROSPECTIVE_V1",
+  "gameweek": 2,
+  "season": "2026-27",
+  "created_at": "2026-08-28T15:10:00Z",
+  "prediction_cutoff": "2026-08-28T15:10:00Z",
+  "fpl_deadline": "2026-08-28T17:30:00Z",
+  "mode": "TRUE_PROSPECTIVE",
+  "immutability_status": "GW2_TRUE_PROSPECTIVE_FROZEN",
+  "files": {
+    "gw2_c9_pl_predictions": "03_gw2_c9_pl_predictions.csv",
+    "gw2_c9_fpl_top30": "05_gw2_c9_fpl_top30.csv",
+    "gw2_c9_fpl_15_player_squad": "06_gw2_c9_fpl_15_player_squad.json",
+    "gw2_c9_fpl_xi": "07_gw2_c9_fpl_xi.json",
+    "gw2_c9_fpl_captain": "09_gw2_c9_fpl_captain.json"
+  }
+}

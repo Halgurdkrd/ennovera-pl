@@ -1,0 +1,83 @@
+{
+  "formation": "3-5-2",
+  "starting_xi_base_xp": 69.3,
+  "starting_xi": [
+    {
+      "position": "GKP",
+      "player": "David Raya",
+      "club": "Arsenal",
+      "opponent": "AVL (A)",
+      "xp": 5.2
+    },
+    {
+      "position": "DEF",
+      "player": "Trent Alexander-Arnold",
+      "club": "Liverpool",
+      "opponent": "NFO (H)",
+      "xp": 6.1
+    },
+    {
+      "position": "DEF",
+      "player": "Gabriel Magalh\u00e3es",
+      "club": "Arsenal",
+      "opponent": "AVL (A)",
+      "xp": 5.2
+    },
+    {
+      "position": "DEF",
+      "player": "Diogo Dalot",
+      "club": "Man Utd",
+      "opponent": "IPS (H)",
+      "xp": 4.7
+    },
+    {
+      "position": "MID",
+      "player": "Mohamed Salah",
+      "club": "Liverpool",
+      "opponent": "NFO (H)",
+      "xp": 8.4
+    },
+    {
+      "position": "MID",
+      "player": "Bukayo Saka",
+      "club": "Arsenal",
+      "opponent": "AVL (A)",
+      "xp": 7.2
+    },
+    {
+      "position": "MID",
+      "player": "Cole Palmer",
+      "club": "Chelsea",
+      "opponent": "BHA (H)",
+      "xp": 7.1
+    },
+    {
+      "position": "MID",
+      "player": "Bruno Fernandes",
+      "club": "Man Utd",
+      "opponent": "IPS (H)",
+      "xp": 6.8
+    },
+    {
+      "position": "MID",
+      "player": "Morgan Rogers",
+      "club": "Aston Villa",
+      "opponent": "ARS (H)",
+      "xp": 4.2
+    },
+    {
+      "position": "FWD",
+      "player": "Erling Haaland",
+      "club": "Man City",
+      "opponent": "CRY (A)",
+      "xp": 7.9
+    },
+    {
+      "position": "FWD",
+      "player": "Alexander Isak",
+      "club": "Newcastle",
+      "opponent": "TOT (A)",
+      "xp": 6.5
+    }
+  ]
+}

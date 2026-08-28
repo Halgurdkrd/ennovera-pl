@@ -1,0 +1,11 @@
+home,away,p_h,p_d,p_a,predicted_pick,most_likely_score,exp_hg,exp_ag,home_cs,away_cs
+Crystal Palace,Man City,0.16,0.22,0.62,A,1-2,0.92,1.98,14.2%,38.5%
+Liverpool,Nott'm Forest,0.71,0.18,0.11,H,2-0,2.25,0.68,51.2%,11.0%
+Bournemouth,Everton,0.45,0.28,0.27,H,2-1,1.42,1.12,32.0%,24.5%
+Coventry City,Hull City,0.38,0.3,0.32,H,1-1,1.15,1.05,34.5%,31.5%
+Spurs,Newcastle,0.44,0.26,0.3,H,2-1,1.65,1.38,26.0%,21.0%
+Chelsea,Brighton,0.52,0.25,0.23,H,2-1,1.85,1.25,29.5%,18.0%
+Leeds,Brentford,0.4,0.28,0.32,H,1-1,1.3,1.18,31.0%,25.0%
+Sunderland,Fulham,0.34,0.29,0.37,A,1-2,1.08,1.22,30.0%,33.0%
+Man Utd,Ipswich Town,0.65,0.21,0.14,H,2-0,2.05,0.78,46.0%,15.5%
+Aston Villa,Arsenal,0.22,0.26,0.52,A,1-2,1.05,1.88,18.5%,39.2%

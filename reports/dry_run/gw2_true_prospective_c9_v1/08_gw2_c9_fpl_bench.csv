@@ -1,0 +1,5 @@
+slot,player,club,opponent,xp,autosub_priority
+GK,Lukasz Fabianski,West Ham,SOU (H),1.5,Backup GK
+Bench 1 (DEF),Antonee Robinson,Fulham,SUN (A),4.3,Priority 1
+Bench 2 (FWD),Rodrigo Muniz,Fulham,SUN (A),4.3,Priority 2
+Bench 3 (DEF),Wout Faes,Leicester,BOU (A),2.8,Priority 3
