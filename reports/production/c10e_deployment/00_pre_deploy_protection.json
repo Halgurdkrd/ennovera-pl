@@ -1,0 +1,24 @@
+{
+  "pre_deploy_backend_commit": "24bbbe3010d0d0e8c69a192eb4ae957390ace008",
+  "pre_deploy_frontend_commit": "d537e0f8a3b99635d8a586be85abaf36dcf2b30f",
+  "rollback_commit": "24bbbe3010d0d0e8c69a192eb4ae957390ace008",
+  "production_backup_status": "GUARANTEED_GIT_SNAPSHOT",
+  "database_schema": "SUPABASE_POSTGRES_V2",
+  "api_endpoints": [
+    "/api/v1/pl/gameweek/current",
+    "/api/v1/pl/title/simulation",
+    "/api/v1/fpl/gameweek/plan",
+    "/api/v1/fpl/squad/current",
+    "/api/v1/fpl/captain/recommended",
+    "/api/v1/fpl/chips/status",
+    "/api/v1/fpl/performance"
+  ],
+  "frontend_routes": [
+    "/premier-league",
+    "/fantasy",
+    "/explore",
+    "/leaderboard",
+    "/about"
+  ],
+  "timestamp": "2026-08-28T16:29:04.625167+00:00"
+}

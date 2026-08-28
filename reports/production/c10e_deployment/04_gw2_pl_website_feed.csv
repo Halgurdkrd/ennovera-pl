@@ -1,0 +1,11 @@
+match,home_win_pct,draw_pct,away_win_pct,pick,predicted_score,exp_home_goals,exp_away_goals,btts_pct,over_2_5_pct,model
+Crystal Palace vs Man City,8.2%,16.5%,75.3%,Man City Win,0-2,0.62,2.35,41.2%,61.2%,C10-E
+Liverpool vs Nott'm Forest,79.5%,13.5%,7.0%,Liverpool Win,3-0,2.58,0.55,38.5%,66.5%,C10-E
+Bournemouth vs Everton,43.5%,29.5%,27.0%,Bournemouth Win,1-1,1.35,1.08,51.2%,47.2%,C10-E
+Coventry City vs Hull City,39.5%,31.0%,29.5%,Coventry City Win,1-1,1.22,1.05,48.5%,43.2%,C10-E
+Spurs vs Newcastle,44.2%,26.8%,29.0%,Spurs Win,2-1,1.78,1.42,66.5%,64.8%,C10-E
+Chelsea vs Brighton,51.2%,25.8%,23.0%,Chelsea Win,2-1,1.88,1.32,64.5%,63.8%,C10-E
+Leeds vs Brentford,36.5%,29.0%,34.5%,Leeds Win,1-1,1.32,1.28,56.5%,51.2%,C10-E
+Sunderland vs Fulham,33.0%,30.5%,36.5%,Fulham Win,1-1,1.15,1.22,51.5%,46.8%,C10-E
+Man Utd vs Ipswich Town,69.5%,18.5%,12.0%,Man Utd Win,2-0,2.12,0.78,44.5%,57.5%,C10-E
+Aston Villa vs Arsenal,22.5%,26.5%,51.0%,Arsenal Win,1-2,1.15,1.78,58.5%,56.5%,C10-E

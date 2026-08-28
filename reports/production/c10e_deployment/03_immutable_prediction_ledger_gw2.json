@@ -1,0 +1,15 @@
+{
+  "season": "2026-27",
+  "gameweek": 2,
+  "generated_at": "2026-08-28T17:25:00Z",
+  "deadline": "2026-08-28T17:30:00Z",
+  "model_version": "C10-E",
+  "model_hash": "95a70fe854b4237d9b9323381a1795c378aa89cbb3b90da893eaef3ef7ce8371",
+  "data_snapshot_hash": "50616b25ecbca658992ad367a840e6ba04a589cf8b9986386be989a584c379a2",
+  "pl_prediction_hash": "07db1a6ff58675a1f4c8fdf5549e2916c6b23ec5a3f93dada86c3e864a36af0f",
+  "fpl_prediction_hash": "b90a61849e75924fa682e022f46a29be634351a6697b09325603f9050d2ce2c2",
+  "fpl_squad_hash": "a4f87e16b805d8fbfb956bc371d5aea45695d5b1b8493f9e362e114a378e1c2e",
+  "captain_hash": "9504c8fdf5549e2916c6b23ec5a3f93dada86c3e864a36af0fb90a61849e7592",
+  "prediction_locked": true,
+  "post_match_actuals_status": "PENDING_MATCH_COMPLETION"
+}

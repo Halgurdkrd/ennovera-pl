@@ -1,0 +1,8 @@
+{
+  "00_pre_deploy_protection.json": "a93646d1296ce4d718a52186aaedbb836585d83680cdc8b87d1685f7727920f6",
+  "01_model_bridge_identity.json": "c9425a5a69a6eb1ef7a9136ba3f6d82093b7ad1d93f2b2be34cbb195c5a7f09c",
+  "02_adversarial_data_truth_tests.csv": "3e9b4700fc50e4918a9f9fa2b125440f54317108bb121c1da04ff4256611ff34",
+  "03_immutable_prediction_ledger_gw2.json": "ea9773c7827b268af3dfbf01f9aa078a27191968591f469343f8991c5fe1a19d",
+  "04_gw2_pl_website_feed.csv": "311d3c6fc8b46cef4abfc9f03bc8efdcc7a99a555fa485de8915b12915baba9a",
+  "05_gw1_actual_performance_record.csv": "4eb7e5c5d7ed9563f2c1595cc982e7f2fc4e0ba7696aeb07472bd9446929c691"
+}

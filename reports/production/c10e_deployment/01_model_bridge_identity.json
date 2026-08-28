@@ -1,0 +1,10 @@
+{
+  "model_name": "Ennovera C10-E Integrated Premier League Model",
+  "model_sha256": "95a70fe854b4237d9b9323381a1795c378aa89cbb3b90da893eaef3ef7ce8371",
+  "model_hash_match": true,
+  "fpl_bridge_name": "C10E_FPL_INTEGRATED_MATCH_ENVIRONMENT_V1",
+  "fpl_bridge_sha256": "b4e8921af78c01625da38290f146a89c201948ba12049c823058240be363cca2",
+  "bridge_hash_match": true,
+  "gw2_dynamic_xp_hash": "b90a61849e75924fa682e022f46a29be634351a6697b09325603f9050d2ce2c2",
+  "status": "MODEL_AND_BRIDGE_IDENTITY_AUTHENTICATED"
+}

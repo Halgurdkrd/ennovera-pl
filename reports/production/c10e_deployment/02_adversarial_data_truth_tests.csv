@@ -1,0 +1,13 @@
+test_id,name,injected_state,expected_action,actual_action,passed
+A,Prior-season club injection (West Ham / Southampton),{'club': 'West Ham United'},REJECT,REJECT,True
+B,Stale player price (£15.0m for Haaland instead of £15.5m),"{'player': 'Haaland', 'price': 15.0}",REJECT,REJECT,True
+C,Wrong player club (Isak at Newcastle in 2026-27),"{'player': 'Isak', 'club': 'Newcastle'}",REJECT,REJECT,True
+D,Future result injection (GW3 result fed into GW2),{'gw3_score': '2-1'},REJECT,REJECT,True
+E,Post-deadline lineup knowledge,"{'lineup_timestamp': '2026-08-28T18:30:00Z', 'cutoff': '2026-08-28T17:30:00Z'}",REJECT,REJECT,True
+F,Wrong manager assignment,"{'manager': 'David Moyes', 'club': 'Arsenal'}",REJECT,REJECT,True
+G,Synthetic / unauthenticated scoreline,"{'score': '7-5', 'source': 'synthetic_mock'}",REJECT,REJECT,True
+H,Duplicated player ID,"{'player_id_1': 411, 'player_id_2': 411}",REJECT,REJECT,True
+I,Player mapped to wrong fixture ID,"{'player': 'Saka', 'fixture_id': 99}",REJECT,REJECT,True
+J,GW1 xP object supplied as GW2,"{'xp_hash': '3e5e6e30018f6f57876a40a831e5f8fdf48074d28e75fa9ee0e6c5c05ab59ce2', 'target_gw': 2}",REJECT,REJECT,True
+K,Stale cached prediction object,{'cache_ttl': 'EXPIRED_STALE'},REJECT,REJECT,True
+L,Mismatched season identifier,"{'season': '2024-25', 'fixtures': '2026-27'}",REJECT,REJECT,True
