@@ -1,0 +1,11 @@
+match_num,stage,opponent,venue,score,result,xg,xga
+1,League Phase (MD1),Inter Milan,Home,0-0,D,1.65,0.7
+2,League Phase (MD2),Slovan Bratislava,Away,4-0,W,3.4,0.25
+3,League Phase (MD3),Sparta Prague,Home,5-0,W,3.1,0.35
+4,League Phase (MD4),Sporting CP,Away,1-4,L,2.1,2.3
+5,League Phase (MD5),Feyenoord,Home,3-3,D,2.45,1.85
+6,League Phase (MD6),Juventus,Away,0-2,L,1.2,1.7
+7,League Phase (MD7),Paris Saint-Germain,Away,2-1,W,1.8,1.4
+8,League Phase (MD8),Club Brugge,Home,3-1,W,2.35,0.85
+9,Round of 16 (Leg 1),Real Madrid,Away,0-3,L,1.15,2.6
+10,Round of 16 (Leg 2),Real Madrid,Home,1-2,L,1.6,2.2

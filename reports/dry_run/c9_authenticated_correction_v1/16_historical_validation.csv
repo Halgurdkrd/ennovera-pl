@@ -1,0 +1,4 @@
+model,rps,log_loss,brier,ece,accuracy_pct
+Frozen Control (SIM3),0.1748,0.868,0.502,0.009,58.4
+Old C9 (Flawed Inputs),0.1732,0.8635,0.4984,0.006,59.1
+Corrected C9 (C9-ME Authenticated),0.173,0.863,0.498,0.006,59.2

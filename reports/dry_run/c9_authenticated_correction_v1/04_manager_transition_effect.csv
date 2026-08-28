@@ -1,0 +1,11 @@
+dimension,pep_continuity_state,authenticated_maresca_state,delta
+Manager Identity,Pep Guardiola (Season 11),Enzo Maresca (Season 1),New Head Coach Transition
+Manager Baseline Prior,+0.0400 (Elite 91-pt standard),+0.0100 (High-pedigree prior),-0.0300
+Tactical Continuity Component,+0.0000 (Same system),+0.0080 (Guardiola disciple/similarity),+0.0080
+Continuity Friction Penalty,+0.0000 (Zero coordination friction),-0.0150 (Initial coordination shock),-0.0150
+Regime Uncertainty Penalty,+0.0000 (Established),-0.0130 (Transition variance),-0.0130
+Net Manager Contribution,+0.0300,-0.0100,-0.0400
+Latent Attack Rating,+0.420,+0.405,-0.015
+Latent Defence Rating,-0.380,-0.370,+0.010 (Slightly worse prevention)
+Combined Team Strength,+0.800,+0.760,-0.040
+Isolated Preseason Title %,45.00%,39.60%,-5.40 pp on City
