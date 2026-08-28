@@ -1,0 +1,11 @@
+{
+  "program": "ENNOVERA_C10E_GW1_GW2_FPL_BRIDGE_FLOW_CERTIFICATION",
+  "mode": "DRY_RUN",
+  "read_only": true,
+  "forensic_only": true,
+  "c10_e_frozen": true,
+  "fpl_bridge_frozen": true,
+  "retraining": false,
+  "retuning": false,
+  "deployment": false
+}

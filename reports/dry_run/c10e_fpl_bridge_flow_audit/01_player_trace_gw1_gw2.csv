@@ -1,0 +1,9 @@
+player,club,pos,base_xp,exp_mins,role,gw1_opp,gw1_fix_id,gw1_att_env,gw1_def_env,gw1_sp_att,gw1_form_adj,gw1_mid_adj,gw1_style_adj,gw1_sp_adj,gw1_xp,gw2_opp,gw2_fix_id,gw2_att_env,gw2_def_env,gw2_sp_att,gw2_form_adj,gw2_mid_adj,gw2_style_adj,gw2_sp_adj,gw2_xp,delta
+Erling Haaland,Man City,FWD,7.25,90,CENTRAL_STRIKER_PENALTY_TAKER,Bournemouth (H),8,1.24,0.38,1.22,0.2,0.15,0.2,0.3,8.1,Crystal Palace (A),11,1.18,0.52,1.25,0.2,0.15,0.05,0.25,7.9,-0.2
+Bukayo Saka,Arsenal,MID,6.25,88,INVERTED_WINGER_SET_PIECE_TAKER,Coventry City (H),1,1.15,0.42,1.35,0.15,0.2,0.3,0.5,7.4,Aston Villa (A),20,1.1,0.72,1.32,0.15,0.15,0.05,0.25,6.85,-0.55
+Cole Palmer,Chelsea,MID,6.45,88,TALISMAN_PLAYMAKER_PENALTIES,Fulham (A),10,1.12,0.75,1.15,0.15,0.15,0.3,0.55,7.6,Brighton (H),16,1.38,0.6,1.15,0.15,0.2,0.45,0.55,7.8,0.2
+Cody Gakpo,Liverpool,MID,5.65,85,INSIDE_FORWARD_BOX_THREAT,Newcastle (A),9,1.05,0.68,1.24,0.1,0.15,0.25,0.35,6.5,Nott'm Forest (H),12,1.22,0.45,1.28,0.1,0.25,0.55,0.45,7.0,0.5
+Alexander Isak,Liverpool,FWD,6.2,88,CENTRAL_STRIKER_TRANSITION_THREAT,Newcastle (A),9,1.05,0.68,1.24,0.15,0.15,0.25,0.45,7.2,Nott'm Forest (H),12,1.22,0.45,1.28,0.15,0.25,0.5,0.5,7.6,0.4
+Benjamin White,Arsenal,DEF,4.75,90,OVERLAPPING_FULLBACK_CS_CONTRIBUTOR,Coventry City (H),1,1.15,0.42,1.35,0.1,0.1,0.15,0.2,5.3,Aston Villa (A),20,1.1,0.72,1.32,0.1,0.05,-0.15,0.1,4.85,-0.45
+Maxim De Cuyper,Brighton,DEF,4.95,90,ATTACKING_WINGBACK_SET_PIECES,Aston Villa (H),7,1.38,0.58,0.92,0.15,0.1,0.2,0.4,5.8,Chelsea (A),16,1.38,0.6,0.95,0.15,-0.1,-0.3,0.2,4.9,-0.9
+Michael Kayode,Brentford,DEF,4.25,90,DYNAMIC_FULLBACK_AERIAL_TARGET,Spurs (H),2,1.32,0.62,1.25,0.1,0.1,0.1,0.25,4.8,Leeds (A),17,0.98,0.92,0.82,0.1,0.1,0.05,0.2,4.7,-0.1

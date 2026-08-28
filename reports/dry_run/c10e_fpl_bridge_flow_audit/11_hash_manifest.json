@@ -1,0 +1,12 @@
+{
+  "00_governance.json": "7626637a50317d6f54e82aaf8fd5e8e238a54e5e1adee724ec903cab12cd1811",
+  "01_player_trace_gw1_gw2.csv": "346cd478c7f1a16c292a3535df2f8e941dad803f36c95ff6b3ad143195c5c9b7",
+  "02_fixture_mapping_audit.csv": "2b72c4447ac93c06e23bf728d350dc6b6faaf79602b1a71b4dab603e1a9753cc",
+  "03_module_decomposition_trace.csv": "3373c15f0b8b0bf16d547cad256dde71df42a7bcf5f65f3abc279cd303f4ec81",
+  "04_gw1_vs_gw2_620_player_deltas.csv": "12cf1d0e20cfbbe2f4e3e7570a9cd27f60180e6ae972f9f2a3c5a079d7b29bdc",
+  "05_delta_distribution_summary.json": "21eecefad4e187d82a76d9daa399b66ba208f41d34007ba54b24de253ef77149",
+  "07_cache_audit.json": "3628a5007ba9ccbc71e37d1128da501f6735d7f423148c4018f7ea0ebaf5fc83",
+  "08_bridge_identity.json": "651b6f1e7565ddc80c365a3f61ef193dc32c1476c6052f1d05fabd772d34a935",
+  "09_counterfactual_unit_tests.csv": "ef3243dd8559062bd4b08cd1242554976d0604ddff113281856f006ee737bcd8",
+  "10_final_decision.json": "2626c31243d0b6ceb08ff69a2b3d1be3d44ace6a0813dc22f6f1e5fd74575794"
+}

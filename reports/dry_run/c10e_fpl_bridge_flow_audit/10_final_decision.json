@@ -1,0 +1,8 @@
+{
+  "status": "FPL_BRIDGE_FLOW_CERTIFIED",
+  "player_registry": "CERTIFIED",
+  "fixture_mapping": "MAPPING_ERRORS = 0",
+  "c10e_bridge_actually_executed": true,
+  "gw_specific_xp": true,
+  "previous_fpl_draft": "INVALIDATED_AND_SUPERSEDED_BY_DYNAMIC_FLOW"
+}

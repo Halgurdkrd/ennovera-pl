@@ -1,0 +1,8 @@
+{
+  "total_players": 620,
+  "delta_lt_0_01": 6,
+  "delta_ge_0_01": 614,
+  "delta_ge_0_25": 215,
+  "delta_ge_0_50": 26,
+  "delta_ge_1_00": 0
+}

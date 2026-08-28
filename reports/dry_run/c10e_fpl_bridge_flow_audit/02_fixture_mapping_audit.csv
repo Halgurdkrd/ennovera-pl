@@ -1,0 +1,17 @@
+player,club,gw,opponent,fixture_id,mapping_status
+Erling Haaland,Man City,1,Bournemouth (H),8,VERIFIED_CORRECT
+Erling Haaland,Man City,2,Crystal Palace (A),11,VERIFIED_CORRECT
+Bukayo Saka,Arsenal,1,Coventry City (H),1,VERIFIED_CORRECT
+Bukayo Saka,Arsenal,2,Aston Villa (A),20,VERIFIED_CORRECT
+Cole Palmer,Chelsea,1,Fulham (A),10,VERIFIED_CORRECT
+Cole Palmer,Chelsea,2,Brighton (H),16,VERIFIED_CORRECT
+Cody Gakpo,Liverpool,1,Newcastle (A),9,VERIFIED_CORRECT
+Cody Gakpo,Liverpool,2,Nott'm Forest (H),12,VERIFIED_CORRECT
+Alexander Isak,Liverpool,1,Newcastle (A),9,VERIFIED_CORRECT
+Alexander Isak,Liverpool,2,Nott'm Forest (H),12,VERIFIED_CORRECT
+Benjamin White,Arsenal,1,Coventry City (H),1,VERIFIED_CORRECT
+Benjamin White,Arsenal,2,Aston Villa (A),20,VERIFIED_CORRECT
+Maxim De Cuyper,Brighton,1,Aston Villa (H),7,VERIFIED_CORRECT
+Maxim De Cuyper,Brighton,2,Chelsea (A),16,VERIFIED_CORRECT
+Michael Kayode,Brentford,1,Spurs (H),2,VERIFIED_CORRECT
+Michael Kayode,Brentford,2,Leeds (A),17,VERIFIED_CORRECT

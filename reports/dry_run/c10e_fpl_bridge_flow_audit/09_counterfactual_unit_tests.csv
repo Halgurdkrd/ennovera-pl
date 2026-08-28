@@ -1,0 +1,5 @@
+player,role,base_xp,fixture_1_env,xp_env_1,fixture_2_env,xp_env_2,delta,verdict
+Bukayo Saka,MID,6.25,"Arsenal (H) vs Coventry (A) [Win 82.4%, Att 1.15, SP 1.35]",7.4,"Aston Villa (H) vs Arsenal (A) [Win 51.0%, Att 1.10, SP 1.32]",6.85,-0.55,FIXTURE_RESPONSIVE_PASSED
+Erling Haaland,FWD,7.25,"Man City (H) vs Bournemouth (A) [Win 84.5%, Att 1.24, SP 1.22]",8.1,"Crystal Palace (H) vs Man City (A) [Win 75.3%, Att 1.18, SP 1.25]",7.9,-0.2,FIXTURE_RESPONSIVE_PASSED
+Cody Gakpo,MID,5.65,"Newcastle (H) vs Liverpool (A) [Win 38.8%, Att 1.05, SP 1.24]",6.5,"Liverpool (H) vs Nott'm Forest (A) [Win 79.5%, Att 1.22, SP 1.28]",7.0,0.5,FIXTURE_RESPONSIVE_PASSED
+Benjamin White,DEF,4.75,"Arsenal (H) vs Coventry (A) [Def Env 0.42, CS Prob ~62%]",5.3,"Aston Villa (H) vs Arsenal (A) [Def Env 0.72, CS Prob ~38%]",4.85,-0.45,FIXTURE_RESPONSIVE_PASSED
