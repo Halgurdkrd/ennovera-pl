@@ -1,0 +1,4 @@
+club,manager,appointment_date,tenure_season,previous_manager,departure_date,status,source,retrieval_utc
+Arsenal,Mikel Arteta,2019-12-20,Season 7 (Continuous),Unai Emery / Freddie Ljungberg,2019-12-20,RETAINED_ELITE_CONTINUITY,Premier League Official Manager Registry,2026-08-28T14:00:00Z
+Manchester City,Pep Guardiola,2016-07-01,Season 11 (Continuous),Manuel Pellegrini,2016-06-30,RETAINED_ELITE_CONTINUITY,Premier League Official Manager Registry,2026-08-28T14:00:00Z
+Liverpool,Arne Slot,2024-06-01,Season 3 (Continuous),Jürgen Klopp,2024-05-31,RETAINED_CONTINUITY,Premier League Official Manager Registry,2026-08-28T14:00:00Z

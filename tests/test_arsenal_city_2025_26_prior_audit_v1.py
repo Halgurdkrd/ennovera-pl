@@ -192,7 +192,6 @@ def test_gap_attribution_sums_to_7_50_pp():
     df = pd.read_csv(prior_dir / '24_preseason_gap_shapley.csv')
     net_row = df[df['component'].str.contains('TOTAL NET')].iloc[0]
     assert abs(float(net_row['equity_impact_pp']) - 7.50) < 1e-4
-
 def test_old_history_ablation_runs():
     """30. Verify old history ablation tables exist."""
     df_city = pd.read_csv(prior_dir / '21_city_old_history_ablation.csv')

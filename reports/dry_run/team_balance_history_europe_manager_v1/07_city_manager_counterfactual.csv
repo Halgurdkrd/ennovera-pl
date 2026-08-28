@@ -1,0 +1,5 @@
+scenario,city_attack,city_defence,city_combined,city_title_pct
+"M0: Frozen Baseline (Guardiola Retained, High Continuity)",+0.420,-0.380,+0.800,45.0
+M1: Authenticated State (Matches M0 Exactly),+0.420,-0.380,+0.800,45.0
+M2: Continuity-Neutral (Zero Continuity Buffer),+0.415,-0.380,+0.795,43.8
+M3: Maximum Transition Shrinkage (Hypothetical Departure),+0.395,-0.370,+0.765,38.4

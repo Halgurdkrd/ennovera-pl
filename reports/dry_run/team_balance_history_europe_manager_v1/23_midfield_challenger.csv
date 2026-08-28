@@ -1,0 +1,5 @@
+model_tier,rps,log_loss,accuracy_pct,top6_rps
+M0: Standard Attack + Defence Only (Frozen),0.1748,0.868,58.4,0.188
+M1: With Field Tilt & Territory Control Features,0.1742,0.8665,58.6,0.1855
+M2: With PPDA & Transition Prevention Features,0.174,0.8658,58.7,0.1848
+M3: Complete 3-Line Structure (Attack + Midfield + Defence),0.1738,0.8652,58.8,0.184

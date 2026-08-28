@@ -1,0 +1,4 @@
+configuration,half_life_days,city_title_pct,arsenal_title_pct,rps,log_loss,accuracy_pct,ece,verdict
+Frozen 365-Day Model (Empirical OOS Optimum),365,45.0,37.5,0.1735,0.8642,58.9,0.007,OPTIMAL_HISTORICAL_MODEL
+Arsenal/City Crossover Configuration (H* = 165d),165,41.25,41.25,0.1775,0.875,57.5,0.011,DIAGNOSTIC_ONLY_SUBOPTIMAL_OOS
+Recent-Only Configuration (T = 90d),90,38.86,43.64,0.1857,0.8968,56.5,0.018,SEVERE_OVERFITTING_DEGRADATION

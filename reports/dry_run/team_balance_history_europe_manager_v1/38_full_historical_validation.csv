@@ -1,0 +1,7 @@
+model,rps,log_loss,brier,ece,accuracy_pct
+Frozen Control (SIM3),0.1748,0.868,0.502,0.009,58.4
+Manager Challenger (C1),0.1748,0.868,0.502,0.009,58.4
+Europe Challenger (C2),0.1744,0.867,0.5014,0.008,58.6
+Line Balance Challenger (C3),0.1738,0.8652,0.4998,0.008,58.8
+History Challenger (R8),0.1738,0.865,0.4998,0.008,58.8
+Full Hybrid Challenger (C9),0.1732,0.8635,0.4984,0.006,59.1

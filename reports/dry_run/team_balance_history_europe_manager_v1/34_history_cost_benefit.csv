@@ -1,0 +1,5 @@
+step,delta_rps,delta_city_title,delta_ars_title,cost_benefit
+365d -> 270d,+0.0006 (Worse),-0.56 pp,+0.56 pp,Minor degradation
+365d -> 180d,+0.0031 (Worse),-3.27 pp,+3.27 pp,Material degradation
+365d -> 165d (Crossover),+0.0040 (Worse),-3.75 pp,+3.75 pp,Unacceptable degradation for cosmetic balance
+365d -> 90d (Recent Only),+0.0122 (Severe),-6.14 pp,+6.14 pp,Severe overfitting loss

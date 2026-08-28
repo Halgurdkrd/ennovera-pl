@@ -1,0 +1,11 @@
+model_name,city_preseason_title_pct,arsenal_preseason_title_pct,liverpool_preseason_title_pct,rps,log_loss,accuracy_pct,ece
+C0: Frozen Control (SIM3),45.0,37.5,15.53,0.1748,0.868,58.4,0.009
+C1: Authenticated Manager Only,45.0,37.5,15.53,0.1748,0.868,58.4,0.009
+C2: Performance-Based Europe Only,44.2,38.6,15.3,0.1744,0.867,58.6,0.008
+C3: Whole-Team Line Balance Only,43.8,39.2,15.1,0.1738,0.8652,58.8,0.008
+C4: Best Historical History Weighting (R8),44.1,38.8,15.2,0.1738,0.865,58.8,0.008
+C5: Manager + Europe,44.2,38.6,15.3,0.1744,0.867,58.6,0.008
+C6: Manager + Line Balance,43.8,39.2,15.1,0.1738,0.8652,58.8,0.008
+C7: Europe + Line Balance,43.1,40.2,14.9,0.1736,0.8646,58.9,0.007
+C8: Manager + Europe + Line Balance,43.1,40.2,14.9,0.1736,0.8646,58.9,0.007
+C9: Full Challenger (M+E+Balance+R8+RF10),42.4,41.1,14.8,0.1732,0.8635,59.1,0.006

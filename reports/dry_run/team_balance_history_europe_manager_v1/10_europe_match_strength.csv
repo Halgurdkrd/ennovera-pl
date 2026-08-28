@@ -1,0 +1,6 @@
+dimension,arsenal,man_city,advantage
+UEFA Champions League Stage,Semi-Finals (12 matches),Quarter-Finals (10 matches),Arsenal (+2 matches deeper)
+Match Record (W-D-L),8-2-2 (72.2% Win Pts),6-2-2 (66.7% Win Pts),Arsenal (+5.5 pp win yield)
+Goal Difference (GD),+14 (23:9),+9 (21:12),Arsenal (+5 GD)
+Expected Goal Diff (xGD),+13.6 (+1.13/match),+8.3 (+0.83/match),Arsenal (+0.30 xGD/match)
+Defensive xGA Conceded,0.73 xGA/match,1.12 xGA/match,Arsenal (Elite Prevention)

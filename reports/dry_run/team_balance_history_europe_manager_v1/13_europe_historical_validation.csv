@@ -1,0 +1,6 @@
+model_tier,rps,log_loss,accuracy_pct,ece
+E0: No European Signal,0.175,0.8685,58.3,0.01
+E1: Binary Competition Membership (Frozen Default),0.1748,0.868,58.4,0.009
+E2: Stage Reached Indicator,0.1752,0.869,58.2,0.011
+E3: Opponent-Adjusted Match-Level Europe,0.1746,0.8674,58.5,0.009
+E4: Match-Level Europe + Fatigue/Congestion Separation,0.1744,0.867,58.6,0.008

@@ -1,0 +1,4 @@
+club,raw_europe_score,weight_in_model,effective_contrib
+Arsenal,+0.820,10.0%,+0.0820
+Manchester City,+0.780,10.0%,+0.0780
+Delta (Arsenal - City),+0.040,10.0%,+0.0040 (Arsenal Advantage)

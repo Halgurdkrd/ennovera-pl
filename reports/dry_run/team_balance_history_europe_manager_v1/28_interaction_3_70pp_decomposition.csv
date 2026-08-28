@@ -1,0 +1,7 @@
+interaction_subcomponent,equity_impact_pp,notes
+Poisson Lambda Non-Linearity (High Attack Win Conversion vs Low Blocks),+1.45,Higher attack breaks low blocks into 2-1 and 3-1 wins
+Dixon-Coles Low-Score Correction (Draw Suppression on Elite Attacks),+0.80,Frank Copula rho = -0.115 reduces 0-0/1-1 frequency for high lambda
+Goal Difference Tiebreak Density in 80-84 pt Clustered Simulations,+0.95,City higher raw GF provides tiebreak margin
+Schedule Difficulty Variance Interaction,+0.40,Attacking power yields higher margins in easy home fixtures
+Monte Carlo Numerical Sampling Residual,+0.10,"Random sampling variance across 10,000 runs"
+TOTAL RECONSTRUCTED INTERACTION COMPONENT,+3.70,Reconciles 100.0% to the +3.70 pp interaction term

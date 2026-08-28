@@ -1,0 +1,5 @@
+regime_type,n_cases,first_5_rps,first_10_rps,full_season_rps,delta_rps
+"A. Elite Manager Retained (e.g. Guardiola, Arteta)",14,0.173,0.1735,0.1735,+0.0000
+B. Elite Manager Replaced (e.g. Klopp -> Slot),6,0.1785,0.176,0.1742,+0.0030
+C. Average Manager Replaced,28,0.181,0.178,0.176,+0.0045
+D. Poor Manager Sacked / New Bounce,35,0.183,0.1795,0.177,+0.0055

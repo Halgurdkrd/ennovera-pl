@@ -1,0 +1,4 @@
+model_variant,city_title_pct,arsenal_title_pct,liverpool_title_pct
+Europe OFF (Domestic PL Data Only),45.3,37.2,15.5
+Binary Europe (Participation Flag - Frozen Default),45.0,37.5,15.53
+Performance-Based Europe Challenger (Match xG & Opponent Adj),44.2,38.6,15.3

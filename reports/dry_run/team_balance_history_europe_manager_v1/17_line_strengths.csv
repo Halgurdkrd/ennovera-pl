@@ -1,0 +1,10 @@
+line_component,arsenal,man_city,liverpool,leader
+Attack Strength (Shot Generation & Finishing),+0.380,+0.420,+0.340,City (+0.040)
+"Midfield / Control Strength (Territory, Field Tilt, PPDA)",+0.395,+0.410,+0.330,City (+0.015)
+"Defensive Strength (Shot Suppression, xGA Prevention)",-0.400,-0.380,-0.280,Arsenal (+0.020 Best)
+Goalkeeper / Shot Stopping (PSxG-GA),+0.045 (Raya),+0.035 (Ederson),+0.050 (Alisson),Liverpool / Arsenal
+Set-Piece Net Efficiency (xG diff on corners/FKs),+0.085 (League Best),+0.040,+0.035,Arsenal (+0.045)
+Expected XI Strength Index,1370,1380,1350,City (+10)
+Bench / Squad Depth Valuation,"£1,050m","£1,100m",£980m,City (+£50m)
+Manager Tactical Consistency,+0.0300 (Arteta),+0.0300 (Guardiola),+0.0200 (Slot),Equal
+COMBINED TEAM STRENGTH,+0.780,+0.800,+0.620,City (+0.020)
