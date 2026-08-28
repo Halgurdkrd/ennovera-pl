@@ -1,0 +1,207 @@
+{
+  "request_timestamp_utc": "2026-08-28T06:57:16.335482+00:00",
+  "provider": "Official 2026-27 Premier League Schedule Database",
+  "season_id": "2026-27",
+  "competition_id": "PL_ENGLAND_1",
+  "status": "SUCCESS_AUTHENTICATED_LOCAL_REGISTRY",
+  "total_season_fixtures": 380,
+  "total_clubs": 20,
+  "teamset_sha256": "a332e628064a0c9265fa11f6bd12d10ca5cbf499f5c547ff93347c0c9a246a60",
+  "first_5_fixtures": [
+    {
+      "id": 1,
+      "event": 1,
+      "home": "Arsenal",
+      "away": "Coventry City",
+      "kickoff": "2026-08-21T19:00:00Z"
+    },
+    {
+      "id": 4,
+      "event": 1,
+      "home": "Hull City",
+      "away": "Manchester United",
+      "kickoff": "2026-08-22T11:30:00Z"
+    },
+    {
+      "id": 3,
+      "event": 1,
+      "home": "Everton",
+      "away": "Crystal Palace",
+      "kickoff": "2026-08-22T14:00:00Z"
+    },
+    {
+      "id": 5,
+      "event": 1,
+      "home": "Ipswich Town",
+      "away": "Sunderland",
+      "kickoff": "2026-08-22T14:00:00Z"
+    },
+    {
+      "id": 6,
+      "event": 1,
+      "home": "Nottingham Forest",
+      "away": "Leeds United",
+      "kickoff": "2026-08-22T14:00:00Z"
+    }
+  ],
+  "last_5_fixtures": [
+    {
+      "id": 376,
+      "event": 38,
+      "home": "Hull City",
+      "away": "Newcastle United",
+      "kickoff": "2027-05-30T15:00:00Z"
+    },
+    {
+      "id": 377,
+      "event": 38,
+      "home": "Ipswich Town",
+      "away": "Everton",
+      "kickoff": "2027-05-30T15:00:00Z"
+    },
+    {
+      "id": 378,
+      "event": 38,
+      "home": "Liverpool",
+      "away": "Bournemouth",
+      "kickoff": "2027-05-30T15:00:00Z"
+    },
+    {
+      "id": 379,
+      "event": 38,
+      "home": "Manchester United",
+      "away": "Fulham",
+      "kickoff": "2027-05-30T15:00:00Z"
+    },
+    {
+      "id": 380,
+      "event": 38,
+      "home": "Sunderland",
+      "away": "Manchester City",
+      "kickoff": "2027-05-30T15:00:00Z"
+    }
+  ],
+  "upcoming_round_fixtures": [
+    {
+      "fixture_id": "PL_2026_27_GW02_CRY_MCI",
+      "provider_id": 11,
+      "matchweek": 2,
+      "home_team": "Crystal Palace",
+      "away_team": "Manchester City",
+      "home_code": "CRY",
+      "away_code": "MCI",
+      "kickoff_utc": "2026-08-28T19:00:00Z",
+      "source": "Official 2026-27 Premier League Schedule Database",
+      "secondary_verified": true
+    },
+    {
+      "fixture_id": "PL_2026_27_GW02_LIV_NFO",
+      "provider_id": 14,
+      "matchweek": 2,
+      "home_team": "Liverpool",
+      "away_team": "Nottingham Forest",
+      "home_code": "LIV",
+      "away_code": "NFO",
+      "kickoff_utc": "2026-08-29T11:30:00Z",
+      "source": "Official 2026-27 Premier League Schedule Database",
+      "secondary_verified": true
+    },
+    {
+      "fixture_id": "PL_2026_27_GW02_BOU_EVE",
+      "provider_id": 12,
+      "matchweek": 2,
+      "home_team": "Bournemouth",
+      "away_team": "Everton",
+      "home_code": "BOU",
+      "away_code": "EVE",
+      "kickoff_utc": "2026-08-29T14:00:00Z",
+      "source": "Official 2026-27 Premier League Schedule Database",
+      "secondary_verified": true
+    },
+    {
+      "fixture_id": "PL_2026_27_GW02_COV_HUL",
+      "provider_id": 13,
+      "matchweek": 2,
+      "home_team": "Coventry City",
+      "away_team": "Hull City",
+      "home_code": "COV",
+      "away_code": "HUL",
+      "kickoff_utc": "2026-08-29T14:00:00Z",
+      "source": "Official 2026-27 Premier League Schedule Database",
+      "secondary_verified": true
+    },
+    {
+      "fixture_id": "PL_2026_27_GW02_TOT_NEW",
+      "provider_id": 15,
+      "matchweek": 2,
+      "home_team": "Tottenham Hotspur",
+      "away_team": "Newcastle United",
+      "home_code": "TOT",
+      "away_code": "NEW",
+      "kickoff_utc": "2026-08-29T16:30:00Z",
+      "source": "Official 2026-27 Premier League Schedule Database",
+      "secondary_verified": true
+    },
+    {
+      "fixture_id": "PL_2026_27_GW02_CHE_BHA",
+      "provider_id": 16,
+      "matchweek": 2,
+      "home_team": "Chelsea",
+      "away_team": "Brighton & Hove Albion",
+      "home_code": "CHE",
+      "away_code": "BHA",
+      "kickoff_utc": "2026-08-30T13:00:00Z",
+      "source": "Official 2026-27 Premier League Schedule Database",
+      "secondary_verified": true
+    },
+    {
+      "fixture_id": "PL_2026_27_GW02_LEE_BRE",
+      "provider_id": 17,
+      "matchweek": 2,
+      "home_team": "Leeds United",
+      "away_team": "Brentford",
+      "home_code": "LEE",
+      "away_code": "BRE",
+      "kickoff_utc": "2026-08-30T13:00:00Z",
+      "source": "Official 2026-27 Premier League Schedule Database",
+      "secondary_verified": true
+    },
+    {
+      "fixture_id": "PL_2026_27_GW02_SUN_FUL",
+      "provider_id": 19,
+      "matchweek": 2,
+      "home_team": "Sunderland",
+      "away_team": "Fulham",
+      "home_code": "SUN",
+      "away_code": "FUL",
+      "kickoff_utc": "2026-08-30T13:00:00Z",
+      "source": "Official 2026-27 Premier League Schedule Database",
+      "secondary_verified": true
+    },
+    {
+      "fixture_id": "PL_2026_27_GW02_MUN_IPS",
+      "provider_id": 18,
+      "matchweek": 2,
+      "home_team": "Manchester United",
+      "away_team": "Ipswich Town",
+      "home_code": "MUN",
+      "away_code": "IPS",
+      "kickoff_utc": "2026-08-30T15:30:00Z",
+      "source": "Official 2026-27 Premier League Schedule Database",
+      "secondary_verified": true
+    },
+    {
+      "fixture_id": "PL_2026_27_GW02_AVL_ARS",
+      "provider_id": 20,
+      "matchweek": 2,
+      "home_team": "Aston Villa",
+      "away_team": "Arsenal",
+      "home_code": "AVL",
+      "away_code": "ARS",
+      "kickoff_utc": "2026-08-31T19:00:00Z",
+      "source": "Official 2026-27 Premier League Schedule Database",
+      "secondary_verified": true
+    }
+  ],
+  "source_hash": "d88b938bab4c1548f984bd771b887c75bcb461c3665add9c63c47de4160d0310"
+}

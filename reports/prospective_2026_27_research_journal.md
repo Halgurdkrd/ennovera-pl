@@ -14,3 +14,9 @@
 - **Governance Hardening:** Established `snapshot_registry.csv` enforcing exactly one canonical evaluation snapshot per fixture/GW. Enforced invariant `official_freeze_at <= snapshot_created_at`.
 - **Hash Reconciliation:** Reconciled model artifact hashes in `research_lock_v2_hash_reconciliation.json` (Canonical FPL SHA256: `7d4bac2af06b06c13bf81d5036a403cb3173266f5dca0c16011440f47c71af5d`, PL SHA256: `2e1f294dbf47cd70088342ae16ad8a50b579ba728cf9b9f64c551c51f799ee5f`). Root cause: prompt template string discrepancy vs physical manifest byte hashing. Zero model weights or parameters modified.
 - **Status:** Program integrity fully restored. System status set to `WAITING_FOR_CANONICAL_FREEZE_WINDOWS`.
+
+### Live Data Ground-Truth & Competition Identity Audit: `PROSPECTIVE_LIVE_DATA_GROUND_TRUTH_AUDIT_V1` (2026-08-28T06:57:16.373921+00:00)
+- **Competition Identity Forensics:** Audited root cause of incorrect fixture schedule. Discovered Run 001 loaded an outdated 2024-25 schedule template. Rebuilt canonical 2026–27 20-club registry (SHA256: `a332e628064a0c9265fa11f6bd12d10ca5cbf499f5c547ff93347c0c9a246a60`).
+- **Quarantine & Reclassification:** Reclassified 10 Run 001 PL predictions as `INVALID_COMPETITION_FIXTURE_SOURCE` and FPL GW3 plan as `QUARANTINED_PENDING_FIXTURE_SOURCE_AUDIT`. Canonical prediction counters remain 0.
+- **Provider Claims Corrected:** Re-audited all 12 source families with honest evidence ratings (A/B/C/D/F). Rebuilt corrected freeze schedule for true 2026–27 upcoming fixtures.
+- **Status:** Fixture source and competition identity integrity restored. Status set to `WAITING_FOR_CORRECT_CANONICAL_FREEZE_WINDOWS`.

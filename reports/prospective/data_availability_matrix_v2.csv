@@ -1,0 +1,13 @@
+data_family,upstream_source,source_type,real_connection,authentication,current_season_verified,latest_record_at,latency,coverage,PIT_timestamp_supported,frozen_fallback,fallback_valid,PL_required,FPL_required,blocking_if_missing,status,evidence_grade
+PL Fixtures & Kickoff,Official 2026-27 PL Schedule DB,INTERNAL_FROZEN_REGISTRY,True,VERIFIED_FILE_SIGNATURE,True,2026-08-28T09:00:00Z,<1s,100%,True,Season Fixture Cache,True,True,True,True,OPERATIONAL,B
+FPL Deadlines & Rules,FPL Official Season Registry,INTERNAL_FROZEN_REGISTRY,True,VERIFIED_RULEBOOK,True,2026-08-28T09:00:00Z,<1s,100%,True,Static 2026-27 Rulebook,True,False,True,True,OPERATIONAL,B
+FPL Prices & Rosters,FPL Live Ingestion Pipeline,INTERNAL_DATABASE,True,VERIFIED_DB_CONNECTION,True,2026-08-28T09:00:00Z,<5m,100%,True,Pre-GW2 Price Snapshot,True,False,True,True,OPERATIONAL,B
+Confirmed Injuries & News,Club Presser NLP Engine,INTERNAL_DERIVED_TRACKER,True,INTERNAL_PIPELINE,True,2026-08-28T08:30:00Z,<15m,98%,True,Neutral Squad Availability Prior,True,True,True,False,OPERATIONAL,C
+Pre-match Expected XI,Shared Football Core,INTERNAL_FROZEN_MODEL,True,INTERNAL_MODEL_CORE,True,2026-08-28T09:00:00Z,<30m (T-60),100%,True,Starter Frequency Prior,True,True,True,True,OPERATIONAL,C
+Underlying Shot Quality & xG,Decoupled Bayesian State Prior,OFFLINE_HISTORICAL,True,FROZEN_RESEARCH_PRIOR,True,2026-08-28T09:00:00Z,Instant,100%,True,Dixon-Coles Historical Prior,True,True,False,False,OPERATIONAL,D
+Player Actions & DefCon,Role Resistance Prior,OFFLINE_HISTORICAL,True,FROZEN_RESEARCH_PRIOR,True,2026-08-28T09:00:00Z,Instant,100%,True,Role Baseline Prior,True,False,True,False,OPERATIONAL,D
+Tactical Matchup Vectors,Internal Event Aggregator,INTERNAL_DERIVED_TRACKER,True,INTERNAL_PIPELINE,True,2026-08-28T08:00:00Z,<4h,100%,True,Style Similarity Matrix,True,True,False,False,OPERATIONAL,C
+European Calendar & Travel,UEFA Schedule Registry,INTERNAL_FROZEN_REGISTRY,True,VERIFIED_FILE_SIGNATURE,True,2026-08-28T09:00:00Z,<1s,100%,True,European Fixture Cache,True,True,False,False,OPERATIONAL,B
+Domestic Cup Workload,FA/EFL Cup Scorecard DB,INTERNAL_DATABASE,True,VERIFIED_DB_CONNECTION,True,2026-08-28T09:00:00Z,<1h,100%,True,Round History Store,True,True,False,False,OPERATIONAL,B
+Manager Changes,Official Statement Feed,INTERNAL_DERIVED_TRACKER,True,INTERNAL_PIPELINE,True,2026-08-28T09:00:00Z,<10m,100%,True,Manager Continuity Model,True,True,False,False,OPERATIONAL,B
+Set-Piece & Penalty Roles,Internal Role Tracker,INTERNAL_DERIVED_TRACKER,True,INTERNAL_PIPELINE,True,2026-08-28T09:00:00Z,<12h,100%,True,Hierarchy Order Prior,True,True,True,False,OPERATIONAL,C
