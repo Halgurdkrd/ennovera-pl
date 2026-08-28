@@ -1,0 +1,6 @@
+probability_bin,predicted_p,c9_observed,c10_observed,calibration
+0.00 - 0.20,0.118,0.116,0.117,EXCELLENT
+0.20 - 0.40,0.286,0.289,0.287,EXCELLENT
+0.40 - 0.60,0.494,0.491,0.493,EXCELLENT
+0.60 - 0.80,0.688,0.684,0.687,EXCELLENT
+0.80 - 1.00,0.865,0.861,0.864,EXCELLENT

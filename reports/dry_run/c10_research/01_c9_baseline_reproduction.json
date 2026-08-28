@@ -1,0 +1,18 @@
+{
+  "model": "CORRECTED_C9_ME",
+  "seasons_evaluated": "2019-20 to 2025-26 (7 seasons, 2660 matches)",
+  "training_universe": "2019-20, 2020-21, 2021-22 (1140 matches)",
+  "validation_universe": "2022-23, 2023-24 (760 matches)",
+  "test_universe": "2024-25, 2025-26 (760 matches)",
+  "strict_oos_predictions": 1520,
+  "metrics": {
+    "accuracy": 0.592105,
+    "correct_picks": 900,
+    "total_picks": 1520,
+    "rps": 0.173,
+    "log_loss": 0.863,
+    "brier": 0.498,
+    "ece": 0.006
+  },
+  "status": "C9_BASELINE_EXACT_REPRODUCTION_VERIFIED"
+}

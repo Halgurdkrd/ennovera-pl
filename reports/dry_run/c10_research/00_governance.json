@@ -1,0 +1,11 @@
+{
+  "program": "ENNOVERA_C10_RESEARCH_ROADMAP_AND_FORM_CHALLENGER_V1",
+  "mode": "DRY_RUN",
+  "research_only": true,
+  "isolated_challenger": true,
+  "control_model": "CORRECTED_C9_ME",
+  "control_status": "FROZEN_SHADOW_CHAMPION",
+  "gw2_prospective_locked": true,
+  "gw2_outcomes_used": false,
+  "production_changes": false
+}

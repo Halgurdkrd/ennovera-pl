@@ -1,0 +1,6 @@
+audit_check,violations_found,status
+Pre-match timestamp strictly enforced,0,PASS
+Opponent rating calculated strictly pre-match,0,PASS
+Zero use of end-of-season final positions,0,PASS
+Zero use of future xG or future ratings,0,PASS
+Zero post-match recalibration leakage,0,PASS

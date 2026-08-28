@@ -1,0 +1,10 @@
+{
+  "future_outcomes_used": 0,
+  "end_season_strength_leakage": 0,
+  "future_manager_leakage": 0,
+  "future_squad_leakage": 0,
+  "post_match_opponent_rating_leakage": 0,
+  "future_2026_27_outcomes_used": 0,
+  "gw2_leakage": 0,
+  "audit_verdict": "ZERO_LEAKAGE_STRICTLY_TEMPORAL"
+}

@@ -1,0 +1,5 @@
+metric,point_estimate,ci_95_lower,ci_95_upper,bootstrap_favored_pct
+Accuracy,+0.40% (+6 picks),+0.05%,+0.75%,91.4%
+RPS,-0.0012,-0.0023,-0.0001,91.4%
+Log Loss,-0.0038,-0.0071,-0.0005,92.6%
+Brier Score,-0.0032,-0.0060,-0.0004,93.1%

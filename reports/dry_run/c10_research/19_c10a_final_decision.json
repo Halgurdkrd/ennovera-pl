@@ -1,0 +1,18 @@
+{
+  "program": "ENNOVERA_C10_RESEARCH_ROADMAP_AND_FORM_CHALLENGER_V1",
+  "challenger": "C10-A",
+  "classification": "C10_A_HISTORICAL_CHALLENGER_SUPPORTED",
+  "scientific_findings": {
+    "raw_form5_10": "Degrades probabilistic calibration due to schedule bias and variance.",
+    "opponent_adjusted_form": "Provides genuine orthogonal signal (r=0.41 to 0.48 with structural state).",
+    "best_combination_c10a9": "Improves RPS by -0.0012, Log Loss by -0.0038, +6 OOS correct picks across 1520 matches.",
+    "bootstrap_support": "91.4% of paired bootstrap resamples favored challenger."
+  },
+  "governance_status": {
+    "c9_me_modified": false,
+    "gw2_prospective_snapshot_modified": false,
+    "production_modified": false,
+    "promoted_to_production": false,
+    "next_step": "Hold as isolated research shadow champion candidate; proceed to C10-B specification"
+  }
+}

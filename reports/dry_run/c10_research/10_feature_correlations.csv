@@ -1,0 +1,6 @@
+feature_pair,pearson_r,spearman_rho,shared_variance,incremental_signal
+C9 Structural State vs Raw Form5,0.724,0.708,52.4%,Low (High Noise)
+C9 Structural State vs Raw Form10,0.792,0.778,62.7%,Moderate
+C9 Structural State vs OAF5,0.412,0.398,17.0%,High (Orthogonal)
+C9 Structural State vs OAF10,0.485,0.471,23.5%,High (Orthogonal)
+OAF5 vs OAF10,0.635,0.618,40.3%,Complementary timescales

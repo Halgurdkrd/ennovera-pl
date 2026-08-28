@@ -1,0 +1,9 @@
+{
+  "name": "OAF5_OPPONENT_ADJUSTED",
+  "window_size": 5,
+  "formula": "sum_i=1..5 w_i * (Observed_GD_i - Expected_GD_against_opponent_i - Venue_Advantage_i) / sum(w_i)",
+  "weights": "Exponential decay with half-life = 3 matches",
+  "opponent_rating_source": "Pre-match C9 strength at time t_i",
+  "season_boundary": "Hierarchical shrinkage to pre-season structural prior",
+  "manager_reset": "Reset to 0 on mid-season manager transition"
+}

@@ -1,0 +1,5 @@
+window,matches,c9_rps,c10_rps,delta_rps,notes
+GW1-GW5,200,0.1782,0.178,-0.0002,Shrunk to structural prior; zero noise distortion
+GW6-GW10,200,0.1754,0.1743,-0.0011,OAF5 reaches full sample power
+GW11-GW19,360,0.1728,0.1715,-0.0013,OAF10 active; consistent improvement
+GW20-GW38,760,0.1709,0.1697,-0.0012,Full sample stability across mid/late season

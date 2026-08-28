@@ -1,0 +1,11 @@
+{
+  "name": "FORM5_RAW",
+  "window_size": 5,
+  "inputs": [
+    "points_per_match",
+    "goal_differential_per_match"
+  ],
+  "weighting": "UNIFORM",
+  "season_boundary": "Previous-season carryover with 0.5 decay",
+  "leakage_guard": "Lagged match t-1 cutoff"
+}
