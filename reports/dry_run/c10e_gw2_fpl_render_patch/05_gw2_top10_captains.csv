@@ -1,0 +1,11 @@
+rank,player,club,opponent,home_away,mean_xp,captain_utility,prob_10_plus,prob_15_plus,exp_mins,selection
+1,Erling Haaland,Man City,Crystal Palace,A,7.9,8.85,39.5%,20.2%,90,CAPTAIN
+2,Cole Palmer,Chelsea,Brighton,H,7.8,8.65,38.8%,19.5%,88,VICE_CAPTAIN
+3,Alexander Isak,Liverpool,Nott'm Forest,H,7.6,8.4,37.5%,18.2%,88,-
+4,Cody Gakpo,Liverpool,Nott'm Forest,H,7.0,7.75,34.2%,16.0%,85,-
+5,Bukayo Saka,Arsenal,Aston Villa,A,6.85,7.55,33.5%,15.2%,88,-
+6,Son Heung-min,Spurs,Newcastle,H,5.6,6.15,26.4%,11.0%,88,-
+7,Bruno Fernandes,Man Utd,Ipswich Town,H,5.45,5.95,25.0%,10.2%,90,-
+8,Anton Stach,Leeds,Brentford,H,5.3,5.75,23.8%,9.4%,90,-
+9,Maxim De Cuyper,Brighton,Chelsea,A,4.9,5.3,21.5%,8.2%,90,-
+10,Evanilson,Bournemouth,Everton,H,4.85,5.25,21.0%,7.8%,85,-

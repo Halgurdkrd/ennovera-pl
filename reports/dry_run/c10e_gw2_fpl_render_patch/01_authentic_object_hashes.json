@@ -1,0 +1,9 @@
+{
+  "c10e_model_hash": "95a70fe854b4237d9b9323381a1795c378aa89cbb3b90da893eaef3ef7ce8371",
+  "fpl_bridge_name": "C10E_FPL_INTEGRATED_MATCH_ENVIRONMENT_V1",
+  "fpl_bridge_hash": "b4e8921af78c01625da38290f146a89c201948ba12049c823058240be363cca2",
+  "gw1_xp_hash": "3e5e6e30018f6f57876a40a831e5f8fdf48074d28e75fa9ee0e6c5c05ab59ce2",
+  "gw2_xp_hash": "b90a61849e75924fa682e022f46a29be634351a6697b09325603f9050d2ce2c2",
+  "hashes_distinct": true,
+  "status": "ALL_REQUIRED_AUTHENTIC_OBJECTS_AUTHENTICATED"
+}

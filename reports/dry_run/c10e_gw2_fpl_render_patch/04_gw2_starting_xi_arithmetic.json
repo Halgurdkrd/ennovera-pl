@@ -1,0 +1,22 @@
+{
+  "starting_xi_count": 11,
+  "starting_xi_individual_xp": {
+    "Konstantinos Tzolakis": 4.4,
+    "Benjamin White": 4.85,
+    "Maxim De Cuyper": 4.9,
+    "Michael Kayode": 4.7,
+    "Cole Palmer": 7.8,
+    "Cody Gakpo": 7.0,
+    "Bukayo Saka": 6.85,
+    "Anton Stach": 5.3,
+    "Erling Haaland": 7.9,
+    "Alexander Isak": 7.6,
+    "Evanilson": 4.85
+  },
+  "arithmetic_sum_string": "4.4 + 4.85 + 4.9 + 4.7 + 7.8 + 7.0 + 6.85 + 5.3 + 7.9 + 7.6 + 4.85",
+  "xi_base_xp": 66.15,
+  "captain_player": "Erling Haaland",
+  "captain_bonus_xp": 7.9,
+  "total_expected_manager_points": 74.05,
+  "arithmetic_verified": true
+}

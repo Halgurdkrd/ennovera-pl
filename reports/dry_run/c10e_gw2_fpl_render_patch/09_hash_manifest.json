@@ -1,0 +1,10 @@
+{
+  "01_authentic_object_hashes.json": "b20b2b5fb3f3ad6b10c81f17e1444d7486f53a0b42d24bfba2c5333a57f1cc67",
+  "02_gw2_fpl_realistic_path_corrected.csv": "271fd35403d4fa44628ce2f86e008ee6b5eec4575aa659acbf963898d7c79607",
+  "03_gw2_15_player_movement_table.csv": "271fd35403d4fa44628ce2f86e008ee6b5eec4575aa659acbf963898d7c79607",
+  "04_gw2_starting_xi_arithmetic.json": "29bf3239c7fe26fc1662e2aa76e87b6fa030e3321906443eb19586c331738a2e",
+  "05_gw2_top10_captains.csv": "e40f2a52daad57beefd5b548f7b26300d71cbbe3790a74e7da7e7581900e6a39",
+  "06_gw2_from_scratch_comparison.csv": "7a6863de27e6716872e4004f448dc77c0bbba5c7e60f44ad849247f7de35e9ef",
+  "07_chip_decision_audit.json": "cb9b2ad6d621efc94aeed4c9812ef5745efd98ca02c0ae7bc32bb809bf110836",
+  "08_report_rendering_correction_manifest.json": "0d86b593d6707be8eab080479733a9bf512ff8dbe2bd557ff014b31a0f15caef"
+}

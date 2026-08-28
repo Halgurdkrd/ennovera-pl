@@ -1,0 +1,16 @@
+player,club,pos,price,opponent,home_away,gw1_xp,gw2_xp,delta_xp,lineup_role
+Konstantinos Tzolakis,Hull City,GK,4.5,Coventry City,A,4.6,4.4,-0.2,STARTING_XI
+Jason Steele,Brighton,GK,4.0,Chelsea,A,0.15,0.15,0.0,BENCH_3
+Benjamin White,Arsenal,DEF,5.5,Aston Villa,A,5.3,4.85,-0.45,STARTING_XI
+Maxim De Cuyper,Brighton,DEF,4.6,Chelsea,A,5.8,4.9,-0.9,STARTING_XI
+Michael Kayode,Brentford,DEF,4.6,Leeds,A,4.8,4.7,-0.1,STARTING_XI
+Antonee Robinson,Fulham,DEF,4.5,Sunderland,A,4.3,4.45,0.15,BENCH_1
+Nobel Mendy,Hull City,DEF,4.0,Coventry City,A,4.2,4.1,-0.1,BENCH_2
+Cole Palmer,Chelsea,MID,9.5,Brighton,H,7.6,7.8,0.2,STARTING_XI (VC)
+Cody Gakpo,Liverpool,MID,7.0,Nott'm Forest,H,6.5,7.0,0.5,STARTING_XI
+Bukayo Saka,Arsenal,MID,9.5,Aston Villa,A,7.4,6.85,-0.55,STARTING_XI
+Anton Stach,Leeds,MID,6.0,Brentford,H,5.1,5.3,0.2,STARTING_XI
+Mamadou Sangaré,Brentford,MID,5.6,Leeds,A,4.9,4.75,-0.15,BENCH_0
+Erling Haaland,Man City,FWD,15.5,Crystal Palace,A,8.1,7.9,-0.2,STARTING_XI (C)
+Alexander Isak,Liverpool,FWD,9.0,Nott'm Forest,H,7.2,7.6,0.4,STARTING_XI
+Evanilson,Bournemouth,FWD,6.0,Everton,H,4.5,4.85,0.35,STARTING_XI

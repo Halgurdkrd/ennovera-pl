@@ -1,0 +1,10 @@
+{
+  "previous_gw2_displayed_xp": "INVALIDATED",
+  "reason": "GW1_TABLE_DISPLAY_PLACEHOLDER",
+  "underlying_gw2_prediction_object": "VALID",
+  "c10_e_model": "VALID",
+  "fpl_bridge": "VALID",
+  "player_registry": "VALID",
+  "fixture_mapping": "VALID",
+  "status": "GW2_FPL_FINAL_RENDER_CERTIFIED"
+}
