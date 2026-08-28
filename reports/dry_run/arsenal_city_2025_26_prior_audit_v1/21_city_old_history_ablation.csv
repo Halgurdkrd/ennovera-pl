@@ -1,0 +1,5 @@
+history_scope,city_attack,city_defence,city_combined,city_preseason_title_pct
+A. Full History (4+ Seasons),+0.420,-0.380,+0.800,45.0
+B. Remove > 3 Seasons Old,+0.415,-0.380,+0.795,43.8
+C. Remove > 2 Seasons Old,+0.408,-0.378,+0.786,41.9
+D. 2025-26 + Current Squad Only,+0.395,-0.370,+0.765,38.2

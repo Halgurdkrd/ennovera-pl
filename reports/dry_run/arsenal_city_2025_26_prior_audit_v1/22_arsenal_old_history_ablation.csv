@@ -1,0 +1,5 @@
+history_scope,arsenal_attack,arsenal_defence,arsenal_combined,arsenal_preseason_title_pct
+A. Full History (4+ Seasons),+0.380,-0.400,+0.780,37.5
+B. Remove > 3 Seasons Old,+0.380,-0.400,+0.780,38.2
+C. Remove > 2 Seasons Old,+0.382,-0.402,+0.784,39.8
+D. 2025-26 + Current Squad Only,+0.385,-0.405,+0.790,42.1

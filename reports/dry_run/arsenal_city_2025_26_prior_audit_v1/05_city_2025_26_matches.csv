@@ -1,0 +1,39 @@
+match_num,date,venue,opponent,goals_for,goals_against,result,points
+1,16/08/2025,Away,Wolves,4,0,W,3
+2,23/08/2025,Home,Tottenham,0,2,L,0
+3,31/08/2025,Away,Brighton,1,2,L,0
+4,14/09/2025,Home,Man United,3,0,W,3
+5,21/09/2025,Away,Arsenal,1,1,D,1
+6,27/09/2025,Home,Burnley,5,1,W,3
+7,05/10/2025,Away,Brentford,1,0,W,3
+8,18/10/2025,Home,Everton,2,0,W,3
+9,26/10/2025,Away,Aston Villa,0,1,L,0
+10,02/11/2025,Home,Bournemouth,3,1,W,3
+11,09/11/2025,Home,Liverpool,3,0,W,3
+12,22/11/2025,Away,Newcastle,1,2,L,0
+13,29/11/2025,Home,Leeds,3,2,W,3
+14,02/12/2025,Away,Fulham,5,4,W,3
+15,06/12/2025,Home,Sunderland,3,0,W,3
+16,14/12/2025,Away,Crystal Palace,3,0,W,3
+17,20/12/2025,Home,West Ham,3,0,W,3
+18,27/12/2025,Away,Nott'm Forest,2,1,W,3
+19,01/01/2026,Away,Sunderland,0,0,D,1
+20,04/01/2026,Home,Chelsea,1,1,D,1
+21,07/01/2026,Home,Brighton,1,1,D,1
+22,17/01/2026,Away,Man United,0,2,L,0
+23,24/01/2026,Home,Wolves,2,0,W,3
+24,01/02/2026,Away,Tottenham,2,2,D,1
+25,08/02/2026,Away,Liverpool,2,1,W,3
+26,11/02/2026,Home,Fulham,3,0,W,3
+27,21/02/2026,Home,Newcastle,2,1,W,3
+28,28/02/2026,Away,Leeds,1,0,W,3
+29,04/03/2026,Home,Nott'm Forest,2,2,D,1
+30,14/03/2026,Away,West Ham,1,1,D,1
+31,12/04/2026,Away,Chelsea,3,0,W,3
+32,19/04/2026,Home,Arsenal,2,1,W,3
+33,22/04/2026,Away,Burnley,1,0,W,3
+34,04/05/2026,Away,Everton,3,3,D,1
+35,09/05/2026,Home,Brentford,3,0,W,3
+36,13/05/2026,Home,Crystal Palace,3,0,W,3
+37,19/05/2026,Away,Bournemouth,1,1,D,1
+38,24/05/2026,Home,Aston Villa,1,2,L,0

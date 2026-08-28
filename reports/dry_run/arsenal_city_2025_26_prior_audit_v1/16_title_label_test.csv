@@ -1,0 +1,5 @@
+model_variant,rps,log_loss,accuracy_pct,ece
+A. Match-Level Poisson/Dixon-Coles (Control Baseline),0.1748,0.868,58.4,0.009
+B. Match-Level + Explicit Champion Indicator (+0.05),0.1761,0.8715,57.9,0.014
+C. Match-Level + Final-Table-Position Indicator,0.1755,0.8698,58.1,0.012
+D. Match-Level + Points-Based Season Achievement,0.1752,0.869,58.2,0.011

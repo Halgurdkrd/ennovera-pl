@@ -1,0 +1,3 @@
+query,found_in,classification,notes
+City +2 points / +2 GD in league table,reports/dry_run/schedule_equity_r8_rf10_validation_v1/32_arsenal_city_2025_26.csv,HISTORICAL_SUMMARY_NARRATIVE_TYPO,"Mixed up 2024-25 table (City +2 pts) with 2025-26 table (Arsenal +7 pts, Champion)"
+Arsenal champion 2025-26,data/raw/pl_history/E0_2025-26.csv,AUTHENTICATED_GROUND_TRUTH,Arsenal finished 1st with 85 points and +44 GD

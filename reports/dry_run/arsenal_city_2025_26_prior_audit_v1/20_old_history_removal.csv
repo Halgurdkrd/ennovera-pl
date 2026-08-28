@@ -1,0 +1,6 @@
+history_scope,rps,accuracy_pct,promoted_stability
+Full History,0.1735,58.9,HIGH
+Remove > 4 Seasons,0.1735,58.9,HIGH
+Remove > 3 Seasons,0.1737,58.8,MODERATE
+Remove > 2 Seasons,0.1744,58.5,LOW
+Current + Previous Only,0.176,57.9,VERY_LOW

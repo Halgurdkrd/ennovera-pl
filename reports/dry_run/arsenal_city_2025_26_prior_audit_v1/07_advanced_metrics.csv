@@ -1,0 +1,12 @@
+metric,arsenal,man_city,delta_arsenal_minus_city
+League Position,1st (Champion),2nd,+1 rank
+League Points,85,78,+7 pts
+Goal Difference (GD),+44 (71:27),+42 (77:35),+2 GD
+Expected Goals (xG),76.8,82.4,-5.6 xG
+Expected Goals Against (xGA),26.4,33.9,-7.5 xGA (Superior)
+Expected Goal Diff (xGD),+50.4,+48.5,+1.9 xGD
+Attack Rating (Latent),+0.380,+0.420,-0.040
+Defence Rating (Latent),-0.400,-0.380,-0.020 (Superior)
+Home Strength (pts/game),2.42,2.37,+0.05
+Away Strength (pts/game),2.05,1.74,+0.31
+Top-6 Head-to-Head pts,21,17,+4 pts

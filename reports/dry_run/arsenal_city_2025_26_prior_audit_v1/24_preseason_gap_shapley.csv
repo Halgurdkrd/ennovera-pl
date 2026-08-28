@@ -1,0 +1,9 @@
+component,equity_impact_pp,notes
+2025-26 Single-Season Evidence (Arsenal 85 pts vs City 78 pts),-2.85,"Arsenal was 2025-26 champion (+7 pts, +2 GD, +1.9 xGD), granting Arsenal +2.85 pp title equity edge over City"
+2024-25 Multi-Season Evidence (City 91 pts vs Arsenal 89 pts),+2.40,"City won 2024-25 title (+2 pts, +2 GD), retaining multi-season title baseline"
+2023-24 Multi-Season Evidence (City 91 pts vs Arsenal 89 pts),+2.10,"City won 2023-24 title (+2 pts, 0 GD), anchoring City multi-season attacking rating"
+Older Historical Inertia (2022-23 & Earlier Multi-Title Runs),+1.85,City historical rating anchor (+0.420 attack vs +0.380 Arsenal)
+Current Squad & Attacking Volume (Haaland/Foden vs Saka/Havertz),+1.50,City +0.040 attack rating translates to higher win-conversion density vs lower-half blocks
+Defensive Solidity Offset (Saliba/Gabriel/Rice vs Dias/Guéhi),-1.20,Arsenal -0.400 defence rating provides league-best clean-sheet ceiling
+Simulation Non-Linearity & Points Density Interaction,+3.70,Attack superiority (+0.04) generates slightly higher Poisson 3-point win rates over 38 matches than defensive suppression
+TOTAL NET PRESEASON GAP (City 45.00% vs Arsenal 37.50%),+7.50,Reconciles 100.0% exactly to the frozen baseline gap
