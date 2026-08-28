@@ -1,0 +1,3 @@
+test_condition,man_city_title,arsenal_title,liverpool_title
+Baseline Frozen,45.00,37.50,15.53
+Adaptive Squad Decay,43.10,39.40,15.70

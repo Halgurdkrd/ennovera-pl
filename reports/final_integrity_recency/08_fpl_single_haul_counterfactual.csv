@@ -1,0 +1,6 @@
+player,club,actual_gw1_pts,actual_gw2_mean_xp,counterfactual_gw1_pts,counterfactual_gw2_mean_xp,delta_xp,squad_selection_impact
+Maxim De Cuyper,Brighton,17,8.59,4,5.5,-3.09,STILL_SELECTED
+Jack Hinshelwood,Brighton,16,8.55,4,5.7,-2.85,STILL_SELECTED
+Mamadou Sangaré,Brentford,14,5.75,4,3.38,-2.37,BENCHED
+Cole Palmer,Chelsea,13,8.66,4,6.52,-2.14,STILL_SELECTED
+Anton Stach,Leeds,13,5.64,4,3.5,-2.14,BENCHED

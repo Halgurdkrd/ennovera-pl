@@ -1,0 +1,6 @@
+model_id,model_name,walkforward_rps,log_loss,accuracy
+G0,No Regime Distinction,0.1762,0.8735,57.8
+G1,Hard Manager Reset,0.181,0.892,55.9
+G2,Soft Bayesian Reset (35% prior retention + accelerated learning),0.1741,0.8658,58.7
+G3,Faster Post-Manager Learning Rate,0.1745,0.867,58.5
+G4,Club Prior + Manager Posterior Mixture,0.174,0.8655,58.8

@@ -1,0 +1,6 @@
+subgroup,frozen_rps,challenger_r8_rps,delta_rps,paired_bootstrap_p_val,verdict
+"Full Dataset (1,520 Matches)",0.1748,0.1738,-0.001,0.014,STATISTICALLY_SIGNIFICANT
+Early Season (GW1 - GW5),0.1812,0.178,-0.0032,0.004,STRONG_IMPROVEMENT
+Early Season (GW1 - GW10),0.1785,0.1762,-0.0023,0.008,STRONG_IMPROVEMENT
+Matches Post-Manager Change (0-20m),0.1795,0.175,-0.0045,0.002,MAJOR_IMPROVEMENT
+High Squad-Turnover Clubs (>30% turnover),0.182,0.1775,-0.0045,0.003,MAJOR_IMPROVEMENT

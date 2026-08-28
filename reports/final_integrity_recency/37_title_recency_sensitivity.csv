@@ -1,0 +1,5 @@
+recency_configuration,man_city_title_pct,arsenal_title_pct,liverpool_title_pct,chelsea_title_pct,man_utd_title_pct
+Frozen Model Control (R0),45.0,37.5,15.53,0.94,0.09
+Recent-Season-Heavier (R3),43.8,38.6,15.8,1.1,0.12
+Current-Manager-Heavier (G2),44.2,38.2,15.6,1.25,0.15
+Adaptive Hybrid Challenger (R8),43.1,39.4,15.7,1.15,0.14

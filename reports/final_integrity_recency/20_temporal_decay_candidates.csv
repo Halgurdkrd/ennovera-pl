@@ -1,0 +1,10 @@
+candidate_id,candidate_name,rps,log_loss,accuracy,brier,early_gw1_5_rps,manager_change_rps
+R0,Current Frozen System (SIM3),0.1748,0.868,58.4,0.502,0.1812,0.1795
+R1,Equal Season Weighting,0.1785,0.881,56.8,0.512,0.1865,0.184
+R2,Linear Recency Weighting,0.1755,0.871,58.1,0.5045,0.1825,0.1805
+R3,Exponential Decay by Days (Half-life 365d),0.1742,0.8665,58.6,0.501,0.1798,0.1775
+R4,Exponential Decay by Matches (Half-life 38m),0.1744,0.867,58.5,0.5015,0.1802,0.178
+R5,Bayesian State-Space (lambda = 0.88),0.174,0.8658,58.7,0.5005,0.1792,0.1765
+R6,Rolling 10-Match State,0.183,0.902,55.2,0.528,0.192,0.1895
+R7,Rolling 20-Match State,0.1775,0.876,57.4,0.509,0.1845,0.182
+R8,Hybrid Prior + Adaptive Exponential Recency,0.1738,0.865,58.8,0.4998,0.178,0.175

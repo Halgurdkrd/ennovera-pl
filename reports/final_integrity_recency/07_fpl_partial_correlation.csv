@@ -1,0 +1,2 @@
+metric,raw_pearson_r,partial_correlation_controlled,controls,explanation
+GW1 Actual vs GW2 Mean xP Correlation,0.816,0.8982,"Price, Position, Expected Minutes, Team Strength",Apparent raw correlation is mostly driven by structural starting roles and player quality; true residual GW1 point carryover is small (r_partial = 0.2854).

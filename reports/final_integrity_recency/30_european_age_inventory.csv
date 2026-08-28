@@ -1,0 +1,3 @@
+competition,matches_evaluated,lookback,weighting
+UEFA Champions League,380,3 Seasons,Date Exponential Decay (365d)
+UEFA Europa League,240,2 Seasons,Date Exponential Decay (365d)

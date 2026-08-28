@@ -1,0 +1,5 @@
+sample_group,h1_correlation_next_season,h2_correlation_next_season,predictive_gain_h2
+All Continuing Managers (Pooled),0.62,0.74,+19.3%
+Manager Changed Midseason,0.38,0.71,+86.8%
+Top 6 Clubs,0.68,0.79,+16.2%
+Bottom 10 Clubs,0.54,0.69,+27.7%

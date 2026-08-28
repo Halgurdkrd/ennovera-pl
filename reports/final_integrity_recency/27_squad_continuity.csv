@@ -1,0 +1,6 @@
+club,minutes_retained,xg_xa_retained,expected_xi_retained,turnover_category,optimal_decay_multiplier
+Arsenal,88.5%,91.2%,90.9%,LOW,1.0
+Man City,84.0%,86.5%,81.8%,LOW_MEDIUM,1.05
+Liverpool,81.2%,82.4%,81.8%,LOW_MEDIUM,1.08
+Chelsea,68.5%,71.0%,63.6%,HIGH,1.35
+Man Utd,72.0%,74.5%,72.7%,MEDIUM,1.2

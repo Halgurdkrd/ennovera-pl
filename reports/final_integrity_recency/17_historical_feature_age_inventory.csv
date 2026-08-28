@@ -1,0 +1,7 @@
+feature,source,lookback,weighting_rule,manager_reset,squad_reset
+PL Attack xG,Domestic PL Match Logs,4 Seasons (1520 matches),Bayesian Exponential Decay (half-life 365d),Soft Reset (35% boost),Adaptive Turnover Scalar
+PL Defence xGA,Domestic PL Match Logs,4 Seasons (1520 matches),Bayesian Exponential Decay (half-life 365d),Soft Reset (35% boost),Adaptive Turnover Scalar
+Expected XI Quality,FPL Expected Lineups & Roles,Current Matchweek Horizon,Instantaneous Current Point-in-Time,N/A,100% Current Squad
+DefCon Rating,Micro-Defensive Metrics,2 Seasons (760 matches),EWMA (alpha = 0.15),Regime Conditional,Personnel Weighted
+Set-Piece Hierarchy,Dead-Ball Event Logs,2 Seasons,Specialist Coach Multiplier,Coach Continuity,Taker Availability
+European Performance,UEFA Champions League xG/xGA,3 Seasons (International),Opponent-Adjusted Date Decay,Soft Reset,Minutes Weighted

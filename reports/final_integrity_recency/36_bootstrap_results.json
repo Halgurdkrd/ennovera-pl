@@ -1,0 +1,17 @@
+{
+  "metric": "RPS_and_Log_Loss",
+  "n_resamples": 10000,
+  "seed": 20260828,
+  "observed_delta_rps": -0.001,
+  "ci_95_rps": [
+    -0.0018,
+    -0.0003
+  ],
+  "pct_resamples_favoring_challenger": 98.6,
+  "observed_delta_log_loss": -0.003,
+  "ci_95_log_loss": [
+    -0.0052,
+    -0.0009
+  ],
+  "conclusion": "STATISTICALLY_SIGNIFICANT_IMPROVEMENT"
+}

@@ -1,0 +1,5 @@
+model,walkforward_rps,log_loss,accuracy
+E0: Static All-Time UEFA Average,0.1754,0.8695,58.2
+E1: Most Recent European Season Only,0.1746,0.8675,58.4
+E2: Last 2 Seasons with Date Decay (365d),0.1742,0.8662,58.7
+E3: Current-Manager Weighted European History,0.1739,0.8652,58.8
