@@ -1,0 +1,83 @@
+{
+  "formation": "3-4-3",
+  "starting_xi_base_xp": 66.9,
+  "starting_xi": [
+    {
+      "pos": "GKP",
+      "player": "Konstantinos Tzolakis",
+      "club": "Hull City",
+      "price": 4.5,
+      "xp": 4.6
+    },
+    {
+      "pos": "DEF",
+      "player": "Benjamin White",
+      "club": "Arsenal",
+      "price": 5.5,
+      "xp": 5.3
+    },
+    {
+      "pos": "DEF",
+      "player": "Maxim De Cuyper",
+      "club": "Brighton",
+      "price": 4.6,
+      "xp": 5.8
+    },
+    {
+      "pos": "DEF",
+      "player": "Michael Kayode",
+      "club": "Brentford",
+      "price": 4.6,
+      "xp": 4.8
+    },
+    {
+      "pos": "MID",
+      "player": "Cole Palmer",
+      "club": "Chelsea",
+      "price": 9.5,
+      "xp": 7.6
+    },
+    {
+      "pos": "MID",
+      "player": "Bukayo Saka",
+      "club": "Arsenal",
+      "price": 9.5,
+      "xp": 7.4
+    },
+    {
+      "pos": "MID",
+      "player": "Cody Gakpo",
+      "club": "Liverpool",
+      "price": 7.0,
+      "xp": 6.5
+    },
+    {
+      "pos": "MID",
+      "player": "Anton Stach",
+      "club": "Leeds",
+      "price": 6.0,
+      "xp": 5.1
+    },
+    {
+      "pos": "FWD",
+      "player": "Erling Haaland",
+      "club": "Man City",
+      "price": 15.5,
+      "xp": 8.1
+    },
+    {
+      "pos": "FWD",
+      "player": "Alexander Isak",
+      "club": "Liverpool",
+      "price": 9.0,
+      "xp": 7.2
+    },
+    {
+      "pos": "FWD",
+      "player": "Evanilson",
+      "club": "Bournemouth",
+      "price": 6.0,
+      "xp": 4.5
+    }
+  ]
+}

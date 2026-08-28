@@ -1,0 +1,4 @@
+# IMMUTABILITY & AUDIT TRAIL VERIFICATION
+
+- **V1 Status:** `GW2_PROSPECTIVE_INVALIDATED_PRE_KICKOFF_DATA_TRUTH_FAILURE` (Preserved intact).
+- **V2 Status:** `GW2_PROSPECTIVE_V2_FROZEN` (True prospective, created pre-deadline).

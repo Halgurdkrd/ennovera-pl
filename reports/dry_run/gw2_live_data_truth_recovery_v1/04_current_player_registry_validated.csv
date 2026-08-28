@@ -1,0 +1,8 @@
+player_id,name,club,pos,price,status,validated
+411,Erling Haaland,Man City,FWD,15.5,a,True
+154,Cole Palmer,Chelsea,MID,9.5,a,True
+12,Bukayo Saka,Arsenal,MID,9.5,a,True
+379,Alexander Isak,Liverpool,FWD,9.0,a,True
+367,Cody Gakpo,Liverpool,MID,7.0,a,True
+1,David Raya,Arsenal,GKP,6.0,a,True
+4,Gabriel Magalhaes,Arsenal,DEF,8.0,a,True

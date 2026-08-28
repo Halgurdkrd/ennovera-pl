@@ -1,0 +1,18 @@
+{
+  "program": "ENNOVERA_GW2_LIVE_DATA_TRUTH_RECOVERY_V1",
+  "version": "GW2_C9_PROSPECTIVE_V2_CORRECTED",
+  "generated_at": "2026-08-28T15:14:00Z",
+  "prediction_cutoff": "2026-08-28T15:14:00Z",
+  "fpl_deadline": "2026-08-28T17:30:00Z",
+  "mode": "TRUE_PROSPECTIVE",
+  "immutability_status": "GW2_PROSPECTIVE_V2_FROZEN",
+  "time_before_deadline": "2 hours 16 minutes",
+  "gw2_outcomes_used": false,
+  "artifacts_v2": {
+    "pl_predictions": "09_gw2_pl_recomputed_predictions.csv",
+    "fpl_top30": "10_gw2_c9_fpl_top30_corrected.csv",
+    "fpl_15_squad": "11_gw2_c9_fpl_15_squad_v2.json",
+    "fpl_xi": "12_gw2_c9_fpl_xi_v2.json",
+    "fpl_captain": "13_gw2_c9_fpl_captain_v2.json"
+  }
+}

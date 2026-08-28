@@ -1,0 +1,12 @@
+{
+  "status": "GW2_PROSPECTIVE_INVALIDATED_PRE_KICKOFF_DATA_TRUTH_FAILURE",
+  "discovery_timestamp": "2026-08-28T15:14:00Z",
+  "fpl_deadline": "2026-08-28T17:30:00Z",
+  "invalidated_artifacts": {
+    "gw2_c9_fpl_15_player_squad_v1": "reports/dry_run/gw2_true_prospective_c9_v1/06_gw2_c9_fpl_15_player_squad.json",
+    "gw2_c9_fpl_xi_v1": "reports/dry_run/gw2_true_prospective_c9_v1/07_gw2_c9_fpl_xi.json",
+    "gw2_c9_fpl_top30_v1": "reports/dry_run/gw2_true_prospective_c9_v1/05_gw2_c9_fpl_top30.csv"
+  },
+  "root_cause": "Previous dry-run sprint inadvertently used stale historical squad template containing departed players (Salah, Trent, Faes, Fabianski) and outdated price valuations (Haaland 15.0m vs 15.5m, Palmer 10.5m vs 9.5m, Isak at Newcastle vs Liverpool).",
+  "preserved_for_audit": true
+}

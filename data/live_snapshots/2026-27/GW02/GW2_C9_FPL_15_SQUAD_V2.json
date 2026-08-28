@@ -1,0 +1,114 @@
+{
+  "version": "V2_CORRECTED",
+  "total_cost": 99.8,
+  "money_in_bank": 0.2,
+  "formation": "3-4-3",
+  "starting_xi_base_xp": 66.9,
+  "squad": [
+    {
+      "position": "GK",
+      "player": "Konstantinos Tzolakis",
+      "club": "Hull City",
+      "price": 4.5,
+      "xp": 4.6
+    },
+    {
+      "position": "GK",
+      "player": "Jason Steele",
+      "club": "Brighton",
+      "price": 4.0,
+      "xp": 1.5
+    },
+    {
+      "position": "DEF",
+      "player": "Benjamin White",
+      "club": "Arsenal",
+      "price": 5.5,
+      "xp": 5.3
+    },
+    {
+      "position": "DEF",
+      "player": "Maxim De Cuyper",
+      "club": "Brighton",
+      "price": 4.6,
+      "xp": 5.8
+    },
+    {
+      "position": "DEF",
+      "player": "Michael Kayode",
+      "club": "Brentford",
+      "price": 4.6,
+      "xp": 4.8
+    },
+    {
+      "position": "DEF",
+      "player": "Antonee Robinson",
+      "club": "Fulham",
+      "price": 4.5,
+      "xp": 4.3
+    },
+    {
+      "position": "DEF",
+      "player": "Nobel Mendy",
+      "club": "Hull City",
+      "price": 4.0,
+      "xp": 4.2
+    },
+    {
+      "position": "MID",
+      "player": "Cole Palmer",
+      "club": "Chelsea",
+      "price": 9.5,
+      "xp": 7.6
+    },
+    {
+      "position": "MID",
+      "player": "Bukayo Saka",
+      "club": "Arsenal",
+      "price": 9.5,
+      "xp": 7.4
+    },
+    {
+      "position": "MID",
+      "player": "Cody Gakpo",
+      "club": "Liverpool",
+      "price": 7.0,
+      "xp": 6.5
+    },
+    {
+      "position": "MID",
+      "player": "Anton Stach",
+      "club": "Leeds",
+      "price": 6.0,
+      "xp": 5.1
+    },
+    {
+      "position": "MID",
+      "player": "Mamadou Sangar\u00e9",
+      "club": "Brentford",
+      "price": 5.6,
+      "xp": 4.9
+    },
+    {
+      "position": "FWD",
+      "player": "Erling Haaland",
+      "club": "Man City",
+      "price": 15.5,
+      "xp": 8.1
+    },
+    {
+      "position": "FWD",
+      "player": "Alexander Isak",
+      "club": "Liverpool",
+      "price": 9.0,
+      "xp": 7.2
+    },
+    {
+      "position": "FWD",
+      "player": "Evanilson",
+      "club": "Bournemouth",
+      "price": 6.0,
+      "xp": 4.5
+    }
+  ]
+}

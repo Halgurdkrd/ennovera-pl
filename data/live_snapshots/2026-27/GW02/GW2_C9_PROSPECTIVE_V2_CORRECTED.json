@@ -1,0 +1,92 @@
+[
+  {
+    "match": "Crystal Palace vs Man City",
+    "old_pick": "A (1-2)",
+    "new_p_h": 0.15,
+    "new_p_d": 0.22,
+    "new_p_a": 0.63,
+    "new_pick": "A (1-2)",
+    "delta": "-0.01 H, +0.01 A"
+  },
+  {
+    "match": "Liverpool vs Nott'm Forest",
+    "old_pick": "H (2-0)",
+    "new_p_h": 0.69,
+    "new_p_d": 0.19,
+    "new_p_a": 0.12,
+    "new_pick": "H (2-0)",
+    "delta": "-0.02 H, +0.01 D"
+  },
+  {
+    "match": "Bournemouth vs Everton",
+    "old_pick": "H (2-1)",
+    "new_p_h": 0.44,
+    "new_p_d": 0.28,
+    "new_p_a": 0.28,
+    "new_pick": "H (2-1)",
+    "delta": "-0.01 H, +0.01 A"
+  },
+  {
+    "match": "Coventry City vs Hull City",
+    "old_pick": "H (1-1)",
+    "new_p_h": 0.36,
+    "new_p_d": 0.3,
+    "new_p_a": 0.34,
+    "new_pick": "H (1-1)",
+    "delta": "-0.02 H, +0.02 A"
+  },
+  {
+    "match": "Spurs vs Newcastle",
+    "old_pick": "H (2-1)",
+    "new_p_h": 0.46,
+    "new_p_d": 0.26,
+    "new_p_a": 0.28,
+    "new_pick": "H (2-1)",
+    "delta": "+0.02 H, -0.02 A"
+  },
+  {
+    "match": "Chelsea vs Brighton",
+    "old_pick": "H (2-1)",
+    "new_p_h": 0.54,
+    "new_p_d": 0.24,
+    "new_p_a": 0.22,
+    "new_pick": "H (2-1)",
+    "delta": "+0.02 H, -0.01 A"
+  },
+  {
+    "match": "Leeds vs Brentford",
+    "old_pick": "H (1-1)",
+    "new_p_h": 0.39,
+    "new_p_d": 0.28,
+    "new_p_a": 0.33,
+    "new_pick": "H (1-1)",
+    "delta": "-0.01 H, +0.01 A"
+  },
+  {
+    "match": "Sunderland vs Fulham",
+    "old_pick": "A (1-2)",
+    "new_p_h": 0.33,
+    "new_p_d": 0.29,
+    "new_p_a": 0.38,
+    "new_pick": "A (1-2)",
+    "delta": "-0.01 H, +0.01 A"
+  },
+  {
+    "match": "Man Utd vs Ipswich Town",
+    "old_pick": "H (2-0)",
+    "new_p_h": 0.64,
+    "new_p_d": 0.21,
+    "new_p_a": 0.15,
+    "new_pick": "H (2-0)",
+    "delta": "-0.01 H, +0.01 A"
+  },
+  {
+    "match": "Aston Villa vs Arsenal",
+    "old_pick": "A (1-2)",
+    "new_p_h": 0.21,
+    "new_p_d": 0.25,
+    "new_p_a": 0.54,
+    "new_pick": "A (1-2)",
+    "delta": "-0.01 H, +0.02 A"
+  }
+]

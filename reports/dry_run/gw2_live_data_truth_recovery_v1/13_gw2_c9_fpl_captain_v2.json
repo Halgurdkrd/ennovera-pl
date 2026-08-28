@@ -1,0 +1,56 @@
+{
+  "captain": {
+    "player": "Erling Haaland",
+    "club": "Man City",
+    "price": 15.5,
+    "mean_xp": 8.1,
+    "captain_utility": 10.1,
+    "ceiling": 18,
+    "floor": 3,
+    "expected_minutes": 90,
+    "rotation_risk": "Very Low"
+  },
+  "vice_captain": {
+    "player": "Cole Palmer",
+    "club": "Chelsea",
+    "price": 9.5,
+    "mean_xp": 7.6,
+    "captain_utility": 9.4,
+    "ceiling": 17,
+    "floor": 2,
+    "expected_minutes": 88,
+    "rotation_risk": "Low"
+  },
+  "top_5_alternatives": [
+    {
+      "rank": 1,
+      "player": "Erling Haaland",
+      "mean_xp": 8.1,
+      "captain_utility": 10.1
+    },
+    {
+      "rank": 2,
+      "player": "Cole Palmer",
+      "mean_xp": 7.6,
+      "captain_utility": 9.4
+    },
+    {
+      "rank": 3,
+      "player": "Bukayo Saka",
+      "mean_xp": 7.4,
+      "captain_utility": 9.2
+    },
+    {
+      "rank": 4,
+      "player": "Alexander Isak",
+      "mean_xp": 7.2,
+      "captain_utility": 8.9
+    },
+    {
+      "rank": 5,
+      "player": "Cody Gakpo",
+      "mean_xp": 6.5,
+      "captain_utility": 8.0
+    }
+  ]
+}

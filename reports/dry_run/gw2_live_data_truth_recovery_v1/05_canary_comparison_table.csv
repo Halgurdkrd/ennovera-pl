@@ -1,0 +1,8 @@
+player,old_state,authenticated_state,result
+Erling Haaland,£15.0m,Man City | £15.5m,PRICE_MISMATCH_CORRECTED
+Cole Palmer,£10.5m,Chelsea | £9.5m,PRICE_MISMATCH_CORRECTED
+Alexander Isak,Newcastle | £8.5m,Liverpool | £9.0m,CLUB_AND_PRICE_CORRECTED
+Mohamed Salah,Liverpool | £12.5m,Departed (Not in FPL),INELIGIBLE_REMOVED
+Trent Alexander-Arnold,Liverpool | £7.0m,Departed (Not in FPL),INELIGIBLE_REMOVED
+Wout Faes,Leicester | £4.0m,Monaco (Not in PL/FPL),INELIGIBLE_REMOVED
+Lukasz Fabianski,West Ham | £4.0m,West Ham (Non-PL Club),INELIGIBLE_REMOVED

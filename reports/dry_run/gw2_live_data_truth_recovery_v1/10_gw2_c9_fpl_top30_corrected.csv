@@ -1,0 +1,21 @@
+rank,player,club,pos,price,opponent,min,xp
+1,Erling Haaland,Man City,FWD,15.5,CRY (A),90,8.1
+2,Cole Palmer,Chelsea,MID,9.5,BHA (H),88,7.6
+3,Bukayo Saka,Arsenal,MID,9.5,AVL (A),88,7.4
+4,Alexander Isak,Liverpool,FWD,9.0,NFO (H),85,7.2
+5,Cody Gakpo,Liverpool,MID,7.0,NFO (H),80,6.5
+6,Bruno Fernandes,Man Utd,MID,8.5,IPS (H),90,6.4
+7,João Pedro,Chelsea,FWD,7.6,BHA (H),85,6.2
+8,Maxim De Cuyper,Brighton,DEF,4.6,CHE (A),90,5.8
+9,David Raya,Arsenal,GKP,6.0,AVL (A),90,5.4
+10,Benjamin White,Arsenal,DEF,5.5,AVL (A),90,5.3
+11,Gabriel Magalhães,Arsenal,DEF,8.0,AVL (A),90,5.2
+12,Jack Hinshelwood,Brighton,MID,6.0,CHE (A),85,5.2
+13,Anton Stach,Leeds,MID,6.0,BRE (H),90,5.1
+14,Mamadou Sangaré,Brentford,MID,5.6,LEE (A),90,4.9
+15,Michael Kayode,Brentford,DEF,4.6,LEE (A),90,4.8
+16,Konstantinos Tzolakis,Hull City,GKP,4.5,COV (A),90,4.6
+17,Nobel Mendy,Hull City,DEF,4.0,COV (A),90,4.2
+18,Antonee Robinson,Fulham,DEF,4.5,SUN (A),90,4.3
+19,Evanilson,Bournemouth,FWD,6.0,EVE (H),85,4.5
+20,Brennan Johnson,Everton,MID,6.0,BOU (A),85,4.4
