@@ -1,0 +1,28 @@
+{
+  "candidate_id": "ENNOVERA_PL_R8_RF10_VALIDATION_CANDIDATE_V1",
+  "version": "1.0.0-shadow-candidate",
+  "created_at_utc": "2026-08-28T10:02:29.802307+00:00",
+  "base_architecture": "SIM3_DYNAMIC_MONTE_CARLO",
+  "recency_component": {
+    "type": "ADAPTIVE_EXPONENTIAL_DATE_DECAY",
+    "half_life_days": 365,
+    "manager_regime_reset": "SOFT_BAYESIAN_G2 (35% talent retention)",
+    "squad_turnover_acceleration": "1.35x when turnover > 30%",
+    "european_decay": "DATE_DECAY_365D"
+  },
+  "recent_form_component": {
+    "type": "OPPONENT_ADJUSTED_XG_RESIDUAL_RF10",
+    "window_size": 10,
+    "decay_weight": "EXPONENTIAL_0_12",
+    "opponent_adjustment": "EXPECTED_XG_RESIDUAL_LOG_LINEAR",
+    "venue_adjustment": "HOME_AWAY_STANDARDIZED",
+    "trophy_bonus": "NONE (0.0)"
+  },
+  "metrics_historical_walkforward": {
+    "rps": 0.1735,
+    "log_loss": 0.8642,
+    "accuracy": 58.9,
+    "brier": 0.499,
+    "ece": 0.007
+  }
+}

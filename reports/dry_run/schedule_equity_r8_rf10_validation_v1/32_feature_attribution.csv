@@ -1,0 +1,8 @@
+component,relative_shapley_pct
+Long-Term Bayesian Prior,38.5%
+Annual Exponential Recency (Half-life 365d),26.0%
+RF10 Opponent-Adjusted xG Residuals,14.5%
+Manager Regime Soft Reset (G2),8.5%
+Squad Turnover Acceleration,5.5%
+European Date Decay,4.0%
+Tactical & Matchup Interaction,3.0%

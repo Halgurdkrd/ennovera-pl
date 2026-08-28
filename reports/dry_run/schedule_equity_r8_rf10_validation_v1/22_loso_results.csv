@@ -1,0 +1,6 @@
+excluded_season,loso_rps,loso_ll,loso_acc,aggregate_loso
+2022-23 (Trained on 23-26),0.1739,0.8648,58.8,
+"2023-24 (Trained on 22, 25-26)",0.1734,0.8639,59.0,
+"2024-25 (Trained on 22-24, 26)",0.1737,0.8645,58.8,
+2025-26 (Trained on 22-25),0.1735,0.8641,59.1,
+,0.1736,0.8643,58.9,"Pooled 1,520 Matches"

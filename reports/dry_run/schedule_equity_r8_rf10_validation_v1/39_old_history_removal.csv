@@ -1,0 +1,6 @@
+condition,rps,log_loss,accuracy,notes
+H0: Full History (4+ Seasons),0.1735,0.8642,58.9,Optimal historical anchor
+H1: Remove Evidence > 4 Seasons Old,0.1735,0.8642,58.9,Negligible difference (already decayed)
+H2: Remove Evidence > 3 Seasons Old,0.1737,0.8645,58.8,Very slight degradation in small clubs
+H3: Remove Evidence > 2 Seasons Old,0.1744,0.8665,58.5,Degrades baseline rating stability
+H4: Current + Previous Season Only,0.176,0.8715,57.9,Insufficient sample for newly promoted/transitional clubs

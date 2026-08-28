@@ -1,0 +1,4 @@
+fixture_scenario,pre_exp_pts,result,title_prob_delta_isolated,schedule_consumption_impact
+Easiest Home Fixture (e.g. vs Promoted),2.55,"2-0 Win (+3 pts, +2 GD)",+0.70 pp,TINY_SURPRISE
+Median Fixture (e.g. Mid-table Away),1.85,"2-0 Win (+3 pts, +2 GD)",+2.40 pp,MODERATE_SURPRISE
+Hardest Away Fixture (e.g. Top 4 Away),1.15,"2-0 Win (+3 pts, +2 GD)",+5.85 pp,MASSIVE_SURPRISE

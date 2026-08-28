@@ -1,0 +1,4 @@
+configuration,rps,log_loss,brier,accuracy,verdict
+Control (Individual Fixture Simulation Only - No Aggregate Feature),0.1748,0.868,0.502,58.4,CLEAN_BASELINE
+Control + Redundant Explicit Schedule Difficulty Multiplier,0.1762,0.8745,0.5065,57.8,AGGREGATE_SCHEDULE_HARMFUL
+Control with Uniform Remaining Opponent (No Schedule Awareness),0.1795,0.886,0.515,56.5,FIXTURE_SCHEDULE_ESSENTIAL

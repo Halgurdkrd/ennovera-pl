@@ -1,0 +1,5 @@
+window,frozen_rps,r8_rps,rf10_rps,r8_rf10_rps,acc
+First 3 Matches,0.184,0.178,0.1805,0.1775,57.5
+First 5 Matches,0.1825,0.177,0.179,0.1762,57.8
+First 10 Matches,0.1805,0.1758,0.1775,0.175,58.2
+First 20 Matches,0.1795,0.175,0.1765,0.1744,58.4

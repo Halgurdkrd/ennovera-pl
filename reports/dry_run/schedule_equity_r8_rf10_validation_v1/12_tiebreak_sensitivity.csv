@@ -1,0 +1,5 @@
+tiebreak_rule,man_city_title_pct,arsenal_title_pct,liverpool_title_pct,gd_influence_pp
+T0: Points Only (Random Tiebreak),49.8,26.2,22.8,0.00
+T1: Points -> Goal Difference,52.3,23.85,22.4,"+2.50 (City), -2.35 (Ars)"
+T2: Points -> Goal Difference -> Goals For,52.45,23.73,22.38,"+2.65 (City), -2.47 (Ars)"
+T3: Full Official Premier League Rules,52.45,23.73,22.38,Exact Identity with T2

@@ -1,0 +1,4 @@
+fixture_tested,state_a_realized_expected_1_25pts,state_b_unplayed_fixture,delta_pp,verdict,state_a_realized_expected_2_55pts,state_a_realized_expected_2_60pts
+Liverpool at Newcastle (A),15.48,15.53,-0.05,INVARIANT (Within MC Tolerance),,
+Arsenal vs Coventry (H),,37.5,-0.08,INVARIANT (Within MC Tolerance),37.42,
+Man City vs Bournemouth (H),,45.0,-0.05,INVARIANT (Within MC Tolerance),,44.95

@@ -1,0 +1,8 @@
+# SCHEDULE EQUITY & R8/RF10 FINAL DRY-RUN VALIDATION SCOPE
+
+- **Program:** `ENNOVERA_PL_SCHEDULE_EQUITY_AND_R8_RF10_FINAL_DRY_RUN_VALIDATION_V1`
+- **Mode:** `DRY_RUN = TRUE`
+- **PL Control Manifest Hash:** `2e1f294dbf47cd70088342ae16ad8a50b579ba728cf9b9f64c551c51f799ee5f` (**MATCH**)
+- **FPL Control Manifest Hash:** `7d4bac2af06b06c13bf81d5036a403cb3173266f5dca0c16011440f47c71af5d` (**MATCH**)
+- **Frozen GW2 Plan Hash:** `a4f87e16b805d8fbfb956bc371d5aea45695d5b1b8493f9e362e114a378e1c2e` (**MATCH**)
+- **Prospective Snapshot Registry Hash:** `13d60f5824db4315df42eb631c306572d6100e189946f630ebed499e8638e266` (**MATCH**)

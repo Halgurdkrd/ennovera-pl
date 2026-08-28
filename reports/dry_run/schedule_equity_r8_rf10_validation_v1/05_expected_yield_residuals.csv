@@ -1,0 +1,4 @@
+fixture,venue,exp_pts,act_pts,pts_residual,exp_gd,act_gd,gd_residual,exp_xg,obs_xg,xg_residual,exp_xga,obs_xga,xga_residual,sched_diff_before,sched_diff_after
+Arsenal vs Coventry City,Home,2.55,3,0.45,2.1,2,-0.1,2.45,2.4,-0.05,0.35,0.3,-0.05,0.0,0.014
+Man City vs Bournemouth,Home,2.6,3,0.4,2.45,3,0.55,2.85,3.1,0.25,0.4,0.35,-0.05,0.0,0.008
+Newcastle vs Liverpool,Away,1.25,3,1.75,0.15,1,0.85,1.65,1.85,0.2,1.5,1.2,-0.3,0.0,-0.022

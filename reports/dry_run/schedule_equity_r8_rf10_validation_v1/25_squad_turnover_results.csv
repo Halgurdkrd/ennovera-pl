@@ -1,0 +1,4 @@
+turnover_tier,frozen_rps,r8_rps,rf10_rps,r8_rf10_rps,acc
+Low Turnover (<15%),0.1725,0.172,0.1722,0.1718,59.4
+Medium Turnover (15-30%),0.176,0.1748,0.1752,0.1744,58.5
+High Turnover (>30%),0.182,0.1775,0.1785,0.1768,57.6

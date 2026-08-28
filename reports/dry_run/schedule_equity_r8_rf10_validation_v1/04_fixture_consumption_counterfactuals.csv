@@ -1,0 +1,19 @@
+team,stage,title_pct,exp_points,notes
+Liverpool,S0: Preseason Baseline,15.53,75.6,380 unplayed fixtures baseline
+Liverpool,"S1: Remove Newcastle (A), award expected points (1.25 pts)",15.48,75.6,Uncertainty reduction only; no performance surprise
+Liverpool,S2: Award actual 3 points (no GD / latent update),20.8,77.3,+1.75 pts yield overperformance transfers title equity
+Liverpool,"S3: Add actual GD (+1 GD, 2 GF)",21.4,77.3,Standard tiebreak ledger update
+Liverpool,S4: Add latent team-state micro-update (alpha=0.08),21.9,77.4,Slight attack rating increase
+Liverpool,S5: Full Current Implementation,22.38,77.4,Full 20-team interaction across 370 remaining fixtures
+Arsenal,S0: Preseason Baseline,37.5,77.2,380 unplayed fixtures baseline
+Arsenal,"S1: Remove Coventry (H), award expected points (2.55 pts)",37.42,77.2,Uncertainty reduction only
+Arsenal,S2: Award actual 3 points (net yield overperformance +0.45 pts),38.2,77.7,Slight absolute gain in isolated run
+Arsenal,"S3: Add actual GD (+2 GD, 2 GF)",38.6,77.7,Clean sheet and +2 GD
+Arsenal,S4: Add latent team-state micro-update,38.8,77.7,Defence rating solidifies to -0.404
+Arsenal,S5: Full Current Implementation (Competitors Updated),23.73,77.7,Compressed when City (+3 GD) and Liverpool (+1.75 pts yield) update
+Man City,S0: Preseason Baseline,45.0,81.7,380 unplayed fixtures baseline
+Man City,"S1: Remove Bournemouth (H), award expected points (2.60 pts)",44.95,81.7,Uncertainty reduction only
+Man City,S2: Award actual 3 points (net yield +0.40 pts),45.6,82.1,+0.40 pts net schedule gain
+Man City,"S3: Add actual GD (+3 GD, 3 GF)",48.2,82.1,Major GD tiebreak expansion
+Man City,S4: Add latent team-state micro-update,49.1,82.1,Attack updates to 0.426
+Man City,S5: Full Current Implementation,52.45,82.1,Full 20-team interaction

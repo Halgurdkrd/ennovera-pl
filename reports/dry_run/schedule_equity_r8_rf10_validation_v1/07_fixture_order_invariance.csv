@@ -1,0 +1,4 @@
+team,mean_title_pct,sd_title_pct,min_title_pct,max_title_pct,invariance_verdict
+Man City,45.02,0.18,44.55,45.45,INVARIANT (MC Noise Only)
+Arsenal,37.48,0.16,37.1,37.85,INVARIANT (MC Noise Only)
+Liverpool,15.52,0.12,15.25,15.8,INVARIANT (MC Noise Only)

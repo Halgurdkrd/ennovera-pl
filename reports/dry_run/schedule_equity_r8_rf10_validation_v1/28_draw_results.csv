@@ -1,0 +1,5 @@
+model,draw_recall,draw_precision,draw_brier,draw_log_loss
+Frozen Control,0.282,0.315,0.188,0.548
+R8 Challenger,0.288,0.32,0.186,0.544
+RF10 Candidate,0.285,0.318,0.187,0.546
+R8 + RF10 Hybrid,0.291,0.324,0.184,0.541

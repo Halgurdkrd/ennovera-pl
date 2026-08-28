@@ -1,0 +1,4 @@
+feature_set,rps,log_loss,accuracy,verdict,delta_rps,notes
+Match-level decayed strength only (No Trophy Label),0.1735,0.8642,58.9,,,
+Match-level decayed strength + Explicit Trophy Label (+X bonus),0.1748,0.8682,58.3,,,
+,,,,TROPHY_LABEL_REDUNDANT_AND_HARMFUL,+0.0013 (Degradation),Adding an arbitrary trophy bonus overfits historical champions and reduces predictive calibration

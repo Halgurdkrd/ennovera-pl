@@ -1,0 +1,5 @@
+preseason_title_threshold,n_teams,mean_abs_gw1_delta,cal_error
+> 5%,28,3.45,0.005
+> 10%,16,5.8,0.006
+> 20%,10,8.9,0.007
+> 30%,6,11.2,0.008

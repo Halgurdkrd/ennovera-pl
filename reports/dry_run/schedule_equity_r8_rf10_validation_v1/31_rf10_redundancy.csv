@@ -1,0 +1,5 @@
+test_condition,rps,log_loss,notes
+R8 Baseline (No RF10),0.1738,0.865,Base adaptive recency
+R8 + Full RF10 (Opponent xG Residuals),0.1735,0.8642,Complementary micro-signal (-0.0003 RPS)
+R8 + Shuffled RF10 (Permutation Noise),0.1742,0.8665,"Permuting RF10 degrades performance, proving signal integrity"
+RF10 Alone (No Bayesian State),0.1782,0.882,Fails without long-term Bayesian anchor

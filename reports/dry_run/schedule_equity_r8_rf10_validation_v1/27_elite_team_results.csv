@@ -1,0 +1,4 @@
+match_type,frozen_rps,r8_rps,rf10_rps,r8_rf10_rps,acc
+Contender vs Contender (Top 4 Pre-match),0.188,0.1845,0.1852,0.1838,55.4
+Contender vs Mid-table,0.169,0.1678,0.1682,0.1672,61.2
+Contender vs Relegation Candidate,0.145,0.1442,0.1445,0.1438,67.5
