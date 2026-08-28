@@ -1,0 +1,4 @@
+entity,source_a,source_b,selected_truth,rule
+Alexander Isak Club,Stale 2024-25 Template (Newcastle),Official PL 2026-27 Roster (Liverpool),Liverpool,LATEST_EFFECTIVE_TRANSACTION_WINS
+Mohamed Salah Status,Stale 2024-25 Template (Liverpool),Official PL 2026-27 Roster (Departed),Ineligible / Purged,LATEST_EFFECTIVE_TRANSACTION_WINS
+Erling Haaland Price,Stale Template (£15.0m),Live FPL Bootstrap (£15.5m),£15.5m,LIVE_BOOTSTRAP_WINS

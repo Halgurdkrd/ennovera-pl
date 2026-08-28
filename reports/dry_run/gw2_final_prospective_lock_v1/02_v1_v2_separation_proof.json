@@ -1,0 +1,12 @@
+{
+  "v1_artifact_path": "reports/dry_run/gw2_true_prospective_c9_v1/06_gw2_c9_fpl_15_player_squad.json",
+  "v2_artifact_path": "data/live_snapshots/2026-27/GW02/GW2_C9_FPL_15_SQUAD_V2.json",
+  "v1_created_at": "2026-08-28T15:10:00Z",
+  "v1_invalidation_timestamp": "2026-08-28T15:14:00Z",
+  "v1_status": "GW2_PROSPECTIVE_INVALIDATED_PRE_KICKOFF_DATA_TRUTH_FAILURE",
+  "v2_created_at": "2026-08-28T15:14:00Z",
+  "v2_freeze_timestamp": "2026-08-28T15:14:00Z",
+  "fpl_deadline": "2026-08-28T17:30:00Z",
+  "distinct_artifacts": true,
+  "v1_preserved_for_audit": true
+}

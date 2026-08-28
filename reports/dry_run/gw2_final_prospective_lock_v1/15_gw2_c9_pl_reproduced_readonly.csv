@@ -1,0 +1,11 @@
+match,old_pick,new_p_h,new_p_d,new_p_a,new_pick,delta
+Crystal Palace vs Man City,A (1-2),0.15,0.22,0.63,A (1-2),"-0.01 H, +0.01 A"
+Liverpool vs Nott'm Forest,H (2-0),0.69,0.19,0.12,H (2-0),"-0.02 H, +0.01 D"
+Bournemouth vs Everton,H (2-1),0.44,0.28,0.28,H (2-1),"-0.01 H, +0.01 A"
+Coventry City vs Hull City,H (1-1),0.36,0.3,0.34,H (1-1),"-0.02 H, +0.02 A"
+Spurs vs Newcastle,H (2-1),0.46,0.26,0.28,H (2-1),"+0.02 H, -0.02 A"
+Chelsea vs Brighton,H (2-1),0.54,0.24,0.22,H (2-1),"+0.02 H, -0.01 A"
+Leeds vs Brentford,H (1-1),0.39,0.28,0.33,H (1-1),"-0.01 H, +0.01 A"
+Sunderland vs Fulham,A (1-2),0.33,0.29,0.38,A (1-2),"-0.01 H, +0.01 A"
+Man Utd vs Ipswich Town,H (2-0),0.64,0.21,0.15,H (2-0),"-0.01 H, +0.01 A"
+Aston Villa vs Arsenal,A (1-2),0.21,0.25,0.54,A (1-2),"-0.01 H, +0.02 A"

@@ -1,0 +1,15 @@
+{
+  "program": "ENNOVERA_GW2_FINAL_PROSPECTIVE_INTEGRITY_LOCK_V1",
+  "status": "GW2_C9_PROSPECTIVE_V2_LOCKED",
+  "created_at": "2026-08-28T15:35:00Z",
+  "original_prediction_created_at": "2026-08-28T15:14:00Z",
+  "prediction_cutoff": "2026-08-28T15:14:00Z",
+  "fpl_deadline": "2026-08-28T17:30:00Z",
+  "pl_model_sha256": "2e1f294dbf47cd70088342ae16ad8a50b579ba728cf9b9f64c551c51f799ee5f",
+  "fpl_model_sha256": "7d4bac2af06b06c13bf81d5036a403cb3173266f5dca0c16011440f47c71af5d",
+  "bootstrap_sha256": "72d750dd999565a31a02b0e6d017ebeccc36089f604b63aaef388d44a9c2d229",
+  "squad_v2_sha256": "47822dcfa46e80a10d3e846c215bed304a132861b1cd0f7d6c6532c3deb6a3e7",
+  "pl_predictions_v2_sha256": "07db1a6ff58675a1f4c8fdf5549e2916c6b23ec5a3f93dada86c3e864a36af0f",
+  "captain_v2_sha256": "ae9d69b588396d1eed2eeb7e439b197481633855de13740367e40e40b3336752",
+  "prospective_certification": "GW2_TRUE_PROSPECTIVE_CERTIFIED"
+}

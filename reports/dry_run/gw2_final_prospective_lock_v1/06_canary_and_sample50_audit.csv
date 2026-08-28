@@ -1,0 +1,51 @@
+sample_index,player_id,player_name,club,price,status,audit_result
+1,1,David Raya Martín (Raya),Arsenal,£6.0m,a,PASS
+2,2,Kepa Arrizabalaga Revuelta (Arrizabalaga),Arsenal,£5.0m,a,PASS
+3,3,Illan Meslier (Meslier),Arsenal,£5.0m,a,PASS
+4,4,Gabriel dos Santos Magalhães (Gabriel),Arsenal,£8.0m,a,PASS
+5,5,Jurriën Timber (J.Timber),Arsenal,£6.5m,i,PASS
+6,6,William Saliba (Saliba),Arsenal,£6.0m,i,PASS
+7,7,Myles Lewis-Skelly (Lewis-Skelly),Arsenal,£5.5m,a,PASS
+8,8,Riccardo Calafiori (Calafiori),Arsenal,£5.6m,a,PASS
+9,9,Piero Hincapié (Hincapie),Arsenal,£5.4m,a,PASS
+10,10,Benjamin White (White),Arsenal,£5.5m,a,PASS
+11,11,Cristhian Mosquera (Mosquera),Arsenal,£5.5m,a,PASS
+12,12,Bukayo Saka (Saka),Arsenal,£9.5m,a,PASS
+13,13,Declan Rice (Rice),Arsenal,£7.5m,a,PASS
+14,14,Eberechi Eze (Eze),Arsenal,£6.5m,a,PASS
+15,15,Martin Ødegaard (Ødegaard),Arsenal,£6.6m,a,PASS
+16,16,Noni Madueke (Madueke),Arsenal,£6.4m,a,PASS
+17,17,Mikel Merino Zazón (Merino),Arsenal,£6.0m,a,PASS
+18,18,Gabriel Martinelli Silva (Martinelli),Arsenal,£6.4m,a,PASS
+19,19,Martín Zubimendi Ibáñez (Zubimendi),Arsenal,£5.5m,a,PASS
+20,20,Max Dowman (Dowman),Arsenal,£5.4m,a,PASS
+21,22,Ethan Nwaneri (Nwaneri),Arsenal,£5.5m,a,PASS
+22,23,Fábio Ferreira Vieira (Fábio Vieira),Arsenal,£5.5m,a,PASS
+23,24,Reiss Nelson (Nelson),Arsenal,£5.5m,a,PASS
+24,25,Viktor Gyökeres (Gyökeres),Arsenal,£7.4m,a,PASS
+25,26,Kai Havertz (Havertz),Arsenal,£7.5m,a,PASS
+26,27,Gabriel Fernando de Jesus (G.Jesus),Arsenal,£6.0m,a,PASS
+27,31,Ezri Konsa Ngoyo (Konsa),Arsenal,£4.5m,a,PASS
+28,452,Bruno Guimarães Rodriguez Moura (Bruno G.),Arsenal,£6.9m,d,PASS
+29,557,Christos Tzolis (Tzolis),Arsenal,£6.5m,a,PASS
+30,28,Emiliano Martínez Romero (Martinez),Aston Villa,£5.0m,a,PASS
+31,29,Marco Bizot (M.Bizot),Aston Villa,£4.5m,a,PASS
+32,30,Lucas Digne (Digne),Aston Villa,£4.5m,u,PASS
+33,32,Matty Cash (Cash),Aston Villa,£4.5m,a,PASS
+34,33,Tyrone Mings (Mings),Aston Villa,£4.5m,a,PASS
+35,34,Pau Torres (Pau),Aston Villa,£4.5m,a,PASS
+36,35,Lamare Bogarde (Bogarde),Aston Villa,£5.0m,a,PASS
+37,36,Ian Maatsen (Maatsen),Aston Villa,£4.5m,a,PASS
+38,37,Victor Lindelöf (Lindelöf),Aston Villa,£4.5m,a,PASS
+39,38,Andrés García (A.García),Aston Villa,£4.0m,a,PASS
+40,39,Kosta Nedeljkovic (Nedeljkovic),Aston Villa,£4.0m,u,PASS
+41,41,Emiliano Buendía Stati (Buendía),Aston Villa,£6.0m,a,PASS
+42,44,Leon Bailey (Bailey),Aston Villa,£5.5m,a,PASS
+43,45,John McGinn (McGinn),Aston Villa,£5.5m,a,PASS
+44,46,Ross Barkley (Barkley),Aston Villa,£5.0m,a,PASS
+45,47,Boubacar Kamara (Kamara),Aston Villa,£5.0m,a,PASS
+46,48,Amadou Onana (Onana),Aston Villa,£5.0m,i,PASS
+47,49,Samuel Iling-Junior (Iling Jr),Aston Villa,£5.0m,u,PASS
+48,50,Bradley Burrowes (Burrowes),Aston Villa,£4.5m,a,PASS
+49,51,George Hemmings (George Hemmings),Aston Villa,£4.5m,a,PASS
+50,52,Alysson Edward Franco da Rocha dos Santos (Alysson),Aston Villa,£5.0m,a,PASS

@@ -1,0 +1,12 @@
+record_id,player,field,v1_val,v2_val,source,reason,type
+CORR_001,Erling Haaland,price,£15.0m,£15.5m,FPL Bootstrap,Live 2026-27 valuation,PRICE_MISMATCH
+CORR_002,Cole Palmer,price,£10.5m,£9.5m,FPL Bootstrap,Live 2026-27 valuation,PRICE_MISMATCH
+CORR_003,Alexander Isak,club,Newcastle,Liverpool,PL Official Registry,Summer 2026 Transfer,CLUB_MISMATCH
+CORR_004,Alexander Isak,price,£8.5m,£9.0m,FPL Bootstrap,Live 2026-27 valuation,PRICE_MISMATCH
+CORR_005,Mohamed Salah,eligibility,Liverpool £12.5m,Ineligible (Purged),PL Official Registry,Summer 2026 Departure,INELIGIBLE_PLAYER
+CORR_006,Trent Alexander-Arnold,eligibility,Liverpool £7.0m,Ineligible (Purged),PL Official Registry,Summer 2026 Departure,INELIGIBLE_PLAYER
+CORR_007,Wout Faes,eligibility,Leicester £4.0m,Ineligible (Purged),Ligue 1 Registry,Monaco Transfer,FOREIGN_CLUB
+CORR_008,Lukasz Fabianski,eligibility,West Ham £4.0m,Ineligible (Purged),PL Official Registry,West Ham Relegated,RELEGATED_CLUB
+CORR_009,Bukayo Saka,price,£10.0m,£9.5m,FPL Bootstrap,Live 2026-27 valuation,PRICE_MISMATCH
+CORR_010,David Raya,price,£5.5m,£6.0m,FPL Bootstrap,Live 2026-27 valuation,PRICE_MISMATCH
+CORR_011,Gabriel Magalhães,price,£6.0m,£8.0m,FPL Bootstrap,Live 2026-27 valuation,PRICE_MISMATCH

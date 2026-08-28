@@ -1,0 +1,5 @@
+parameter,verified_value,status
+GW1 Form Shrinkage Weight (w_form),0.08,VERIFIED_IN_CONFIG
+Structural Prior Weight (w_prior),0.92,VERIFIED_IN_CONFIG
+Model Retraining on GW1,NO,VERIFIED_ZERO_RETRAINING
+Model Tuning on GW1,NO,VERIFIED_ZERO_TUNING

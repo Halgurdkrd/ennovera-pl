@@ -1,0 +1,9 @@
+{
+  "artifact_path": "data/live_snapshots/2026-27/GW02/bootstrap_predeadline.json",
+  "retrieval_timestamp": "2026-08-28T15:04:00Z",
+  "file_size_bytes": 2382414,
+  "player_count": 616,
+  "club_count": 20,
+  "sha256": "72d750dd999565a31a02b0e6d017ebeccc36089f604b63aaef388d44a9c2d229",
+  "source_identifier": "Official Fantasy Premier League API (GW2 Pre-Deadline Snapshot)"
+}

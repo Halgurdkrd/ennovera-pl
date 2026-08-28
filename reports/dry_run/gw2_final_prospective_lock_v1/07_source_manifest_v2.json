@@ -1,0 +1,28 @@
+{
+  "primary_live_sources": [
+    {
+      "name": "Official FPL Bootstrap Pre-Deadline Feed",
+      "path": "data/live_snapshots/2026-27/GW02/bootstrap_predeadline.json",
+      "hash": "72d750dd999565a31a02b0e6d017ebeccc36089f604b63aaef388d44a9c2d229",
+      "records": 615
+    },
+    {
+      "name": "Official Premier League Fixture Schedule",
+      "path": "data/live_snapshots/2026-27/GW02/fixtures_predeadline.json",
+      "hash": "600f30aa2941ac86f08049a8361f532d5ae9e776524d97f033a2d2de2d79fc20",
+      "records": 10
+    }
+  ],
+  "derived_internal_tables": [
+    {
+      "name": "Authenticated 20-Club Registry",
+      "path": "reports/dry_run/gw2_final_prospective_lock_v1/04_pl_20_clubs_authenticated.csv",
+      "records": 20
+    },
+    {
+      "name": "V2 Corrected Correction Ledger",
+      "path": "reports/dry_run/gw2_final_prospective_lock_v1/05_v1_to_v2_correction_ledger.csv",
+      "records": 11
+    }
+  ]
+}
