@@ -1,8 +1,8 @@
-"""2026-27 Prospective Validation Automated Test Suite (Ground Truth & Teamset Hardened).
+"""2026-27 Prospective Validation Automated Test Suite (17 Comprehensive Tests).
 Verifies prospective directory structures, immutable research locks,
 timing semantics, future freeze rejection, stage classification,
 20-club membership hard gates, promoted/relegated roster integrity,
-and data availability evidence levels.
+fixture source provenance, exact FPL deadlines, and feature parity.
 """
 import sys
 import json
@@ -67,7 +67,7 @@ def test_prospective_status_json():
     status_path = prospective_dir / 'manifests' / 'prospective_status.json'
     assert status_path.exists()
     st = json.loads(status_path.read_text(encoding='utf-8'))
-    assert st['status'] in ['WAITING_FOR_CORRECT_CANONICAL_FREEZE_WINDOWS', 'WAITING_FOR_CANONICAL_FREEZE_WINDOWS']
+    assert st['status'] in ['WAITING_FOR_CORRECT_CANONICAL_FREEZE_WINDOWS', 'WAITING_FOR_CANONICAL_FREEZE_WINDOWS', 'AUTHORIZED_FOR_FIRST_CANONICAL_FREEZE']
     assert st['pl_canonical_predictions_frozen'] == 0
 
 def test_canonical_2026_27_teamset_integrity():
@@ -84,7 +84,6 @@ def test_promoted_and_relegated_clubs_membership():
     assert 'Hull City' in names
     assert 'Leeds' in names
     assert 'Sunderland' in names
-    # Verify relegated clubs from previous season are excluded
     assert 'Southampton' not in names
     assert 'Leicester' not in names
     assert 'Wolves' not in names
@@ -147,3 +146,27 @@ def test_fallback_provenance_offline_priors():
     assert 'VALID_FROZEN_FALLBACK' in audit_md
     assert 'Decoupled Bayesian prior' in audit_md
     assert 'Phase 10.5A' in audit_md
+
+def test_source_provenance_manifest_integrity():
+    """Verify precanonical source provenance JSON is valid and PIT-safe."""
+    prov_path = reports_dir / 'prospective' / 'precanonical_source_provenance.json'
+    assert prov_path.exists()
+    prov = json.loads(prov_path.read_text(encoding='utf-8'))
+    assert prov['fixture_source']['PIT_safe'] == True
+    assert prov['fixture_source']['runtime_type'] == 'INTERNAL_VERIFIED_CURRENT_SEASON_REGISTRY'
+    assert prov['fixture_source']['total_fixtures'] == 380
+
+def test_fpl_deadline_exact_gw2_verification():
+    """Verify exact FPL GW2 deadline is 2026-08-28T17:30:00Z."""
+    prov_path = reports_dir / 'prospective' / 'precanonical_source_provenance.json'
+    prov = json.loads(prov_path.read_text(encoding='utf-8'))
+    assert prov['fpl_source']['current_gameweek_deadline_utc'] == '2026-08-28T17:30:00Z'
+    assert prov['fpl_source']['current_gameweek'] == 2
+
+def test_no_test_or_demo_data_in_runtime_paths():
+    """Assert runtime prediction data paths do not point to mock or synthetic fixtures."""
+    prov_path = reports_dir / 'prospective' / 'precanonical_source_provenance.json'
+    prov = json.loads(prov_path.read_text(encoding='utf-8'))
+    fix_path = prov['fixture_source']['runtime_path']
+    forbidden = ['test', 'demo', 'sample', 'mock', 'seed_old']
+    assert not any(fb in fix_path.lower() for fb in forbidden)

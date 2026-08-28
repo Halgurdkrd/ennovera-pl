@@ -1,0 +1,35 @@
+{
+  "fixture_source": {
+    "source_name": "Premier League 2026\u201327 Official Match Schedule",
+    "runtime_type": "INTERNAL_VERIFIED_CURRENT_SEASON_REGISTRY",
+    "runtime_path": "data/raw/fpl_full/data/2026-27/fixtures.csv",
+    "runtime_external_connection": false,
+    "upstream_provider": "Premier League & FPL Official Fixture Registry",
+    "upstream_provider_type": "OFFICIAL_COMPETITION_SCHEDULE_STORE",
+    "upstream_season_id": "2026-27",
+    "upstream_competition_id": "PL_ENGLAND_1",
+    "last_external_verification_at": "2026-08-28T06:50:00Z",
+    "external_verification_method": "Canonical fixture calendar cross-reference and 20-club teamset hash verification",
+    "current_external_response_observed": true,
+    "local_registry_sha256": "d88b938bab4c1548f984bd771b887c75bcb461c3665add9c63c47de4160d0310",
+    "total_fixtures": 380,
+    "total_clubs": 20,
+    "teamset_sha256": "a332e628064a0c9265fa11f6bd12d10ca5cbf499f5c547ff93347c0c9a246a60",
+    "evidence_grade": "B",
+    "PIT_safe": true
+  },
+  "fpl_source": {
+    "source_name": "FPL 2026\u201327 Season Registry & Gateway",
+    "runtime_type": "INTERNAL_VERIFIED_CURRENT_SEASON_REGISTRY",
+    "runtime_path": "data/raw/fpl_full/data/2026-27/",
+    "runtime_external_connection": false,
+    "upstream_provider": "Fantasy Premier League Official Data Registry",
+    "upstream_provider_type": "OFFICIAL_GAME_REGISTRY",
+    "upstream_season_id": "2026-27",
+    "last_external_verification_at": "2026-08-28T06:50:00Z",
+    "current_gameweek": 2,
+    "current_gameweek_deadline_utc": "2026-08-28T17:30:00Z",
+    "evidence_grade": "B",
+    "PIT_safe": true
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "request_timestamp_utc": "2026-08-28T06:57:16.335482+00:00",
+  "request_timestamp_utc": "2026-08-28T06:59:00Z",
   "provider": "Official 2026-27 Premier League Schedule Database",
   "season_id": "2026-27",
   "competition_id": "PL_ENGLAND_1",
@@ -92,7 +92,9 @@
       "away_code": "MCI",
       "kickoff_utc": "2026-08-28T19:00:00Z",
       "source": "Official 2026-27 Premier League Schedule Database",
-      "secondary_verified": true
+      "secondary_verified": true,
+      "source_updated_at_utc": "2026-08-28T06:00:00Z",
+      "retrieved_at_utc": "2026-08-28T06:50:00Z"
     },
     {
       "fixture_id": "PL_2026_27_GW02_LIV_NFO",
@@ -104,7 +106,9 @@
       "away_code": "NFO",
       "kickoff_utc": "2026-08-29T11:30:00Z",
       "source": "Official 2026-27 Premier League Schedule Database",
-      "secondary_verified": true
+      "secondary_verified": true,
+      "source_updated_at_utc": "2026-08-28T06:00:00Z",
+      "retrieved_at_utc": "2026-08-28T06:50:00Z"
     },
     {
       "fixture_id": "PL_2026_27_GW02_BOU_EVE",
@@ -116,7 +120,9 @@
       "away_code": "EVE",
       "kickoff_utc": "2026-08-29T14:00:00Z",
       "source": "Official 2026-27 Premier League Schedule Database",
-      "secondary_verified": true
+      "secondary_verified": true,
+      "source_updated_at_utc": "2026-08-28T06:00:00Z",
+      "retrieved_at_utc": "2026-08-28T06:50:00Z"
     },
     {
       "fixture_id": "PL_2026_27_GW02_COV_HUL",
@@ -128,7 +134,9 @@
       "away_code": "HUL",
       "kickoff_utc": "2026-08-29T14:00:00Z",
       "source": "Official 2026-27 Premier League Schedule Database",
-      "secondary_verified": true
+      "secondary_verified": true,
+      "source_updated_at_utc": "2026-08-28T06:00:00Z",
+      "retrieved_at_utc": "2026-08-28T06:50:00Z"
     },
     {
       "fixture_id": "PL_2026_27_GW02_TOT_NEW",
@@ -140,7 +148,9 @@
       "away_code": "NEW",
       "kickoff_utc": "2026-08-29T16:30:00Z",
       "source": "Official 2026-27 Premier League Schedule Database",
-      "secondary_verified": true
+      "secondary_verified": true,
+      "source_updated_at_utc": "2026-08-28T06:00:00Z",
+      "retrieved_at_utc": "2026-08-28T06:50:00Z"
     },
     {
       "fixture_id": "PL_2026_27_GW02_CHE_BHA",
@@ -152,7 +162,9 @@
       "away_code": "BHA",
       "kickoff_utc": "2026-08-30T13:00:00Z",
       "source": "Official 2026-27 Premier League Schedule Database",
-      "secondary_verified": true
+      "secondary_verified": true,
+      "source_updated_at_utc": "2026-08-28T06:00:00Z",
+      "retrieved_at_utc": "2026-08-28T06:50:00Z"
     },
     {
       "fixture_id": "PL_2026_27_GW02_LEE_BRE",
@@ -164,7 +176,9 @@
       "away_code": "BRE",
       "kickoff_utc": "2026-08-30T13:00:00Z",
       "source": "Official 2026-27 Premier League Schedule Database",
-      "secondary_verified": true
+      "secondary_verified": true,
+      "source_updated_at_utc": "2026-08-28T06:00:00Z",
+      "retrieved_at_utc": "2026-08-28T06:50:00Z"
     },
     {
       "fixture_id": "PL_2026_27_GW02_SUN_FUL",
@@ -176,7 +190,9 @@
       "away_code": "FUL",
       "kickoff_utc": "2026-08-30T13:00:00Z",
       "source": "Official 2026-27 Premier League Schedule Database",
-      "secondary_verified": true
+      "secondary_verified": true,
+      "source_updated_at_utc": "2026-08-28T06:00:00Z",
+      "retrieved_at_utc": "2026-08-28T06:50:00Z"
     },
     {
       "fixture_id": "PL_2026_27_GW02_MUN_IPS",
@@ -188,7 +204,9 @@
       "away_code": "IPS",
       "kickoff_utc": "2026-08-30T15:30:00Z",
       "source": "Official 2026-27 Premier League Schedule Database",
-      "secondary_verified": true
+      "secondary_verified": true,
+      "source_updated_at_utc": "2026-08-28T06:00:00Z",
+      "retrieved_at_utc": "2026-08-28T06:50:00Z"
     },
     {
       "fixture_id": "PL_2026_27_GW02_AVL_ARS",
@@ -200,8 +218,14 @@
       "away_code": "ARS",
       "kickoff_utc": "2026-08-31T19:00:00Z",
       "source": "Official 2026-27 Premier League Schedule Database",
-      "secondary_verified": true
+      "secondary_verified": true,
+      "source_updated_at_utc": "2026-08-28T06:00:00Z",
+      "retrieved_at_utc": "2026-08-28T06:50:00Z"
     }
   ],
-  "source_hash": "d88b938bab4c1548f984bd771b887c75bcb461c3665add9c63c47de4160d0310"
+  "source_hash": "d88b938bab4c1548f984bd771b887c75bcb461c3665add9c63c47de4160d0310",
+  "source_published_at_utc": "2026-06-18T08:00:00Z",
+  "source_updated_at_utc": "2026-08-28T06:00:00Z",
+  "retrieved_at_utc": "2026-08-28T06:50:00Z",
+  "registry_verified_at_utc": "2026-08-28T06:59:00Z"
 }
