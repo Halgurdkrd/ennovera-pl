@@ -1,0 +1,7 @@
+prior_multiplier,man_city_title_pct,arsenal_title_pct,liverpool_title_pct,man_city_exp_pts,arsenal_exp_pts,liverpool_exp_pts,ranking_order
+0.0,5.01,5.23,4.83,51.5,51.4,51.5,Brighton > Arsenal > Spurs
+0.25,19.33,18.02,13.86,59.5,59.1,57.7,Man City > Arsenal > Liverpool
+0.5,32.45,30.33,18.25,67.3,66.8,64.1,Man City > Arsenal > Liverpool
+0.75,40.25,35.69,17.59,74.6,73.9,70.1,Man City > Arsenal > Liverpool
+1.0,45.0,37.5,15.53,81.6,80.5,75.9,Man City > Arsenal > Liverpool
+1.25,48.23,38.03,13.31,87.5,86.2,81.1,Man City > Arsenal > Liverpool

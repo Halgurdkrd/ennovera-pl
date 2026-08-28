@@ -1,0 +1,3 @@
+score_model,man_city_title_pct,arsenal_title_pct,liverpool_title_pct,avg_draw_rate,points_spread_sd
+Independent Bivariate Poisson,48.2,38.8,11.4,22.4%,16.4
+Dixon-Coles Copula (rho = -0.115),45.0,37.5,15.53,26.8%,14.8

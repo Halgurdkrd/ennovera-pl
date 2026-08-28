@@ -1,0 +1,14 @@
+stage_id,stage_name,man_city_title_pct,arsenal_title_pct,liverpool_title_pct,delta_city,delta_arsenal,delta_liverpool
+A0,Old Production Architecture (Static SIM0),54.4,34.2,1.9,0.0,0.0,0.0
+A1,+ Dynamic Bayesian Team State,51.8,35.1,8.5,-2.6,0.9,6.6
+A2,+ Final Player / Expected-XI Adjustment,50.2,36.4,9.8,-1.6,1.3,1.3
+A3,+ Player Attack / Replacement Quality,48.9,36.9,11.2,-1.3,0.5,1.4
+A4,+ DefCon Defensive Resistance,48.1,37.8,11.8,-0.8,0.9,0.6
+A5,+ Set Pieces / Dead-Ball Hierarchy,47.8,38.2,12.1,-0.3,0.4,0.3
+A6,+ Tactical Matchup Interactions,47.4,38.4,12.4,-0.4,0.2,0.3
+A7,+ Cross-Competition Performance,46.8,38.9,12.7,-0.6,0.5,0.3
+A8,+ Fatigue / Midweek Congestion,46.5,38.8,12.9,-0.3,-0.1,0.2
+A9,+ Manager Regime Context,46.2,38.6,13.1,-0.3,-0.2,0.2
+A10,+ Joint Dixon-Coles Copula Score Distribution,45.6,37.9,14.4,-0.6,-0.7,1.3
+A11,+ Dirichlet Probability Calibration,45.1,37.6,15.3,-0.5,-0.3,0.9
+A12,+ Final Dynamic Season Simulator (SIM3),45.0,37.5,15.53,-0.1,-0.1,0.23

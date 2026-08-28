@@ -1,0 +1,4 @@
+test_condition,man_city_title_pct,arsenal_title_pct,liverpool_title_pct,man_city_exp_pts,arsenal_exp_pts,liverpool_exp_pts
+Full Certified Model (History + Squad + Dynamic State),45.0,37.5,15.53,81.6,80.5,75.9
+Current Player / Squad State Only (Zero Club Historical Prior),41.2,39.1,16.8,80.8,80.7,76.2
+Historical Club Brand Only (Zero Current Squad / XI Adjustment),51.4,32.8,12.1,83.2,79.1,74.5

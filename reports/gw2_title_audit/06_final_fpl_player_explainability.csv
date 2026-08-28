@@ -1,0 +1,9 @@
+player,club,position,historical_prior_pts,recent_form_pts,expected_minutes_factor,opponent_difficulty_adj,set_piece_bonus,penalty_bonus,defcon_contribution,final_xp
+Erling Haaland,Man City,FWD,4.24,0.3,0.9,0.35,0.0,0.65,0.35,6.52
+Mohamed Belloumi,Hull City,MID,1.9,0.45,0.9,-0.15,0.0,0.0,0.35,2.93
+Cole Palmer,Chelsea,MID,5.63,1.95,0.9,-0.15,0.45,0.65,0.35,8.66
+Bukayo Saka,Arsenal,MID,5.01,1.35,0.9,0.35,0.45,0.65,0.35,7.71
+Maxim De Cuyper,Brighton,DEF,5.58,2.55,0.9,-0.15,0.45,0.0,0.85,8.59
+Jack Hinshelwood,Brighton,MID,5.56,2.4,0.9,-0.15,0.0,0.0,0.35,8.55
+Gabriel dos Santos Magalhães,Arsenal,DEF,3.44,0.75,0.9,0.35,0.0,0.0,0.85,5.29
+David Raya Martín,Arsenal,GK,2.28,0.9,0.9,0.35,0.0,0.0,0.35,3.5

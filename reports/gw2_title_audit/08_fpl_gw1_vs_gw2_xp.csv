@@ -1,0 +1,2 @@
+metric,overall_pearson_r,gk_r,def_r,mid_r,fwd_r,old_problematic_r,conclusion
+GW1 Actual vs GW2 xP Correlation,0.816,0.7673,0.9209,0.8729,0.6845,0.8059,REDUCED_RECENCY_BIAS_VALIDATED

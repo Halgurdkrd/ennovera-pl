@@ -1,0 +1,19 @@
+team,component,source,effective_weight,contribution_to_rating,traceable_xg_delta
+Man City,Long-Term Attack Prior,Match event xG (2022-26),28%,+0.12,+0.25
+Man City,Recent Season Attack (2025-26),Official PL 2025-26,32%,+0.15,+0.30
+Man City,"Current Squad Quality (Haaland, Foden, Rodri)",Expected XI & xP,20%,+0.09,+0.18
+Man City,Manager Continuity (Guardiola),Manager Regime State,8%,+0.03,+0.06
+Man City,European Performance (UCL Semis),UEFA xG Logs,7%,+0.02,+0.04
+Man City,Set Pieces / Copula / DefCon,Micro-Models,5%,+0.01,+0.02
+Arsenal,Long-Term Defence Prior,Match event xGA (2022-26),30%,-0.14,-0.28
+Arsenal,Recent Season Defence (2025-26),Official PL 2025-26,34%,-0.16,-0.32
+Arsenal,"Current Squad Quality (Saka, Saliba, Gabriel)",Expected XI & DefCon,18%,+0.08,+0.15
+Arsenal,Manager Continuity (Arteta),Manager Regime State,8%,+0.04,+0.08
+Arsenal,European Performance (UCL Quarters/Semis),UEFA xG Logs,6%,+0.03,+0.06
+Arsenal,Set Pieces / Corners (Jover Engine),Dead-ball logs,4%,+0.02,+0.04
+Liverpool,Long-Term Attack Prior,Match event xG (2022-26),26%,+0.10,+0.20
+Liverpool,Recent Season Attack (2025-26),Official PL 2025-26,30%,+0.12,+0.24
+Liverpool,"Current Squad Quality (Salah, Gakpo, VVD)",Expected XI & xP,22%,+0.08,+0.16
+Liverpool,Manager Regime Update (Slot Continuity),Manager Regime State,10%,+0.03,+0.05
+Liverpool,European Performance (UCL Round of 16),UEFA xG Logs,7%,+0.02,+0.04
+Liverpool,Set Pieces / Transition,Micro-Models,5%,+0.01,+0.02
