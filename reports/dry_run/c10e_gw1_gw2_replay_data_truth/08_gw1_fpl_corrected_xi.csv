@@ -1,0 +1,16 @@
+role,player,club,pos,price,exp_mins,base_xp,c10e_env_adj,c10e_sp_adj,final_xp,status
+GK1,Konstantinos Tzolakis,Hull City,GK,4.5,90,4.35,0.15,0.1,4.6,STARTING_XI
+GK2,Jason Steele,Brighton,GK,4.0,0,0.15,0.0,0.0,0.15,BENCH_2
+DEF1,Benjamin White,Arsenal,DEF,5.5,90,4.75,0.35,0.2,5.3,STARTING_XI
+DEF2,Maxim De Cuyper,Brighton,DEF,4.6,90,4.95,0.45,0.4,5.8,STARTING_XI
+DEF3,Michael Kayode,Brentford,DEF,4.6,90,4.25,0.3,0.25,4.8,STARTING_XI
+DEF4,Antonee Robinson,Fulham,DEF,4.5,90,4.1,0.1,0.1,4.3,BENCH_1
+DEF5,Nobel Mendy,Hull City,DEF,4.0,90,3.9,0.15,0.15,4.2,BENCH_3
+MID1,Bukayo Saka,Arsenal,MID,9.5,88,6.25,0.65,0.5,7.4,STARTING_XI (VC)
+MID2,Cole Palmer,Chelsea,MID,9.5,88,6.45,0.6,0.55,7.6,STARTING_XI
+MID3,Cody Gakpo,Liverpool,MID,7.0,85,5.65,0.5,0.35,6.5,STARTING_XI
+MID4,Anton Stach,Leeds,MID,6.0,90,4.6,0.25,0.25,5.1,STARTING_XI
+MID5,Mamadou Sangaré,Brentford,MID,5.6,90,4.4,0.25,0.25,4.9,BENCH_0
+FWD1,Erling Haaland,Man City,FWD,15.5,90,7.25,0.55,0.3,8.1,STARTING_XI (C)
+FWD2,Alexander Isak,Liverpool,FWD,9.0,88,6.2,0.55,0.45,7.2,STARTING_XI
+FWD3,Evanilson,Bournemouth,FWD,6.0,85,4.1,0.25,0.15,4.5,STARTING_XI

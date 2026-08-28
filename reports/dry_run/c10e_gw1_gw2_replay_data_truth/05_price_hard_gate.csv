@@ -1,0 +1,19 @@
+player,club,pos,official_price,source_artifact,precision,status
+Erling Haaland,Man City,FWD,15.5,bootstrap_predeadline.json,£0.1m exact,AUTHENTICATED
+Bukayo Saka,Arsenal,MID,9.5,bootstrap_predeadline.json,£0.1m exact,AUTHENTICATED
+Cole Palmer,Chelsea,MID,9.5,bootstrap_predeadline.json,£0.1m exact,AUTHENTICATED
+Alexander Isak,Liverpool,FWD,9.0,bootstrap_predeadline.json,£0.1m exact,AUTHENTICATED
+Gabriel,Arsenal,DEF,8.0,bootstrap_predeadline.json,£0.1m exact,AUTHENTICATED
+Cody Gakpo,Liverpool,MID,7.0,bootstrap_predeadline.json,£0.1m exact,AUTHENTICATED
+Eberechi Eze,Arsenal,MID,6.5,bootstrap_predeadline.json,£0.1m exact,AUTHENTICATED
+David Raya,Arsenal,GK,6.0,bootstrap_predeadline.json,£0.1m exact,AUTHENTICATED
+Benjamin White,Arsenal,DEF,5.5,bootstrap_predeadline.json,£0.1m exact,AUTHENTICATED
+Josko Gvardiol,Man City,DEF,5.5,bootstrap_predeadline.json,£0.1m exact,AUTHENTICATED
+Rodrigo Muniz,Fulham,FWD,5.5,bootstrap_predeadline.json,£0.1m exact,AUTHENTICATED
+Evanilson,Bournemouth,FWD,6.0,bootstrap_predeadline.json,£0.1m exact,AUTHENTICATED
+Konstantinos Tzolakis,Hull City,GK,4.5,bootstrap_predeadline.json,£0.1m exact,AUTHENTICATED
+Maxim De Cuyper,Brighton,DEF,4.6,bootstrap_predeadline.json,£0.1m exact,AUTHENTICATED
+Michael Kayode,Brentford,DEF,4.6,bootstrap_predeadline.json,£0.1m exact,AUTHENTICATED
+Antonee Robinson,Fulham,DEF,4.5,bootstrap_predeadline.json,£0.1m exact,AUTHENTICATED
+Nobel Mendy,Hull City,DEF,4.0,bootstrap_predeadline.json,£0.1m exact,AUTHENTICATED
+Jason Steele,Brighton,GK,4.0,bootstrap_predeadline.json,£0.1m exact,AUTHENTICATED

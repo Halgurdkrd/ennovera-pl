@@ -1,0 +1,16 @@
+role,player,club,pos,price,final_xp,status
+GK1,Konstantinos Tzolakis,Hull City,GK,4.5,4.6,STARTING_XI
+GK2,Jason Steele,Brighton,GK,4.0,1.5,BENCH_2
+DEF1,Benjamin White,Arsenal,DEF,5.5,5.3,STARTING_XI
+DEF2,Maxim De Cuyper,Brighton,DEF,4.6,5.8,STARTING_XI
+DEF3,Michael Kayode,Brentford,DEF,4.6,4.8,STARTING_XI
+DEF4,Antonee Robinson,Fulham,DEF,4.5,4.3,BENCH_1
+DEF5,Nobel Mendy,Hull City,DEF,4.0,4.2,BENCH_3
+MID1,Cole Palmer,Chelsea,MID,9.5,7.6,STARTING_XI (VC)
+MID2,Bukayo Saka,Arsenal,MID,9.5,7.4,STARTING_XI
+MID3,Cody Gakpo,Liverpool,MID,7.0,6.5,STARTING_XI
+MID4,Anton Stach,Leeds,MID,6.0,5.1,STARTING_XI
+MID5,Mamadou Sangaré,Brentford,MID,5.6,4.9,BENCH_0
+FWD1,Erling Haaland,Man City,FWD,15.5,8.1,STARTING_XI (C)
+FWD2,Alexander Isak,Liverpool,FWD,9.0,7.2,STARTING_XI
+FWD3,Evanilson,Bournemouth,FWD,6.0,4.5,STARTING_XI

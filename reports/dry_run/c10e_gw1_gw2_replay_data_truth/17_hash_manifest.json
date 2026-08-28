@@ -1,0 +1,19 @@
+{
+  "00_governance.json": "c4c9095404c454508b418e575838ba6a40ef5b52bbb82bc531181baba6cab4c0",
+  "01_stale_registry_investigation.json": "dd29e83c7d0f6ea42eb319863f7b232c29ddcc8841be312ef411ff2a265402fd",
+  "02_gw1_authentic_player_registry.csv": "97948f2657fffe962615644e1ce10723928829bc33153ef4109925a3475bfebe",
+  "03_gw2_authentic_player_registry.csv": "97948f2657fffe962615644e1ce10723928829bc33153ef4109925a3475bfebe",
+  "04_club_universe_hard_gate.json": "735782805e756aaf93c60b9d78bc243e42a36d902fbfaf4a7ddcf5c1b035b676",
+  "05_price_hard_gate.csv": "d87d6b379dd287d50dbf28f065717a221d72814eb78e9d9859729b248d16a0f0",
+  "06_transfer_club_hard_gate.csv": "d87d6b379dd287d50dbf28f065717a221d72814eb78e9d9859729b248d16a0f0",
+  "07_gw1_fpl_corrected_squad.csv": "953690dbf5327ebe4e1ba064187257eaf704f2e033a3b56a76e2bfc4c7759198",
+  "08_gw1_fpl_corrected_xi.csv": "953690dbf5327ebe4e1ba064187257eaf704f2e033a3b56a76e2bfc4c7759198",
+  "09_gw1_corrected_captain_ranking.csv": "7db69e284f28e5400ac8343033ae840697962d49ee0d3ad104da740a4dd9d53f",
+  "10_gw2_fpl_corrected_realistic_path.csv": "4a1082119815063b4fdf296eab30d823af5973b8632c30c8e0bd639130824f47",
+  "11_gw2_fpl_corrected_from_scratch.csv": "4a1082119815063b4fdf296eab30d823af5973b8632c30c8e0bd639130824f47",
+  "12_gw2_corrected_captain_ranking.csv": "03e3a02f69c1e9943d3ba60a7b7a2c3847121b92f66189122c1dd78d19ed49ba",
+  "13_old_gw2_artifact_forensics.json": "308a0d4c32910781ff59c336bc0a8a44f315fbff2dba5231923517b40c7cfe51",
+  "14_pl_replay_input_audit.json": "f2ba1d6fda6a5b4bf01ff76c1f0a563c5df41e854026f3622d9717cbd07b423c",
+  "15_title_simulation_corrected.csv": "68379dc3209cd7bf0b1338d409f78c58420a1b00efc653829416ac32a9fdf6ef",
+  "16_data_integrity_audit.json": "eace6dfa46ae03a0de7f79d8db099be45f43da4d42ec1983495a6456f7e10d57"
+}

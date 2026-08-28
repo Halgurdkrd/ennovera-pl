@@ -1,0 +1,11 @@
+rank,player,club,pos,price,mean_xp,captain_utility,prob_10_plus,prob_15_plus,selection
+1,Erling Haaland,Man City,FWD,15.5,8.1,9.15,41.5%,21.8%,CAPTAIN
+2,Bukayo Saka,Arsenal,MID,9.5,7.4,8.25,37.8%,18.5%,VICE_CAPTAIN
+3,Cole Palmer,Chelsea,MID,9.5,7.6,8.35,38.5%,19.2%,-
+4,Alexander Isak,Liverpool,FWD,9.0,7.2,7.95,36.2%,17.4%,-
+5,Cody Gakpo,Liverpool,MID,7.0,6.5,7.15,32.0%,14.8%,-
+6,Maxim De Cuyper,Brighton,DEF,4.6,5.8,6.35,27.5%,11.5%,-
+7,Benjamin White,Arsenal,DEF,5.5,5.3,5.75,24.2%,9.8%,-
+8,Anton Stach,Leeds,MID,6.0,5.1,5.52,22.8%,8.9%,-
+9,Michael Kayode,Brentford,DEF,4.6,4.8,5.18,20.5%,7.5%,-
+10,Evanilson,Bournemouth,FWD,6.0,4.5,4.88,19.2%,6.8%,-

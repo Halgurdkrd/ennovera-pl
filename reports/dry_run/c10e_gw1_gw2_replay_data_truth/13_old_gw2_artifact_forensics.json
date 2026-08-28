@@ -1,0 +1,77 @@
+{
+  "artifact_path": "data/live_snapshots/2026-27/GW02/GW2_C9_PROSPECTIVE_V2_CORRECTED.json",
+  "sha256": "07db1a6ff58675a1f4c8fdf5549e2916c6b23ec5a3f93dada86c3e864a36af0f",
+  "old_gw2_artifact_authentic": "YES",
+  "stored_exact_probabilities": [
+    {
+      "match": "Crystal Palace vs Man City",
+      "p_h": 0.15,
+      "p_d": 0.22,
+      "p_a": 0.63,
+      "pick": "A (1-2)"
+    },
+    {
+      "match": "Liverpool vs Nott'm Forest",
+      "p_h": 0.69,
+      "p_d": 0.19,
+      "p_a": 0.12,
+      "pick": "H (2-0)"
+    },
+    {
+      "match": "Bournemouth vs Everton",
+      "p_h": 0.44,
+      "p_d": 0.28,
+      "p_a": 0.28,
+      "pick": "H (2-1)"
+    },
+    {
+      "match": "Coventry City vs Hull City",
+      "p_h": 0.36,
+      "p_d": 0.3,
+      "p_a": 0.34,
+      "pick": "H (1-1)"
+    },
+    {
+      "match": "Spurs vs Newcastle",
+      "p_h": 0.46,
+      "p_d": 0.26,
+      "p_a": 0.28,
+      "pick": "H (2-1)"
+    },
+    {
+      "match": "Chelsea vs Brighton",
+      "p_h": 0.54,
+      "p_d": 0.24,
+      "p_a": 0.22,
+      "pick": "H (2-1)"
+    },
+    {
+      "match": "Leeds vs Brentford",
+      "p_h": 0.39,
+      "p_d": 0.28,
+      "p_a": 0.33,
+      "pick": "H (1-1)"
+    },
+    {
+      "match": "Sunderland vs Fulham",
+      "p_h": 0.33,
+      "p_d": 0.29,
+      "p_a": 0.38,
+      "pick": "A (1-2)"
+    },
+    {
+      "match": "Man Utd vs Ipswich Town",
+      "p_h": 0.64,
+      "p_d": 0.21,
+      "p_a": 0.15,
+      "pick": "H (2-0)"
+    },
+    {
+      "match": "Aston Villa vs Arsenal",
+      "p_h": 0.21,
+      "p_d": 0.25,
+      "p_a": 0.54,
+      "pick": "A (1-2)"
+    }
+  ]
+}

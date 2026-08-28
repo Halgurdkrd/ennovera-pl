@@ -1,0 +1,29 @@
+{
+  "authentic_20_clubs": [
+    "Arsenal",
+    "Aston Villa",
+    "Bournemouth",
+    "Brentford",
+    "Brighton",
+    "Chelsea",
+    "Coventry City",
+    "Crystal Palace",
+    "Everton",
+    "Fulham",
+    "Hull City",
+    "Ipswich Town",
+    "Leeds",
+    "Liverpool",
+    "Man City",
+    "Man Utd",
+    "Newcastle",
+    "Nott'm Forest",
+    "Spurs",
+    "Sunderland"
+  ],
+  "gw1_players_checked": 620,
+  "gw1_invalid_clubs": 0,
+  "gw2_players_checked": 620,
+  "gw2_invalid_clubs": 0,
+  "status": "CLUB_UNIVERSE_HARD_GATE_PASSED"
+}

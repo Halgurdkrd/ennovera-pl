@@ -1,0 +1,12 @@
+{
+  "gw1_fpl_player_registry": "PASS",
+  "gw2_fpl_player_registry": "PASS",
+  "invalid_clubs": 0,
+  "stale_prices": 0,
+  "post_cutoff_fpl_data": 0,
+  "post_cutoff_pl_features": 0,
+  "gw1_result_leakage_into_gw1": 0,
+  "gw2_outcome_leakage": 0,
+  "synthetic": 0,
+  "status": "DATA_TRUTH_PRISTINE"
+}

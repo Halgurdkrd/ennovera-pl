@@ -1,0 +1,9 @@
+{
+  "program": "ENNOVERA_C10E_GW1_GW2_REPLAY_DATA_TRUTH_PATCH_V1",
+  "mode": "DRY_RUN",
+  "forensic_correction": true,
+  "c10_e_frozen": true,
+  "fpl_bridge_frozen": true,
+  "gw2_prospective_locked": true,
+  "production_changes": false
+}

@@ -1,0 +1,32 @@
+{
+  "root_cause": "MIXING_PRIOR_SEASON_FPL_TEMPLATE_WITH_2026_27_FIXTURES",
+  "details": "The previous draft replay used an unauthenticated historical 2024-25 player template (containing Fabianski at West Ham, Bednarek at Southampton, Winks at Leicester, Salah and Trent at Liverpool with old \u00a312.5m/\u00a37.0m prices) rather than the authentic 2026-27 FPL database.",
+  "invalid_entries_identified": [
+    {
+      "player": "Fabianski",
+      "invalid_club": "West Ham (Not in 2026-27 PL)"
+    },
+    {
+      "player": "Bednarek",
+      "invalid_club": "Southampton (Not in 2026-27 PL)"
+    },
+    {
+      "player": "Winks",
+      "invalid_club": "Leicester (Not in 2026-27 PL)"
+    },
+    {
+      "player": "Haaland",
+      "stale_price": "\u00a315.0m (Official 2026-27 price: \u00a315.5m)"
+    },
+    {
+      "player": "Palmer",
+      "stale_price": "\u00a310.5m (Official 2026-27 price: \u00a39.5m)"
+    },
+    {
+      "player": "Isak",
+      "stale_club": "Newcastle (Official 2026-27 club: Liverpool, \u00a39.0m)"
+    }
+  ],
+  "remedy": "Construct authentic 2026-27 player database from authenticated snapshot data/live_snapshots/2026-27/GW02/bootstrap_predeadline.json",
+  "status": "PREVIOUS_FPL_REPLAY_INVALIDATED_AND_PRESERVED_FOR_FORENSICS"
+}
