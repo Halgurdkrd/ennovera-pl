@@ -1,0 +1,11 @@
+team,pre_gw1_title,pre_gw2_title,delta_title,top4_pct,expected_pts
+Arsenal,42.6%,44.1%,+1.5 pp,89.6%,85.4
+Man City,38.2%,39.0%,+0.8 pp,86.8%,83.9
+Liverpool,11.4%,10.5%,-0.9 pp,66.8%,73.6
+Chelsea,3.8%,4.1%,+0.3 pp,48.0%,67.4
+Newcastle,2.1%,2.0%,-0.1 pp,37.8%,63.2
+Spurs,1.2%,0.7%,-0.5 pp,26.8%,59.8
+Brighton,0.2%,0.4%,+0.2 pp,14.5%,54.2
+Aston Villa,0.5%,0.2%,-0.3 pp,18.2%,55.6
+Man Utd,<0.1%,<0.1%,0.0 pp,5.4%,48.2
+Brentford,<0.1%,<0.1%,0.0 pp,4.8%,48.0

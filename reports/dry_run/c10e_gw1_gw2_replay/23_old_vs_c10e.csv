@@ -1,0 +1,6 @@
+domain,old_frozen,c10e_replay,key_differences
+GW1 PL Probability Shifts,Baseline Poisson C9,C10-E Full Matchup,Arsenal H prob +4.2 pp (0.824 vs 0.782); City H prob +3.5 pp (0.845 vs 0.810); Brighton vs Villa Over 2.5 +6.2 pp (0.645 vs 0.583)
+GW2 PL Probability Shifts,GW2 C9 Prospective,C10-E Live-State Shrunk,Palace vs City A prob +3.8 pp (0.753 vs 0.715); Liverpool vs Forest H prob +4.1 pp (0.795 vs 0.754)
+GW1 FPL Squad,Frozen FPL Squad,C10-E FPL Bridge Squad,Gabriel selected over Saliba (+0.35 xP due to aerial SP matchup); Muniz selected over Pedro
+GW2 FPL Captaincy,"Haaland (C), Saka (VC)","Haaland (C), Salah (VC)",Salah elevated to VC over Saka due to elite home fixture vs Forest (Attack Env 1.22)
+Preseason Title Sim,"Arsenal 41.8%, City 39.2%","Arsenal 42.6%, City 38.2%",Arsenal structural set-piece dominance adds +0.8 pp to baseline title probability

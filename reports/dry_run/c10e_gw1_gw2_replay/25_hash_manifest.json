@@ -1,0 +1,21 @@
+{
+  "00_governance.json": "17bf78806f2e34827c3d5dd35a466273ed8528ae6737f40de105c3f2d259fb1d",
+  "01_model_identity.json": "c2db8e4bce54e4a52ee597eb240f603e426422c29c06629da124eee011636354",
+  "02_fpl_bridge_identity.json": "6951ea774a3f23f300bfa0eed035c800fa16fbf3c6ad5ea8bd6568485abafc9b",
+  "03_gw1_cutoff_manifest.json": "d8f69aa3043b65431593d0656089a700ed5c909539933fd3381dab62aad65d39",
+  "04_gw1_fixture_registry.csv": "3b25311d7651ea17d636e7677fdc3448c808d7e688ba37ceb63106c89673af4f",
+  "06_gw1_pl_predictions.csv": "b023e7e538535e1d172ddefa3e5145de2ad39245fb51a4a3828f52f5642303ab",
+  "07_gw1_title_simulation.csv": "2de7710ef08d03a598c62c0bc871cf58f51096e61c1bdf1be0f4dad823c18e2a",
+  "09_gw1_fpl_squad.csv": "f82cea35fe7f92ea8b257d865c2272ba7e5a770bff95356c405759a8aef9c1a5",
+  "11_gw1_captain_ranking.csv": "285641c679129c88daf952c5e4b4e9d5e168f5bd7a485198eeb7cabdaf6fec9c",
+  "12_gw2_cutoff_manifest.json": "c3c257bf092a52f7e821438e3d9b9dd44ecaf3ce57dc42baf14a7ab8b32af5ef",
+  "13_gw2_fixture_registry.csv": "dd73ea096f33a8271d1a982466a1597124248b123d6e626eb8255a68b6a03c73",
+  "16_gw2_pl_predictions.csv": "a15a132dc4250597209d2947e12b37247e21cc8a569b22c6303f4d9abbbd5195",
+  "17_gw2_title_simulation.csv": "bf85590984fc7fe1889e0dd75d1126384019aa07ead032488ad024f819f856cf",
+  "18_title_probability_movement.csv": "bf85590984fc7fe1889e0dd75d1126384019aa07ead032488ad024f819f856cf",
+  "20_gw2_fpl_realistic_path.csv": "0d73602df6d4026dbe956b359a08e8d58254c6282b5be215eb50187965dad2d1",
+  "22_gw2_captain_ranking.csv": "a149aaefe06008952243a2cf1de33a9234efea22fc95d68bad1e381e2005c3e2",
+  "23_old_vs_c10e.csv": "71d350c2870abc8ec70d0056760e165b91e9c85631d6076bcc1561149ea91105",
+  "24_data_integrity.json": "5e42159c3e4685139cce710b9a84460d7f22e1fe59e078596e462a9e0088a27a",
+  "27_gw1_retrospective_evaluation.csv": "ffdf6c1a31e1ae86348bee2e948d2e1ecb216f414f1621c19cc7fbdf678aab30"
+}

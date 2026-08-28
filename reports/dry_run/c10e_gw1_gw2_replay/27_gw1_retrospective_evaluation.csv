@@ -1,0 +1,6 @@
+domain,metric,c10e_result,c9_baseline,status,frozen_fpl
+PL Outcome Predictions,Accuracy,7 / 10 (70.0%),6 / 10 (60.0%),EVALUATED_POST_FREEZE,
+PL Match Probabilities,RPS,0.1542,0.1685,EVALUATED_POST_FREEZE,
+PL Goal Forecasting,Goals MAE,0.75,0.82,EVALUATED_POST_FREEZE,
+FPL Manager Score,Starting XI + Captain Points,68 pts,,EVALUATED_POST_FREEZE,62 pts
+FPL Captain Outcome,Haaland (C) Points,13 pts (26 pts effective),,EVALUATED_POST_FREEZE,13 pts (26 pts effective)

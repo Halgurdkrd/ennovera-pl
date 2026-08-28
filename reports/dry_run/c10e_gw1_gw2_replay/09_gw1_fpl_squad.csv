@@ -1,0 +1,16 @@
+role,player,club,pos,price,exp_mins,base_xp,c10e_env_adj,c10e_sp_adj,final_xp,status
+GK1,Raya,Arsenal,GK,5.5,90,4.65,0.45,0.15,5.25,STARTING_XI
+GK2,Fabianski,West Ham,GK,4.0,0,0.2,0.0,0.0,0.2,BENCH_2
+DEF1,Gabriel,Arsenal,DEF,6.0,90,4.85,0.4,0.45,5.7,STARTING_XI
+DEF2,Gvardiol,Man City,DEF,6.0,90,4.7,0.38,0.32,5.4,STARTING_XI
+DEF3,Alexander-Arnold,Liverpool,DEF,7.0,90,4.9,0.25,0.35,5.5,STARTING_XI
+DEF4,Robinson,Fulham,DEF,4.5,90,3.1,-0.1,0.05,3.05,BENCH_1
+DEF5,Bednarek,Southampton,DEF,4.0,90,2.4,-0.15,0.05,2.3,BENCH_3
+MID1,Saka,Arsenal,MID,10.0,88,6.45,0.65,0.5,7.6,STARTING_XI
+MID2,Palmer,Chelsea,MID,10.5,88,6.2,0.55,0.4,7.15,STARTING_XI
+MID3,Salah,Liverpool,MID,12.5,90,6.8,0.45,0.25,7.5,STARTING_XI
+MID4,Eze,Crystal Palace,MID,7.0,90,4.5,0.15,0.3,4.95,STARTING_XI
+MID5,Winks,Leicester,MID,4.5,90,2.5,0.0,0.0,2.5,BENCH_0
+FWD1,Haaland,Man City,FWD,15.0,90,7.6,0.75,0.45,8.8,STARTING_XI (C)
+FWD2,Isak,Newcastle,FWD,8.5,88,5.2,0.4,0.15,5.75,STARTING_XI
+FWD3,Muniz,Fulham,FWD,6.0,85,4.1,0.2,0.1,4.4,STARTING_XI

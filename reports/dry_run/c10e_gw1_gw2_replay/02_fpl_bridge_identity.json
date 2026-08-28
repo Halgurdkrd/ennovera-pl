@@ -1,0 +1,8 @@
+{
+  "bridge_name": "C10-E -> FPL INTEGRATED MATCH-ENVIRONMENT BRIDGE",
+  "historical_mean_manager_pts": 2234.5,
+  "historical_total_manager_pts": 8938,
+  "gain_vs_frozen_fpl": "+55.00 pts/season (+220 pts total)",
+  "gain_vs_c9_bridge": "+37.25 pts/season (+149 pts total)",
+  "canonical_universe": "SYSTEM_B_PRE_MATCH_ROSTER_UNIVERSE"
+}

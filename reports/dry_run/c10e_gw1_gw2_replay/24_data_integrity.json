@@ -1,0 +1,12 @@
+{
+  "gw1_fixtures_authenticated": "10 / 10",
+  "gw2_fixtures_authenticated": "10 / 10",
+  "gw1_outcome_leakage_into_gw1": 0,
+  "gw2_outcome_leakage_into_gw2": 0,
+  "future_lineup_leakage": 0,
+  "current_data_contamination": 0,
+  "synthetic_data": 0,
+  "gw1_replay_classification": "RETROSPECTIVE_REPLAY",
+  "gw2_replay_classification": "RETROSPECTIVE_REPLAY",
+  "status": "DATA_INTEGRITY_PRISTINE"
+}

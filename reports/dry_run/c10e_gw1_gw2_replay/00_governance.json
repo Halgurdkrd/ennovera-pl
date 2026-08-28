@@ -1,0 +1,12 @@
+{
+  "program": "ENNOVERA_C10E_GW1_GW2_RETROSPECTIVE_REPLAY_V1",
+  "mode": "DRY_RUN",
+  "retrospective_replay": true,
+  "production": false,
+  "deployment": false,
+  "c10_e_frozen": true,
+  "fpl_bridge_frozen": true,
+  "gw2_prospective_locked": true,
+  "fpl_gw2_locked": true,
+  "classification": "RETROSPECTIVE_REPLAY_NOT_PROSPECTIVE_EVIDENCE"
+}

@@ -1,0 +1,15 @@
+{
+  "model_name": "C10-E FINAL INTEGRATED HISTORICAL MODEL",
+  "architecture": "C10-A (Form) + C10-B (Midfield) + C10-C (Style/Matchup) + C10-D (Set-Piece) + C9-ME Baseline",
+  "prediction_sha256": "3eefdec94885932468dbd97608d71e502b058240be363cca271ffa8985738fc9",
+  "metrics_1520_strict_oos": {
+    "accuracy": "60.72% (923 / 1520)",
+    "rps": 0.167,
+    "log_loss": 0.8442,
+    "brier": 0.4812,
+    "goals_mae": 0.785,
+    "cs_brier": 0.352,
+    "btts_brier": 0.222,
+    "sp_goal_brier": 0.195
+  }
+}

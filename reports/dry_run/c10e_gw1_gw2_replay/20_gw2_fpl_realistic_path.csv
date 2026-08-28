@@ -1,0 +1,16 @@
+role,player,club,pos,price,final_xp,status
+GK1,Raya,Arsenal,GK,5.5,4.85,STARTING_XI
+GK2,Fabianski,West Ham,GK,4.0,0.2,BENCH_2
+DEF1,Gabriel,Arsenal,DEF,6.0,5.15,STARTING_XI
+DEF2,Gvardiol,Man City,DEF,6.0,5.35,STARTING_XI
+DEF3,Alexander-Arnold,Liverpool,DEF,7.0,6.2,STARTING_XI
+DEF4,Robinson,Fulham,DEF,4.5,3.65,BENCH_1
+DEF5,Bednarek,Southampton,DEF,4.0,2.3,BENCH_3
+MID1,Saka,Arsenal,MID,10.0,6.85,STARTING_XI
+MID2,Palmer,Chelsea,MID,10.5,6.95,STARTING_XI
+MID3,Salah,Liverpool,MID,12.5,8.1,STARTING_XI (VC)
+MID4,Eze,Crystal Palace,MID,7.0,3.85,STARTING_XI
+MID5,Winks,Leicester,MID,4.5,2.45,BENCH_0
+FWD1,Haaland,Man City,FWD,15.0,8.65,STARTING_XI (C)
+FWD2,Isak,Newcastle,FWD,8.5,5.85,STARTING_XI
+FWD3,Muniz,Fulham,FWD,6.0,4.65,STARTING_XI

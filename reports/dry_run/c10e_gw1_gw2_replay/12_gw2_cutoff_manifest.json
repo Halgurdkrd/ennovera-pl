@@ -1,0 +1,7 @@
+{
+  "event": 2,
+  "deadline_iso": "2026-08-28T17:30:00Z",
+  "completed_matches_prior": 10,
+  "live_state_shrinkage_rule": "0.85 * Preseason_Structural + 0.15 * GW1_Observed",
+  "forbidden_data": "ZERO_GW2_MATCH_OUTCOMES"
+}
