@@ -1,0 +1,11 @@
+component,definition,window,decay,weight,type,shared_fpl
+Attack Strength (alpha),Match-level non-penalty xG & goal generation,Trailing 365d,Exponential 365d half-life,0.35,Learned,YES (Goal expectation)
+Midfield / Control (mu_ctrl),"Field tilt, possession dominance, PPDA",Trailing 365d,Exponential 365d half-life,0.15,Learned,YES (Scoring environment)
+Defence Strength (beta),Match-level non-penalty xGA & shot suppression,Trailing 365d,Exponential 365d half-life,0.30,Learned,YES (Clean-sheet prob)
+Goalkeeper Shot Stopping,PSxG minus Goals Allowed differential,Trailing 365d,Exponential 365d half-life,0.05,Learned,YES (Save bonus environment)
+Set-Piece Efficiency,Set-piece xG diff on corners & indirect FKs,Trailing 365d,Exponential 365d half-life,0.05,Learned,YES (DEF attacking returns)
+Manager Regime Transition,Baseline prior + tactical similarity - friction,Preseason cutoff,Step with 10-match learning,0.10,Fixed formula,YES (Minutes uncertainty)
+European xG Performance,Opponent-adjusted match-level European xGD,Previous season UEFA,Exponential 365d half-life,0.10,Learned,YES (Squad rotation risk)
+R8 Recency Layer,Continuous 365-day half-life decay across all logs,Multi-season,Exponential 365d half-life,Multiplier,Fixed,YES (Form decay)
+RF10 Recent Form,Last 10 matches opponent-adjusted form overlay,Last 10 matches,Linear 10-game window,0.15,Learned,YES (Short-term form)
+Bivariate Frank Copula,Poisson score generator with draw correction rho=-0.115,Simulation,None,Simulator,Fixed,YES (Match odds)

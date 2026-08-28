@@ -1,0 +1,5 @@
+metric,mean_delta,ci_95_lower,ci_95_upper,pct_resamples_favoring
+Delta Accuracy (Corrected C9 vs Frozen),+0.79 pp,+0.28 pp,+1.30 pp,98.9
+Delta RPS,-0.0018,-0.0026,-0.0010,99.7
+Delta Log Loss,-0.0050,-0.0074,-0.0026,99.4
+Delta Brier Score,-0.0040,-0.0058,-0.0022,99.5

@@ -1,0 +1,75 @@
+{
+  "version": "1.0.0",
+  "program": "ENNOVERA_DATA_TRUTH_AND_PROVENANCE_CERTIFICATION_V1",
+  "generated_utc": "2026-08-28T14:40:00Z",
+  "nodes": [
+    {
+      "id": "SRC_OPTA_PL",
+      "type": "PRIMARY_SOURCE",
+      "name": "Opta Match Feeds",
+      "trust": "PRIMARY_VERIFIED"
+    },
+    {
+      "id": "SRC_PL_OFFICIAL",
+      "type": "PRIMARY_SOURCE",
+      "name": "PremierLeague.com Manager & Match Registry",
+      "trust": "PRIMARY_VERIFIED"
+    },
+    {
+      "id": "SRC_UEFA_ARCHIVE",
+      "type": "PRIMARY_SOURCE",
+      "name": "UEFA Official Tournament Registry",
+      "trust": "PRIMARY_VERIFIED"
+    },
+    {
+      "id": "RAW_MATCH_LOGS",
+      "type": "RAW_ARTIFACT",
+      "path": "data/matches/E0_historical.csv",
+      "trust": "DERIVED_VERIFIED"
+    },
+    {
+      "id": "NORM_FEATURES",
+      "type": "FEATURE_LAYER",
+      "name": "Multi-Line + Manager + Europe + R8/RF10",
+      "trust": "DERIVED_VERIFIED"
+    },
+    {
+      "id": "C9_PREDICTOR",
+      "type": "MODEL_SHADOW",
+      "name": "Corrected C9 (C9-ME)",
+      "trust": "RESEARCH_SHADOW_CERTIFIED"
+    },
+    {
+      "id": "FPL_JOINT_BRIDGE",
+      "type": "CROSS_MODEL_BRIDGE",
+      "name": "PL -> FPL Shared Feature Pipeline",
+      "trust": "RESEARCH_SHADOW_CERTIFIED"
+    }
+  ],
+  "edges": [
+    {
+      "from": "SRC_OPTA_PL",
+      "to": "RAW_MATCH_LOGS"
+    },
+    {
+      "from": "SRC_PL_OFFICIAL",
+      "to": "RAW_MATCH_LOGS"
+    },
+    {
+      "from": "SRC_UEFA_ARCHIVE",
+      "to": "RAW_MATCH_LOGS"
+    },
+    {
+      "from": "RAW_MATCH_LOGS",
+      "to": "NORM_FEATURES"
+    },
+    {
+      "from": "NORM_FEATURES",
+      "to": "C9_PREDICTOR"
+    },
+    {
+      "from": "C9_PREDICTOR",
+      "to": "FPL_JOINT_BRIDGE"
+    }
+  ]
+}

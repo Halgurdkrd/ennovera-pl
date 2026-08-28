@@ -1,0 +1,9 @@
+season,matches,role,train,validate,test,walk_forward,point_in_time_clean,notes
+2019-20,380,TRAIN_BURN_IN,True,False,False,False,True,Base parameter initialization
+2020-21,380,TRAIN_BURN_IN,True,False,False,False,True,Rating convergence / COVID period
+2021-22,380,TRAIN_BURN_IN,True,False,False,False,True,Final warmup before walk-forward
+2022-23,380,OOS_EVALUATION,False,True,True,True,True,Walk-forward test season 1 (380 matches)
+2023-24,380,OOS_EVALUATION,False,True,True,True,True,Walk-forward test season 2 (380 matches)
+2024-25,380,OOS_EVALUATION,False,True,True,True,True,Walk-forward test season 3 (380 matches)
+2025-26,380,OOS_EVALUATION,False,True,True,True,True,Walk-forward test season 4 (380 matches)
+2026-27,10,PROSPECTIVE_SHADOW,False,False,False,False,True,Point-in-time live shadow only (NO TRAINING/TUNING)

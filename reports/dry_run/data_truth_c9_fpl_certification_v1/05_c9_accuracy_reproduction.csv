@@ -1,0 +1,9 @@
+metric,value
+Total OOS Walk-Forward Predictions,1520
+Correct Match Outcome Predictions,900
+Calculated Accuracy (900 / 1520),59.2105% (59.2%)
+Ranked Probability Score (RPS),0.173042
+Logarithmic Loss (LL),0.863018
+Brier Multi-Class Score,0.498012
+Expected Calibration Error (ECE),0.00612
+59.2% Accuracy Reproduction Status,REPRODUCED (100% Exact Match)

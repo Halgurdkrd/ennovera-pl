@@ -1,0 +1,11 @@
+metric,value
+Total Historical Seasons in Repository,7 Seasons (2019-20 to 2025-26)
+Total Raw Dataset Matches,"2,660 Matches (7 x 380)"
+Warmup / Training Burn-in Matches,"1,140 Matches (3 Seasons: 2019-20, 2020-21, 2021-22)"
+Strict OOS Walk-Forward Evaluation Universe,"4 Seasons (2022-23, 2023-24, 2024-25, 2025-26)"
+Total Strict OOS Predictions (Evaluated Universe),"1,520 Matches (4 x 380)"
+First Historical Match Date,2019-08-09 (Liverpool 4-1 Norwich City)
+Last Historical Match Date,2026-05-24 (2025-26 Matchweek 38)
+2026-27 Matches Used for Training,0 (STRICT ZERO)
+2026-27 Matches Used for Tuning,0 (STRICT ZERO)
+2026-27 Matches Used for Model Selection,0 (STRICT ZERO)

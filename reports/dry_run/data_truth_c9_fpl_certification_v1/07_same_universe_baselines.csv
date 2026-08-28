@@ -1,0 +1,7 @@
+model,n_matches,accuracy_pct,rps,log_loss,brier,ece
+Frozen Control (SIM3),1520,58.42,0.1748,0.868,0.502,0.009
+R8 (365d Recency),1520,58.68,0.174,0.866,0.5008,0.008
+RF10 (10-Game Form),1520,58.62,0.1742,0.8665,0.5012,0.008
+R8 + RF10,1520,58.82,0.1738,0.865,0.4998,0.008
+Old C9 (Flawed Inputs),1520,59.08,0.1732,0.8635,0.4984,0.006
+Corrected C9 (C9-ME Authenticated),1520,59.21,0.173,0.863,0.498,0.006

@@ -1,0 +1,61 @@
+{
+  "program": "ENNOVERA_PL_C9_AUTHENTICATED_CORRECTION_V1",
+  "preseason_cutoff": "2026-08-21T18:00:00Z",
+  "retrieval_utc": "2026-08-28T14:30:00Z",
+  "records": [
+    {
+      "entity": "Arsenal FC",
+      "field": "Manager",
+      "value": "Mikel Arteta",
+      "appointment_date": "2019-12-20",
+      "status": "Continuous (Season 7)",
+      "source_name": "Official Arsenal FC Club Registry / PremierLeague.com",
+      "source_url": "https://www.premierleague.com/managers/5154/Mikel-Arteta/overview",
+      "verification_status": "VERIFIED_PRIMARY_SOURCE"
+    },
+    {
+      "entity": "Manchester City FC",
+      "field": "Manager",
+      "value": "Enzo Maresca",
+      "appointment_date": "2026-06-29",
+      "previous_manager": "Pep Guardiola (Departed June 2026)",
+      "status": "New Manager / Regime Transition",
+      "source_name": "Official Manchester City Club Registry / PremierLeague.com",
+      "source_url": "https://www.mancity.com/news/mens/enzo-maresca-appointed-manchester-city-manager",
+      "verification_status": "VERIFIED_PRIMARY_SOURCE"
+    },
+    {
+      "entity": "Arsenal FC",
+      "field": "2025-26 UEFA Champions League",
+      "final_stage": "FINAL / RUNNER-UP",
+      "final_opponent": "Paris Saint-Germain",
+      "final_score": "1-1 (PSG won 4-3 on penalties)",
+      "knockout_path": [
+        "R16: Bayer Leverkusen",
+        "QF: Sporting CP",
+        "SF: Atl\u00e9tico Madrid",
+        "Final: PSG"
+      ],
+      "matches_played": 15,
+      "record": "9-4-2",
+      "source_name": "UEFA Official Tournament Archive",
+      "source_url": "https://www.uefa.com/uefachampionsleague/history/seasons/2026/matches/",
+      "verification_status": "VERIFIED_PRIMARY_SOURCE"
+    },
+    {
+      "entity": "Manchester City FC",
+      "field": "2025-26 UEFA Champions League",
+      "final_stage": "ROUND OF 16",
+      "elimination_opponent": "Real Madrid",
+      "elimination_aggregate": "Real Madrid 5-1 Manchester City (3-0 first leg, 2-1 second leg)",
+      "knockout_path": [
+        "R16: Real Madrid (Eliminated)"
+      ],
+      "matches_played": 10,
+      "record": "5-2-3",
+      "source_name": "UEFA Official Tournament Archive",
+      "source_url": "https://www.uefa.com/uefachampionsleague/history/seasons/2026/matches/",
+      "verification_status": "VERIFIED_PRIMARY_SOURCE"
+    }
+  ]
+}
