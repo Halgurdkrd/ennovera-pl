@@ -1,0 +1,24 @@
+{
+  "parameter": "MIDFIELD_TEMPORAL_HALF_LIFE",
+  "selected_value": "60 days",
+  "candidate_values_tested": [
+    "30 days",
+    "45 days",
+    "60 days",
+    "90 days",
+    "120 days",
+    "365 days"
+  ],
+  "evaluation_universe": "2022-23 and 2023-24 (Validation Fold Only)",
+  "selection_metric": "Validation RPS (Minimization)",
+  "val_rps_results": {
+    "30_days": 0.173,
+    "45_days": 0.1724,
+    "60_days": 0.1721,
+    "90_days": 0.1723,
+    "120_days": 0.1726,
+    "365_days": 0.1732
+  },
+  "winner": "60 days",
+  "test_isolation": "STRICT_TEST_ISOLATION_PRESERVED"
+}

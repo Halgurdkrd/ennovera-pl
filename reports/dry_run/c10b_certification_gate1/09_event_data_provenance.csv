@@ -1,0 +1,10 @@
+metric,real,derived,imputed,synthetic,unknown,source
+possession_pct,2660,0,0,0,0,Canonical PL Feed
+pass_completion_diff,2660,0,0,0,0,Canonical PL Feed
+field_tilt_pct,2352,308,0,0,0,Authenticated Event Feed (Derived for 2019-20)
+progressive_passes,2660,0,0,0,0,Authenticated Event Feed
+progressive_carries,2660,0,0,0,0,Authenticated Event Feed
+final_third_entries,2660,0,0,0,0,Authenticated Event Feed
+padj_tackles_int,0,2660,0,0,0,Derived from Raw Tackles+Int
+midfield_recoveries,2660,0,0,0,0,Authenticated Event Feed
+ground_duels_win_pct,2660,0,0,0,0,Canonical PL Feed

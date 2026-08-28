@@ -1,0 +1,33 @@
+{
+  "c9_control": {
+    "predictions": 1520,
+    "correct": 900,
+    "accuracy": 0.592105,
+    "rps": 0.173,
+    "log_loss": 0.863,
+    "brier": 0.498,
+    "ece": 0.006,
+    "reproduced": true
+  },
+  "c10_a9_form": {
+    "predictions": 1520,
+    "correct": 906,
+    "accuracy": 0.596053,
+    "rps": 0.1718,
+    "log_loss": 0.8592,
+    "brier": 0.4948,
+    "ece": 0.005,
+    "reproduced": true
+  },
+  "c10_b_full": {
+    "predictions": 1520,
+    "correct": 911,
+    "accuracy": 0.599342,
+    "rps": 0.1706,
+    "log_loss": 0.8552,
+    "brier": 0.4915,
+    "ece": 0.0045,
+    "reproduced": true
+  },
+  "exact_reproduction_status": "EXACT_REPRODUCTION_VERIFIED"
+}

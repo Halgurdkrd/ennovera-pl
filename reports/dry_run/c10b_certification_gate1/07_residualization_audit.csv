@@ -1,0 +1,6 @@
+metric,model_inputs,future_data_used,leakage
+Possession_Resid,"Pre-match Opponent Rating (t-1), Venue (H/A)",False,NO
+Pass_Completion_Resid,"Pre-match Opponent Press Rating (t-1), Venue (H/A)",False,NO
+Field_Tilt_Resid,"Pre-match Opponent Rating (t-1), Venue (H/A)",False,NO
+Prog_Passes_Diff,Pre-match Opponent Defensive Line (t-1),False,NO
+PAdj_Tackles_Int,Pre-match Opponent Possession Share (t-1),False,NO

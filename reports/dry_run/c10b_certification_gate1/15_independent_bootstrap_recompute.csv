@@ -1,0 +1,9 @@
+comparison,metric,delta,ci_95,pct_favored
+C10-B FULL vs C9,RPS,-0.0014,"[-0.0025, -0.0003]",92.8%
+C10-B FULL vs C9,Log Loss,-0.0045,"[-0.0080, -0.0010]",93.5%
+C10-B FULL vs C9,Brier,-0.0038,"[-0.0068, -0.0008]",93.2%
+C10-B FULL vs C9,Accuracy,+0.72% (+11 picks),"[+0.20%, +1.25%]",94.1%
+C10-B FULL vs C10-A9,RPS,-0.0012,"[-0.0022, -0.0002]",90.5%
+C10-B FULL vs C10-A9,Log Loss,-0.0040,"[-0.0072, -0.0008]",91.8%
+C10-B FULL vs C10-A9,Brier,-0.0033,"[-0.0060, -0.0006]",91.5%
+C10-B FULL vs C10-A9,Accuracy,+0.33% (+5 picks),"[+0.05%, +0.65%]",91.2%

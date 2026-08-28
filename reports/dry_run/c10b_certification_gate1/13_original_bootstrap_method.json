@@ -1,0 +1,10 @@
+{
+  "bootstrap_unit": "MATCHWEEK_CLUSTER",
+  "number_of_matchweeks": 152,
+  "stratification": "SEASON_STRATIFIED",
+  "paired_design": true,
+  "number_of_draws": 2000,
+  "random_seed": 42,
+  "ci_method": "PERCENTILE (2.5th and 97.5th percentiles of bootstrap distribution)",
+  "direction": "NEGATIVE_DELTA_MEANS_IMPROVEMENT"
+}

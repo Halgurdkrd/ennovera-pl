@@ -1,0 +1,11 @@
+{
+  "final_test_pristine": "YES",
+  "feature_set_frozen_pre_test": true,
+  "weights_frozen_pre_test": true,
+  "half_life_frozen_pre_test": true,
+  "scalers_trained_strictly_on_prior_data": true,
+  "residualization_fold_safe": true,
+  "test_driven_feature_edits": 0,
+  "test_driven_weight_adjustments": 0,
+  "certification_determination": "PRISTINE_TEST_FOLD_CONFIRMED"
+}

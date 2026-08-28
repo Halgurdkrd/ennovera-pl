@@ -1,0 +1,4 @@
+fold,scaler_fitted_on,observations,leakage
+Validation Fold (2022-23/2023-24),2019-20 to 2021-22 (Train),1140,NO
+Test Fold 1 (2024-25),2019-20 to 2023-24 (Train+Val),1900,NO
+Test Fold 2 (2025-26),2019-20 to 2024-25 (Train+Val+Test1),2280,NO

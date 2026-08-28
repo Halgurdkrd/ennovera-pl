@@ -1,0 +1,11 @@
+step,action,universe,test_visible,status
+1,Candidate feature definitions pre-registered,2019-20 to 2021-22 (Train),False,PASS
+2,Training folds constructed,2019-20 to 2021-22 (Train),False,PASS
+3,Validation folds evaluated,2022-23 to 2023-24 (Val),False,PASS
+4,Latent state construction selected,2022-23 to 2023-24 (Val),False,PASS
+5,Temporal 60-day half-life selected,2022-23 to 2023-24 (Val),False,PASS
+6,Coefficients selected (0.40/0.30/0.30),2022-23 to 2023-24 (Val),False,PASS
+7,Possession adjustment standardized,2019-20 to 2023-24 (Train+Val),False,PASS
+8,C10-B Specification Frozen,Pre-Test Freeze,False,PASS
+9,Final Test Fold Evaluated,2024-25 to 2025-26 (Test),True,PASS_POST_FREEZE
+10,Final Report Generated,Complete 1520 OOS,True,PASS

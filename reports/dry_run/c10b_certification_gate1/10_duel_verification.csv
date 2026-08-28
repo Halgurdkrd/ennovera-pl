@@ -1,0 +1,4 @@
+dimension,r_outcome,delta_rps,classification
+All-Pitch Duel Win %,0.12,0.0,UNINFORMATIVE (Confounded)
+Midfield-Zone Ground Duels,0.31,-0.0003,INCREMENTAL_SIGNAL (Integrated in DISRUPTION)
+Aerial Box Duels,0.15,-0.0001,FORWARD_TO_SETPIECE_C10D

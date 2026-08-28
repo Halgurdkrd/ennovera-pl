@@ -1,0 +1,3 @@
+model_layer,confounder_effect,delta_rps,verdict
+Raw Clean Sheet Inclusion,64% explained by GK+Def,+0.0002 (degraded),REJECTED
+Residualized Clean Sheet,81% explained by GK+Def,0.0000 (negligible),NOT_A_MIDFIELD_FEATURE
