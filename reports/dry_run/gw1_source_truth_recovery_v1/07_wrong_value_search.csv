@@ -1,0 +1,4 @@
+query,found_in,verdict
+Arsenal 2-0 Coventry,reports/final_integrity_recency/12_completed_fixture_registry.csv,INCORRECT_SYNTHETIC
+Man City 3-0 Bournemouth,reports/final_integrity_recency/12_completed_fixture_registry.csv,INCORRECT_SYNTHETIC
+Newcastle 1-2 Liverpool,reports/final_integrity_recency/12_completed_fixture_registry.csv,CRITICAL_RESULT_INVERSION

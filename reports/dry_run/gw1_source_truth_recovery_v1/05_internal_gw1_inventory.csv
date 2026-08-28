@@ -1,0 +1,5 @@
+location,status,records
+data/raw/fpl_full/data/2026-27/fixtures.csv,OFFICIAL_SCHEDULE_UNPLAYED,380 fixtures
+data/live_snapshots/2026-27/GW02/bootstrap_predeadline.json,AUTHENTICATED_PLAYER_AND_EVENT_STATS,"GW1 finished, 600+ players"
+reports/final_integrity_recency/12_completed_fixture_registry.csv,CONTAMINATED_SYNTHETIC_DICTIONARY,10 incorrect scores
+reports/dry_run/gw1_source_truth_recovery_v1/02_authoritative_gw1_results.csv,AUTHENTICATED_SOURCE_OF_TRUTH,10 verified scores

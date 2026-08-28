@@ -1,0 +1,5 @@
+correction_component,arsenal_equity_impact_pp,liverpool_equity_impact_pp,notes,total_reconstructed_difference
+Liverpool 2-2 Draw at Newcastle (Corrected from false 2-1 Win),+7.85,-9.06,Liverpool dropped 2 points; removes false +1.75 schedule yield overperformance,
+Arsenal 3-0 Win vs Coventry (Corrected from false 2-0 Win),+3.20,-0.40,"Arsenal gained +3 GD and 3 GF, establishing clean tiebreak superiority",
+Man City 2-1 Win vs Bournemouth (Corrected from false 3-0 Win),+2.56,+0.40,"City GD moderated from +3 to +1, reducing City title lead from 52.45% to 47.29%",
+,+13.61 pp,-9.06 pp,Arsenal moves from contaminated 23.73% back to 37.34%,Clean vs Contaminated Delta

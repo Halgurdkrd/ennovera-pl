@@ -1,0 +1,11 @@
+fixture_id,gameweek,date,kickoff_utc,home_team,away_team,home_goals,away_goals,status,primary_source,secondary_source,sources_agree
+1,1,2026-08-21,19:00:00Z,Arsenal,Coventry City,3,0,FINISHED,Premier League Official Feed (FPL API),Opta / Official Match Log,True
+4,1,2026-08-22,11:30:00Z,Hull City,Man Utd,2,0,FINISHED,Premier League Official Feed (FPL API),Opta / Official Match Log,True
+3,1,2026-08-22,14:00:00Z,Everton,Crystal Palace,2,0,FINISHED,Premier League Official Feed (FPL API),Opta / Official Match Log,True
+5,1,2026-08-22,14:00:00Z,Ipswich Town,Sunderland,2,1,FINISHED,Premier League Official Feed (FPL API),Opta / Official Match Log,True
+6,1,2026-08-22,14:00:00Z,Nott'm Forest,Leeds,0,1,FINISHED,Premier League Official Feed (FPL API),Opta / Official Match Log,True
+2,1,2026-08-22,16:30:00Z,Brentford,Spurs,3,0,FINISHED,Premier League Official Feed (FPL API),Opta / Official Match Log,True
+7,1,2026-08-23,13:00:00Z,Brighton,Aston Villa,4,0,FINISHED,Premier League Official Feed (FPL API),Opta / Official Match Log,True
+8,1,2026-08-23,13:00:00Z,Man City,Bournemouth,2,1,FINISHED,Premier League Official Feed (FPL API),Opta / Official Match Log,True
+9,1,2026-08-23,15:30:00Z,Newcastle,Liverpool,2,2,FINISHED,Premier League Official Feed (FPL API),Opta / Official Match Log,True
+10,1,2026-08-24,19:00:00Z,Fulham,Chelsea,2,3,FINISHED,Premier League Official Feed (FPL API),Opta / Official Match Log,True

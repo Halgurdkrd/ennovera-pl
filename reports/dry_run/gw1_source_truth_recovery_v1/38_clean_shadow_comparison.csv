@@ -1,0 +1,5 @@
+model_tier,man_city,arsenal,liverpool,chelsea,man_utd
+Frozen Clean (Official Control Baseline),47.29,37.34,13.32,1.39,0.0
+R8 Clean (Adaptive Recency Shadow),45.8,39.1,13.5,1.1,0.05
+RF10 Clean (10-Match xG Shadow),46.5,38.4,13.4,1.2,0.02
+R8 + RF10 Clean (Hybrid Recency Shadow),44.9,40.2,13.6,1.15,0.06

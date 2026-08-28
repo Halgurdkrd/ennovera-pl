@@ -1,0 +1,4 @@
+team,gw1_observation_weight,prior_weight,latent_attack_delta,latent_defence_delta
+Arsenal,8.0%,92.0%,+0.003,-0.005
+Man City,8.0%,92.0%,+0.002,-0.001
+Liverpool,8.0%,92.0%,+0.003,+0.004

@@ -1,0 +1,4 @@
+history_depth,city_prior_strength,arsenal_prior_strength
+Full 4-Season History,+0.420 att / -0.380 def,+0.380 att / -0.400 def
+Excluding > 3 Seasons Old,+0.415 att / -0.380 def,+0.380 att / -0.400 def
+Excluding > 2 Seasons Old,+0.408 att / -0.378 def,+0.382 att / -0.402 def

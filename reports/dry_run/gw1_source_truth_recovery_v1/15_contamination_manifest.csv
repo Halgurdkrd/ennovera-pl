@@ -1,0 +1,8 @@
+artifact_path,status,reason
+reports/final_integrity_recency/12_completed_fixture_registry.csv,CONTAMINATED_DO_NOT_USE,Contains 10 synthetic/incorrect match scores
+reports/final_integrity_recency/13_current_table.csv,CONTAMINATED_DO_NOT_USE,Reconstructed from incorrect match scores
+reports/final_integrity_recency/15_preseason_vs_current_simulation.csv,CONTAMINATED_DO_NOT_USE,Produced 52.45 / 23.73 / 22.38 from contaminated table
+reports/final_integrity_recency/16_current_10000_simulation.json,CONTAMINATED_DO_NOT_USE,Contaminated current simulation payload
+reports/dry_run/pl_formula_recent_form_v1/11_title_bridge.csv,CONTAMINATED_EXPLANATION,Explained contaminated -13.77 pp drop
+reports/phase10_6_final_manifest.json (FPL Model),CLEAN,Trained strictly on historical data prior to 2026-27
+reports/pl11_12_final_manifest.json (PL Model),CLEAN,Trained strictly on historical data prior to 2026-27

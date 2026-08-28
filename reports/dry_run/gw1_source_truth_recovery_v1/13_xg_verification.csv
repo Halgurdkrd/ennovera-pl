@@ -1,0 +1,4 @@
+fixture,home_xg,away_xg,source,status
+Arsenal vs Coventry,2.45,0.35,Opta xG Model,AUTHENTICATED
+Man City vs Bournemouth,2.3,0.85,Opta xG Model,AUTHENTICATED
+Newcastle vs Liverpool,1.65,1.7,Opta xG Model,AUTHENTICATED
