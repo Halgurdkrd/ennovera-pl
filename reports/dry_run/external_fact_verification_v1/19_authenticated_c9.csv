@@ -1,0 +1,2 @@
+model_name,city_preseason_title_pct,arsenal_preseason_title_pct,liverpool_preseason_title_pct,rps,log_loss,accuracy_pct,ece,status
+C9_AUTHENTICATED: Verified Manager + Swiss UCL + Multi-Line + R8/RF10,42.35,41.15,14.8,0.1732,0.8635,59.1,0.006,AUTHENTICATED_RESEARCH_SHADOW

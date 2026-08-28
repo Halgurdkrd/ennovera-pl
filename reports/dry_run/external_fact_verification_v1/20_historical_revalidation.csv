@@ -1,0 +1,3 @@
+model,rps,log_loss,brier,ece,accuracy_pct
+Frozen Control (SIM3),0.1748,0.868,0.502,0.009,58.4
+C9_AUTHENTICATED (Full Hybrid Shadow),0.1732,0.8635,0.4984,0.006,59.1

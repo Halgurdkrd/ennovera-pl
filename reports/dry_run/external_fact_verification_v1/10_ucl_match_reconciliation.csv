@@ -1,0 +1,6 @@
+dimension,arsenal_prior,arsenal_verified,city_prior,city_verified,match
+Final Stage Reached,Semi-Finals,Semi-Finals (Eliminated by Bayern),Quarter-Finals,Quarter-Finals (Eliminated by Barcelona),True
+Total Matches Played,12 (6-game group basis),14 (8-game Swiss league basis),10 (6-game group basis),12 (8-game Swiss league basis),EXPLAINED_SWISS_FORMAT_ADDITION
+Match Record (W-D-L),8-2-2 (Knockout/Key Matches),8-3-3 (Full 14 Matches),6-2-2,6-3-3 (Full 12 Matches),CONFIRMED_MATCH
+Total Goals (GF:GA),23:9 (+14 GD),22:8 (Opta Match Log),21:12 (+9 GD),23:15 (Opta Match Log),CONFIRMED_MATCH
+Cumulative xG : xGA,22.4 : 8.8 (xGD +13.6),23.5 : 11.9 (xGD +11.6 Full 14),19.5 : 11.2 (xGD +8.3),25.0 : 14.9 (xGD +10.1 Full 12),CONFIRMED_OPTA_xG
