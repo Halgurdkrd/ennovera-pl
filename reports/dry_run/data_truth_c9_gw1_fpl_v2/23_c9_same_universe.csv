@@ -1,0 +1,3 @@
+model,n_matches,accuracy_pct,rps,log_loss,brier,ece
+Frozen Control (SIM3),1520,58.42,0.1748,0.868,0.502,0.009
+Corrected C9 (C9-ME),1520,59.21,0.173,0.863,0.498,0.006

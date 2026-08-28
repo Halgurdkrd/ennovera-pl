@@ -1,0 +1,2 @@
+test_name,null_hypothesis,resampling_unit,n_observations,n_resamples,two_sided,test_statistic,ci_95_lower,ci_95_upper,p_value,classification
+Paired Block-Bootstrap on GW Manager Points,H0: Delta Points <= 0,Gameweek (Cluster-Robust),152 Gameweeks (4 Seasons),10000,False,+0.467 pts/GW,+0.215,+0.720,0.0003,ROBUST_BENEFICIAL

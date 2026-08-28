@@ -1,0 +1,6 @@
+club,manager,start_date,end_date,status,source_1,source_2
+Arsenal,Mikel Arteta,2019-12-20,Present,PERMANENT_CONTINUOUS,Arsenal FC Registry,PremierLeague.com
+Manchester City,Pep Guardiola,2016-07-01,2026-06-28,DEPARTED_END_OF_SEASON,Manchester City FC Registry,PremierLeague.com
+Manchester City,Enzo Maresca,2026-06-29,Present,PERMANENT_NEW_REGIME,Manchester City FC Registry,PremierLeague.com
+Liverpool,Jürgen Klopp,2015-10-08,2024-05-31,DEPARTED,Liverpool FC Registry,PremierLeague.com
+Liverpool,Arne Slot,2024-06-01,Present,PERMANENT_CONTINUOUS,Liverpool FC Registry,PremierLeague.com

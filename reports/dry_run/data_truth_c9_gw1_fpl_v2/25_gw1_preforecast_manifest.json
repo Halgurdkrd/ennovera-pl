@@ -1,0 +1,8 @@
+{
+  "cutoff_timestamp": "2026-08-21T18:00:00Z",
+  "model_frozen_version": "ENNOVERA_PL_FINAL_RESEARCH_V1",
+  "model_c9_version": "ENNOVERA_PL_C9_AUTHENTICATED_SHADOW_V1",
+  "evaluation_mode": "RETROSPECTIVE_FIXED_MODEL_REPLAY",
+  "n_fixtures": 10,
+  "source": "data/live_snapshots/2026-27/GW01/predictions_frozen.json"
+}

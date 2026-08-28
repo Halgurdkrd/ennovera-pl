@@ -1,0 +1,4 @@
+model,mae,spearman,ndcg_20,top20_10plus_recall,top_scorer_hit
+Frozen FPL,2.14,0.612,0.684,50.0%,True
+Existing Bridge,2.08,0.628,0.698,55.0%,True
+Corrected C9 Bridge,1.94,0.655,0.725,62.5%,True

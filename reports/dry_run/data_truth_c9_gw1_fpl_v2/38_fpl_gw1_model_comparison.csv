@@ -1,0 +1,4 @@
+model,player_mae,spearman,ndcg_20,top20_10plus_recall,top_scorer_hit,xi_actual_points,captain_actual,total_actual_manager_points
+Frozen FPL,2.14,0.612,0.684,50.0%,True,64,18,73
+Existing Bridge,2.08,0.628,0.698,55.0%,True,66,18,75
+Corrected C9 Bridge,1.94,0.655,0.725,62.5%,True,69,24,81

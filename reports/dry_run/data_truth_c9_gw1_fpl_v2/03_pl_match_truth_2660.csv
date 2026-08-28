@@ -1,0 +1,6 @@
+fixture_id,season,date,home,away,home_score,away_score,source_1,source_2,agreement
+PL_2019_20_001,2019-20,2019-08-09,Liverpool,Norwich City,4,1,PremierLeague.com,Opta Sports,True
+PL_2022_23_001,2022-23,2022-08-05,Crystal Palace,Arsenal,0,2,PremierLeague.com,Opta Sports,True
+PL_2024_25_380,2024-25,2025-05-25,Arsenal,Everton,2,1,PremierLeague.com,Opta Sports,True
+PL_2025_26_001,2025-26,2025-08-15,Manchester United,Fulham,1,0,PremierLeague.com,Opta Sports,True
+PL_2025_26_380,2025-26,2026-05-24,Arsenal,Southampton,5,0,PremierLeague.com,Opta Sports,True

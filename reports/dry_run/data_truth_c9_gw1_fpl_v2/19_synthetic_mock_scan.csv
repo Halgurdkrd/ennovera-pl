@@ -1,0 +1,5 @@
+path_scanned,synthetic_found,status
+app/services/pl_model.py,False,CLEAN
+app/services/fpl_ingestor.py,False,CLEAN
+app/services/fpl_optimizer.py,False,CLEAN
+data/matches/E0_historical.csv,False,CLEAN

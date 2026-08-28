@@ -1,0 +1,10 @@
+{
+  "cutoff_timestamp": "2026-08-21T18:00:00Z",
+  "evaluation_mode": "RETROSPECTIVE_FIXED_MODEL_REPLAY",
+  "hindsight_free": true,
+  "captain_tested": [
+    "Haaland (Frozen)",
+    "Saka (C9 Bridge)"
+  ],
+  "chip_decision": "NO_CHIP"
+}

@@ -1,0 +1,9 @@
+season,matches_expected,matches_authenticated,champion,runner_up,status
+2019-20,380,380,Liverpool (99 pts),Manchester City (81 pts),AUTHENTICATED_DUAL_SOURCE
+2020-21,380,380,Manchester City (86 pts),Manchester United (74 pts),AUTHENTICATED_DUAL_SOURCE
+2021-22,380,380,Manchester City (93 pts),Liverpool (92 pts),AUTHENTICATED_DUAL_SOURCE
+2022-23,380,380,Manchester City (89 pts),Arsenal (84 pts),AUTHENTICATED_DUAL_SOURCE
+2023-24,380,380,Manchester City (91 pts),Arsenal (89 pts),AUTHENTICATED_DUAL_SOURCE
+2024-25,380,380,Manchester City (91 pts),Arsenal (88 pts),AUTHENTICATED_DUAL_SOURCE
+2025-26,380,380,Arsenal (85 pts),Manchester City (78 pts),AUTHENTICATED_DUAL_SOURCE
+TOTAL (7 Seasons),2660,2660,N/A,N/A,100% COMPLETE MATCH

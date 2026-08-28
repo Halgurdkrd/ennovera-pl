@@ -1,0 +1,5 @@
+feature_name,source,transform,fpl_shared,status
+team_attack_alpha,Match non-penalty xG,Exponential 365d decay,True,VERIFIED
+team_defence_beta,Match non-penalty xGA,Exponential 365d decay,True,VERIFIED
+manager_regime_transition,Manager registry,Step transition formula,True,VERIFIED
+european_xg_strength,UEFA Opta feeds,Opponent-adjusted xGD,True,VERIFIED

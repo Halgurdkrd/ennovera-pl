@@ -1,0 +1,9 @@
+metric,value
+Total Strict OOS Predictions (4 Seasons),1520
+Total Correct Outcome Predictions,900
+Accuracy,59.2105% (59.21%)
+Ranked Probability Score (RPS),0.173042
+Logarithmic Loss (LL),0.863018
+Brier Multi-Class Score,0.498012
+Expected Calibration Error (ECE),0.00612
+Exact Historical Reproduction,REPRODUCED (100.0%)
