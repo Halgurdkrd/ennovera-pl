@@ -1,0 +1,7 @@
+model,acc,rps,ll,delta_picks_vs_prev,delta_rps_vs_prev
+C9 (Baseline Control),59.21% (900),0.173,0.863,-,-
+C10-A (Form),59.61% (906),0.1718,0.8592,+6,-0.0012
+C10-B (Midfield),59.93% (911),0.1706,0.8552,+5,-0.0012
+C10-C (Style/Matchup),60.33% (917),0.1688,0.8492,+6,-0.0018
+C10-E (Final Integrated),60.72% (923),0.167,0.8442,+6,-0.0018
+TOTAL C10-E vs C9,+1.51 pp (+23 picks),-0.0060,-0.0188,+23,-0.0060

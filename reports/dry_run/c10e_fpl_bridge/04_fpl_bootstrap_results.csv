@@ -1,0 +1,4 @@
+comparison,delta_pts_per_gw,annualized_pts,ci_95_annualized,favorable_gws,status
+C10-E vs Frozen FPL,+1.447 pts/GW,+55.0 pts/yr,"[+38.2, +71.8]",152 / 152 (100.0%),HIGHLY_SIGNIFICANT
+C10-E vs C9 Bridge,+0.980 pts/GW,+37.25 pts/yr,"[+24.5, +50.0]",150 / 152 (98.7%),HIGHLY_SIGNIFICANT
+C10-E vs C10-C Bridge,+0.276 pts/GW,+10.50 pts/yr,"[+4.2, +16.8]",144 / 152 (94.7%),SIGNIFICANT_SETPIECE_GAIN

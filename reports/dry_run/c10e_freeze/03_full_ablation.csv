@@ -1,0 +1,6 @@
+configuration,acc,rps,ll,loss_when_removed
+C10-E Full Model,60.72% (923),0.167,0.8442,-
+E minus Form (C10-A),60.33% (917),0.1682,0.8475,"+0.0012 RPS, -6 picks"
+E minus Midfield (C10-B),60.39% (918),0.1681,0.8472,"+0.0011 RPS, -5 picks"
+E minus Style/Matchup (C10-C),60.13% (914),0.1688,0.849,"+0.0018 RPS, -9 picks"
+E minus Set-Piece (C10-D),60.33% (917),0.1688,0.8492,"+0.0018 RPS, -6 picks"

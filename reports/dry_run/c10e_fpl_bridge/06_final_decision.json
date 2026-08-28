@@ -1,0 +1,26 @@
+{
+  "program": "ENNOVERA_C10D_E_FPL_THREE_GATE_V1",
+  "gate_1_status": "C10_D_CERTIFIED_CLEAN_HISTORICAL_CHALLENGER",
+  "gate_2_status": "C10_E_INTEGRATED_HISTORICAL_MODEL_FROZEN",
+  "gate_3_status": "C10E_FPL_BRIDGE_HISTORICALLY_SUPPORTED",
+  "fpl_bridge_summary": {
+    "frozen_fpl_mean": "2179.50 pts/yr",
+    "c9_bridge_mean": "2197.25 pts/yr",
+    "c10e_bridge_mean": "2234.50 pts/yr",
+    "gain_vs_frozen": "+55.00 pts/season (+220 pts total)",
+    "gain_vs_c9": "+37.25 pts/season (+149 pts total)",
+    "bootstrap_support": "152 / 152 GWs (100.0% vs Frozen), 150 / 152 GWs (98.7% vs C9)"
+  },
+  "governance_invariants": {
+    "c9_me_modified": false,
+    "c10_a9_modified": false,
+    "c10_b_modified": false,
+    "c10_c_modified": false,
+    "c10_d_modified": false,
+    "c10_e_deployed": false,
+    "gw2_prospective_snapshot_modified": false,
+    "fpl_frozen_control_modified": false,
+    "production_modified": false,
+    "deployment": false
+  }
+}

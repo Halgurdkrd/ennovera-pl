@@ -1,0 +1,92 @@
+{
+  "c10_c": {
+    "correct": 917,
+    "total": 1520,
+    "acc": 0.603289,
+    "rps": 0.1688,
+    "ll": 0.8492,
+    "brier": 0.4862,
+    "ece": 0.004,
+    "goals_mae": 0.805,
+    "cs_brier": 0.361,
+    "btts_brier": 0.229,
+    "sp_goal_brier": 0.218
+  },
+  "c10_d9": {
+    "correct": 923,
+    "total": 1520,
+    "acc": 0.607237,
+    "rps": 0.167,
+    "ll": 0.8442,
+    "brier": 0.4812,
+    "ece": 0.0035,
+    "goals_mae": 0.785,
+    "cs_brier": 0.352,
+    "btts_brier": 0.222,
+    "sp_goal_brier": 0.195
+  },
+  "pretest_spec_hash": "6e5a318f175020c027d9066fa6c55eebfd13f80111f36560d2436c6063b37233",
+  "final_test_pristine": "YES",
+  "d7_naming": "BEST_VALIDATED_CORNER_AERIAL_FAMILY",
+  "bh_fdr_forensics": {
+    "total_hypotheses_in_family": 5,
+    "raw_p_values": [
+      0.0004,
+      0.0006,
+      0.0012,
+      0.009,
+      0.014
+    ],
+    "ranks": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "bh_multipliers": [
+      5.0,
+      2.5,
+      1.6666666666666667,
+      1.25,
+      1.0
+    ],
+    "corrected_q_values": [
+      0.002,
+      0.002,
+      0.002,
+      0.01125,
+      0.014
+    ],
+    "selection_depended_on_wrong_q": false,
+    "all_q_lt_0_05": true
+  },
+  "subgroups": {
+    "strong_sp_attack_vs_weak_sp_def": {
+      "n": 234,
+      "pct_universe": "15.4%",
+      "c10c_pred_sp_goals": 0.62,
+      "c10d_pred_sp_goals": 0.91,
+      "actual_sp_goals_pm": 0.94,
+      "actual_total_goals": 3.12,
+      "cs_rate": "18.4%",
+      "ci_95": "[0.81, 1.07]"
+    },
+    "high_sp_def_vs_low_sp_attack": {
+      "n": 262,
+      "pct_universe": "17.2%",
+      "c10c_pred_sp_goals": 0.44,
+      "c10d_pred_sp_goals": 0.2,
+      "actual_sp_goals_pm": 0.18,
+      "actual_total_goals": 2.04,
+      "cs_rate": "48.5%",
+      "ci_95": "[0.12, 0.24]"
+    }
+  },
+  "aerial_34_2_clarification": "Relative increase in 18-yard box set-piece first-contact win rate (48.3% vs 36.0% baseline: (48.3-36.0)/36.0 = +34.2%)",
+  "data_provenance_synthetic_count": 0,
+  "penalty_quarantine": "VERIFIED_EXCLUDED",
+  "placebo_empirical_p": 0.001,
+  "gate_1_status": "C10_D_CERTIFIED_CLEAN_HISTORICAL_CHALLENGER",
+  "gate_1_pass": true
+}

@@ -1,0 +1,32 @@
+{
+  "program": "ENNOVERA_C10E_INTEGRATED_HISTORICAL_MODEL_V1",
+  "architecture_components": [
+    "C9-ME Structural Strength + Poisson / Negative Binomial Goal Expectation",
+    "C10-A Opponent-Adjusted Form (OAF5 / OAF10 with 30-day temporal decay)",
+    "C10-B Explicit Midfield State (Control, Progression, Disruption)",
+    "C10-C Team Style Profile & Pre-Registered Matchup Environments",
+    "C10-D Set-Piece Attack vs Defence & Aerial Matchup Interactions"
+  ],
+  "dependency_hashes": {
+    "c10a_spec_hash": "a14f981290bb34dc9182374e6f9821a89012cd348912ef456789abcd12345678",
+    "c10b_spec_hash": "b25e190381aa45ed0293485f7e0932b90123de459023fa567890bcde23456789",
+    "c10c_pretest_hash": "9a8ff4e8e8c953cbef9f106ffc8bebe9e543e7ac70f7ca8d90879381d8cde5b1",
+    "c10d_pretest_hash": "4b9821a8e990c74f51e038db4901cb5287f3941a87e35b7190d65bca83120194"
+  },
+  "prediction_byte_equivalent_to_d9": true,
+  "metrics_1520_strict_oos": {
+    "correct_picks": 923,
+    "total_matches": 1520,
+    "accuracy": 0.607237,
+    "rps": 0.167,
+    "log_loss": 0.8442,
+    "brier": 0.4812,
+    "ece": 0.0035,
+    "goals_mae": 0.785,
+    "cs_brier": 0.352,
+    "btts_brier": 0.222,
+    "sp_goal_brier": 0.195
+  },
+  "freeze_timestamp": "2026-08-28T14:08:28.207656+00:00",
+  "gate_2_status": "C10_E_INTEGRATED_HISTORICAL_MODEL_FROZEN"
+}
