@@ -1,0 +1,16 @@
+team,variable,pre_gw1,post_gw1,delta,effective_weight,formula
+Arsenal,attack_latent,0.38,0.382,0.002,28%,Bayesian EWMA (alpha=0.08)
+Arsenal,defence_latent,-0.4,-0.404,-0.004,32%,Clean Sheet Posterior Update
+Arsenal,table_points,0.0,3.0,3.0,Table Ledger,Actual Match Points
+Arsenal,goal_difference,0.0,2.0,2.0,Tiebreak Ledger,GF - GA
+Arsenal,fixture_difficulty_remaining,0.0,0.014,0.014,Schedule Remaining,Consumed easiest home fixture (Coventry)
+Man City,attack_latent,0.42,0.426,0.006,28%,Bayesian EWMA (alpha=0.08)
+Man City,defence_latent,-0.38,-0.384,-0.004,32%,Clean Sheet Posterior Update
+Man City,table_points,0.0,3.0,3.0,Table Ledger,Actual Match Points
+Man City,goal_difference,0.0,3.0,3.0,Tiebreak Ledger,GF - GA
+Man City,fixture_difficulty_remaining,0.0,0.008,0.008,Schedule Remaining,Consumed Bournemouth (H)
+Liverpool,attack_latent,0.34,0.345,0.005,26%,Bayesian EWMA (alpha=0.08)
+Liverpool,defence_latent,-0.28,-0.278,0.002,30%,Conceded 1 at Newcastle
+Liverpool,table_points,0.0,3.0,3.0,Table Ledger,Actual Match Points
+Liverpool,goal_difference,0.0,1.0,1.0,Tiebreak Ledger,GF - GA
+Liverpool,fixture_difficulty_remaining,0.0,-0.022,-0.022,Schedule Remaining,Cleared hardest away fixture (Newcastle)

@@ -1,0 +1,5 @@
+model_tier,man_city_title_pct,arsenal_title_pct,liverpool_title_pct,man_utd_title_pct,chelsea_title_pct,official_status
+Frozen Control (Official Baseline),52.45,23.73,22.38,0.06,0.66,CERTIFIED_CONTROL
+R8 Recency Challenger (Dry Run),50.1,25.8,22.6,0.12,0.85,RESEARCH_SHADOW_ONLY
+Best Recent Form RF10 (Dry Run),51.2,24.9,22.4,0.09,0.75,RESEARCH_SHADOW_ONLY
+R8 + RF10 Hybrid (Dry Run),49.5,26.5,22.5,0.14,0.9,RESEARCH_SHADOW_ONLY

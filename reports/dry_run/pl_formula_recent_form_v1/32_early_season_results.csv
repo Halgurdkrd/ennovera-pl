@@ -1,0 +1,4 @@
+model,gw1_5_rps,gw1_10_rps,accuracy
+Frozen Control,0.1812,0.1785,56.5
+R8 Recency Challenger,0.178,0.1762,57.8
+R8 + RF10 Hybrid,0.1772,0.1755,58.2

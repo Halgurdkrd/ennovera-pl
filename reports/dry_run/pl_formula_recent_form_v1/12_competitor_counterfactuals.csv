@@ -1,0 +1,9 @@
+condition,arsenal_title_pct,city_title_pct,liverpool_title_pct,explanation
+C0: Nobody updated (Preseason Baseline),37.5,45.0,15.53,Static opening season baseline
+C1: Only Arsenal updated (Won 2-0 vs Coventry),36.1,44.8,15.2,Consuming an easy home fixture without competitor results
+C2: Only Man City updated (Won 3-0 vs Bournemouth),32.8,50.1,14.5,City +3 GD and clean sheet expands City lead
+C3: Only Liverpool updated (Won 2-1 at Newcastle),31.4,43.2,22.1,Liverpool clearing toughest away fixture takes title equity directly from Arsenal
+C4: Only City + Arsenal updated,31.2,50.8,14.8,Combined City + Arsenal updates
+C5: Only Arsenal + Liverpool updated,30.1,43.0,22.5,Combined Arsenal + Liverpool updates
+C6: Only City + Liverpool updated,25.1,49.5,21.8,Both competitors winning while Arsenal is frozen
+C7: All 20 teams updated (Full Current State),23.73,52.45,22.38,Complete GW1 state across all 20 clubs

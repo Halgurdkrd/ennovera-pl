@@ -1,0 +1,7 @@
+percentile,absolute_title_delta_pp,attack_latent_delta,defence_latent_delta
+Median (P50),1.85,0.003,0.002
+P75,4.1,0.007,0.005
+P90,7.8,0.012,0.009
+P95,10.4,0.016,0.012
+P99,14.2,0.022,0.018
+Observed Arsenal Movement (-13.77 pp),13.77,0.002,0.004

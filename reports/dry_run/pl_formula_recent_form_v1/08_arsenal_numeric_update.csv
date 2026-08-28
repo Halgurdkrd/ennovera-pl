@@ -1,0 +1,12 @@
+step,value,notes
+Prior Attack Rating,0.38,Certified 4-season Bayesian prior
+GW1 Observed Goals,2.0,2-0 win vs Coventry City
+Coventry Defensive Rating,0.35,Promoted/lower-tier baseline
+Expected Goals (xG),2.45,Arsenal underperformed xG by -0.45
+Attack Update Delta,0.002,Slight upward update via EWMA
+Prior Defence Rating,-0.4,Elite defensive rating
+GW1 Observed Goals Conceded,0.0,Clean sheet recorded
+Coventry Attack Rating,-0.32,Low attack threat
+Defence Update Delta,-0.004,Solidifies -0.404 rating
+Expected Fixture Points (Coventry H),2.55,Model expected 2.55 pts before match
+Actual Points Gained,3.0,Net schedule overperformance: +0.45 pts

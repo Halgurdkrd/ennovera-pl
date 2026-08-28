@@ -1,0 +1,4 @@
+architecture,incremental_rps_gain,redundancy_status,notes
+Control + Explicit Recent Form (RF10),-0.0005,PARTIALLY_REDUNDANT,Dynamic Bayesian state already captures ~70% of recent trend
+"Remove Dynamic State, Keep RF10 Only",+0.0035 (Degradation),FAILURE,Recent form alone lacks baseline quality stability
+R8 + Opponent-Adjusted Residual RF10,-0.0003 (Beyond R8),COMPLEMENTARY,xG opponent residuals add marginal signal to adaptive prior

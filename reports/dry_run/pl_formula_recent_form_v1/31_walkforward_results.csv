@@ -1,0 +1,9 @@
+model_id,model_name,rps,log_loss,accuracy,brier,ece
+M0,Frozen Control (ENNOVERA_PL_FINAL_RESEARCH_V1),0.1748,0.868,58.4,0.502,0.009
+M1,Recency Challenger R8 (Adaptive Hybrid),0.1738,0.865,58.8,0.4998,0.008
+M2,RF5 (Last 5 Domestic Matches Opponent-Adjusted),0.1755,0.871,58.1,0.504,0.012
+M3,RF10 (Last 10 Domestic Matches Opponent-Adjusted),0.1743,0.8668,58.6,0.5012,0.009
+M4,RF20 (Last 20 Domestic Matches),0.1746,0.8675,58.5,0.5018,0.009
+M5,RF-EWMA (Exponential Decay alpha=0.12),0.1741,0.866,58.7,0.5008,0.008
+M6,WC-RF (WC 2026 3-Match Momentum adapted for PL),0.1752,0.87,58.2,0.5035,0.011
+M7,R8 + RF10 (Adaptive Challenger + Opponent Residuals),0.1735,0.8642,58.9,0.499,0.007

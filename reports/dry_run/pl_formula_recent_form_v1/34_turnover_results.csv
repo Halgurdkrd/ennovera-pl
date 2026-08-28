@@ -1,0 +1,4 @@
+model,high_turnover_rps,accuracy
+Frozen Control,0.182,54.8
+R8 Recency Challenger,0.1775,56.9
+R8 + RF10 Hybrid,0.1768,57.4

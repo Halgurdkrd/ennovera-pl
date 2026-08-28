@@ -1,0 +1,6 @@
+raw_feature,transformation,target_latent
+Home Goals Scored,GF Ledger & attack Poisson update,lambda_H & Points
+Away Goals Scored,GA Ledger & defence Poisson update,lambda_A & Points
+Goal Difference,Tiebreak Ledger,Rank tiebreak hierarchy
+Match xG,Residual against expected log-linear rating,Recent Form residual
+Clean Sheet Status,Binary DefCon update,Defensive latent scalar

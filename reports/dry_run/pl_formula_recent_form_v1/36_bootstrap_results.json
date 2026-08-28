@@ -1,0 +1,13 @@
+{
+  "tournament": "Recent_Form_and_Recency_Walkforward_2022_2026",
+  "n_resamples": 10000,
+  "seed": 20260828,
+  "winner": "R8_plus_RF10",
+  "delta_rps_vs_control": -0.0013,
+  "ci_95_rps": [
+    -0.0021,
+    -0.0005
+  ],
+  "pct_resamples_favoring_challenger": 99.2,
+  "conclusion": "STATISTICALLY_SIGNIFICANT_IMPROVEMENT"
+}

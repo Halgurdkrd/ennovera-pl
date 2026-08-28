@@ -1,0 +1,11 @@
+step,value,notes
+Prior Attack Rating,0.34,Certified Bayesian prior
+GW1 Observed Goals,2.0,2-1 win at Newcastle (A)
+Newcastle Defensive Rating,-0.06,Top-6 defensive venue
+Expected Goals (xG),1.65,Liverpool overperformed xG at St James
+Attack Update Delta,0.005,Upward update to 0.345
+Prior Defence Rating,-0.28,Solid defence
+GW1 Observed Goals Conceded,1.0,Conceded 1 at Newcastle
+Defence Update Delta,0.002,Slight delta to -0.278
+Expected Fixture Points (Newcastle A),1.25,Model expected 1.25 pts before match
+Actual Points Gained,3.0,Net schedule overperformance: +1.75 pts (MAJOR SHOCK)
