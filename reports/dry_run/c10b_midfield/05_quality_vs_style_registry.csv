@@ -1,0 +1,6 @@
+feature,classification,forward_to_c10c,rationale
+pass_completion_residual,QUALITY,False,Execution efficiency above opponent baseline
+progressive_pass_ratio,STYLE,True,Directness vs patient buildup preference
+high_turnovers_forced,QUALITY,False,Disruption effectiveness
+possession_share,STYLE,True,Tactical identity rather than pure quality
+wide_vs_central_progression,STYLE,True,Tactical channel bias for matchup matrix

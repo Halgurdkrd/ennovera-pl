@@ -1,0 +1,18 @@
+{
+  "MID_CONTROL": {
+    "formula": "0.40 * z(Possession_Residual) + 0.30 * z(Pass_Completion_Residual) + 0.30 * z(Field_Tilt_Residual)",
+    "decay_half_life_days": 60
+  },
+  "MID_PROGRESSION": {
+    "formula": "0.40 * z(Progressive_Passes_Diff) + 0.30 * z(Progressive_Carries_Diff) + 0.30 * z(Final_Third_Entries_Diff)",
+    "decay_half_life_days": 60
+  },
+  "MID_DISRUPTION": {
+    "formula": "0.50 * z(PAdj_Tackles_Interceptions) + 0.30 * z(Midfield_Recoveries) + 0.20 * z(Ground_Duel_Win_Rate)",
+    "decay_half_life_days": 60
+  },
+  "MID_TOTAL": {
+    "formula": "0.35 * MID_CONTROL + 0.40 * MID_PROGRESSION + 0.25 * MID_DISRUPTION",
+    "normalization": "Zero-mean unit-variance per season"
+  }
+}

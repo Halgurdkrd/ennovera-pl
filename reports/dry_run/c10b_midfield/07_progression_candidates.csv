@@ -1,0 +1,4 @@
+candidate,r_outcome,vif,selected
+PROG_01 (Progressive Passes Differential),0.42,1.62,True
+PROG_02 (Progressive Carries Differential),0.39,1.51,True
+PROG_03 (Final-Third Entries Differential),0.44,1.74,True

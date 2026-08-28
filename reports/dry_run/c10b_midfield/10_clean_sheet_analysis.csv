@@ -1,0 +1,3 @@
+clean_sheet_metric,r2_explained_by_defence_gk,incremental_midfield_value,verdict
+Raw Clean Sheet Count,0.64,ZERO,NOT_A_MIDFIELD_FEATURE
+Residualized Clean Sheet,0.81,NEGLIGIBLE (<0.0001),REJECTED

@@ -1,0 +1,4 @@
+candidate,r_outcome,vif,selected
+CTRL_01 (Possession Residual),0.32,1.42,True
+CTRL_02 (Pass Completion Residual),0.36,1.38,True
+CTRL_03 (Field Tilt Residual),0.38,1.55,True

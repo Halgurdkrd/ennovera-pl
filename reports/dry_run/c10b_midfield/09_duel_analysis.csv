@@ -1,0 +1,5 @@
+duel_category,r_outcome,incremental_rps_gain,verdict
+Total Duels Win %,0.12,0.0,UNINFORMATIVE (Confounded by possession)
+Ground Duels Win %,0.28,-0.0002,INCREMENTAL_SIGNAL
+Aerial Duels Win %,0.15,-0.0001,FORWARD_TO_SETPIECE_C10D
+Midfield-Zone Ground Duels,0.31,-0.0003,INCORPORATED_IN_MID_DISRUPTION

@@ -1,0 +1,9 @@
+{
+  "future_data_used": 0,
+  "end_season_leakage": 0,
+  "post_match_normalization_leakage": 0,
+  "confirmed_lineup_leakage": 0,
+  "future_2026_27_outcomes_used": 0,
+  "gw2_outcomes_used": 0,
+  "audit_verdict": "ZERO_LEAKAGE_STRICTLY_TEMPORAL"
+}

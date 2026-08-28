@@ -1,0 +1,6 @@
+feature_pair,pearson_r,shared_variance,orthogonality
+MID_TOTAL vs C9 Attack Strength,0.52,27.0%,HIGH (73.0% independent)
+MID_TOTAL vs C9 Defence Strength,0.46,21.2%,HIGH (78.8% independent)
+MID_TOTAL vs C9 Expected xG/xGA,0.54,29.2%,HIGH (70.8% independent)
+MID_TOTAL vs C10-A OAF5,0.31,9.6%,VERY_HIGH (90.4% independent)
+MID_TOTAL vs C10-A OAF10,0.36,13.0%,VERY_HIGH (87.0% independent)

@@ -1,0 +1,14 @@
+{
+  "model": "CORRECTED_C9_ME",
+  "strict_oos_predictions": 1520,
+  "metrics": {
+    "accuracy": 0.592105,
+    "correct_picks": 900,
+    "total_picks": 1520,
+    "rps": 0.173,
+    "log_loss": 0.863,
+    "brier": 0.498,
+    "ece": 0.006
+  },
+  "status": "C9_BASELINE_EXACT_REPRODUCTION_VERIFIED"
+}

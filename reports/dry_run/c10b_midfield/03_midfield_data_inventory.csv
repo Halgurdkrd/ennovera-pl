@@ -1,0 +1,12 @@
+variable,dimension,coverage,source,quality_style,usable
+possession_pct,MID_CONTROL,100.0% (2660/2660),Canonical PL Feed,STYLE & CONTEXT,FULL_UNIVERSE_USABLE
+pass_completion_differential,MID_CONTROL,100.0% (2660/2660),Canonical PL Feed,QUALITY,FULL_UNIVERSE_USABLE
+field_tilt_pct,MID_CONTROL,88.4% (Direct) / 100% (Derived),Authenticated Event Feed,QUALITY & STYLE,FULL_UNIVERSE_USABLE
+progressive_passes_pm,MID_PROGRESSION,100.0% (2660/2660),Authenticated Event Feed,QUALITY,FULL_UNIVERSE_USABLE
+progressive_carries_pm,MID_PROGRESSION,100.0% (2660/2660),Authenticated Event Feed,QUALITY,FULL_UNIVERSE_USABLE
+final_third_entries_pm,MID_PROGRESSION,100.0% (2660/2660),Authenticated Event Feed,QUALITY,FULL_UNIVERSE_USABLE
+deep_progressions_pm,MID_PROGRESSION,100.0% (2660/2660),Authenticated Event Feed,QUALITY,FULL_UNIVERSE_USABLE
+padj_tackles_interceptions_pm,MID_DISRUPTION,100.0% (2660/2660),Derived Event Table,QUALITY,FULL_UNIVERSE_USABLE
+midfield_recoveries_pm,MID_DISRUPTION,100.0% (2660/2660),Authenticated Event Feed,QUALITY,FULL_UNIVERSE_USABLE
+ground_duels_win_pct,MID_DISRUPTION,100.0% (2660/2660),Canonical PL Feed,QUALITY,FULL_UNIVERSE_USABLE
+clean_sheets,PROXY_SECONDARY,100.0% (2660/2660),Canonical PL Feed,NOT_MIDFIELD,REJECTED_CONFOUNDED

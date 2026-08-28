@@ -1,0 +1,4 @@
+candidate,r_outcome,vif,selected
+DISR_01 (PAdj Tackles + Interceptions),0.34,1.31,True
+DISR_02 (Middle-Third Recoveries),0.35,1.4,True
+DISR_03 (Ground Duel Win Rate),0.28,1.22,True

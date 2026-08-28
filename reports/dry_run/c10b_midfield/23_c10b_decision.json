@@ -1,0 +1,24 @@
+{
+  "program": "ENNOVERA_C10B_EXPLICIT_MIDFIELD_STATE_V1",
+  "status": "C10_B_HISTORICAL_CHALLENGER_SUPPORTED",
+  "primary_ladder_c9": {
+    "delta_accuracy": "+0.46% (907/1520 vs 900/1520)",
+    "delta_rps": "-0.0014 (0.1716 vs 0.1730)",
+    "delta_log_loss": "-0.0045 (0.8585 vs 0.8630)",
+    "bootstrap_support": "92.8%"
+  },
+  "secondary_ladder_c10a9": {
+    "delta_accuracy": "+0.33% (911/1520 vs 906/1520)",
+    "delta_rps": "-0.0012 (0.1706 vs 0.1718)",
+    "delta_log_loss": "-0.0040 (0.8552 vs 0.8592)",
+    "bootstrap_support": "90.5%"
+  },
+  "governance_invariants": {
+    "c9_me_modified": false,
+    "c10_a9_modified": false,
+    "gw2_snapshot_modified": false,
+    "production_modified": false,
+    "deployment": false
+  },
+  "recommended_next_module": "C10-C (Team Style + Matchup Interaction)"
+}

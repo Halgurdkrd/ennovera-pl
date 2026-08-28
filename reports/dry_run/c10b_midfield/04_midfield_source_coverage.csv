@@ -1,0 +1,4 @@
+dataset,seasons,matches,completeness,cutoff_valid
+Primary Match & Team Universe,2019-20 to 2025-26,2660,100.0%,True
+Event-Level Midfield Metrics,2019-20 to 2025-26,2660,100.0%,True
+Pre-Match Opponent Rating Ledger,2019-20 to 2025-26,2660,100.0%,True

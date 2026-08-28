@@ -1,0 +1,11 @@
+{
+  "program": "ENNOVERA_C10B_EXPLICIT_MIDFIELD_STATE_V1",
+  "mode": "DRY_RUN",
+  "research_only": true,
+  "isolated_challenger": true,
+  "primary_control": "CORRECTED_C9_ME",
+  "secondary_control": "C10_A9_OPPONENT_ADJUSTED_FORM",
+  "gw2_prospective_locked": true,
+  "gw2_outcomes_used": false,
+  "production_changes": false
+}

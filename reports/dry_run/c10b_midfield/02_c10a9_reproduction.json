@@ -1,0 +1,22 @@
+{
+  "model": "C10-A9 (Best Form Combination)",
+  "strict_oos_predictions": 1520,
+  "metrics": {
+    "accuracy": 0.596053,
+    "correct_picks": 906,
+    "total_picks": 1520,
+    "rps": 0.1718,
+    "log_loss": 0.8592,
+    "brier": 0.4948,
+    "ece": 0.005
+  },
+  "specification": {
+    "oaf5_weight": "half_life_3",
+    "oaf10_weight": "half_life_5",
+    "opponent_residualization": "pre_match_c9_strength",
+    "venue_residualization": "baseline_home_advantage",
+    "season_boundary": "hierarchical_shrinkage_to_prior",
+    "manager_reset": "50_to_100_pct_shrinkage"
+  },
+  "status": "C10_A9_EXACT_REPRODUCTION_VERIFIED"
+}
