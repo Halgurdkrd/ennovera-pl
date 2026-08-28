@@ -1,0 +1,4 @@
+comparison,n_gw,sum_points,positive_gws,zero_gws,negative_gws,mean_pts_per_gw,median_pts_per_gw,sd_pts_per_gw,min_pts,max_pts
+C10-E vs Frozen FPL,152,220,122,21,9,1.4473684210526316,1.0,1.3610632148406052,-3,5
+C10-E vs C9 Bridge,152,149,101,45,6,0.9802631578947368,1.0,1.0604765235797122,-2,4
+C10-E vs C10-C Bridge,152,42,58,71,23,0.27631578947368424,0.0,0.8444662626168442,-2,2

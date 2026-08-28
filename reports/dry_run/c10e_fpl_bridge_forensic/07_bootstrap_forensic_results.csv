@@ -1,0 +1,4 @@
+comparison,point_delta_per_gw,point_delta_annualized,bootstrap_draws,q2_5_annualized,median_annualized,q97_5_annualized,ci_95_str,favorable_count,pct_favorable
+C10-E vs Frozen FPL,1.447368,55.0,2000,46.75,55.0,63.006249999999966,"[46.8, 63.0]",2000 / 2000,100.00%
+C10-E vs C9 Bridge,0.980263,37.25,2000,31.0,37.0,44.0,"[31.0, 44.0]",2000 / 2000,100.00%
+C10-E vs C10-C Bridge,0.276316,10.5,2000,5.5,10.5,15.506249999999966,"[5.5, 15.5]",2000 / 2000,100.00%

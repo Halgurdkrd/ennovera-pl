@@ -1,0 +1,21 @@
+{
+  "artifact_path": "reports/phase10_6_final_manifest.json",
+  "sha256": "7d4bac2af06b06c13bf81d5036a403cb3173266f5dca0c16011440f47c71af5d",
+  "model_version": "ENNOVERA_FPL_FINAL_RESEARCH_V1",
+  "seasons_evaluated": [
+    "2022-23",
+    "2023-24",
+    "2024-25",
+    "2025-26"
+  ],
+  "total_gameweeks": 152,
+  "historical_manager_points": {
+    "2022-23": 2091,
+    "2023-24": 2120,
+    "2024-25": 2199,
+    "2025-26": 2308,
+    "total": 8718,
+    "mean_per_season": 2179.5
+  },
+  "verification_status": "EXACT_CANONICAL_MATCH"
+}

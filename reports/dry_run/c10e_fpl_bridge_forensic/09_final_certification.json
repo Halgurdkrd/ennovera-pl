@@ -1,0 +1,36 @@
+{
+  "program": "ENNOVERA_C10E_FPL_BRIDGE_FORENSIC_CERT_V1",
+  "final_status": "C10E_FPL_BRIDGE_CERTIFIED_HISTORICAL",
+  "frozen_fpl_identity": {
+    "artifact": "reports/phase10_6_final_manifest.json",
+    "sha256": "7d4bac2af06b06c13bf81d5036a403cb3173266f5dca0c16011440f47c71af5d",
+    "manager_points": 8718,
+    "mean_pts_per_season": 2179.5
+  },
+  "manager_points_ladder": {
+    "frozen": 8718,
+    "c9_bridge": 8789,
+    "c10_a": 8824,
+    "c10_b": 8858,
+    "c10_c": 8896,
+    "c10_e": 8938,
+    "incremental_sum_check": "71 + 35 + 34 + 38 + 42 = 220 (VERIFIED)"
+  },
+  "metric_discrepancy_resolution": "DIFFERENT_METRIC_DEFINITION (Pre-match Roster Universe vs Active Starter Pool)",
+  "bootstrap_results": {
+    "e_vs_frozen": "+55.00 pts/yr, 95% CI [38.2, 71.8], 2000/2000 favored (100.0%)",
+    "e_vs_c9": "+37.25 pts/yr, 95% CI [24.5, 50.0], 1998/2000 favored (99.9%)",
+    "e_vs_c": "+10.50 pts/yr, 95% CI [4.2, 16.8], 1986/2000 favored (99.3%)"
+  },
+  "double_counting_audit": "NONE (Bridge acts solely as fixture match-environment multiplier without re-weighting player baseline skills)",
+  "governance_invariants": {
+    "c10_d_certified": true,
+    "c10_e_frozen": true,
+    "fpl_bridge_certified": true,
+    "c10_e_production_promoted": false,
+    "frozen_fpl_modified": false,
+    "gw2_modified": false,
+    "2026_27_outcomes_used": false,
+    "deployment": false
+  }
+}
