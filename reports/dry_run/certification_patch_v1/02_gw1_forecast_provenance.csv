@@ -1,0 +1,6 @@
+model_name,artifact_path,created_at,last_modified,hash,existed_before_deadline,classification
+Frozen PL Model,data/live_snapshots/2026-27/GW01/predictions_frozen.json,2026-08-21T17:30:00Z,2026-08-21T17:30:00Z,2e1f294d...,True,TRUE_PROSPECTIVE_ARCHIVE
+Frozen FPL Model,reports/phase10_6_final_manifest.json,2026-08-21T17:45:00Z,2026-08-21T17:45:00Z,7d4bac2a...,True,TRUE_PROSPECTIVE_ARCHIVE
+Existing Shared Bridge,app/services/fpl_ingestor.py,2026-08-21T17:45:00Z,2026-08-21T17:45:00Z,13d60f58...,True,TRUE_PROSPECTIVE_ARCHIVE
+Corrected C9 (C9-ME),reports/dry_run/data_truth_c9_gw1_fpl_v2/27_gw1_pl_predictions.csv,2026-08-28T14:40:00Z,2026-08-28T14:40:00Z,c72e6ee...,False,RETROSPECTIVE_FIXED_MODEL_REPLAY
+C9 FPL Bridge,reports/dry_run/data_truth_c9_gw1_fpl_v2/31_fpl_gw1_player_predictions.csv,2026-08-28T14:40:00Z,2026-08-28T14:40:00Z,c72e6ee...,False,RETROSPECTIVE_FIXED_MODEL_REPLAY

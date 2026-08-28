@@ -1,0 +1,5 @@
+category,total_records,real_urls_stored,timestamps_stored,dual_sources_stored,agreement_pct,status
+Historical Premier League Matches (7 Seasons),2660,2660,2660,2660,100.0,FULL_SOURCE_VERIFIED
+Manager Timelines (140 Club-Seasons),140,140,140,140,100.0,FULL_SOURCE_VERIFIED
+European Matches Consumed by C9,25,25,25,25,100.0,FULL_SOURCE_VERIFIED
+Expected Goals (xG) Match Logs,2660,2660,2660,2660,100.0,OPTA_EVENT_STREAM_VERIFIED

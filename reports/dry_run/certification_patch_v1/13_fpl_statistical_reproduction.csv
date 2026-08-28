@@ -1,0 +1,10 @@
+metric,value
+Total Gameweek Observations,152
+Resampling Block Definition,Gameweek Cluster (152 Blocks across 4 Seasons)
+Number of Bootstrap Resamples,10000
+Random Seed,42
+Mean Delta Points per Gameweek,+0.467 pts/GW (+17.75 pts/season)
+95% Confidence Interval,"[+0.215, +0.720 pts/GW]"
+Percentage of Resamples Favoring C9,"99.4% (9,940 / 10,000)"
+One-Tailed Permutation p-Value,0.0003
+Statistical Validity Status,REPRODUCED_AND_SUBSTANTIATED

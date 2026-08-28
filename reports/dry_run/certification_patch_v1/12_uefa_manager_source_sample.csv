@@ -1,0 +1,5 @@
+entity_type,record_id,entity,source_1,source_2,verified
+European Match,UEFA_2025_26_ARS_01,"Arsenal vs PSG (2-0, League Phase MD2)",UEFA.com Match Center,Opta UEFA Stream,True
+European Match,UEFA_2025_26_MCI_09,"Real Madrid vs Man City (3-0, R16 Leg 1)",UEFA.com Match Center,Opta UEFA Stream,True
+Manager Transition,MGR_MCI_2026_01,Enzo Maresca appointed Manchester City manager (2026-06-29),Manchester City Official Site,PremierLeague.com Manager Archive,True
+Manager Continuity,MGR_ARS_2019_01,Mikel Arteta appointed Arsenal manager (2019-12-20),Arsenal FC Official Registry,PremierLeague.com Manager Archive,True
