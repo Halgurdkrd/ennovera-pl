@@ -1,0 +1,3 @@
+subgroup,n_matches,pct_oos,prematch_rule,mean_c10b_lambda_tot,mean_c10c_lambda_tot,actual_mean_goals,actual_median_goals,btts_rate,clean_sheet_rate,ci_95_goals
+TWO_ATTACK_STYLE_TEAMS,286,18.8%,Both teams Top-30% in TEMPO and TRANSITION_ATTACK,2.78,3.24,3.28 ± 0.18,3.0,68.4%,14.3%,"[2.93, 3.63]"
+TWO_DEFENCE_CONTROL_TEAMS,272,17.9%,Both teams Bottom-30% in TEMPO and Top-30% in MID_DISRUPTION,2.62,1.94,1.88 ± 0.14,2.0,36.8%,54.2%,"[1.61, 2.15]"

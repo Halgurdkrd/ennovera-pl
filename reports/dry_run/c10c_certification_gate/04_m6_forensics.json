@@ -1,0 +1,12 @@
+{
+  "interaction_id": "M6",
+  "name": "Tempo vs Transition Defence",
+  "formula": "TEMPO_A * TRANSITION_DEFENCE_B (and symmetric counterpart B vs A)",
+  "input_variables": [
+    "TEMPO (Attacking sequence speed)",
+    "TRANSITION_DEFENCE (Vulnerability on counter)"
+  ],
+  "code_location": "research/c10_challengers/c10c/model.py:L142-148",
+  "preregistered_status": "PRE_REGISTERED_BEFORE_FINAL_TEST",
+  "role_in_c10c7": "Complementary pace interaction within the Transition-Exploitation family (M2 + M6)"
+}

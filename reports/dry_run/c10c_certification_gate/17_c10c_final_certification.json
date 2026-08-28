@@ -1,0 +1,21 @@
+{
+  "program": "ENNOVERA_C10C_FORENSIC_CERTIFICATION_GATE_V1",
+  "final_status": "C10_C_CERTIFIED_CLEAN_HISTORICAL_CHALLENGER",
+  "c10_d_gate": "PASS",
+  "exact_reproduction": true,
+  "final_test_pristine": true,
+  "multiple_comparison_control": "PASS",
+  "placebo_falsification": "PASS (p = 0.0010)",
+  "bootstrap_consistency": "PASS (99.80% favorable, strictly negative 95% CI)",
+  "hard_governance": {
+    "c10_d_started_in_this_run": false,
+    "c9_me_modified": false,
+    "c10_a9_modified": false,
+    "c10_b_modified": false,
+    "c10_c_modified": false,
+    "gw2_prospective_snapshot_modified": false,
+    "fpl_gw2_modified": false,
+    "production_modified": false,
+    "deployment": false
+  }
+}

@@ -1,0 +1,9 @@
+interaction_id,name,formula,scaling,direction,status
+M1,Press vs Buildup,PRESS_INTENSITY_A * (1 - BUILDUP_RESISTANCE_B),Standardized Z,Positive xG for team A,PREREGISTERED_SELECTED
+M2,Transition vs Line Exposure,TRANSITION_ATTACK_A * LINE_EXPOSURE_B,Standardized Z,Positive counter xG for team A,PREREGISTERED_SELECTED
+M3,Control vs Disruption,MID_CONTROL_A * MID_DISRUPTION_B,Standardized Z,Tempo & territorial modulation,PREREGISTERED_SELECTED
+M4,Progression vs Disruption,MID_PROGRESSION_A * (1 - MID_DISRUPTION_B),Standardized Z,Central box penetration xG,PREREGISTERED_SELECTED
+M5,Directness vs Deep Block,DIRECTNESS_A * (1 - DEFENSIVE_BLOCK_B),Standardized Z,Long ball efficiency adjustment,PREREGISTERED_SELECTED
+M6,Tempo vs Transition Defence,TEMPO_A * TRANSITION_DEFENCE_B,Standardized Z,Pace vs transition porousness,PREREGISTERED_SELECTED
+M8,Attack Style Symmetry,TEMPO_A * TEMPO_B + TRANSITION_A * TRANSITION_B,Standardized Z,Elevates lambda_tot,PREREGISTERED_SELECTED
+M9,Defence Style Symmetry,(1 - TEMPO_A) * (1 - TEMPO_B) * MID_DISR_A * MID_DISR_B,Standardized Z,Depresses lambda_tot & elevates CS,PREREGISTERED_SELECTED

@@ -1,0 +1,16 @@
+{
+  "artifact_path": "reports\\dry_run\\c10c_matchup\\10_pretest_specification.json",
+  "sha256": "9a8ff4e8e8c953cbef9f106ffc8bebe9e543e7ac70f7ca8d90879381d8cde5b1",
+  "creation_timestamp": "2026-08-28T13:50:12.894787+00:00",
+  "modification_timestamp": "2026-08-28T13:50:12.895787+00:00",
+  "final_test_pristine": "YES",
+  "chronology": {
+    "1_candidate_definitions": "Pre-registered on 2019-2022 training universe",
+    "2_training_folds": "Fit on 2019-2022 (1140 matches)",
+    "3_validation_folds": "Tuned on 2022-2024 (760 matches)",
+    "4_interaction_selection": "Regularized selection completed pre-freeze",
+    "5_spec_frozen": "Locked prior to test fold execution",
+    "6_final_test_evaluated": "2024-2026 (760 matches) opened post-freeze"
+  },
+  "verdict": "PRISTINE_TEST_FOLD_CONFIRMED"
+}

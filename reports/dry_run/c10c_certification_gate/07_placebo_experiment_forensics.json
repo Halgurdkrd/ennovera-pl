@@ -1,0 +1,18 @@
+{
+  "permutations_count": 1000,
+  "random_seed": 42,
+  "permuted_elements": "Team style vector pairings across fixtures (shuffled pairing)",
+  "preserved_structure": "Matchweek schedule, home/away venue, team identity distributions, seasonal blocks",
+  "refit_per_permutation": "Ridge regression fit on permuted training/val folds",
+  "real_delta_rps": -0.0018,
+  "placebo_distribution": {
+    "mean_delta_rps": 0.0002,
+    "sd_delta_rps": 0.0004,
+    "min_delta_rps": -0.0011,
+    "max_delta_rps": 0.0016
+  },
+  "extreme_count_le_real": 0,
+  "empirical_placebo_p": 0.000999000999000999,
+  "formatted_p_val": "p = 0.0010 (1 / 1001)",
+  "placebo_test_verdict": "PASS (Real tactical interactions significantly outperform randomized pairings)"
+}

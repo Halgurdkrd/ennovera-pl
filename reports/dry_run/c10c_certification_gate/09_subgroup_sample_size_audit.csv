@@ -1,0 +1,7 @@
+subgroup,n,pct_universe,seasons_represented,min_team_matches,max_team_concentration
+TWO_ATTACK_STYLE_TEAMS,286,18.8%,All 4 (2022-26),6,"8.4% (Spurs, 24 matches)"
+TWO_DEFENCE_CONTROL_TEAMS,272,17.9%,All 4 (2022-26),5,"8.1% (Everton, 22 matches)"
+PRESS_HIGH vs BUILDUP_WEAK,248,16.3%,All 4 (2022-26),4,"7.7% (Arsenal, 19 matches)"
+TRANSITION_HIGH vs LINE_EXPOSED,214,14.1%,All 4 (2022-26),4,"7.9% (Aston Villa, 17 matches)"
+DIRECT vs DEEP_BLOCK,180,11.8%,All 4 (2022-26),3,"8.3% (Brentford, 15 matches)"
+HIGH_CONTROL vs LOW_CONTROL,320,21.1%,All 4 (2022-26),8,"9.1% (Man City, 29 matches)"

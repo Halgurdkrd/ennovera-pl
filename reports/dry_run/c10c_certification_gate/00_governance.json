@@ -1,0 +1,14 @@
+{
+  "program": "ENNOVERA_C10C_FORENSIC_CERTIFICATION_GATE_V1",
+  "mode": "DRY_RUN",
+  "read_only": true,
+  "forensic_only": true,
+  "c10_d_started": false,
+  "c9_modified": false,
+  "c10a_modified": false,
+  "c10b_modified": false,
+  "c10c_modified": false,
+  "gw2_prospective_locked": true,
+  "fpl_gw2_locked": true,
+  "production_changes": false
+}

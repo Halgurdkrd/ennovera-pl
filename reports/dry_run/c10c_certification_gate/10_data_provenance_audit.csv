@@ -1,0 +1,11 @@
+dimension,provider,lineage,missing,imputed,synthetic,status
+possession_preference,Canonical PL Feed,REAL_OBSERVED,0,0,0,PASS
+directness_ratio,Authenticated Event Feed,TRANSPARENTLY_DERIVED_FROM_REAL_EVENTS,0,0,0,PASS
+tempo_speed,Authenticated Event Feed,TRANSPARENTLY_DERIVED_FROM_REAL_EVENTS,0,0,0,PASS
+press_intensity,Derived Event Table,TRANSPARENTLY_DERIVED_FROM_REAL_EVENTS,0,0,0,PASS
+transition_attack,Authenticated Event Feed,TRANSPARENTLY_DERIVED_FROM_REAL_EVENTS,0,0,0,PASS
+transition_defence,Authenticated Event Feed,TRANSPARENTLY_DERIVED_FROM_REAL_EVENTS,0,0,0,PASS
+buildup_resistance,Authenticated Event Feed,TRANSPARENTLY_DERIVED_FROM_REAL_EVENTS,0,0,0,PASS
+width_centrality,Authenticated Event Feed,TRANSPARENTLY_DERIVED_FROM_REAL_EVENTS,0,0,0,PASS
+defensive_block,Authenticated Event Feed,TRANSPARENTLY_DERIVED_FROM_REAL_EVENTS,0,0,0,PASS
+line_exposure,Authenticated Event Feed,TRANSPARENTLY_DERIVED_FROM_REAL_EVENTS,0,0,0,PASS
