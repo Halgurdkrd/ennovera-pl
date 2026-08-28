@@ -1,0 +1,9 @@
+feature,raw_classification,residualized,final_classification,residualization_method
+possession_share,MIXED,True,STYLE,Residual vs pre-match C9 strength and game state
+directness_ratio,STYLE,False,STYLE,Orthogonal to team quality
+tempo_speed,STYLE,False,STYLE,Orthogonal to team quality
+press_intensity_ppda,MIXED,True,STYLE,Residual vs pre-match opponent possession share
+transition_attack_xg,STYLE,True,STYLE,Residual vs total attacking xG
+transition_defence_vulnerability,STYLE,True,STYLE,Residual vs total xGA
+buildup_resistance,MIXED,True,STYLE,Residual vs player technical rating
+defensive_block_height,STYLE,True,STYLE,Residual vs team territory expectation

@@ -1,0 +1,7 @@
+{
+  "regularization_type": "L2_RIDGE_PENALTY",
+  "alpha": 15.0,
+  "feature_selection": "NESTED_VALIDATION_PRUNING",
+  "degrees_of_freedom_retained": 8,
+  "placebo_falsification_tested": true
+}

@@ -1,0 +1,6 @@
+setpiece_feature,target_module,status
+corner_xg_created_pm,SP_ATTACK,RESERVED_FOR_C10D
+corner_xg_conceded_pm,SP_DEFENCE,RESERVED_FOR_C10D
+aerial_box_duel_win_pct,SP_AERIAL_BOX,RESERVED_FOR_C10D
+setpiece_delivery_accuracy,SP_SPECIALIST,RESERVED_FOR_C10D
+direct_free_kick_threat,SP_DIRECT_FK,RESERVED_FOR_C10D

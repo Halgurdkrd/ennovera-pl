@@ -1,0 +1,25 @@
+{
+  "program": "ENNOVERA_C10C_TEAM_STYLE_MATCHUP_V1",
+  "final_status": "C10_C_HISTORICAL_CHALLENGER_SUPPORTED",
+  "improves_c10b": "YES",
+  "improves_goal_environment": "YES",
+  "c10_d_recommended": "YES",
+  "metrics_vs_c10b": {
+    "delta_accuracy": "+0.40% (+6 picks: 917/1520 vs 911/1520)",
+    "delta_rps": "-0.0018 (0.1688 vs 0.1706)",
+    "delta_log_loss": "-0.0060 (0.8492 vs 0.8552)",
+    "delta_goals_mae": "-0.0230 (0.805 vs 0.828)",
+    "delta_cs_brier": "-0.0110 (0.361 vs 0.372)",
+    "delta_btts_brier": "-0.0080 (0.229 vs 0.237)",
+    "bootstrap_support_rps": "1996 / 2000 (99.80%)"
+  },
+  "governance_invariants": {
+    "c9_me_modified": false,
+    "c10_a9_modified": false,
+    "c10_b_modified": false,
+    "gw2_prospective_snapshot_modified": false,
+    "fpl_gw2_modified": false,
+    "production_modified": false,
+    "deployment": false
+  }
+}

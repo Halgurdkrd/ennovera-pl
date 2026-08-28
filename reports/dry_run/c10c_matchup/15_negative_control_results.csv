@@ -1,0 +1,2 @@
+control_feature,delta_rps,shrinkage_status,verdict
+Stadium_Altitude * Kit_Color_Interaction,0.0003,SHRUNK_TO_ZERO,PIPELINE_VALID_NO_FALSE_POSITIVE

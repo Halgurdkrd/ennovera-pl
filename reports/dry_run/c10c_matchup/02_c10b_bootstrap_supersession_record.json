@@ -1,0 +1,19 @@
+{
+  "c10b_vs_c9": {
+    "point_delta_rps": -0.0014,
+    "percentile_ci_95": "[-0.0024, -0.0004]",
+    "favorable_draws": "1995 / 2000 (99.75%)",
+    "status": "CERTIFIED_RECONCILED"
+  },
+  "c10b_vs_c10a9": {
+    "point_delta_rps": -0.0012,
+    "percentile_ci_95": "[-0.0023, -0.0002]",
+    "favorable_draws": "1987 / 2000 (99.35%)",
+    "status": "CERTIFIED_RECONCILED"
+  },
+  "superseded_draft_values": {
+    "older_reported_c9_fav": "92.8%",
+    "older_reported_c10a_fav": "90.5%",
+    "supersession_classification": "FAVOR_PERCENTAGE_FROM_DIFFERENT_DISTRIBUTION"
+  }
+}

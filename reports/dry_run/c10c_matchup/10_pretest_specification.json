@@ -1,0 +1,19 @@
+{
+  "program": "ENNOVERA_C10C_TEAM_STYLE_MATCHUP_V1",
+  "freeze_timestamp": "2026-08-28T13:50:12.895604+00:00",
+  "training_seasons": [
+    "2019-20",
+    "2020-21",
+    "2021-22"
+  ],
+  "validation_seasons": [
+    "2022-23",
+    "2023-24"
+  ],
+  "test_seasons": [
+    "2024-25",
+    "2025-26"
+  ],
+  "pretest_sha256": "3a871b9c6f2e88a0d9124e65bc12f99015c7e148e65849920194488310c14902",
+  "status": "FROZEN_BEFORE_TEST_EVALUATION"
+}

@@ -1,0 +1,5 @@
+feature_pair,pearson_r,spearman_r,shared_variance,vif
+ATTACK_ENVIRONMENT vs C9 Attack Strength,0.38,0.36,14.4%,1.25
+DEFENCE_ENVIRONMENT vs C9 Defence Strength,0.34,0.32,11.6%,1.2
+TRANSITION_ENVIRONMENT vs MID_PROGRESSION,0.42,0.4,17.6%,1.32
+MATCHUP_INTERACTIONS vs OAF5/OAF10 Form,0.22,0.2,4.8%,1.12

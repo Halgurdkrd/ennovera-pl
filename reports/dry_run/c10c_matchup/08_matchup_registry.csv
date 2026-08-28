@@ -1,0 +1,9 @@
+interaction_id,name,formula,mechanism,regularization_weight
+M1,Press vs Buildup,PRESS_INTENSITY_A * (1 - BUILDUP_RESISTANCE_B),High press forces high-turnover goals on weak buildup,0.15
+M2,Transition vs Line Exposure,TRANSITION_ATTACK_A * LINE_EXPOSURE_B,Fast break attacks exploit space behind high defensive line,0.2
+M3,Control vs Disruption,MID_CONTROL_A * MID_DISRUPTION_B,Midfield battle modulates match tempo and field territory,0.12
+M4,Progression vs Disruption,MID_PROGRESSION_A * (1 - MID_DISRUPTION_B),Central progression cuts through weak defensive block,0.15
+M5,Directness vs Deep Block,DIRECTNESS_A * (1 - DEFENSIVE_BLOCK_B),Direct aerial play against low defensive block,0.1
+M6,Tempo vs Transition Defence,TEMPO_A * TRANSITION_DEFENCE_B,High attacking pace overwhelms poor transition recovery,0.18
+M8,Attack Style Symmetry,TEMPO_A * TEMPO_B + TRANSITION_A * TRANSITION_B,Two attacking-tempo teams create high-scoring match environment,0.25
+M9,Defence Style Symmetry,(1 - TEMPO_A) * (1 - TEMPO_B) * MID_DISR_A * MID_DISR_B,Two control/defensive teams create low-scoring match environment,0.22

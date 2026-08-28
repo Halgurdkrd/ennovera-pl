@@ -1,0 +1,11 @@
+feature,definition,family,source,coverage,observed,derived,imputed,synthetic,cutoff_safe,quality_r,midfield_r,usable
+possession_preference,Game-state & quality adjusted possession share,POSSESSION,Canonical PL Feed,100% (2660/2660),2660,0,0,0,True,0.18,0.22,FULL_UNIVERSE_USABLE
+directness_ratio,Forward pass share & progressive distance per seq,DIRECTNESS,Authenticated Event Feed,100% (2660/2660),2660,0,0,0,True,-0.12,-0.15,FULL_UNIVERSE_USABLE
+tempo_speed,Events per sec in possession & time to final 3rd,TEMPO,Authenticated Event Feed,100% (2660/2660),2660,0,0,0,True,0.05,0.08,FULL_UNIVERSE_USABLE
+press_intensity_ppda,Opposition-half passes allowed per defensive action,PRESSING,Derived Event Table,100% (2660/2660),2660,0,0,0,True,0.22,0.28,FULL_UNIVERSE_USABLE
+transition_attack_xg,Shots & xG generated within 10s of turnover,TRANSITION_ATTACK,Authenticated Event Feed,100% (2660/2660),2660,0,0,0,True,0.15,0.19,FULL_UNIVERSE_USABLE
+transition_defence_vulnerability,Shots & xG conceded from counterattacks,TRANSITION_DEFENCE,Authenticated Event Feed,100% (2660/2660),2660,0,0,0,True,-0.18,-0.21,FULL_UNIVERSE_USABLE
+buildup_resistance,Pass completion % when pressed in defensive third,BUILDUP,Authenticated Event Feed,100% (2660/2660),2660,0,0,0,True,0.24,0.31,FULL_UNIVERSE_USABLE
+width_centrality_bias,Flank progression share vs central channel entries,WIDTH,Authenticated Event Feed,100% (2660/2660),2660,0,0,0,True,-0.04,-0.06,FULL_UNIVERSE_USABLE
+defensive_block_height,Average pitch height of defensive actions & regains,DEFENSIVE_BLOCK,Authenticated Event Feed,100% (2660/2660),2660,0,0,0,True,0.2,0.25,FULL_UNIVERSE_USABLE
+line_exposure_space,Through-ball exposure & fast-attack xG conceded,DEFENSIVE_LINE,Authenticated Event Feed,100% (2660/2660),2660,0,0,0,True,-0.16,-0.19,FULL_UNIVERSE_USABLE

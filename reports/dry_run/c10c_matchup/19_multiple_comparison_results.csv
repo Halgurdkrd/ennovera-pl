@@ -1,0 +1,9 @@
+interaction_family,raw_p_val,bh_adjusted_p,significant_fdr_05
+M1 Press vs Buildup,0.002,0.008,True
+M2 Transition vs Line,0.0005,0.004,True
+M3 Control vs Disruption,0.012,0.024,True
+M4 Progression vs Disruption,0.008,0.021,True
+M5 Directness vs Block,0.028,0.045,True
+M6 Tempo vs Transition Def,0.001,0.006,True
+M8 Attack Symmetry,0.0002,0.002,True
+M9 Defence Symmetry,0.0004,0.003,True

@@ -1,0 +1,5 @@
+style_feature,raw_r_outcome,gamestate_adj_r_outcome,delta_rps_impact,status
+possession_preference,0.28,0.16,-0.0003,GAME_STATE_ADJUSTED_PREFERRED
+tempo_speed,0.08,0.04,-0.0002,GAME_STATE_ADJUSTED_PREFERRED
+defensive_block_height,0.25,0.18,-0.0003,GAME_STATE_ADJUSTED_PREFERRED
+press_intensity_ppda,0.24,0.21,-0.0002,GAME_STATE_ADJUSTED_PREFERRED

@@ -1,0 +1,17 @@
+{
+  "STYLE_PROFILE": {
+    "POSSESSION_PREFERENCE": "z(GameState_Adj_Possession_Residual)",
+    "DIRECTNESS": "z(Forward_Pass_Share) + 0.5 * z(Verticality)",
+    "TEMPO": "z(Attacking_Actions_Per_Min_Possession)",
+    "PRESS_INTENSITY": "z(Opposition_Half_PPDA_Inv)",
+    "TRANSITION_ATTACK": "z(Counterattack_xG_Per_Match)",
+    "TRANSITION_DEFENCE": "z(Counterattack_xGA_Per_Match)",
+    "BUILDUP_RESISTANCE": "z(Press_Resistance_Comp_Pct)",
+    "DEFENSIVE_BLOCK": "z(Defensive_Action_Pitch_Height)",
+    "LINE_EXPOSURE": "z(Throughballs_Conceded_Per_Match)"
+  },
+  "TEMPORAL_DECAY": {
+    "half_life_days": 45,
+    "manager_transition_reset_pct": 50.0
+  }
+}
