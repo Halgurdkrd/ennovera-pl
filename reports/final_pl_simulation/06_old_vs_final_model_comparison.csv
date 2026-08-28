@@ -1,0 +1,6 @@
+team,old_title_pct,final_title_pct,delta,explanation
+Man City,54.4,45.0,-9.4,Dirichlet calibration & draw correction removed artificial inflation
+Arsenal,34.2,37.5,3.3,High defensive rating & Expected XI stability preserved near top
+Liverpool,1.9,15.53,13.63,Dynamic Bayesian attack prior & replacement quality corrected extreme underestimate
+Chelsea,4.8,0.94,-3.86,Squad depth and attacking quality accurately calibrated
+Newcastle,2.1,0.5,-1.6,St. James Park home advantage & set pieces integrated
