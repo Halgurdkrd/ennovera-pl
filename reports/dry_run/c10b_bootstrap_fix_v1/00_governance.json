@@ -1,0 +1,11 @@
+{
+  "program": "ENNOVERA_C10B_BOOTSTRAP_ARITHMETIC_FIX_V1",
+  "mode": "DRY_RUN",
+  "read_only": true,
+  "forensic_only": true,
+  "c9_modified": false,
+  "c10a_modified": false,
+  "c10b_modified": false,
+  "gw2_snapshot_locked": true,
+  "production_changes": false
+}
