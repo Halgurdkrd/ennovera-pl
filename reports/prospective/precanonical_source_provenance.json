@@ -30,6 +30,11 @@
     "current_gameweek": 2,
     "current_gameweek_deadline_utc": "2026-08-28T17:30:00Z",
     "evidence_grade": "B",
-    "PIT_safe": true
+    "PIT_safe": true,
+    "deadline_source": "Official Fantasy Premier League published/scheduled deadline",
+    "deadline_derived_from_kickoff": false,
+    "deadline_verified": true,
+    "deadline_at": "2026-08-28T17:30:00Z",
+    "deadline_retrieved_at": "2026-08-28T06:50:00Z"
   }
 }
